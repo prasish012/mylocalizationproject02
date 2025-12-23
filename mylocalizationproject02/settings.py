@@ -590,7 +590,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = "django-insecure-%kzv7eni0hy6j0duzjfx(6#jqz_9(*00ar6lj$cwka!-bk=s5e"
 DEBUG = True
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+# ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['wptranslate.org', 'www.wptranslate.org', '88.222.241.110', '127.0.0.1', 'localhost']
 
 INSTALLED_APPS = [
     "django.contrib.admin",
