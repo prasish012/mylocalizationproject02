@@ -1,0 +1,433 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Advanced Tool 2025\n"
+
+msgctxt "Theme Name"
+msgid "ReviewNews"
+msgstr "RevisãoNotícias"
+
+msgctxt "Theme URL/Link"
+msgid "https://afthemes.com/products/reviewnews/"
+msgstr "https://afthemes.com/products/reviewnews/"
+
+msgctxt "Theme Description for WordPress repository/dashboard"
+msgid ""
+"ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme "
+"made for News, Magazine, Blog, Business, and eCommerce websites across the "
+"world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with "
+"the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page "
+"builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no "
+"coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, "
+"ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL "
+"WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers,"
+" corporate or NGO sites, and educational or cultural portals to personal "
+"blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized "
+"for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST "
+"LOADING and excellent performance on all devices. Built with WCAG "
+"ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-"
+"term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY,"
+" with demo content in English, Spanish, German, French, Japanese, Chinese, "
+"and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for "
+"creators, publishers, and businesses who value STYLE, SCALABILITY, and "
+"PERFORMANCE across every market. Explore all features at "
+"https://afthemes.com/products/reviewnews"
+msgstr ""
+"ReviewNews é um tema WordPress dinâmico, ultrarrápido e altamente versátil "
+"feito para sites de notícias, revistas, blogs, negócios e comércio "
+"eletrônico em todo o mundo. Com seu poderoso HEADER & FOOTER BUILDER que "
+"funciona perfeitamente com o Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI"
+" e outros construtores de páginas populares, você pode criar LAYOUTS "
+"PROFISSIONAIS facilmente usando arrastar e soltar - sem necessidade de "
+"codificação. Embalado com mais de 100 SITES STARTER, mais de 30 WIDGETS "
+"PERSONALIZADOS, PADRÕES DE BLOCO AVANÇADOS, OPÇÕES DE LAYOUT FLEXÍVEIS, "
+"SUPORTE DE AMP e INTEGRAÇÃO COMPLETA COM WOOCOMMERCE, é perfeito para tudo, "
+"desde jornais online, sites corporativos ou de ONGs e portais educacionais "
+"ou culturais até blogs pessoais, portfólios e revistas de estilo de vida. "
+"ReviewNews é totalmente otimizado para SEO, CORE WEB VITALS, VELOCIDADE e "
+"DESIGN RESPONSIVO, garantindo CARREGAMENTO RÁPIDO e excelente desempenho em "
+"todos os dispositivos. Construído com ACESSIBILIDADE WCAG, CONFORMIDADE com "
+"GDPR e CÓDIGO LEVE E LIMPO, ele oferece estabilidade de longo prazo e altas "
+"PONTUAÇÕES DO GOOGLE PAGESPEED. MULTILINGUAL e RTL READY, com conteúdo de "
+"demonstração em inglês, espanhol, alemão, francês, japonês, chinês e árabe, "
+"ReviewNews é um TEMA verdadeiramente GLOBAL, PROVA DE FUTURO, projetado para"
+" criadores, editores e empresas que valorizam ESTILO, ESCALABILIDADE e "
+"DESEMPENHO em todos os mercados. Explore todos os recursos em "
+"https://afthemes.com/products/reviewnews"
+
+msgctxt "Theme Author Name"
+msgid "AF themes"
+msgstr "Temas AF"
+
+msgctxt "Theme Author URL"
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+msgctxt "Title on 404 Error Page"
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ops! Essa página não pode ser encontrada."
+
+msgctxt "Text on 404 Error Page"
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"Parece que nada foi encontrado neste local. Talvez tente um dos links abaixo"
+" ou uma pesquisa?"
+
+msgctxt "WordPress Admin Menu Item: Dashboard"
+msgid "Dashboard"
+msgstr "Painel"
+
+msgctxt "WordPress Admin Menu Item: Customize (Customizer)"
+msgid "Customize"
+msgstr "Personalizar"
+
+msgctxt "WordPress Admin Menu Item/Feature Name: Header Builder"
+msgid "Header Builder"
+msgstr "Construtor de cabeçalho"
+
+msgctxt "WordPress Admin Menu Item/Feature Name: Footer Builder"
+msgid "Footer Builder"
+msgstr "Construtor de rodapé"
+
+msgctxt "WordPress Admin Menu Item/Feature Name: Starter Sites"
+msgid "Starter Sites"
+msgstr "Sites iniciais"
+
+msgctxt "WordPress Admin Menu Item/Feature Name: Elementor Kits"
+msgid "Elementor Kits"
+msgstr "Kits Elementor"
+
+msgctxt "WordPress Admin Menu Item/Feature Name: Block Patterns"
+msgid "Block Patterns"
+msgstr "Padrões de bloco"
+
+msgctxt "Call to Action Button to upgrade to Pro Version"
+msgid "Upgrade to Pro"
+msgstr "Atualizar para Pro"
+
+msgctxt "Call to Action Button to upgrade to Pro Version (Shorter text)"
+msgid "Upgrade Now"
+msgstr "Atualize agora"
+
+msgctxt "Admin notice: Templatespare plugin needs update"
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "O plugin Templatespare deve ser atualizado para a versão mais recente"
+
+msgctxt "Theme dashboard feature description"
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr "Importe um site inicial, personalize e crie-o em 3 etapas fáceis!"
+
+msgctxt ""
+"Admin notice: Blockspare plugin version required. %s is the required version"
+" number."
+msgid "Blockspare plugin version should be more than %s."
+msgstr "A versão do plugin Blockspare deve ser superior a %s."
+
+msgctxt "Theme dashboard feature description for Blockspare integration"
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr ""
+"Importação de demonstração com um clique, editor de bloco pronto, sem "
+"necessidade de código! Construído com Blockspare."
+
+msgctxt ""
+"Admin notice: Elespare plugin version required. %s is the required version "
+"number."
+msgid "Elespare plugin version should be more than %s."
+msgstr "A versão do plugin Elespare deve ser superior a %s."
+
+msgctxt "Theme dashboard feature description for Elespare integration"
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr ""
+"Importação com um clique, construtor de cabeçalho/rodapé, suporte "
+"multilíngue! Desenvolvido por Elespare."
+
+msgctxt "Confirmation prompt before plugin installation"
+msgid "Are you sure you want to install this plugin?"
+msgstr "Tem certeza de que deseja instalar este plugin?"
+
+msgctxt "Button label to install a plugin"
+msgid "Install Now"
+msgstr "Instale agora"
+
+msgctxt "Button label to activate a plugin"
+msgid "Activate"
+msgstr "Ativar"
+
+msgctxt "Status label: Plugin is activated"
+msgid "Activated"
+msgstr "Ativado"
+
+msgctxt "Button/Link to access Starter Sites"
+msgid "Get Starter Sites"
+msgstr "Obtenha sites iniciais"
+
+msgctxt "Button label: Start setup process"
+msgid "Get Started"
+msgstr "Comece"
+
+msgctxt "Description for the 'Get Started' action"
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"A ação \"Começar\" instalará/ativará os plug-ins Templatespare e Blockspare "
+"para sites e modelos iniciais."
+
+msgctxt "Prefix before an author's name (e.g., 'Plugin By [Author]')"
+msgid "By"
+msgstr "Por"
+
+msgctxt "Button/Link text: View more details"
+msgid "More Details"
+msgstr "Mais detalhes"
+
+msgctxt "Welcome heading in an admin notice"
+msgid "👋 Welcome, and Thank You!"
+msgstr "👋 Bem-vindo e obrigado!"
+
+msgctxt "Welcome message after theme activation. %s is the theme name."
+msgid ""
+"%s is now active. We're here to help you turn your ideas into a beautiful, "
+"professional website — quickly and confidently."
+msgstr ""
+"%s agora está ativo. Estamos aqui para ajudá-lo a transformar suas ideias em"
+" um site bonito e profissional — com rapidez e confiança."
+
+msgctxt "Section heading in a setup notice"
+msgid "🚀 Start With One Click"
+msgstr "🚀 Comece com um clique"
+
+msgctxt "Description for the one-click starter sites feature"
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+"Escolha entre mais de 100 sites iniciais desenvolvidos para blogs, revistas,"
+" empresas e muito mais. A configuração é simples – não é necessária nenhuma "
+"codificação."
+
+msgctxt "Button/Link to view all demo sites"
+msgid "View Demos"
+msgstr "Ver demonstrações"
+
+msgctxt "Link to the theme's admin dashboard page"
+msgid "Theme dashboard"
+msgstr "Painel temático"
+
+msgctxt "Section heading in a support notice"
+msgid "🤝 We're Here for You"
+msgstr "🤝 Estamos aqui para você"
+
+msgctxt "Support notice encouraging phrase"
+msgid "Whether you're just starting or customizing your site."
+msgstr "Esteja você apenas começando ou personalizando seu site."
+
+msgctxt "Link to theme documentation"
+msgid "Documentation"
+msgstr "Documentação"
+
+msgctxt "Link to video tutorials"
+msgid "Video Tutorials"
+msgstr "Tutoriais em vídeo"
+
+msgctxt "Link to support/helpdesk"
+msgid "Support"
+msgstr "Apoiar"
+
+msgctxt "Link to WordPress review page to rate the theme"
+msgid "⭐ Rate This Theme"
+msgstr "⭐ Avalie este tema"
+
+msgctxt "Error message when user lacks plugin installation permissions"
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Desculpe, você não tem permissão para instalar plug-ins neste site."
+
+msgctxt "Error message when nonce verification fails (security check)"
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Erro - não foi possível verificar o nonce. Tente novamente."
+
+msgctxt "Error message when user lacks plugin activation permissions"
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "Desculpe, você não tem permissão para ativar plug-ins neste site."
+
+msgctxt "Comments section heading for one comment"
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Uma ideia sobre &ldquo;%1$s&rdquo;"
+
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensou em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamentos sobre &ldquo;%2$s&rdquo;"
+
+msgctxt "Message displayed when comments are disabled"
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+msgctxt "Copyright line in the footer of a website"
+msgid "%1$s by %2$s."
+msgstr "%1$s por %2$s."
+
+msgctxt "Name of the WordPress Menu Location (Primary/Main Navigation)"
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+msgctxt "Name of the WordPress Menu Location (Social Icons Navigation)"
+msgid "Social Menu"
+msgstr "Cardápio Social"
+
+msgctxt "Name of the WordPress Menu Location (Footer Navigation)"
+msgid "Footer Menu"
+msgstr "Menu de rodapé"
+
+msgctxt "Accessibility link text to skip navigation"
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+msgctxt "Accessibility text for the search icon/button"
+msgid "Open search form"
+msgstr "Abrir formulário de pesquisa"
+
+msgctxt "Instructional text in the Header/Footer Builder"
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"Clique na configuração <span class=\"dashicons dashicons-admin-"
+"generic\"></span> em cada elemento para personalizar suas configurações."
+
+msgctxt "Tooltip for the button that hides the builder panel"
+msgid "Hide builder panel"
+msgstr "Ocultar painel do construtor"
+
+msgctxt "Button text to hide the builder panel"
+msgid "Hide Builder"
+msgstr "Ocultar construtor"
+
+msgctxt "Tooltip for the device view controls (desktop, tablet, mobile)"
+msgid "Device view controls"
+msgstr "Controles de visualização do dispositivo"
+
+msgctxt "Title of the modal/panel to select a new element for the builder"
+msgid "Choose an Element"
+msgstr "Escolha um elemento"
+
+msgctxt ""
+"Accessibility text for the button that closes the element choice modal"
+msgid "Close choose element modal"
+msgstr "Fechar escolha elemento modal"
+
+msgctxt "Customizer panel title for Footer Layout"
+msgid "Footer Layout"
+msgstr "Layout do rodapé"
+
+msgctxt "Description for the Header Builder in Customizer"
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr ""
+"Crie cabeçalhos dinâmicos sem esforço com o construtor de arrastar e soltar."
+
+msgctxt "Title for the Header Builder Customizer panel"
+msgid "Header"
+msgstr "Cabeçalho"
+
+msgctxt "Description for the Footer Builder in Customizer"
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr ""
+"Crie rodapés dinâmicos sem esforço com o construtor arrastar e soltar."
+
+msgctxt "Title for the Footer Builder Customizer panel"
+msgid "Footer"
+msgstr "Rodapé"
+
+msgctxt ""
+"Customizer setting label to enable a builder. %s is either 'Header' or "
+"'Footer'."
+msgid "Enable %s Builder"
+msgstr "Ativar construtor %s"
+
+msgctxt "Button text in the Header/Footer Builder to add a new element"
+msgid "Add Element"
+msgstr "Adicionar Elemento"
+
+msgctxt "Button text in the Header/Footer Builder to remove an element"
+msgid "Remove Element"
+msgstr "Remover elemento"
+
+msgctxt "Button text in the Header/Footer Builder to open element settings"
+msgid "Configure Element"
+msgstr "Configurar elemento"
+
+msgctxt "Device view selector label: Desktop"
+msgid "Desktop"
+msgstr "Área de trabalho"
+
+msgctxt "Heading for the panel containing an element's settings"
+msgid "Element Settings"
+msgstr "Configurações do elemento"
+
+msgctxt ""
+"Accessibility text for the button to close the mobile/off-canvas menu"
+msgid "close Off-Canvas Navigation"
+msgstr "fechar a navegação fora da tela"
+
+msgctxt "Element/Component Name for Site Title and Logo"
+msgid "Site & Logo"
+msgstr "Site e logotipo"
+
+msgctxt "Element/Component Label for Site Identity"
+msgid "Site Identity"
+msgstr "Identidade do site"
+
+msgctxt ""
+"Instructional text: change Site Identity via another panel. %s is a link."
+msgid "You can change Site Identity from %s."
+msgstr "Você pode alterar a identidade do site em %s."
+
+msgctxt "Element/Component Name for a Promotion banner or text"
+msgid "Promotion"
+msgstr "Promoção"
+
+msgctxt "Element/Component Name for the Off-Canvas Toggle button"
+msgid "Off Canvas"
+msgstr "Fora da tela"
+
+msgctxt "Element/Component Label for a widget area in the Off-Canvas panel"
+msgid "Off Canvas Widget Area"
+msgstr "Área de widget fora da tela"
+
+msgctxt "Description for the Off Canvas Widget Area setting. %s is a link."
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr "Esta área de widget é usada no painel móvel fora da tela. %s"
+
+msgctxt "Link text to manage widgets in the Customizer"
+msgid "Manage widgets"
+msgstr "Gerenciar widgets"
+
+msgctxt "Element/Component Name for the Primary Navigation Menu"
+msgid "Primary menu"
+msgstr "Menu principal"
+
+msgctxt "Label for a menu selection dropdown in Customizer"
+msgid "Select Menu"
+msgstr "Selecione Cardápio"
+
+msgctxt "Instructional text: change a Menu via the menu panel. %s is a link."
+msgid "You can change Menu from menu panel. %s"
+msgstr "Você pode alterar o menu no painel do menu. %s"
+
+msgctxt "Link text to manage menus in the Customizer"
+msgid "Manage menu"
+msgstr "Gerenciar menu"
+
+msgctxt "Element/Component Name for the current Date display"
+msgid "Date"
+msgstr "Data"

@@ -1,0 +1,337 @@
+# Translation of Themes - The Minimal Blogger in Russian
+# This file is distributed under the same license as the Themes - The Minimal Blogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-09 08:30:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - The Minimal Blogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Minimal Blogger is an elegant WordPress block theme for bloggers, writers, and anyone seeking a clean, modern, and responsive design. This free theme offers a minimalist design that's ideal for blogging, news magaines, and personal portfolios, making it a top choice for writers and journalists in various niches like food, fashion, travel, and lifestyle. It's not just beautiful, but also fast and highly search engine optimized (SEO). It supports popular page builders like Elementor, Divi Builder, SiteOrigin, Brizy, Visual Composer, and Beaver Builder, ensuring easy customization for startups, agency firms, and businesses of all sizes. You can easily install WooCommerce for lightweight ecommerce shops. It's mainly made for Gutenberg where you can easily change colors, fonts, activate dark mode and much more. With its mobile friendly templates, The Minimal Blogger is perfect for beginners, offering a customizable sidebar, and easy integration with advertisement banners, Adsense and affiliate links. Whether you're a writer, photographer, game reviewer or newspaper, The Minimal Blogger offers endless possibilities."
+msgstr "Minimal Blogger — это элегантная тема WordPress для блогеров, писателей и всех, кто ищет лаконичный, современный и адаптивный дизайн. Эта бесплатная тема предлагает минималистичный дизайн, который идеально подходит для блогов, новостных журналов и личных портфолио, что делает ее лучшим выбором для писателей и журналистов в различных нишах, таких как еда, мода, путешествия и образ жизни. Она не только красива, но и быстра, а также оптимизирована для поисковых систем (SEO). Она поддерживает популярные конструкторы страниц, такие как Elementor, Divi Builder, SiteOrigin, Brizy, Visual Composer и Beaver Builder, что обеспечивает легкую настройку для стартапов, агентств и компаний любого размера. Вы можете легко установить WooCommerce для легких интернет-магазинов. Он в основном создан для Gutenberg, где вы можете легко менять цвета, шрифты, активировать темный режим и многое другое. Благодаря своим читабельным шаблонам для мобильных устройств, The Minimal Blogger идеально подходит для начинающих, предлагая настраиваемую боковая панель и легкую интеграцию с рекламными баннерами, Adsense и партнерскими ссылками. Независимо от того, являетесь ли вы писателем, фотографом, игровым обозревателем или газетой, The Minimal Blogger предлагает безграничные возможности."
+
+#. Theme Name of the theme
+#: style.css functions.php:6
+#, gp-priority: high
+msgid "The Minimal Blogger"
+msgstr "The Minimal Blogger"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Желтый"
+
+#: styles/turquoise.json
+msgctxt "Style variation name"
+msgid "Turquoise"
+msgstr "Бирюзовый"
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr "Фиолетовый"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Синий"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Чёрный"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Комментарии"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact"
+msgstr "Контакт"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About"
+msgstr "О нас"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Третичный"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Контрастный"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Основа"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: patterns/two-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Two column"
+msgstr "Все записи в блоге: Два столбца"
+
+#: patterns/two-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Two Column"
+msgstr "Блог: Два столбца"
+
+#: patterns/three-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Three column"
+msgstr "Все записи в блоге: 3 столбец"
+
+#: patterns/three-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Three Column"
+msgstr "Блог: Три столбца"
+
+#: patterns/single-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Single column"
+msgstr "Все записи в блоге: Отдельный столбец"
+
+#: patterns/single-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Single Column"
+msgstr "Блог: Отдельный столбец"
+
+#: patterns/sidebar.php
+msgctxt "Pattern description"
+msgid "Sidebar content"
+msgstr "Содержимое боковой панели"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar content"
+msgstr "Содержимое боковой панели"
+
+#: patterns/link-tree.php
+msgctxt "Pattern description"
+msgid "Contact: Link Tree"
+msgstr "Контакты: Link Tree"
+
+#: patterns/link-tree.php
+msgctxt "Pattern title"
+msgid "Contact: Link Tree"
+msgstr "Контакты: Link Tree"
+
+#: patterns/instagram-image-feed-section.php
+msgctxt "Pattern description"
+msgid "Instagram Image Feed Section"
+msgstr "Раздел Instagram Image Feed"
+
+#: patterns/instagram-image-feed-section.php
+msgctxt "Pattern title"
+msgid "Instagram Image Feed Section"
+msgstr "Раздел Instagram Image Feed"
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Скрытое содержимое без результатов"
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr "Скрытые комментарии"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "Скрытая 404"
+
+#: patterns/header-image-with-text.php
+msgctxt "Pattern description"
+msgid "Header Image With Text on"
+msgstr "Изображение заголовка с текстом"
+
+#: patterns/header-image-with-text.php
+msgctxt "Pattern title"
+msgid "Header Image With Text"
+msgstr "Изображение заголовка с текстом"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Подвал по умолчанию"
+
+#: patterns/contact-page-content.php
+msgctxt "Pattern description"
+msgid "Content Page Content"
+msgstr "Содержимое постранично"
+
+#: patterns/contact-page-content.php
+msgctxt "Pattern title"
+msgid "Content Page Content"
+msgstr "Содержимое постранично"
+
+#: patterns/contact-contact-boxes.php
+msgctxt "Pattern description"
+msgid "Contact: 3 Contact Boxes"
+msgstr "Контакт: 3 бокса для контактов"
+
+#: patterns/contact-contact-boxes.php
+msgctxt "Pattern title"
+msgid "Contact: 3 Contact Boxes"
+msgstr "Контакт: 3 бокса для контактов"
+
+#: patterns/author-introduction.php
+msgctxt "Pattern description"
+msgid "Author Introduction"
+msgstr "Авторское введение"
+
+#: patterns/author-introduction.php
+msgctxt "Pattern title"
+msgid "Author Introduction"
+msgstr "Авторское введение"
+
+#: patterns/about-stats-grid.php
+msgctxt "Pattern description"
+msgid "Grid: About Stats"
+msgstr "Сетка: О статистике"
+
+#: patterns/about-stats-grid.php
+msgctxt "Pattern title"
+msgid "Grid: About Stats"
+msgstr "Сетка: О статистике"
+
+#: patterns/about-page-content.php
+msgctxt "Pattern description"
+msgid "All blog posts: About Page Content"
+msgstr "Все записи в блоге: О содержимом страницы"
+
+#: patterns/about-page-content.php
+msgctxt "Pattern title"
+msgid "About Page Content"
+msgstr "О содержимом страницы"
+
+#: patterns/hidden-no-results.php:14
+msgid "Search"
+msgstr "Поиск"
+
+#: patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "Поиск"
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://superbthemes.com/"
+msgstr "http://superbthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "superbaddons"
+msgstr "superbaddons"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/minimalistix/the-minimal-blogger/"
+msgstr "https://superbthemes.com/minimalistix/the-minimal-blogger/"

@@ -1,0 +1,70 @@
+# Translation of Themes - Seattle News in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Seattle News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-12 17:22:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Seattle News\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Seattle News is a fast, clean, and valuable blog and magazine WordPress theme that is perfect for any blog, magazine, and even all variants of publishers' websites. It has a unique design for a visually stunning layout that makes your content displays beautiful and easy to read for any media device. It is even user-friendly, SEO-ready, effortless, lightweight, and optimized for top performance and Core Web Vitals. The theme is best suitable for news, newspapers, magazines, publishers, editors, news portals, personal blogs, dynamic news, business blogs, news editorials, general blogs, guides, journalism, lifestyle blogs, travel blogs, food blog, fashion magazine, beauty blog, affiliate blog, multimedia blog, and reviews websites. It also has flexible and versatile layouts that are enough for essential needs, with unlimited colors, unlimited Google fonts, typography, responsive design, and Rtl language support. It is designed to be highly SEO-friendly that can help optimize your website on search engine performance, making it easier to find for potential visitors and the theme provides predefined beautiful demos that can be imported with one click in less time. Seattle News also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Gutenberg, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of Seattle News Pro https://newsexo-pro-six.themearile.com/."
+msgstr "Seattle News es un tema de WordPress rápido, limpio y útil para blogs y revistas, perfecto para cualquier blog, revista e incluso para todas las variantes de sitios web de editoriales. Su diseño único, visualmente impactante, hace que tu contenido se vea atractivo y fácil de leer en cualquier dispositivo. Es intuitivo, optimizado para SEO, sencillo, ligero y optimizado para un rendimiento óptimo y Core Web Vitals. Es ideal para noticias, periódicos, revistas, editoriales, portales de noticias, blogs personales, noticias dinámicas, blogs de negocios, editoriales, blogs generales, guías, periodismo, blogs de estilo de vida, blogs de viajes, blogs gastronómicos, revistas de moda, blogs de belleza, blogs de afiliados, blogs multimedia y sitios web de reseñas. Además, cuenta con diseños flexibles y versátiles que satisfacen las necesidades esenciales, con colores ilimitados, fuentes de Google ilimitadas, tipografía, diseño responsivo y compatibilidad con lenguaje RTL. Está diseñado para ser altamente optimizado para SEO, lo que ayuda a optimizar el rendimiento de tu sitio web en los motores de búsqueda, facilitando su localización para visitantes potenciales. El tema ofrece atractivas demos predefinidas que se pueden importar con un solo clic en menos tiempo. Seattle News también es compatible con plugins populares de WordPress, tanto gratuitos como premium, como Elementor, Yoast SEO, WooCommerce, Gutenberg, Contact Form 7, Jetpack, Google Analytics y muchos más. Consulta la demo de Seattle News Pro: https://newsexo-pro-six.themearile.com/."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Seattle News"
+msgstr "Seattle News"
+
+#: template-parts/content-archive.php:55 template-parts/content.php:55
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-archive.php:53 template-parts/content.php:53
+msgid "Read More"
+msgstr "Más información"
+
+#: inc/customizer/seattle-news-customizer-options.php:23
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer/seattle-news-customizer-options.php:18
+msgid "Copyright &copy; 2025 | Powered by <a href=\"//wordpress.org/\">WordPress</a>"
+msgstr "Copyright &copy; 2025 | Funciona con <a href=\"//wordpress.org/\">WordPress</a>"
+
+#: footer.php:53
+msgid "%1$s by %2$s"
+msgstr "%1$s de %2$s"
+
+#: footer.php:16
+msgid "Powered by"
+msgstr "Funciona con"
+
+#: footer.php:16
+msgid "Copyright"
+msgstr "Copyright"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com"
+msgstr "https://themearile.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themearile.com/seattle-news-theme/"
+msgstr "https://themearile.com/seattle-news-theme/"

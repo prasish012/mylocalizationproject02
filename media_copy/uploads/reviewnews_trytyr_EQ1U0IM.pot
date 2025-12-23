@@ -1,0 +1,534 @@
+# Copyright (C) 2025 AF themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ReviewNews 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/reviewnews\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-28T06:13:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: reviewnews\n"
+
+#. Theme Name of the theme
+#: inc/hooks/hook-patterns.php:15
+msgctxt "Theme Name"
+msgid "ReviewNews"
+msgstr ""
+
+#. Theme URI of the theme
+msgctxt "Theme URL/Link"
+msgid "https://afthemes.com/products/reviewnews/"
+msgstr ""
+
+#. Description of the theme
+msgctxt "Theme Description for WordPress repository/dashboard"
+msgid "ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews"
+msgstr ""
+
+#. Author of the theme
+msgctxt "Theme Author Name"
+msgid "AF themes"
+msgstr ""
+
+#. Author URI of the theme
+msgctxt "Theme Author URL"
+msgid "https://www.afthemes.com/"
+msgstr ""
+
+#: 404.php:19
+msgctxt "Title on 404 Error Page"
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgctxt "Text on 404 Error Page"
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:118
+#: admin-dashboard/admin_dashboard.php:119
+msgctxt "WordPress Admin Menu Item: Dashboard"
+msgid "Dashboard"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:131
+#: admin-dashboard/admin_dashboard.php:132
+msgctxt "WordPress Admin Menu Item: Customize (Customizer)"
+msgid "Customize"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:141
+#: admin-dashboard/admin_dashboard.php:142
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: admin-dashboard/src/components/json/home-content.js:5
+msgctxt "WordPress Admin Menu Item/Feature Name: Header Builder"
+msgid "Header Builder"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:151
+#: admin-dashboard/admin_dashboard.php:152
+#: inc/customizer/builder/class-header-footer-builder.php:46
+#: admin-dashboard/src/components/json/home-content.js:68
+msgctxt "WordPress Admin Menu Item/Feature Name: Footer Builder"
+msgid "Footer Builder"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:162
+#: admin-dashboard/admin_dashboard.php:163
+msgctxt "WordPress Admin Menu Item/Feature Name: Starter Sites"
+msgid "Starter Sites"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:172
+#: admin-dashboard/admin_dashboard.php:173
+msgctxt "WordPress Admin Menu Item/Feature Name: Elementor Kits"
+msgid "Elementor Kits"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:182
+#: admin-dashboard/admin_dashboard.php:183
+msgctxt "WordPress Admin Menu Item/Feature Name: Block Patterns"
+msgid "Block Patterns"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:195
+#: admin-dashboard/src/components/json/dashboard-content.js:26
+#: admin-dashboard/src/components/json/freepro-content.js:110
+msgctxt "Call to Action Button to upgrade to Pro Version"
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:196
+#: inc/customizer/customizer.php:198
+msgctxt "Call to Action Button to upgrade to Pro Version (Shorter text)"
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:245
+msgctxt "Admin notice: Templatespare plugin needs update"
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:248
+msgctxt "Theme dashboard feature description"
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:314
+msgctxt "Admin notice: Blockspare plugin version required. %s is the required version number."
+msgid "Blockspare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:319
+msgctxt "Theme dashboard feature description for Blockspare integration"
+msgid "One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:388
+msgctxt "Admin notice: Elespare plugin version required. %s is the required version number."
+msgid "Elespare plugin version should be more than %s."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:389
+msgctxt "Theme dashboard feature description for Elespare integration"
+msgid "One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare."
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:464
+msgctxt "Confirmation prompt before plugin installation"
+msgid "Are you sure you want to install this plugin?"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:465
+#: admin-dashboard/rest-api/api-request.php:29
+msgctxt "Button label to install a plugin"
+msgid "Install Now"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:466
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgctxt "Button label to activate a plugin"
+msgid "Activate"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:467
+#: admin-dashboard/rest-api/api-request.php:70
+msgctxt "Status label: Plugin is activated"
+msgid "Activated"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:563
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgctxt "Button/Link to access Starter Sites"
+msgid "Get Starter Sites"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:568
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+#: admin-dashboard/src/components/blockspare.demo.js:13
+#: admin-dashboard/src/components/elespare-demo.js:13
+#: admin-dashboard/src/components/templatespare-demo.js:13
+msgctxt "Button label: Start setup process"
+msgid "Get Started"
+msgstr ""
+
+#: admin-dashboard/admin_dashboard.php:569
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgctxt "Description for the 'Get Started' action"
+msgid "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgctxt "Prefix before an author's name (e.g., 'Plugin By [Author]')"
+msgid "By"
+msgstr ""
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgctxt "Button/Link text: View more details"
+msgid "More Details"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgctxt "Welcome heading in an admin notice"
+msgid "👋 Welcome, and Thank You!"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgctxt "Welcome message after theme activation. %s is the theme name."
+msgid "%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197
+msgctxt "Section heading in a setup notice"
+msgid "🚀 Start With One Click"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgctxt "Description for the one-click starter sites feature"
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgctxt "Button/Link to view all demo sites"
+msgid "View Demos"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgctxt "Link to the theme's admin dashboard page"
+msgid "Theme dashboard"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+msgctxt "Section heading in a support notice"
+msgid "🤝 We're Here for You"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+msgctxt "Support notice encouraging phrase"
+msgid "Whether you're just starting or customizing your site."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgctxt "Link to theme documentation"
+msgid "Documentation"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgctxt "Link to video tutorials"
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgctxt "Link to support/helpdesk"
+msgid "Support"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+msgctxt "Link to WordPress review page to rate the theme"
+msgid "⭐ Rate This Theme"
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgctxt "Error message when user lacks plugin installation permissions"
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgctxt "Error message when nonce verification fails (security check)"
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgctxt "Error message when user lacks plugin activation permissions"
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+msgctxt "Comments section heading for one comment"
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgctxt "Message displayed when comments are disabled"
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:164
+#: inc/customizer/builder/builder-structure.php:381
+msgctxt "Copyright line in the footer of a website"
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:84
+#: inc/class-amp-compatible.php:152
+#: inc/customizer/builder/builder-structure.php:199
+#: inc/hooks/hook-header-section.php:68
+msgctxt "Name of the WordPress Menu Location (Primary/Main Navigation)"
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:85
+#: inc/customizer/builder/options.php:266
+#: inc/customizer/builder/options.php:271
+#: inc/customizer/builder/options.php:392
+#: inc/customizer/builder/options.php:397
+msgctxt "Name of the WordPress Menu Location (Social Icons Navigation)"
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:86
+msgctxt "Name of the WordPress Menu Location (Footer Navigation)"
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:52
+msgctxt "Accessibility link text to skip navigation"
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-amp-compatible.php:190
+#: inc/class-amp-compatible.php:194
+#: inc/hooks/hook-header-section.php:100
+#: inc/hooks/hook-header-section.php:101
+msgctxt "Accessibility text for the search icon/button"
+msgid "Open search form"
+msgstr ""
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgctxt "Instructional text in the Header/Footer Builder"
+msgid "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgctxt "Tooltip for the button that hides the builder panel"
+msgid "Hide builder panel"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgctxt "Button text to hide the builder panel"
+msgid "Hide Builder"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgctxt "Tooltip for the device view controls (desktop, tablet, mobile)"
+msgid "Device view controls"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgctxt "Title of the modal/panel to select a new element for the builder"
+msgid "Choose an Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgctxt "Accessibility text for the button that closes the element choice modal"
+msgid "Close choose element modal"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:84
+msgctxt "Customizer panel title for Footer Layout"
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:97
+msgctxt "Description for the Header Builder in Customizer"
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgctxt "Title for the Header Builder Customizer panel"
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:100
+msgctxt "Description for the Footer Builder in Customizer"
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:101
+#: inc/customizer/theme-options.php:1407
+msgctxt "Title for the Footer Builder Customizer panel"
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:117
+msgctxt "Customizer setting label to enable a builder. %s is either 'Header' or 'Footer'."
+msgid "Enable %s Builder"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgctxt "Button text in the Header/Footer Builder to add a new element"
+msgid "Add Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgctxt "Button text in the Header/Footer Builder to remove an element"
+msgid "Remove Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgctxt "Button text in the Header/Footer Builder to open element settings"
+msgid "Configure Element"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:283
+msgctxt "Device view selector label: Desktop"
+msgid "Desktop"
+msgstr ""
+
+#: inc/customizer/builder/class-header-footer-builder.php:284
+msgctxt "Heading for the panel containing an element's settings"
+msgid "Element Settings"
+msgstr ""
+
+#: inc/customizer/builder/header-builder-structure.php:188
+msgctxt "Accessibility text for the button to close the mobile/off-canvas menu"
+msgid "close Off-Canvas Navigation"
+msgstr ""
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:473
+msgctxt "Element/Component Name for Site Title and Logo"
+msgid "Site & Logo"
+msgstr ""
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:479
+#: inc/customizer/builder/options.php:485
+msgctxt "Element/Component Label for Site Identity"
+msgid "Site Identity"
+msgstr ""
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:484
+msgctxt "Instructional text: change Site Identity via another panel. %s is a link."
+msgid "You can change Site Identity from %s."
+msgstr ""
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:493
+#: inc/customizer/builder/options.php:498
+msgctxt "Element/Component Name for a Promotion banner or text"
+msgid "Promotion"
+msgstr ""
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:511
+msgctxt "Element/Component Name for the Off-Canvas Toggle button"
+msgid "Off Canvas"
+msgstr ""
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:516
+msgctxt "Element/Component Label for a widget area in the Off-Canvas panel"
+msgid "Off Canvas Widget Area"
+msgstr ""
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:521
+msgctxt "Description for the Off Canvas Widget Area setting. %s is a link."
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:465
+#: inc/customizer/builder/options.php:522
+msgctxt "Link text to manage widgets in the Customizer"
+msgid "Manage widgets"
+msgstr ""
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:530
+msgctxt "Element/Component Name for the Primary Navigation Menu"
+msgid "Primary menu"
+msgstr ""
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:346
+#: inc/customizer/builder/options.php:535
+#: inc/customizer/builder/options.php:556
+#: inc/customizer/builder/options.php:582
+msgctxt "Label for a menu selection dropdown in Customizer"
+msgid "Select Menu"
+msgstr ""
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:278
+#: inc/customizer/builder/options.php:353
+#: inc/customizer/builder/options.php:404
+#: inc/customizer/builder/options.php:542
+#: inc/customizer/builder/options.php:563
+msgctxt "Instructional text: change a Menu via the menu panel. %s is a link."
+msgid "You can change Menu from menu panel. %s"
+msgstr ""
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:279
+#: inc/customizer/builder/options.php:354
+#: inc/customizer/builder/options.php:405
+#: inc/customizer/builder/options.php:543
+#: inc/customizer/builder/options.php:564
+msgctxt "Link text to manage menus in the Customizer"
+msgid "Manage menu"
+msgstr ""
+
+#: inc/customizer/builder/options.php:167
+msgctxt "Element/Component Name for the current Date display"
+msgid "Date"
+msgstr ""
+

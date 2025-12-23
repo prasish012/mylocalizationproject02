@@ -1,0 +1,297 @@
+# Translation of Themes - Lakeside Blogger in Russian
+# This file is distributed under the same license as the Themes - Lakeside Blogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-23 17:36:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Lakeside Blogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Say hello to Lakeside Blogger, the ultimate WordPress theme for bloggers and writers. Perfect for any niche, whether it's travel, fashion, lifestyle magazine, news, or photography. This theme is compatible with Elementor, Divi Page Builder, and Visual Composer. Enjoy a clean, minimal design which is beautiful, colorful and feature rich. Lakeside Blogger is the fastest and most responsive theme, ensuring your site looks great on any device. It’s mobile friendly and optimized for search engines with built-in SEO and schema markup. Use Adsense, affiliate links, and advertisement banners easily. This theme is also Gutenberg and block editor compatible, making it easy to transform the minimalist design into other design styles. Ideal for portfolios, review writing, newspaper, and ecommerce with WooCommerce support, Lakeside Blogger is your best choice for a simple, yet powerful blogging theme. Download it for free here on WordPress.org!"
+msgstr "Поздоровайтесь с Lakeside Blogger, лучшей темой WordPress для блоггеров и писателей. Она идеально подходит для любой ниши, будь то путешествия, мода, журнал о стиле жизни, новости или фотография. Эта тема совместима с Elementor, Divi Page Builder и Visual Composer. Наслаждайтесь чистым, минимальным дизайном, красивым, красочным и многофункциональным. Lakeside Blogger - самая быстрая и адаптивная тема, гарантирующая, что Ваш сайт будет выглядеть великолепно на любом устройстве. Она читабельна для мобильных устройств и оптимизирована для поисковых систем благодаря встроенному SEO и разметке схем. Легко используйте Adsense, партнерские ссылки и рекламные баннеры. Эта тема также совместима с Gutenberg и редактором блоков, что позволяет легко преобразовывать минималистичный дизайн в другие стили оформления. Идеально подходящая для портфолио, написания отзывов, газет и электронной коммерции с поддержкой WooCommerce, Lakeside Blogger - Ваш лучший выбор для простой, но мощной темы для блогов. Скачайте ее бесплатно здесь, на WordPress.org!"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lakeside Blogger"
+msgstr "Lakeside Blogger"
+
+#: styles/dark-chocolate.json
+msgctxt "Style variation name"
+msgid "🍫 Dark"
+msgstr "🍫 Темный"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Комментарии"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXLarge"
+msgstr "XXLarge"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XLarge"
+msgstr "XБольшой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XSmall"
+msgstr "XМаленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXSmall"
+msgstr "XXSmall"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXlarge"
+msgstr "XXБольшой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Xlarge"
+msgstr "XБольшой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XSmall"
+msgstr "XМаленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXSmall"
+msgstr "XXSmall"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact"
+msgstr "Контакты"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About"
+msgstr "Детали"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Alternative)"
+msgstr "Блог (альтернатива)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: styles/light.json
+msgctxt "Style variation name"
+msgid "Light"
+msgstr "Светлый"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Featured"
+msgstr "Рекомендуемое"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Primary Hover"
+msgstr "Основной при наведении"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Mono 4"
+msgstr "Моно 4"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Mono 3"
+msgstr "Моно 3"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Mono 1"
+msgstr "Моно 1"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Основа"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Contrast Dark"
+msgstr "Темный контраст"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Contrast Light"
+msgstr "Светлый контраст"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Mono 2"
+msgstr "Моно 2"
+
+#: styles/dark-chocolate.json styles/light.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: patterns/lakeside-blogger-testimonial-001.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Testimonial 1"
+msgstr "Lakeside Blogger: Отзыв-рекомендация 1"
+
+#: patterns/lakeside-blogger-team-001.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Team 1"
+msgstr "Lakeside Blogger: Команда 1"
+
+#: patterns/lakeside-blogger-hero-003.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Hero 3"
+msgstr "Lakeside Blogger: Hero 3"
+
+#: patterns/lakeside-blogger-hero-002.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Header 2"
+msgstr "Lakeside Blogger: Заголовок 2"
+
+#: patterns/lakeside-blogger-hero-001.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Hero 1"
+msgstr "Lakeside Blogger: Hero 1"
+
+#: patterns/lakeside-blogger-featured-008.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 8"
+msgstr "Lakeside Blogger: Избранное 8"
+
+#: patterns/lakeside-blogger-featured-007.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 7"
+msgstr "Lakeside Blogger: Избранное 7"
+
+#: patterns/lakeside-blogger-featured-006.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 6"
+msgstr "Lakeside Blogger: Избранное 6"
+
+#: patterns/lakeside-blogger-featured-005.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 5"
+msgstr "Lakeside Blogger: Избранное 5"
+
+#: patterns/lakeside-blogger-featured-004.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 4"
+msgstr "Lakeside Blogger: Избранное 4"
+
+#: patterns/lakeside-blogger-featured-003.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 3"
+msgstr "Lakeside Blogger: Избранное 3"
+
+#: patterns/lakeside-blogger-featured-002.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Featured 2"
+msgstr "Lakeside Blogger: Избранное 2"
+
+#: patterns/lakeside-blogger-cta-001.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Call to Action 1"
+msgstr "Lakeside Blogger: Призыв к действию 1"
+
+#: patterns/lakeside-blogger-contact-001.php
+msgctxt "Pattern title"
+msgid "Lakeside Blogger Contact"
+msgstr "Lakeside Blogger: Контакт"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/"
+msgstr "https://superbthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "superbaddons"
+msgstr "superbaddons"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/simple-nova/lakeside-blogger/"
+msgstr "https://superbthemes.com/simple-nova/lakeside-blogger/"

@@ -1,0 +1,3954 @@
+# Translation of Themes - TrendingNews in Russian
+# This file is distributed under the same license as the Themes - TrendingNews package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-03 16:54:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - TrendingNews\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Step into the world of TrendingNews, a sleek and adaptable WordPress theme built for bloggers and digital storytellers. Combining creativity with powerful functionality, TrendingNews is the ideal choice for personal blogs, lifestyle journals, fashion magazines, or editorial platforms. Tailored for influencers and modern content creators, it features a fully responsive design that looks flawless across all devices—from desktops to tablets and smartphones. Whether you’re showcasing your personal style, curating trending content, or running a digital magazine, TrendingNews makes sure your voice shines with elegance and impact."
+msgstr "Войдите в мир TrendingNews, элегантной и адаптируемой темы WordPress, созданной для блоггеров и рассказчиков цифровых историй. Сочетая в себе креативность и мощную функциональность, TrendingNews - идеальный выбор для персональных блогов, журналов о стиле жизни, модных журналов или редакционных платформ. Созданный специально для влиятельных людей и современных создателей содержимого, он имеет полностью адаптивный дизайн, который выглядит безупречно на всех устройствах - от настольных компьютеров до планшетов и смартфонов. Витрина ли своего личного стиля, кураторство содержимого трендов или ведение цифрового журнала - TrendingNews позаботится о том, чтобы Ваш голос сиял элегантностью и влиятельностью."
+
+#. Theme Name of the theme
+#: style.css inc/admin/dashboard/class-dashboard.php:176
+#: inc/admin/dashboard/views/dashboard.php:213
+#, gp-priority: high
+msgid "TrendingNews"
+msgstr "TrendingNews"
+
+#: template-parts/header/responsive-header.php:16
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/template-functions.php:158
+msgid "Read more about %s"
+msgstr "Прочитать больше о %s"
+
+#: inc/admin/dashboard/views/dashboard.php:15
+msgid "Activate MC4WP: Mailchimp for WordPress"
+msgstr ""
+
+#: template-parts/section/featured-category.php:69
+msgid "Latest:"
+msgstr "Последние:"
+
+#: template-parts/section/featured-category.php:47
+msgid " Articles"
+msgstr " Статьи"
+
+#: template-parts/pagination/post-load.php:61
+msgid "No More Posts"
+msgstr "Больше нет записей"
+
+#: template-parts/pagination/post-load.php:17
+msgid "Load More Posts"
+msgstr "Загрузить больше записей"
+
+#: template-parts/pagination/pagination-option.php:63
+msgid "Newer Articles"
+msgstr "Более новые изделия"
+
+#: template-parts/pagination/pagination-option.php:58
+msgid "Older Articles"
+msgstr "Старые статьи"
+
+#: template-parts/modal-search.php:27
+msgid "Close search"
+msgstr "Закрыть поиск"
+
+#: template-parts/modal-search.php:17
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: template-parts/modal-search.php:12
+msgid "What are You Looking For?"
+msgstr "Что Вы ищете?"
+
+#: template-parts/header/responsive-header.php:45
+#: template-parts/header/styles/style-1.php:74
+#: template-parts/header/styles/style-2.php:79
+#: template-parts/header/styles/style-3.php:93
+#: template-parts/header/styles/style-4.php:44
+#: template-parts/modal-search.php:8
+msgid "Search"
+msgstr "Поиск"
+
+#: template-parts/modal-menu.php:66
+msgid "Expanded Social links"
+msgstr "Расширенные ссылки соцсети"
+
+#: template-parts/modal-menu.php:24
+msgctxt "menu"
+msgid "Mobile"
+msgstr "Мобильное устройство"
+
+#: template-parts/header/topbar.php:46
+msgid "Topbar Social links"
+msgstr "Ссылки соцсетей на верхней панели"
+
+#: template-parts/header/styles/style-1.php:40
+#: template-parts/header/styles/style-2.php:40
+#: template-parts/header/styles/style-3.php:57
+#: template-parts/header/styles/style-4.php:59
+msgctxt "menu"
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: template-parts/footer/footer-navarea.php:48
+msgid "Links"
+msgstr "Ссылки"
+
+#: template-parts/footer/footer-navarea.php:21
+msgid "Footer Social links"
+msgstr "Ссылки на соцсети в подвале"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:118
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:25 template-parts/content.php:131
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что Вы ищете. Возможно, поиск может помочь."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:22
+msgid "Next:"
+msgstr "Следующая:"
+
+#: single.php:21
+msgid "Previous:"
+msgstr "Предыдущая:"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. translators: 1: Singular, 2: Plural.
+#: inc/template-tags.php:476
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s запись"
+msgstr[1] "%s записи"
+msgstr[2] "%s записей"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:254 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:237
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:227
+msgid "Tags %1$s"
+msgstr "Метки %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:224
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:49
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: Read Time.
+#: inc/template-functions.php:279 inc/template-functions.php:285
+msgid "%s min read"
+msgstr "%s мин чтения"
+
+#: inc/template-functions.php:274
+msgid "Estimated read time"
+msgstr "Расчётное время чтения"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/template-functions.php:221
+msgid "Theme %1$s designed by %2$s."
+msgstr "Тема %1$s разработана %2$s."
+
+#: inc/template-functions.php:209
+msgid "Copyright &copy; {{ date }}."
+msgstr "Copyright &copy; {{ date }}."
+
+#: inc/template-functions.php:155
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/compatibility/woocommerce/woocommerce.php:248
+msgid "View Cart"
+msgstr "Просмотр корзины"
+
+#: inc/compatibility/woocommerce/woocommerce.php:197
+#: inc/compatibility/woocommerce/woocommerce.php:222
+msgid "View your shopping cart"
+msgstr "Просмотреть корзину"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-5.php:54
+msgid "Grid Style 5"
+msgstr "Стиль сетки 5"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-4.php:54
+msgid "Grid Style 4"
+msgstr "Стиль сетки 4"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-3.php:54
+msgid "Grid Style 3"
+msgstr "Стиль сетки 3"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-2.php:54
+msgid "Grid Style 2"
+msgstr "Стиль сетки 2"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-1.php:41
+msgid "Grid Style 1"
+msgstr "Стиль сетки 1"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:55
+msgid "Block Style 5"
+msgstr "Стиль блока 5"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:47
+msgid "Block Style 4"
+msgstr "Стиль блока 4"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-3.php:52
+msgid "Block Style 3"
+msgstr "Стиль блока 3"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:84
+msgid "Title Font Size"
+msgstr "Размер шрифта названия"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:52
+msgid "Block Style 2"
+msgstr "Стиль блока 2"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:224
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:281
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:205
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:184
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:197
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-1.php:144
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-2.php:183
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-3.php:163
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-4.php:160
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-5.php:161
+#: inc/template-tags.php:45
+msgid "ago"
+msgstr "тому назад"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:125
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:112
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:66
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:100
+msgid "Content Line Limit"
+msgstr "Лимит строк содержимого"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:117
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:104
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:58
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:92
+msgid "Post Excerpt"
+msgstr "Отрывок записи"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:98
+msgid "Title Font Size Right Column"
+msgstr "Размер шрифта названия правого столбца"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:86
+msgid "Title Font Size Left Column"
+msgstr "Размер шрифта названия левого столбца"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:48
+msgid "Block Style 1"
+msgstr "Стиль блока 1"
+
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-global-widgets-title.php:47
+msgid "Title Widget"
+msgstr "Название виджета"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:341
+msgid "Select categories:"
+msgstr "Выбрать рубрики:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:333
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:329
+msgid "Display the posts from:"
+msgstr "Отображать записи от:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:323
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:293
+msgid "Format 2"
+msgstr "Формат 2"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:292
+msgid "Format 1"
+msgstr "Формат 1"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:282
+msgid "Date Meta"
+msgstr "Мета даты"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:275
+msgid "Posts Date"
+msgstr "Дата записей"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:246
+msgid "Author Meta"
+msgstr "Мета автора"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:239
+msgid "Posts Author"
+msgstr "Автор записи"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:202
+msgid "Category Meta"
+msgstr "Метаданные рубрики"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:195
+msgid "Posts Category"
+msgstr "Рубрика записей"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:184
+msgid "Offset Posts:"
+msgstr "Записи со смещением:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:176
+msgid "Number of posts to display:"
+msgstr "Кол-во записей для отображения:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:170
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:137
+msgid "Content Font Size"
+msgstr "Размер шрифта содержимого"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:126
+msgid "Meta Font Size"
+msgstr "Размер шрифта мета"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:118
+msgid "Widget Font"
+msgstr "Шрифт виджета"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:105
+msgid "Text Color:"
+msgstr "Цвет текста:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:93
+msgid "Color:"
+msgstr "Цвет:"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:63
+msgid "Add your custom block title"
+msgstr "Добавить название своего пользовательского блока"
+
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:54
+msgid "Block Title"
+msgstr "Название блока"
+
+#: inc/compatibility/elementor/elementor.php:111
+msgid "TrendingNews Global Widgets"
+msgstr ""
+
+#: inc/compatibility/elementor/elementor.php:102
+msgid "TrendingNews Widget Grid"
+msgstr ""
+
+#: inc/compatibility/elementor/elementor.php:93
+msgid "TrendingNews Widget Blocks"
+msgstr ""
+
+#: inc/admin/widgets/widget-init.php:179
+msgid "Widgets added to this region will appear on detail page of a woocommerce product."
+msgstr "Виджеты, добавленные в этой области, будут появляться на странице сведений о товаре WooCommerce."
+
+#: inc/admin/widgets/widget-init.php:177
+msgid "WooCommerce Product Page Sidebar"
+msgstr "Боковая панель страницы товара WooCommerce"
+
+#: inc/admin/widgets/widget-init.php:173
+msgid "Widgets added to this region will appear on the shop or category page of woocommerce."
+msgstr "Виджеты, добавленные в этой области, появятся на странице магазина или категории в WooCommerce."
+
+#: inc/admin/widgets/widget-init.php:171
+msgid "WooCommerce Shop/Category Page Sidebar"
+msgstr ""
+
+#: inc/admin/widgets/widget-init.php:165
+msgid "Widgets added to this region will appear after the footer and before sub-footer."
+msgstr "Виджеты, добавленные в эту область, будут отображаться после подвала и перед суб-подвалом."
+
+#: inc/admin/widgets/widget-init.php:163
+msgid "After Footer"
+msgstr "Ниже подвала"
+
+#: inc/admin/widgets/widget-init.php:153
+msgid "Widgets added here will appear in column %1$d of the footer."
+msgstr "Виджеты, добавленные в эту область появятся в %1$d столбце подвала."
+
+#: inc/admin/widgets/widget-init.php:152
+msgid "Footer Column %1$d"
+msgstr "Столбец подвала %1$d"
+
+#: inc/admin/widgets/widget-init.php:118
+msgid "Widgets added to this region will appear above the footer."
+msgstr "Виджеты, добавленные в эту область, появятся выше подвала."
+
+#: inc/admin/widgets/widget-init.php:116
+msgid "Before Footer"
+msgstr "Выше подвала"
+
+#: inc/admin/widgets/widget-init.php:112
+msgid "Widgets placed in this region will be displayed right after the two-column widget area."
+msgstr "Виджеты, размещенные в этой области, будут отображаться сразу после области с двумя столбцами виджетов."
+
+#: inc/admin/widgets/widget-init.php:110
+msgid "Homepage Fullwidth Widget Area - Bottom Area"
+msgstr "Область виджетов во всю ширину главной страницы - нижняя область"
+
+#: inc/admin/widgets/widget-init.php:106
+msgid "Widgets added to this region will appear on the homepage after posts listing."
+msgstr "Виджеты, добавленные в эту область, появятся на главной странице после записями списком."
+
+#: inc/admin/widgets/widget-init.php:104
+msgid "Homepage After Posts"
+msgstr "Главная страница после записей"
+
+#: inc/admin/widgets/widget-init.php:100
+msgid "Widgets added to this region will appear on the homepage before posts listing."
+msgstr "Виджеты, добавленные в эту область, будут появляться на главной странице перед записями списком."
+
+#: inc/admin/widgets/widget-init.php:98
+msgid "Homepage Before Posts"
+msgstr "Главная страница перед записями"
+
+#: inc/admin/widgets/widget-init.php:94
+msgid "Widgets placed in this region will be displayed below the two-column widget area."
+msgstr "Виджеты, размещенные в этой области, будут отображаться под двухстолбцовой областью виджетов."
+
+#: inc/admin/widgets/widget-init.php:92
+msgid "Homepage Fullwidth Widget Area - After Two Column Area"
+msgstr "Область виджетов во всю ширину главная страница - после области с двумя столбцами"
+
+#: inc/admin/widgets/widget-init.php:88
+msgid "Widgets placed in this region will be displayed as the secondary area in the two-column, side-by-side homepage widget section."
+msgstr "Виджеты, размещенные в этой области, будут отображаться в качестве вторичной области в двухколонном разделе виджетов главной страницы, расположенном бок о бок."
+
+#: inc/admin/widgets/widget-init.php:86
+msgid "Homepage Two Column Widget Area - Secondary"
+msgstr "Область виджетов в два столбца главная страница - вторичная"
+
+#: inc/admin/widgets/widget-init.php:82
+msgid "Widgets placed in this region will be displayed as the primary area in the two-column, side-by-side homepage widget section."
+msgstr "Виджеты, размещенные в этой области, будут отображаться в качестве основной области в двухстолбцовом разделе виджетов главной страницы."
+
+#: inc/admin/widgets/widget-init.php:80
+msgid "Homepage Two Column Widget Area - Primary"
+msgstr "Область виджетов в два столбца главная страница - основная"
+
+#: inc/admin/widgets/widget-init.php:76
+msgid "Widgets placed in this region will be displayed above the two-column widget area."
+msgstr "Виджеты, размещенные в этой области, будут отображаться выше двухстолбцовой области виджетов."
+
+#: inc/admin/widgets/widget-init.php:74
+msgid "Homepage Fullwidth Widget Area - Before Two Column Area"
+msgstr "Область виджетов во всю ширину главной страницы - перед областью с двумя столбцами"
+
+#: inc/admin/widgets/widget-init.php:70
+msgid "Widgets placed in this region will be displayed below the header and above the main content."
+msgstr "Виджеты, размещенные в этой области, будут отображаться ниже заголовка и выше основного содержимого."
+
+#: inc/admin/widgets/widget-init.php:68
+msgid "After Header"
+msgstr "Ниже заголовка"
+
+#: inc/admin/widgets/widget-init.php:62
+msgid "Off-canvas Drawer"
+msgstr "Выдвижной вне холста"
+
+#: inc/admin/widgets/widget-init.php:56
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/admin/widgets/class-youtube-video.php:48
+msgid "Video URL:"
+msgstr "URL видео:"
+
+#: inc/admin/widgets/class-youtube-video.php:44
+msgid "Channel Name:"
+msgstr "Название канала:"
+
+#: inc/admin/widgets/class-youtube-video.php:38
+msgid "Channel URL:"
+msgstr "URL канала:"
+
+#: inc/admin/widgets/class-youtube-video.php:17
+msgid "TrendingNews: Youtube Video"
+msgstr ""
+
+#: inc/admin/widgets/class-youtube-video.php:15
+msgid "Displays youtube video form your channel."
+msgstr "Отображает видео со своего канала на YouTube."
+
+#: inc/admin/widgets/class-tab-post.php:470
+msgid "Tab Navigation"
+msgstr "Навигация вклаки"
+
+#: inc/admin/widgets/class-tab-post.php:217
+msgid "Make sure to select Date from above for this to work."
+msgstr "Убедитесь в том, что вы выбрали дату выше, чтобы это сработало."
+
+#: inc/admin/widgets/class-tab-post.php:148
+msgid "Latest Post Settings"
+msgstr "Настройки последней записи"
+
+#: inc/admin/widgets/class-tab-post.php:102
+msgid "Hot"
+msgstr "Горячий"
+
+#: inc/admin/widgets/class-tab-post.php:92
+msgid "Hot Post Settings"
+msgstr "Настройки горячей записи"
+
+#: inc/admin/widgets/class-tab-post.php:73
+#: inc/admin/widgets/class-tab-post.php:129
+#: inc/admin/widgets/class-tab-post.php:185
+msgid "Order By"
+msgstr "Упорядочить по"
+
+#: inc/admin/widgets/class-tab-post.php:68
+#: inc/admin/widgets/class-tab-post.php:124
+#: inc/admin/widgets/class-tab-post.php:180
+msgid "Can be useful if you want to skip certain number of posts. Leave as 0 if you do not want to use it."
+msgstr "Можно использовать, если Вы хотите пропустить определенное количество записей. Оставьте значение 0,  если Вы не хотите его использовать."
+
+#: inc/admin/widgets/class-tab-post.php:47
+#: inc/admin/widgets/class-tab-post.php:103
+#: inc/admin/widgets/class-tab-post.php:159
+msgid "Leave as it is to show default title or leave blank to only show icon"
+msgstr "Оставьте как есть, чтобы отобразить заголовок по умолчанию, или оставьте пустым, чтобы отображался только значок"
+
+#: inc/admin/widgets/class-tab-post.php:46
+msgid "Popular"
+msgstr "Популярные"
+
+#: inc/admin/widgets/class-tab-post.php:41
+msgid "Will display post based on comments count"
+msgstr "Отображение записи на основе количества комментариев"
+
+#: inc/admin/widgets/class-tab-post.php:36
+#: inc/admin/widgets/class-tab-post.php:96
+#: inc/admin/widgets/class-tab-post.php:152
+msgid "Show Tab"
+msgstr "Показать вкладку"
+
+#: inc/admin/widgets/class-tab-post.php:32
+msgid "Popular Post Settings"
+msgstr "Настройки популярной записи"
+
+#: inc/admin/widgets/class-tab-post.php:19
+msgid "TrendingNews: Tab Posts"
+msgstr ""
+
+#: inc/admin/widgets/class-tab-post.php:17
+msgid "Displays posts in tab"
+msgstr "Отображает записи во вкладке"
+
+#: inc/admin/widgets/class-social-menu.php:127
+msgid "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings."
+msgstr "Меню соцсетей не установлено. Вам нужно создать меню и назначить его в разделе меню соцсетей в настройках меню."
+
+#: inc/admin/widgets/class-social-menu.php:66
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/admin/widgets/class-social-menu.php:60
+msgid "Three"
+msgstr "Три"
+
+#: inc/admin/widgets/class-social-menu.php:59
+msgid "Two"
+msgstr "Два"
+
+#: inc/admin/widgets/class-social-menu.php:58
+msgid "One"
+msgstr "Один"
+
+#: inc/admin/widgets/class-social-menu.php:56
+msgid "Will only work when label is enabled from above and there is enough space to display the columns."
+msgstr "Будет работать только в том случае, если метка включена сверху и достаточно места для отображения столбцов."
+
+#: inc/admin/widgets/class-social-menu.php:55
+msgid "Column"
+msgstr "Столбец"
+
+#: inc/admin/widgets/class-social-menu.php:50
+msgid "Show Label"
+msgstr "Показать этикетку"
+
+#: inc/admin/widgets/class-social-menu.php:38
+msgid "Use Brand Background"
+msgstr "Используйте фон бренда"
+
+#: inc/admin/widgets/class-social-menu.php:37
+msgid "Use Brand Color"
+msgstr "Использовать фирменный цвет"
+
+#: inc/admin/widgets/class-social-menu.php:35
+msgid "Social Links Color"
+msgstr "Цвет ссылок соцсети"
+
+#: inc/admin/widgets/class-social-menu.php:16
+msgid "TrendingNews: Social Menu"
+msgstr ""
+
+#: inc/admin/widgets/class-social-menu.php:14
+msgid "Displays social menu if you have set it."
+msgstr "Отображает социальное меню, если вы его установили."
+
+#: inc/admin/widgets/class-slider-post.php:25
+msgid "Slider Posts"
+msgstr "Слайдер записи"
+
+#: inc/admin/widgets/class-slider-post.php:12
+msgid "TrendingNews: Slider Posts"
+msgstr ""
+
+#: inc/admin/widgets/class-slider-post.php:10
+msgid "Displays recent posts in a slider with an image"
+msgstr "Отображение последних записей в слайдере с изображением"
+
+#: inc/admin/widgets/class-recent-post.php:107
+#: inc/admin/widgets/class-tab-post.php:262
+msgid "Show Counter"
+msgstr "Показать счётчик"
+
+#: inc/admin/widgets/class-recent-post.php:27
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: inc/admin/widgets/class-recent-post.php:13
+msgid "TrendingNews: Recent Posts"
+msgstr ""
+
+#: inc/admin/widgets/class-recent-post.php:11
+msgid "Displays recent posts with an image"
+msgstr "Отображение последних записей с помощью изображения"
+
+#: inc/admin/widgets/class-multi-grid-post.php:81
+msgid "Show Description"
+msgstr "Показать описание"
+
+#: inc/admin/widgets/class-multi-grid-post.php:44
+msgid "Font size for Sub Articles"
+msgstr "Размер шрифта для подстатей"
+
+#: inc/admin/widgets/class-multi-grid-post.php:35
+msgid "Font size for Prime Article"
+msgstr "Размер шрифта для основной статьи"
+
+#: inc/admin/widgets/class-multi-grid-post.php:18
+msgid "TrendingNews: Multi Grid Post"
+msgstr ""
+
+#: inc/admin/widgets/class-multi-grid-post.php:16
+msgid "Shows post in multi grid layout"
+msgstr "Показывает запись в многосеточном макете"
+
+#: inc/admin/widgets/class-metro-post.php:41
+msgid "Layout 5"
+msgstr "Макет 5"
+
+#: inc/admin/widgets/class-metro-post.php:40
+msgid "Layout 4"
+msgstr "Макет 4"
+
+#: inc/admin/widgets/class-metro-post.php:18
+msgid "TrendingNews: Metro Post"
+msgstr ""
+
+#: inc/admin/widgets/class-metro-post.php:16
+msgid "Metro Widget transforms your posts into a visually appealing mosaic, creating a stylish and organized showcase for an immersive reader experience."
+msgstr ""
+
+#: inc/admin/widgets/class-jumbo-post.php:55
+#: inc/admin/widgets/class-metro-post.php:67
+#: inc/admin/widgets/class-multi-grid-post.php:87
+#: inc/admin/widgets/class-tab-post.php:52
+#: inc/admin/widgets/class-tab-post.php:108
+#: inc/admin/widgets/class-tab-post.php:164
+msgid "Leave empty if you don't want the posts to be category specific"
+msgstr "Оставьте это поле пустым, если вы не хотите, чтобы записи были привязаны к конкретной рубрике"
+
+#: inc/admin/widgets/class-jumbo-post.php:39
+#: inc/admin/widgets/class-metro-post.php:39
+msgid "Layout 3"
+msgstr "Макет 3"
+
+#: inc/admin/widgets/class-jumbo-post.php:38
+#: inc/admin/widgets/class-metro-post.php:38
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/admin/widgets/class-jumbo-post.php:37
+#: inc/admin/widgets/class-metro-post.php:37
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/admin/widgets/class-jumbo-post.php:35
+#: inc/admin/widgets/class-metro-post.php:35
+msgid "Style Layout"
+msgstr "Стиль макета"
+
+#: inc/admin/widgets/class-jumbo-post.php:18
+msgid "TrendingNews: Jumbo Post"
+msgstr ""
+
+#: inc/admin/widgets/class-jumbo-post.php:16
+msgid "Jumbo Widget transforms your posts into a visually appealing mosaic, creating a stylish and organized showcase for an immersive reader experience."
+msgstr "Виджет Jumbo преобразовывает Ваши записи в визуально привлекательную мозаику, создавая стильную и организованную витрину для погружения читателя в атмосферу."
+
+#: inc/admin/widgets/class-image-widget.php:50
+msgid "Open Link in new Tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: inc/admin/widgets/class-image-widget.php:46
+#: inc/admin/widgets/class-youtube-video.php:39
+#: inc/admin/widgets/class-youtube-video.php:49
+msgid "Please make sure to provide a complete URL that includes either \"http://\" or \"https://\" to ensure the widget operates correctly."
+msgstr "Убедитесь, что Вы указали полный URL,включающий либо \"http://\", либо \"https://\", чтобы убедиться, что виджет работает правильно."
+
+#: inc/admin/widgets/class-image-widget.php:45
+msgid "Link to URL"
+msgstr "Ссылка на URL"
+
+#: inc/admin/widgets/class-image-widget.php:41
+msgid "Button Text"
+msgstr "Текст на кнопке"
+
+#: inc/admin/widgets/class-image-widget.php:37
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/admin/widgets/class-image-widget.php:33
+msgid "Widget Description"
+msgstr "Описание виджета"
+
+#: inc/admin/widgets/class-image-widget.php:29
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:86
+msgid "Widget Title"
+msgstr "Название виджета"
+
+#: inc/admin/widgets/class-image-widget.php:16
+msgid "TrendingNews: Image Widget"
+msgstr ""
+
+#: inc/admin/widgets/class-image-widget.php:14
+msgid "The Image Widget offers versatile design with two style variations. Effortlessly incorporate images, titles, descriptions, and links for dynamic and engaging content presentation in a single widget."
+msgstr "Виджет изображения предлагает универсальный дизайн с двумя вариантами стиля. С легкостью включайте изображения, заголовки, описания и ссылки для динамичного и увлекательного представления контента в одном виджете."
+
+#: inc/admin/widgets/class-grid-post.php:119
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: inc/admin/widgets/class-grid-post.php:114
+#: inc/admin/widgets/class-recent-post.php:112
+#: inc/admin/widgets/class-tab-post.php:267
+msgid "Show Image"
+msgstr "Показать изображение"
+
+#: inc/admin/widgets/class-grid-post.php:81
+#: inc/admin/widgets/class-multi-grid-post.php:57
+#: inc/admin/widgets/class-recent-post.php:74
+#: inc/admin/widgets/class-slider-post.php:83
+#: inc/admin/widgets/class-tab-post.php:212
+msgid "Number of posts to show"
+msgstr "Количество записей для показа"
+
+#: inc/admin/widgets/class-grid-post.php:34
+#: inc/admin/widgets/class-recent-post.php:34
+#: inc/admin/widgets/class-tab-post.php:255
+msgid "List View"
+msgstr "В виде списка"
+
+#: inc/admin/widgets/class-grid-post.php:31
+#: inc/admin/widgets/class-image-widget.php:65
+#: inc/admin/widgets/class-multi-grid-post.php:159
+#: inc/admin/widgets/class-social-menu.php:44
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/admin/widgets/class-grid-post.php:27
+msgid "Grid Posts"
+msgstr "Записи сеткой"
+
+#: inc/admin/widgets/class-grid-post.php:13
+msgid "TrendingNews: Grid Posts"
+msgstr ""
+
+#: inc/admin/widgets/class-grid-post.php:11
+msgid "Displays grid posts with an image"
+msgstr "Отображает записи сеткой с изображением"
+
+#: inc/admin/widgets/class-category-grid.php:84
+msgid "Show Post Count"
+msgstr "Показать счетчик записей"
+
+#: inc/admin/widgets/class-category-grid.php:70
+msgid "Number of Column"
+msgstr "Кол-во столбцов"
+
+#: inc/admin/widgets/class-category-grid.php:61
+msgid "Select Categories"
+msgstr "Выбрать рубрики"
+
+#: inc/admin/widgets/class-category-grid.php:14
+msgid "TrendingNews: Categories"
+msgstr "TrendingNews: рубрики"
+
+#: inc/admin/widgets/class-category-grid.php:12
+msgid "Displays post categories with image in grid"
+msgstr "Отображает рубрики записи с изображением в сетке"
+
+#: inc/admin/widgets/class-carousel-slider.php:510
+#: inc/admin/widgets/class-grid-post.php:251
+#: inc/admin/widgets/class-jumbo-post.php:256
+#: inc/admin/widgets/class-jumbo-post.php:319
+#: inc/admin/widgets/class-jumbo-post.php:378
+#: inc/admin/widgets/class-metro-post.php:301
+#: inc/admin/widgets/class-multi-grid-post.php:292
+#: inc/admin/widgets/class-multi-grid-post.php:359
+#: inc/admin/widgets/class-recent-post.php:328
+#: inc/admin/widgets/class-slider-post.php:410
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:220
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:277
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:201
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:180
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:193
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-1.php:140
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-2.php:179
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-3.php:159
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-4.php:156
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-grid-5.php:157
+msgid "Post Date"
+msgstr "Дата записи"
+
+#: inc/admin/widgets/class-carousel-slider.php:281
+#: inc/admin/widgets/class-slider-post.php:96
+msgid "Enable Excerpt"
+msgstr "Включить отрывок"
+
+#: inc/admin/widgets/class-carousel-slider.php:277
+#: inc/admin/widgets/class-grid-post.php:74
+#: inc/admin/widgets/class-jumbo-post.php:88
+#: inc/admin/widgets/class-metro-post.php:100
+#: inc/admin/widgets/class-multi-grid-post.php:120
+#: inc/admin/widgets/class-recent-post.php:197
+#: inc/admin/widgets/class-slider-post.php:257
+#: inc/admin/widgets/class-tab-post.php:248
+msgid "Number of Category to show"
+msgstr "Кол-во рубрик для показа"
+
+#: inc/admin/widgets/class-carousel-slider.php:264
+#: inc/admin/widgets/class-grid-post.php:61
+#: inc/admin/widgets/class-jumbo-post.php:75
+#: inc/admin/widgets/class-metro-post.php:87
+#: inc/admin/widgets/class-multi-grid-post.php:107
+#: inc/admin/widgets/class-recent-post.php:184
+#: inc/admin/widgets/class-slider-post.php:244
+#: inc/admin/widgets/class-tab-post.php:235
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:218
+msgid "Category Option"
+msgstr "Вариант рубрики"
+
+#: inc/admin/widgets/class-carousel-slider.php:260
+#: inc/admin/widgets/class-grid-post.php:57
+#: inc/admin/widgets/class-jumbo-post.php:71
+#: inc/admin/widgets/class-metro-post.php:83
+#: inc/admin/widgets/class-multi-grid-post.php:103
+#: inc/admin/widgets/class-recent-post.php:180
+#: inc/admin/widgets/class-slider-post.php:240
+#: inc/admin/widgets/class-tab-post.php:231
+msgid "Category Text"
+msgstr "Текст рубрики"
+
+#: inc/admin/widgets/class-carousel-slider.php:255
+#: inc/admin/widgets/class-grid-post.php:52
+#: inc/admin/widgets/class-jumbo-post.php:66
+#: inc/admin/widgets/class-metro-post.php:78
+#: inc/admin/widgets/class-multi-grid-post.php:98
+#: inc/admin/widgets/class-recent-post.php:175
+#: inc/admin/widgets/class-slider-post.php:235
+#: inc/admin/widgets/class-tab-post.php:226
+msgid "Show Category"
+msgstr "Показать рубрику"
+
+#: inc/admin/widgets/class-carousel-slider.php:251
+#: inc/admin/widgets/class-jumbo-post.php:123
+#: inc/admin/widgets/class-metro-post.php:135
+#: inc/admin/widgets/class-multi-grid-post.php:155
+#: inc/admin/widgets/class-recent-post.php:171
+#: inc/admin/widgets/class-slider-post.php:231
+msgid "This only works when the \"With Label\" option is selected under \"Author Option\""
+msgstr "Это работает только в том случае, если опция \"С этикеткой\" выбрана в разделе \"Вариант автора\""
+
+#: inc/admin/widgets/class-carousel-slider.php:250
+#: inc/admin/widgets/class-jumbo-post.php:122
+#: inc/admin/widgets/class-metro-post.php:134
+#: inc/admin/widgets/class-multi-grid-post.php:154
+#: inc/admin/widgets/class-recent-post.php:170
+#: inc/admin/widgets/class-slider-post.php:230
+msgid "By:"
+msgstr "От:"
+
+#: inc/admin/widgets/class-carousel-slider.php:249
+#: inc/admin/widgets/class-jumbo-post.php:121
+#: inc/admin/widgets/class-metro-post.php:133
+#: inc/admin/widgets/class-multi-grid-post.php:153
+#: inc/admin/widgets/class-recent-post.php:169
+#: inc/admin/widgets/class-slider-post.php:229
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:266
+msgid "Author Text"
+msgstr "Текст автора"
+
+#: inc/admin/widgets/class-carousel-slider.php:239
+#: inc/admin/widgets/class-jumbo-post.php:111
+#: inc/admin/widgets/class-metro-post.php:123
+#: inc/admin/widgets/class-multi-grid-post.php:143
+#: inc/admin/widgets/class-recent-post.php:159
+#: inc/admin/widgets/class-slider-post.php:219
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:254
+msgid "Author Option"
+msgstr "Вариант автора"
+
+#: inc/admin/widgets/class-carousel-slider.php:234
+#: inc/admin/widgets/class-jumbo-post.php:106
+#: inc/admin/widgets/class-metro-post.php:118
+#: inc/admin/widgets/class-multi-grid-post.php:138
+#: inc/admin/widgets/class-recent-post.php:154
+#: inc/admin/widgets/class-slider-post.php:214
+msgid "Show Author"
+msgstr "Показать автора"
+
+#: inc/admin/widgets/class-carousel-slider.php:225
+#: inc/admin/widgets/class-grid-post.php:137
+#: inc/admin/widgets/class-jumbo-post.php:97
+#: inc/admin/widgets/class-metro-post.php:109
+#: inc/admin/widgets/class-multi-grid-post.php:129
+#: inc/admin/widgets/class-recent-post.php:145
+#: inc/admin/widgets/class-slider-post.php:205
+#: inc/admin/widgets/class-tab-post.php:216
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:290
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: inc/admin/widgets/class-carousel-slider.php:220
+#: inc/admin/widgets/class-grid-post.php:132
+#: inc/admin/widgets/class-jumbo-post.php:92
+#: inc/admin/widgets/class-metro-post.php:104
+#: inc/admin/widgets/class-multi-grid-post.php:124
+#: inc/admin/widgets/class-recent-post.php:140
+#: inc/admin/widgets/class-slider-post.php:200
+msgid "Show Date"
+msgstr "Показать дату"
+
+#: inc/admin/widgets/class-carousel-slider.php:201
+#: inc/admin/widgets/class-grid-post.php:95
+#: inc/admin/widgets/class-recent-post.php:88
+#: inc/admin/widgets/class-slider-post.php:181
+msgid "Order by"
+msgstr "Упорядочить по"
+
+#: inc/admin/widgets/class-carousel-slider.php:195
+msgid "Distance between slides in px."
+msgstr "Расстояние между слайдами в px."
+
+#: inc/admin/widgets/class-carousel-slider.php:194
+msgid "Space Between"
+msgstr "Пробел между"
+
+#: inc/admin/widgets/class-carousel-slider.php:185
+msgid "Centered Mode"
+msgstr "Режим центрирования"
+
+#: inc/admin/widgets/class-carousel-slider.php:180
+#: inc/admin/widgets/class-slider-post.php:175
+msgid "Autoplay"
+msgstr "Автозапуск"
+
+#: inc/admin/widgets/class-carousel-slider.php:166
+#: inc/admin/widgets/class-slider-post.php:161
+msgid "Change Height of Slides."
+msgstr "Изменить высоту слайдов."
+
+#: inc/admin/widgets/class-carousel-slider.php:165
+#: inc/admin/widgets/class-slider-post.php:160
+msgid "Height (px)"
+msgstr "Высота (px)"
+
+#: inc/admin/widgets/class-carousel-slider.php:155
+#: inc/admin/widgets/class-slider-post.php:150
+msgid "Gradient"
+msgstr "Градиент"
+
+#: inc/admin/widgets/class-carousel-slider.php:154
+#: inc/admin/widgets/class-slider-post.php:149
+msgid "Regular"
+msgstr "Обычный"
+
+#: inc/admin/widgets/class-carousel-slider.php:152
+#: inc/admin/widgets/class-slider-post.php:147
+msgid "Background overlay style"
+msgstr "Стиль наложения фона"
+
+#: inc/admin/widgets/class-carousel-slider.php:147
+#: inc/admin/widgets/class-slider-post.php:142
+msgid "Enable background overlay"
+msgstr "Включить наложение фона"
+
+#: inc/admin/widgets/class-carousel-slider.php:141
+#: inc/admin/widgets/class-category-grid.php:104
+#: inc/admin/widgets/class-metro-post.php:60
+#: inc/admin/widgets/class-recent-post.php:134
+#: inc/admin/widgets/class-slider-post.php:136
+#: inc/admin/widgets/class-tab-post.php:287
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: inc/admin/widgets/class-carousel-slider.php:140
+#: inc/admin/widgets/class-category-grid.php:103
+#: inc/admin/widgets/class-metro-post.php:59
+#: inc/admin/widgets/class-recent-post.php:133
+#: inc/admin/widgets/class-slider-post.php:135
+#: inc/admin/widgets/class-tab-post.php:286
+msgid "Slide"
+msgstr "Слайд"
+
+#: inc/admin/widgets/class-carousel-slider.php:139
+#: inc/admin/widgets/class-category-grid.php:102
+#: inc/admin/widgets/class-metro-post.php:58
+#: inc/admin/widgets/class-recent-post.php:132
+#: inc/admin/widgets/class-slider-post.php:134
+#: inc/admin/widgets/class-tab-post.php:285
+msgid "Shine"
+msgstr "Сияние"
+
+#: inc/admin/widgets/class-carousel-slider.php:137
+#: inc/admin/widgets/class-category-grid.php:100
+#: inc/admin/widgets/class-metro-post.php:56
+#: inc/admin/widgets/class-recent-post.php:130
+#: inc/admin/widgets/class-slider-post.php:132
+#: inc/admin/widgets/class-tab-post.php:283
+msgid "Image hover effects"
+msgstr "Эффекты при наведении изображения"
+
+#: inc/admin/widgets/class-carousel-slider.php:130
+#: inc/admin/widgets/class-grid-post.php:125
+#: inc/admin/widgets/class-recent-post.php:123
+#: inc/admin/widgets/class-slider-post.php:126
+msgid "Full"
+msgstr "По ширине"
+
+#: inc/admin/widgets/class-carousel-slider.php:128
+#: inc/admin/widgets/class-grid-post.php:123
+#: inc/admin/widgets/class-recent-post.php:121
+#: inc/admin/widgets/class-slider-post.php:124
+#: inc/admin/widgets/class-tab-post.php:276
+msgid "Medium Large"
+msgstr "Больше среднего"
+
+#: inc/admin/widgets/class-carousel-slider.php:125
+#: inc/admin/widgets/class-category-grid.php:89
+#: inc/admin/widgets/class-multi-grid-post.php:70
+#: inc/admin/widgets/class-recent-post.php:117
+#: inc/admin/widgets/class-slider-post.php:121
+#: inc/admin/widgets/class-tab-post.php:272
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: inc/admin/widgets/class-carousel-slider.php:119
+#: inc/admin/widgets/class-category-grid.php:55
+#: inc/admin/widgets/class-recent-post.php:54
+#: inc/admin/widgets/class-slider-post.php:115
+#: inc/admin/widgets/class-tab-post.php:306
+msgid "Italic"
+msgstr "Курсив"
+
+#: inc/admin/widgets/class-carousel-slider.php:118
+#: inc/admin/widgets/class-category-grid.php:54
+#: inc/admin/widgets/class-recent-post.php:53
+#: inc/admin/widgets/class-slider-post.php:114
+#: inc/admin/widgets/class-tab-post.php:305
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/admin/widgets/class-carousel-slider.php:116
+#: inc/admin/widgets/class-category-grid.php:52
+#: inc/admin/widgets/class-recent-post.php:51
+#: inc/admin/widgets/class-slider-post.php:112
+#: inc/admin/widgets/class-tab-post.php:303
+msgid "Entry title font style"
+msgstr "Стиль шрифта заголовка записи"
+
+#: inc/admin/widgets/class-carousel-slider.php:110
+#: inc/admin/widgets/class-carousel-slider.php:129
+#: inc/admin/widgets/class-category-grid.php:91
+#: inc/admin/widgets/class-grid-post.php:124
+#: inc/admin/widgets/class-multi-grid-post.php:72
+#: inc/admin/widgets/class-recent-post.php:122
+#: inc/admin/widgets/class-slider-post.php:106
+#: inc/admin/widgets/class-slider-post.php:125
+#: inc/admin/widgets/class-tab-post.php:277
+msgid "Large"
+msgstr "Большой"
+
+#: inc/admin/widgets/class-carousel-slider.php:109
+#: inc/admin/widgets/class-category-grid.php:46
+#: inc/admin/widgets/class-category-grid.php:92
+#: inc/admin/widgets/class-multi-grid-post.php:73
+#: inc/admin/widgets/class-recent-post.php:45
+#: inc/admin/widgets/class-slider-post.php:105
+#: inc/admin/widgets/class-tab-post.php:297
+msgid "Big"
+msgstr "Большой"
+
+#: inc/admin/widgets/class-carousel-slider.php:108
+#: inc/admin/widgets/class-carousel-slider.php:127
+#: inc/admin/widgets/class-category-grid.php:45
+#: inc/admin/widgets/class-category-grid.php:93
+#: inc/admin/widgets/class-grid-post.php:122
+#: inc/admin/widgets/class-multi-grid-post.php:37
+#: inc/admin/widgets/class-multi-grid-post.php:46
+#: inc/admin/widgets/class-multi-grid-post.php:74
+#: inc/admin/widgets/class-recent-post.php:44
+#: inc/admin/widgets/class-recent-post.php:120
+#: inc/admin/widgets/class-slider-post.php:104
+#: inc/admin/widgets/class-slider-post.php:123
+#: inc/admin/widgets/class-tab-post.php:275
+#: inc/admin/widgets/class-tab-post.php:296
+msgid "Medium"
+msgstr "Средний"
+
+#: inc/admin/widgets/class-carousel-slider.php:107
+#: inc/admin/widgets/class-category-grid.php:44
+#: inc/admin/widgets/class-category-grid.php:94
+#: inc/admin/widgets/class-multi-grid-post.php:38
+#: inc/admin/widgets/class-multi-grid-post.php:47
+#: inc/admin/widgets/class-multi-grid-post.php:75
+#: inc/admin/widgets/class-recent-post.php:43
+#: inc/admin/widgets/class-slider-post.php:103
+#: inc/admin/widgets/class-tab-post.php:295
+msgid "Small"
+msgstr "Небольшой"
+
+#: inc/admin/widgets/class-carousel-slider.php:105
+#: inc/admin/widgets/class-category-grid.php:42
+#: inc/admin/widgets/class-recent-post.php:41
+#: inc/admin/widgets/class-slider-post.php:101
+#: inc/admin/widgets/class-tab-post.php:293
+msgid "Entry title font size"
+msgstr "Размер шрифта заголовка записи"
+
+#: inc/admin/widgets/class-carousel-slider.php:101
+#: inc/admin/widgets/class-grid-post.php:90
+#: inc/admin/widgets/class-jumbo-post.php:50
+#: inc/admin/widgets/class-metro-post.php:52
+#: inc/admin/widgets/class-multi-grid-post.php:66
+#: inc/admin/widgets/class-recent-post.php:83
+#: inc/admin/widgets/class-slider-post.php:92
+msgid "Offsets are used to skip a certain number of WordPress posts before starting output. Set it to 0 if you do not wish to use this feature."
+msgstr "Смещение используется для пропуска определенного количества записей WordPress перед началом вывода. установить значение 0, если вы не хотите использовать эту функцию."
+
+#: inc/admin/widgets/class-carousel-slider.php:100
+#: inc/admin/widgets/class-grid-post.php:89
+#: inc/admin/widgets/class-jumbo-post.php:49
+#: inc/admin/widgets/class-metro-post.php:51
+#: inc/admin/widgets/class-multi-grid-post.php:65
+#: inc/admin/widgets/class-recent-post.php:82
+#: inc/admin/widgets/class-slider-post.php:91
+#: inc/admin/widgets/class-tab-post.php:67
+#: inc/admin/widgets/class-tab-post.php:123
+#: inc/admin/widgets/class-tab-post.php:179
+msgid "Offset"
+msgstr "Смещение"
+
+#: inc/admin/widgets/class-carousel-slider.php:92
+msgid "Number of Slides to show"
+msgstr "Кол-во слайдов для показа"
+
+#: inc/admin/widgets/class-carousel-slider.php:84
+msgid "Total Number of posts to slider"
+msgstr "Общее количество записей в слайдере"
+
+#: inc/admin/widgets/class-carousel-slider.php:70
+#: inc/admin/widgets/class-grid-post.php:41
+#: inc/admin/widgets/class-jumbo-post.php:54
+#: inc/admin/widgets/class-metro-post.php:66
+#: inc/admin/widgets/class-multi-grid-post.php:86
+#: inc/admin/widgets/class-recent-post.php:60
+#: inc/admin/widgets/class-slider-post.php:68
+#: inc/admin/widgets/class-tab-post.php:51
+#: inc/admin/widgets/class-tab-post.php:107
+#: inc/admin/widgets/class-tab-post.php:163
+msgid "Select Category"
+msgstr "Выбрать рубрику"
+
+#: inc/admin/widgets/class-carousel-slider.php:64
+#: inc/admin/widgets/class-grid-post.php:35
+#: inc/admin/widgets/class-recent-post.php:35
+#: inc/admin/widgets/class-slider-post.php:62
+#: inc/admin/widgets/class-tab-post.php:256
+msgid "Card View"
+msgstr "Вид карты"
+
+#: inc/admin/widgets/class-carousel-slider.php:63
+#: inc/admin/widgets/class-grid-post.php:33
+#: inc/admin/widgets/class-recent-post.php:33
+#: inc/admin/widgets/class-slider-post.php:61
+#: inc/admin/widgets/class-tab-post.php:254
+msgid "Regular View"
+msgstr "Обычный вид"
+
+#: inc/admin/widgets/class-carousel-slider.php:61
+#: inc/admin/widgets/class-category-grid.php:74
+#: inc/admin/widgets/class-recent-post.php:31
+#: inc/admin/widgets/class-slider-post.php:59
+#: inc/admin/widgets/class-tab-post.php:252
+msgid "Display Style"
+msgstr "Стиль отображения"
+
+#: inc/admin/widgets/class-carousel-slider.php:55
+#: inc/admin/widgets/class-image-widget.php:59
+#: inc/admin/widgets/class-slider-post.php:53
+#: inc/admin/widgets/class-social-menu.php:70
+msgid "Right"
+msgstr "Справа"
+
+#: inc/admin/widgets/class-carousel-slider.php:54
+#: inc/admin/widgets/class-image-widget.php:58
+#: inc/admin/widgets/class-slider-post.php:52
+#: inc/admin/widgets/class-social-menu.php:68
+msgid "Left"
+msgstr "Слева"
+
+#: inc/admin/widgets/class-carousel-slider.php:53
+#: inc/admin/widgets/class-image-widget.php:57
+#: inc/admin/widgets/class-slider-post.php:51
+#: inc/admin/widgets/class-social-menu.php:69
+msgid "Center"
+msgstr "По центру"
+
+#: inc/admin/widgets/class-carousel-slider.php:51
+#: inc/admin/widgets/class-image-widget.php:55
+#: inc/admin/widgets/class-slider-post.php:49
+msgid "Text Alignment"
+msgstr "Выравнивание текста"
+
+#: inc/admin/widgets/class-carousel-slider.php:45
+#: inc/admin/widgets/class-slider-post.php:43
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/admin/widgets/class-carousel-slider.php:44
+#: inc/admin/widgets/class-slider-post.php:42
+msgid "Middle"
+msgstr "Посередине"
+
+#: inc/admin/widgets/class-carousel-slider.php:43
+#: inc/admin/widgets/class-slider-post.php:41
+msgid "Top"
+msgstr "Верх"
+
+#: inc/admin/widgets/class-carousel-slider.php:41
+#: inc/admin/widgets/class-slider-post.php:39
+msgid "Vertical Alignment"
+msgstr "Вертикальное выравнивание"
+
+#: inc/admin/widgets/class-carousel-slider.php:37
+#: inc/admin/widgets/class-slider-post.php:35
+msgid "Works exclusively in the fullwidth widget area"
+msgstr ""
+
+#: inc/admin/widgets/class-carousel-slider.php:34
+#: inc/admin/widgets/class-slider-post.php:32
+msgid "Full Width Layout"
+msgstr "Макет во всю ширину"
+
+#: inc/admin/widgets/class-carousel-slider.php:33
+#: inc/admin/widgets/class-slider-post.php:31
+msgid "Wrapper Layout"
+msgstr "Макет обертки"
+
+#: inc/admin/widgets/class-carousel-slider.php:31
+#: inc/admin/widgets/class-slider-post.php:29
+msgid "Display Layout"
+msgstr "Отображение макета"
+
+#: inc/admin/widgets/class-carousel-slider.php:27
+msgid "Carousel Posts"
+msgstr "Карусель записей"
+
+#: inc/admin/widgets/class-carousel-slider.php:13
+msgid "TrendingNews: Carousel Posts"
+msgstr "TrendingNews: Карусель записей"
+
+#: inc/admin/widgets/class-carousel-slider.php:11
+msgid "Displays recent posts in a carousel slider with an image"
+msgstr "Отображение последних записей в каруселе слайдера с изображением"
+
+#: inc/admin/widgets/class-author.php:241
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: inc/admin/widgets/class-author.php:179 inc/admin/widgets/widget-base.php:530
+msgid "Choose an Image"
+msgstr "Выбрать изображение"
+
+#: inc/admin/widgets/class-author.php:179 inc/admin/widgets/widget-base.php:530
+msgid "Use Image"
+msgstr "Использовать изображение"
+
+#: inc/admin/widgets/class-author.php:136
+msgid "Social Icon Color"
+msgstr "Цвет значка соцсетей"
+
+#: inc/admin/widgets/class-author.php:135
+msgid "Circular Social Icon"
+msgstr "Круглый значок соцсети"
+
+#: inc/admin/widgets/class-author.php:134
+msgid "Enable Image Border Radius"
+msgstr "Включить радиус рамки изображения"
+
+#: inc/admin/widgets/class-author.php:133
+msgid "Image:"
+msgstr "Изображение:"
+
+#: inc/admin/widgets/class-author.php:132
+msgid "Description:"
+msgstr "Описание:"
+
+#: inc/admin/widgets/class-author.php:131
+msgid "Author Position:"
+msgstr "Позиция автора:"
+
+#: inc/admin/widgets/class-author.php:130
+msgid "Author Name:"
+msgstr "Имя автора:"
+
+#: inc/admin/widgets/class-author.php:129
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:61
+msgid "Title:"
+msgstr "Название:"
+
+#: inc/admin/widgets/class-author.php:19
+msgid "Displays author information."
+msgstr "Отображает инфо об авторе."
+
+#: inc/admin/widgets/class-author.php:18
+msgid "TrendingNews: Author Widget"
+msgstr ""
+
+#: inc/admin/meta-box/meta-box.php:211
+msgid "Enable More From Author Section"
+msgstr "Включить больше из раздела автора"
+
+#: inc/admin/meta-box/meta-box.php:193
+msgid "Enable You May Also Like Section"
+msgstr "Включить раздел Вам также может понравиться"
+
+#: inc/admin/meta-box/meta-box.php:150
+msgid "Display Category Meta"
+msgstr "Отображение мета категории"
+
+#: inc/admin/meta-box/meta-box.php:133
+msgid "Enable Author Info"
+msgstr "Включить инфо об авторе"
+
+#: inc/admin/meta-box/meta-box.php:125 inc/admin/meta-box/meta-box.php:136
+#: inc/admin/meta-box/meta-box.php:154 inc/admin/meta-box/meta-box.php:167
+#: inc/admin/meta-box/meta-box.php:180 inc/admin/meta-box/meta-box.php:197
+#: inc/admin/meta-box/meta-box.php:216
+msgid "Inherit"
+msgstr "Унаследовать"
+
+#: inc/admin/meta-box/meta-box.php:122
+msgid "Enable Sticky Posts Navigation"
+msgstr "Включить навигацию по прикреплённым записям"
+
+#: inc/admin/meta-box/meta-box.php:115 inc/admin/meta-box/meta-box.php:126
+#: inc/admin/meta-box/meta-box.php:137 inc/admin/meta-box/meta-box.php:155
+#: inc/admin/meta-box/meta-box.php:168 inc/admin/meta-box/meta-box.php:181
+#: inc/admin/meta-box/meta-box.php:198 inc/admin/meta-box/meta-box.php:217
+msgid "Yes"
+msgstr "Да"
+
+#: inc/admin/meta-box/meta-box.php:114 inc/admin/meta-box/meta-box.php:127
+#: inc/admin/meta-box/meta-box.php:138 inc/admin/meta-box/meta-box.php:156
+#: inc/admin/meta-box/meta-box.php:169 inc/admin/meta-box/meta-box.php:182
+#: inc/admin/meta-box/meta-box.php:199 inc/admin/meta-box/meta-box.php:218
+msgid "No"
+msgstr "Нет"
+
+#: inc/admin/meta-box/meta-box.php:109
+msgid "Mark as Featured"
+msgstr "Отметить как Избранное"
+
+#: inc/admin/meta-box/meta-box.php:75
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: inc/admin/meta-box/meta-box.php:71 inc/admin/meta-box/meta-box.php:90
+msgid "Layout Options"
+msgstr "Параметры макета"
+
+#: inc/admin/meta-box/meta-box.php:66
+msgid "This action overrides the global settings from the theme customizer. Leave it unchanged if you want it to remain aligned with the global settings."
+msgstr "Это действие переопределяет глобальные настройки из настройщика темы. Оставьте его без изменений, если Вы хотите, чтобы оно оставалось в соответствии с глобальными настройками."
+
+#. translators: %s: Post Type.
+#: inc/admin/meta-box/meta-box.php:24
+msgid "%s Settings"
+msgstr "Настройки %s"
+
+#: inc/admin/meta-box/category-meta-box.php:111
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/admin/meta-box/category-meta-box.php:95
+msgid "Use image"
+msgstr "Использовать изображение"
+
+#: inc/admin/meta-box/category-meta-box.php:94
+msgid "Choose an image"
+msgstr "Выбрать изображение"
+
+#: inc/admin/meta-box/category-meta-box.php:27
+#: inc/admin/meta-box/category-meta-box.php:57
+msgid "Select color for this category that will be displayed on the front end in many sections."
+msgstr "Выбрать цвет для этой категории, которая будет отображаться на клиентской стороне во многих разделах."
+
+#: inc/admin/meta-box/category-meta-box.php:25
+#: inc/admin/meta-box/category-meta-box.php:54
+msgid "Category Color"
+msgstr "Цвет рубрики"
+
+#: inc/admin/meta-box/category-meta-box.php:20
+#: inc/admin/meta-box/category-meta-box.php:48
+#: inc/admin/widgets/class-author.php:182 inc/admin/widgets/widget-base.php:533
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: inc/admin/meta-box/category-meta-box.php:19
+#: inc/admin/meta-box/category-meta-box.php:47
+#: inc/admin/widgets/class-author.php:180 inc/admin/widgets/widget-base.php:531
+msgid "Upload/Add image"
+msgstr "Загрузить/добавить изображение"
+
+#: inc/admin/meta-box/category-meta-box.php:13
+#: inc/admin/meta-box/category-meta-box.php:40
+#: inc/admin/meta-box/category-meta-box.php:122
+#: inc/admin/widgets/class-grid-post.php:121
+#: inc/admin/widgets/class-recent-post.php:119
+#: inc/admin/widgets/class-tab-post.php:274
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: inc/admin/dashboard/views/starter-templates.php:12
+msgid "To import starter sites for TrendingNews, you need to install and activate the One-Click Demo Import and WPInterface Add-ons plugins."
+msgstr "Чтобы импортировать стартовые сайты для TruthNews, Вам необходимо установить и активировать плагины One-Click Demo Import и Дополнения WPInterface."
+
+#: inc/admin/dashboard/views/products.php:128
+msgid "Plugin Page"
+msgstr "Страница плагина"
+
+#: inc/admin/dashboard/views/products.php:71
+msgid "Plugins"
+msgstr "Плагины"
+
+#: inc/admin/dashboard/views/products.php:61
+msgid "Live demo"
+msgstr "Демо в реальном времени"
+
+#: inc/admin/dashboard/views/products.php:6
+msgid "Themes"
+msgstr "Темы"
+
+#. translators: %s: Theme Name.
+#: inc/admin/dashboard/views/help.php:117
+msgid "Sharing your review is a valuable way to help us enhance your experience."
+msgstr ""
+
+#: inc/admin/dashboard/views/help.php:81
+#: inc/admin/widgets/class-youtube-video.php:83
+msgid "Subscribe"
+msgstr "Подписка"
+
+#: inc/admin/dashboard/views/help.php:80
+msgid "Join our YouTube haven, where the latest news and updates eagerly await your arrival."
+msgstr "Присоединяйтесь к нашему пристанищу на YouTube, где последние новости и обновления с нетерпением ждут вашего прибытия."
+
+#: inc/admin/dashboard/views/help.php:79
+msgid "Youtube Community"
+msgstr "Сообщество YouTube"
+
+#: inc/admin/dashboard/views/help.php:76
+msgid "youtube"
+msgstr "youTube"
+
+#: inc/admin/dashboard/views/help.php:71
+msgid "Connect with us on X"
+msgstr "Свяжитесь с нами на X"
+
+#: inc/admin/dashboard/views/help.php:70
+msgid "Join our Twitter haven, where the latest news and updates eagerly await your arrival."
+msgstr "Присоединяйтесь к нашему пристанищу на Twitter, где последние новости и обновления с нетерпением ждут вашего прибытия."
+
+#: inc/admin/dashboard/views/help.php:69
+msgid "X Community"
+msgstr "Сообщество X"
+
+#: inc/admin/dashboard/views/help.php:66
+msgid "x"
+msgstr "x"
+
+#: inc/admin/dashboard/views/help.php:61
+msgid "Like or follow us on Facebook"
+msgstr "Ставьте лайк или следуйте за нами на Facebook"
+
+#: inc/admin/dashboard/views/help.php:60
+msgid "Join our Facebook haven, where the latest news and updates eagerly await your arrival."
+msgstr "Присоединяйтесь к нашему пристанищу на Facebook, где последние новости и обновления с нетерпением ждут вашего прибытия."
+
+#: inc/admin/dashboard/views/help.php:56
+msgid "facebook"
+msgstr "facebook"
+
+#: inc/admin/dashboard/views/help.php:53
+msgid "Join Our Community"
+msgstr "Присоединяйтесь к нашему сообществу"
+
+#: inc/admin/dashboard/views/help.php:47
+msgid "Contact Support"
+msgstr "Связаться со службой поддержки"
+
+#: inc/admin/dashboard/views/help.php:38
+msgid "We would be happy to guide you through any issues and queries you have regarding TrendingNews!"
+msgstr ""
+
+#: inc/admin/dashboard/views/help.php:30
+msgid "View Now"
+msgstr "Смотри сейчас"
+
+#: inc/admin/dashboard/views/help.php:27
+msgid "Please check out basic documentation for detailed information on how to use TrendingNews."
+msgstr "Пожалуйста, ознакомьтесь с основной документацией, чтобы получить подробную информацию о том, как использовать TrendingNews."
+
+#: inc/admin/dashboard/views/help.php:26
+msgid "Read Theme Documentation"
+msgstr "Читать документацию темы"
+
+#: inc/admin/dashboard/views/free-vs-pro.php:284
+msgid "Get TrendingNews Pro Now"
+msgstr "Получите TrendingNews Pro прямо сейчас"
+
+#: inc/admin/dashboard/views/free-vs-pro.php:282
+msgid "Access all premium extensions, features, and upcoming updates right away by <br> upgrading to the Pro version."
+msgstr "Получите доступ ко всем премиум-расширениям, функциям и грядущим обновлениям сразу же, <br> перейдя на версию Pro."
+
+#: inc/admin/dashboard/views/free-vs-pro.php:215
+msgid "Pro"
+msgstr "ПРО"
+
+#: inc/admin/dashboard/views/free-vs-pro.php:214
+msgid "Free"
+msgstr "Free"
+
+#: inc/admin/dashboard/views/dashboard.php:438
+msgid "Like or follow our Facebook Page"
+msgstr "Ставьте лайк или следите за нашей страницей в Facebook"
+
+#: inc/admin/dashboard/views/dashboard.php:435
+msgid "Join our Facebook page to connect with like-minded individuals for discussions, help, and support on all things related to the theme!"
+msgstr "Присоединяйтесь к нашей странице в Facebook, чтобы общаться с единомышленниками для обсуждения, получения помощи и поддержки по всем вопросам, связанным с этой темой!"
+
+#: inc/admin/dashboard/views/dashboard.php:413
+#: inc/admin/dashboard/views/help.php:59
+msgid "Facebook Community"
+msgstr "Сообщество Facebook"
+
+#: inc/admin/dashboard/views/dashboard.php:400
+#: inc/admin/dashboard/views/help.php:170
+#: inc/admin/dashboard/views/products.php:138
+msgid "Install"
+msgstr "Установка"
+
+#: inc/admin/dashboard/views/dashboard.php:391
+#: inc/admin/dashboard/views/help.php:165
+#: inc/admin/dashboard/views/products.php:135
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/admin/dashboard/views/dashboard.php:385
+#: inc/admin/dashboard/views/help.php:162
+#: inc/admin/dashboard/views/products.php:133
+msgid "Activated"
+msgstr "Активировано"
+
+#: inc/admin/dashboard/views/dashboard.php:344
+#: inc/admin/dashboard/views/help.php:130
+msgid "Useful Plugins"
+msgstr "Полезные плагины"
+
+#: inc/admin/dashboard/views/dashboard.php:335
+msgid "Create a Ticket"
+msgstr "Создать тикет"
+
+#. translators: %s: Theme Name.
+#: inc/admin/dashboard/views/dashboard.php:330
+msgid "Need assistance? Reach out to our professional support team by submitting a support ticket, and we'll provide you with the help you need."
+msgstr "Нужна помощь? Обратитесь к нашей профессиональной команде поддержки, отправив тикет в службу поддержки, и мы предоставим Вам необходимую помощь."
+
+#: inc/admin/dashboard/views/dashboard.php:323
+#: inc/admin/dashboard/views/help.php:43
+msgid "Community Support"
+msgstr "Поддержка сообщества"
+
+#. translators: %s: Theme Name
+#: inc/admin/dashboard/views/dashboard.php:315
+msgid "Seek answers on the WordPress.org community support forum where a supportive community is ready to assist. While our primary focus is on delivering premium support to our pro users, we're also here to help you with occasional queries regarding our free theme."
+msgstr ""
+
+#: inc/admin/dashboard/views/dashboard.php:297
+#: inc/admin/dashboard/views/help.php:37
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/admin/dashboard/views/dashboard.php:290
+#: inc/admin/dashboard/views/help.php:123
+msgid "Submit a Review"
+msgstr "Отправьте отзыв"
+
+#. translators: %s: Theme Name.
+#: inc/admin/dashboard/views/dashboard.php:284
+msgid "What do you think of our theme? Was it a good experience and did it match your expectations? Let us know so we can improve!"
+msgstr "Что ты думаешь о нашей теме? Был ли это хороший опыт и соответствовал ли он твоим ожиданиям? Дай нам знать, чтобы мы могли совершенствоваться!"
+
+#: inc/admin/dashboard/views/dashboard.php:279
+#: inc/admin/dashboard/views/help.php:112
+msgid "Based on 20+ Reviews"
+msgstr "На основе 20+ отзывов"
+
+#: inc/admin/dashboard/views/dashboard.php:258
+#: inc/admin/dashboard/views/help.php:89
+msgid "Leave us a Review"
+msgstr "Оставьте нам отзыв"
+
+#: inc/admin/dashboard/views/dashboard.php:248
+msgid "Encountering an issue? Our comprehensive and detailed documentation is designed to address your concerns and provide clear, thorough explanations to resolve any confusion."
+msgstr ""
+
+#: inc/admin/dashboard/views/dashboard.php:193
+msgid "FSE Support"
+msgstr "Поддержка ESF"
+
+#: inc/admin/dashboard/views/dashboard.php:189
+msgid "Instagram Widget"
+msgstr "Виджет Instagram"
+
+#: inc/admin/dashboard/views/dashboard.php:185
+msgid "Offcanvas Content Module"
+msgstr "Модуль содержимого вне холста"
+
+#: inc/admin/dashboard/views/dashboard.php:181
+msgid "Extra Customizer Sections"
+msgstr "Дополнительные разделы настройки темы"
+
+#: inc/admin/dashboard/views/dashboard.php:177
+msgid "Modal Popup Module"
+msgstr "Модальный всплывающий модуль"
+
+#: inc/admin/dashboard/views/dashboard.php:173
+msgid "Extra Widget Area"
+msgstr "Дополнительная область виджетов"
+
+#: inc/admin/dashboard/views/dashboard.php:169
+msgid "Remove Theme Credit"
+msgstr "Удалить титры авторства в подвале"
+
+#: inc/admin/dashboard/views/dashboard.php:165
+msgid "Reaction Add-Ons"
+msgstr "Reaction Add-Ons"
+
+#: inc/admin/dashboard/views/dashboard.php:161
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: inc/admin/dashboard/views/dashboard.php:157
+msgid "Advanced Color options"
+msgstr "Расширенные настройки цвета"
+
+#: inc/admin/dashboard/views/dashboard.php:136
+msgid "Premium Features"
+msgstr "Премиум-функции"
+
+#: inc/admin/dashboard/views/dashboard.php:88
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/admin/dashboard/views/dashboard.php:77
+msgid "Quick Settings"
+msgstr "Быстрые настройки"
+
+#: inc/admin/dashboard/views/dashboard.php:61
+msgid "Live Preview"
+msgstr "Предпросмотр в реальном времени"
+
+#: inc/admin/dashboard/views/dashboard.php:47
+msgid "Experience effortless magazine-themed website creation with TrendingNews! Explore all the settings and features here."
+msgstr "Создайте сайт на журнальную тему с помощью TruthNews! Изучите все настройки и возможности здесь."
+
+#: inc/admin/dashboard/views/dashboard.php:42
+msgid "Start Building with TrendingNews!"
+msgstr "Начните строить с TrendingNews!"
+
+#: inc/admin/dashboard/views/dashboard.php:25
+msgid "View Starter Templates"
+msgstr "Просмотр стартовых шаблонов"
+
+#: inc/admin/dashboard/views/dashboard.php:20
+msgid "Install WpInterface Add-Ons"
+msgstr "Установить WpInterface Add-Ons"
+
+#: inc/admin/dashboard/class-welcome-notice.php:97
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: inc/admin/dashboard/class-welcome-notice.php:78
+#: inc/admin/dashboard/views/dashboard.php:226
+#: inc/admin/dashboard/views/dashboard.php:252
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin/dashboard/class-welcome-notice.php:75
+msgid "Theme Dashboard"
+msgstr "Консоль темы"
+
+#: inc/admin/dashboard/class-welcome-notice.php:72
+msgid "Check the quick links below for detailed information and to make the most of all the features our theme offers."
+msgstr "Ознакомьтесь с быстрыми ссылками ниже, чтобы получить подробную информацию и максимально использовать все возможности нашей темы."
+
+#: inc/admin/dashboard/class-welcome-notice.php:71
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: inc/admin/dashboard/class-welcome-notice.php:67
+msgid "Let's start by installing and activating One Click Demo Import, WPInterface Add-ons and MC4WP: Mailchimp for WordPress"
+msgstr "Давайте начнем с установки и активации One Click Demo Import, WPInterface Add-ons и MC4WP: MailChimp for WordPress"
+
+#: inc/admin/dashboard/class-welcome-notice.php:66
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/admin/dashboard/class-welcome-notice.php:60
+msgid "Thank you for choosing TrendingNews!"
+msgstr "Спасибо, что выбрали TrendingNews!"
+
+#: inc/admin/dashboard/class-welcome-notice.php:57
+msgid "Welcome %1$s!"
+msgstr "Добро пожаловать %1$s!"
+
+#: inc/admin/dashboard/class-welcome-notice.php:30
+msgid "Get started"
+msgstr "Приступить"
+
+#: inc/admin/dashboard/class-welcome-notice.php:29
+msgid "Get Started"
+msgstr "Начать"
+
+#: inc/admin/dashboard/class-theme-review-notice.php:137
+#: inc/admin/dashboard/class-theme-review-notice.php:153
+#: inc/admin/dashboard/class-welcome-notice.php:94
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Обновите страницу и попробуйте снова."
+
+#: inc/admin/dashboard/class-theme-review-notice.php:114
+msgid "I have a query"
+msgstr "У меня есть запрос"
+
+#: inc/admin/dashboard/class-theme-review-notice.php:109
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: inc/admin/dashboard/class-theme-review-notice.php:105
+msgid "I already did!"
+msgstr "Я уже сделал!"
+
+#: inc/admin/dashboard/class-theme-review-notice.php:101
+msgid "Sure, I'd love to!"
+msgstr "Конечно, я бы с удовольствием!"
+
+#: inc/admin/dashboard/class-theme-review-notice.php:95
+msgid "Thank you for being an awesome part of our community! 💖"
+msgstr "Спасибо за то, что Вы являетесь замечательной частью нашего сообщества! 💖"
+
+#. translators: %1$s: Opening of strong tag, %2$s: Theme's Name, %3$s: Closing
+#. of strong tag
+#: inc/admin/dashboard/class-theme-review-notice.php:86
+msgid "We hope you're enjoying our %1$s%2$s%3$s WordPress theme! Your feedback helps us improve and reach more users. If you love our theme, please take a moment to leave us a 5-star rating. Your support means the world to us!"
+msgstr "Мы надеемся, что Вам нравится наша тема %1$s%2$s%3$s WordPress! Ваши отзывы помогают нам совершенствоваться и привлекать больше пользователей. Если Вам понравилась наша тема, пожалуйста, уделите время и оставьте нам 5-звездочную оценку. Ваша поддержка значит для нас очень много!"
+
+#: inc/admin/dashboard/class-dashboard.php:221
+msgid "Latest Updates"
+msgstr "Последние обновления"
+
+#: inc/admin/dashboard/class-dashboard.php:206
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: inc/admin/dashboard/class-dashboard.php:202
+#: inc/admin/dashboard/class-welcome-notice.php:81
+#: inc/admin/dashboard/views/dashboard.php:55
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/admin/dashboard/class-dashboard.php:161
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/admin/dashboard/class-dashboard.php:155
+msgid "Free Vs Pro"
+msgstr "Free против Pro"
+
+#: inc/admin/dashboard/class-dashboard.php:149
+msgid "Our Recommendation"
+msgstr "Наша рекомендация"
+
+#: inc/admin/dashboard/class-dashboard.php:143
+msgid "Starter Templates"
+msgstr "Стартовые шаблоны"
+
+#: inc/admin/dashboard/class-dashboard.php:137
+msgid "Dashboard"
+msgstr "Консоль"
+
+#. translators: %s: Theme Name.
+#: inc/admin/dashboard/class-dashboard.php:73 inc/template-tags.php:110
+msgid "%s"
+msgstr "%s"
+
+#: inc/admin/dashboard/class-changelog-parser.php:85
+msgid "Failed to read changelog."
+msgstr "Не удалось прочитать журнал изменений."
+
+#: inc/admin/dashboard/class-changelog-parser.php:77
+msgid "Could not access filesystem."
+msgstr "Нет доступа к файловой системе."
+
+#: inc/admin/dashboard/class-changelog-parser.php:40
+msgid "You are not allowed to access this resource."
+msgstr "Вам не разрешен доступ к этому ресурсу."
+
+#: inc/admin/dashboard/class-changelog-parser.php:25
+#: inc/admin/dashboard/class-changelog-parser.php:81
+msgid "Changelog not found."
+msgstr "Файл журнала изменений не найден."
+
+#: inc/admin/dashboard/class-admin.php:46
+msgid "Processing..."
+msgstr "Обработка…"
+
+#: inc/admin/customizer/sections/top-bar.php:126
+msgid "Enable Social Nav on TopBar"
+msgstr "Включить навигацию соцсетей в верхней панели"
+
+#: inc/admin/customizer/sections/top-bar.php:109
+msgid "Today's Date Format"
+msgstr "Формат сегодняшней даты"
+
+#: inc/admin/customizer/sections/top-bar.php:91
+msgid "Leave empty if you want to use the default text \"Today\"."
+msgstr "Оставьте пустым, если Вы хотите использовать текст по умолчанию \"Сегодня\"."
+
+#: inc/admin/customizer/sections/top-bar.php:90
+msgid "Date Label Text"
+msgstr "Текст этикетки даты"
+
+#: inc/admin/customizer/sections/top-bar.php:73
+msgid "Enable Today's Date"
+msgstr "Включить сегодняшнюю дату"
+
+#: inc/admin/customizer/sections/top-bar.php:56
+msgid "Enable Current Time"
+msgstr "Включить текущее время"
+
+#: inc/admin/customizer/sections/top-bar.php:37
+msgid "Hide Top Bar on Mobile"
+msgstr "Скрыть верхнюю панель на мобильном телефоне"
+
+#: inc/admin/customizer/sections/top-bar.php:21
+msgid "Enable Top Bar"
+msgstr "Включить верхнюю панель"
+
+#: inc/admin/customizer/sections/top-bar.php:5
+msgid "Topbar Options"
+msgstr "Параметры верхней панели"
+
+#: inc/admin/customizer/sections/ticker-post.php:70
+msgid "Ticker Label"
+msgstr "Этикетка бегущей строки"
+
+#: inc/admin/customizer/sections/ticker-post.php:53
+msgid "Enable Ticker Label"
+msgstr "Включить этикетку бегущей строки"
+
+#: inc/admin/customizer/sections/ticker-post.php:21
+msgid "Enable News Ticker Section"
+msgstr "Включить раздел бегущей строки новостей"
+
+#: inc/admin/customizer/sections/ticker-post.php:6
+msgid "News Ticker Options"
+msgstr "Параметры бегущей строки новостей"
+
+#: inc/admin/customizer/sections/tags.php:174
+msgid "Hide Label on Responsive"
+msgstr "Скрыть этикетку на адаптивном"
+
+#: inc/admin/customizer/sections/tags.php:111
+msgid "Number of Tags"
+msgstr "Кол-во меток"
+
+#: inc/admin/customizer/sections/tags.php:94
+msgid "Leave empty if you want it blank"
+msgstr "Оставьте пустым, если хотите, чтобы оно было пустым"
+
+#: inc/admin/customizer/sections/tags.php:93
+msgid "Tags Label Text"
+msgstr "Текст метки тегов"
+
+#: inc/admin/customizer/sections/tags.php:75
+msgid "Plain"
+msgstr "Простой"
+
+#: inc/admin/customizer/sections/tags.php:71
+msgid "Label Style"
+msgstr "Стиль этикетки"
+
+#: inc/admin/customizer/sections/tags.php:54
+msgid "Enable Tags Label"
+msgstr "Включить этикетку тегов"
+
+#: inc/admin/customizer/sections/tags.php:21
+msgid "Enable Tags Section"
+msgstr "Включить раздел меток"
+
+#: inc/admin/customizer/sections/tags.php:6
+msgid "Tags Options"
+msgstr "Параметры тегов"
+
+#: inc/admin/customizer/sections/split-block.php:25
+msgid "Enable Split Block"
+msgstr "Включить разделенный блок"
+
+#: inc/admin/customizer/sections/split-block.php:10
+msgid "Split Block Section"
+msgstr "Раздел разделенного блока"
+
+#: inc/admin/customizer/sections/slider-banner.php:363
+msgid "Enable Slider Control"
+msgstr "Включить управление слайдером"
+
+#: inc/admin/customizer/sections/slider-banner.php:173
+msgid "Banner Slider Meta"
+msgstr "Мета слайдера баннера"
+
+#: inc/admin/customizer/sections/slider-banner.php:154
+msgid "Vertical alignment bottom"
+msgstr "Вертикальное выравнивание внизу"
+
+#: inc/admin/customizer/sections/slider-banner.php:153
+msgid "Vertical alignment space between"
+msgstr "Пространство для выравнивания по вертикали между"
+
+#: inc/admin/customizer/sections/slider-banner.php:152
+msgid "Vertical alignment top"
+msgstr "Вертикальное выравнивание сверху"
+
+#: inc/admin/customizer/sections/slider-banner.php:148
+msgid "Content Vertical Alignment"
+msgstr "Вертикальное выравнивание содержимого"
+
+#: inc/admin/customizer/sections/slider-banner.php:131
+msgid "Enable Banner Overlay"
+msgstr "Включить наложение баннера"
+
+#: inc/admin/customizer/sections/slider-banner.php:114
+msgid "Enable Post Description"
+msgstr "Включить описание записи"
+
+#: inc/admin/customizer/sections/slider-banner.php:98
+msgid "Slider Post Offset"
+msgstr "Смещение слайдера записи"
+
+#: inc/admin/customizer/sections/slider-banner.php:81
+msgid "Choose  Category"
+msgstr "Выбрать рубрику"
+
+#: inc/admin/customizer/sections/slider-banner.php:63
+msgid "8"
+msgstr "8"
+
+#: inc/admin/customizer/sections/slider-banner.php:62
+msgid "7"
+msgstr "7"
+
+#: inc/admin/customizer/sections/slider-banner.php:61
+msgid "6"
+msgstr "6"
+
+#: inc/admin/customizer/sections/slider-banner.php:60
+msgid "5"
+msgstr "5"
+
+#: inc/admin/customizer/sections/slider-banner.php:59
+msgid "4"
+msgstr "4"
+
+#: inc/admin/customizer/sections/slider-banner.php:58
+msgid "3"
+msgstr "3"
+
+#: inc/admin/customizer/sections/slider-banner.php:54
+msgid "Post In Slider"
+msgstr "Запись в слайдере"
+
+#: inc/admin/customizer/sections/slider-banner.php:21
+msgid "Enable Carousel Banner Section"
+msgstr "Включить раздел карусель баннера"
+
+#: inc/admin/customizer/sections/slider-banner.php:5
+msgid "Carousel Banner"
+msgstr "Карусель баннера"
+
+#: inc/admin/customizer/sections/single.php:287
+msgid "Show Author Info Box"
+msgstr "Показать инфо поле автора"
+
+#: inc/admin/customizer/sections/single.php:249
+msgid "Show Sticky Article Navigation"
+msgstr "Показать навигацию прикреплённых статей"
+
+#: inc/admin/customizer/sections/single.php:143
+msgid "Enable Single Category Meta"
+msgstr "Включить мета отдельной рубрики"
+
+#: inc/admin/customizer/sections/single.php:10
+msgid "Single Page Options"
+msgstr "Параметры отдельной страницы"
+
+#: inc/admin/customizer/sections/single-related-post.php:55
+msgid "Number of Related Posts"
+msgstr "Кол-во связанных записей"
+
+#: inc/admin/customizer/sections/single-related-post.php:38
+msgid "Related Posts Text"
+msgstr "Текст связанных записей"
+
+#: inc/admin/customizer/sections/single-related-post.php:21
+msgid "Show Related Posts"
+msgstr "Показать связанные записи"
+
+#: inc/admin/customizer/sections/single-related-post.php:5
+msgid "Single Related Options"
+msgstr ""
+
+#: inc/admin/customizer/sections/sidebar.php:64
+#: inc/admin/customizer/sections/single.php:337
+msgid "Enable Sticky Sidebar"
+msgstr "Включить прикрепленную боковую панель"
+
+#: inc/admin/customizer/sections/sidebar.php:46
+#: inc/admin/customizer/sections/single.php:317
+msgid "Select Sidebar Layout (Single)"
+msgstr "Выбрать макет боковой панели (отдельная)"
+
+#: inc/admin/customizer/sections/sidebar.php:24
+msgid "Select Sidebar Layout (archive)"
+msgstr "Выбрать макет боковой панели (архив)"
+
+#: inc/admin/customizer/sections/sidebar.php:5
+#: inc/admin/customizer/sections/single.php:297
+msgid "SideBar Options"
+msgstr "Параметры боковой панели"
+
+#: inc/admin/customizer/sections/show-author-post.php:55
+msgid "Number of Author Posts"
+msgstr "Кол-во записей автора"
+
+#: inc/admin/customizer/sections/show-author-post.php:38
+msgid "Author Posts Text"
+msgstr "Текст записей автора"
+
+#: inc/admin/customizer/sections/show-author-post.php:21
+msgid "Show Author Posts"
+msgstr "Показать записи автора"
+
+#: inc/admin/customizer/sections/show-author-post.php:5
+msgid "Single Author Post Options"
+msgstr "Параметры записи отдельного автора"
+
+#: inc/admin/customizer/sections/search_trending.php:72
+msgid "Choose Trending posts category"
+msgstr "Выбрать рубрику трендовых записей"
+
+#: inc/admin/customizer/sections/search_trending.php:53
+msgid "Trending Label Text"
+msgstr "Текст трендовой этикетки"
+
+#: inc/admin/customizer/sections/search_trending.php:36
+msgid "Enable Trending Label"
+msgstr "Включить этикетку тренда"
+
+#: inc/admin/customizer/sections/search_trending.php:20
+msgid "Enable Trending"
+msgstr "Включить трендовые"
+
+#: inc/admin/customizer/sections/search_trending.php:5
+msgid "Within Search Modal"
+msgstr "В модальном окне поиска"
+
+#: inc/admin/customizer/sections/preloader.php:41
+msgid "Select Preloader Style"
+msgstr "Выбрать стиль анимации загрузки"
+
+#: inc/admin/customizer/sections/preloader.php:25
+msgid "Enable Preloader Option"
+msgstr "Включить опцию анимации загрузки"
+
+#: inc/admin/customizer/sections/preloader.php:10
+#: inc/admin/dashboard/views/dashboard.php:103
+msgid "Preloader Options"
+msgstr "Параметры анимации загрузки"
+
+#: inc/admin/customizer/sections/popular-post.php:405
+#: inc/admin/widgets/class-carousel-slider.php:175
+#: inc/admin/widgets/class-slider-post.php:170
+msgid "Enable Dots"
+msgstr "Включить точки"
+
+#: inc/admin/customizer/sections/popular-post.php:389
+#: inc/admin/widgets/class-carousel-slider.php:170
+#: inc/admin/widgets/class-slider-post.php:165
+msgid "Enable Arrows"
+msgstr "Включить стрелки"
+
+#: inc/admin/customizer/sections/popular-post.php:373
+msgid "Enable Autoplay"
+msgstr "Включить автовоспроизведение"
+
+#: inc/admin/customizer/sections/popular-post.php:71
+#: inc/admin/customizer/sections/ticker-post.php:71
+msgid "Leave blank to use the default text \"Latest\"."
+msgstr "Оставьте поле пустым, если вы хотите использовать текст по умолчанию \"Последний\"."
+
+#: inc/admin/customizer/sections/popular-post.php:70
+msgid "Popular Label"
+msgstr "Этикетка Популярный"
+
+#: inc/admin/customizer/sections/popular-post.php:53
+msgid "Enable Popular Label"
+msgstr "Включить этикетку Популярный"
+
+#: inc/admin/customizer/sections/popular-post.php:36
+#: inc/admin/customizer/sections/tags.php:37
+#: inc/admin/customizer/sections/ticker-post.php:37
+msgid "Display only on the Homepage"
+msgstr "Отображать только на главной странице"
+
+#: inc/admin/customizer/sections/popular-post.php:20
+msgid "Enable Popular Section"
+msgstr "Включить раздел популярных"
+
+#: inc/admin/customizer/sections/popular-post.php:6
+msgid "Popular Options"
+msgstr "Настройки популярных"
+
+#: inc/admin/customizer/sections/panel.php:137
+msgid "Some basic options for Footer of the site."
+msgstr "Несколько базовых параметров для подвала сайта."
+
+#: inc/admin/customizer/sections/panel.php:136
+#: inc/admin/dashboard/views/dashboard.php:98
+msgid "Footer Options"
+msgstr "Параметры подвала"
+
+#: inc/admin/customizer/sections/panel.php:125
+msgid "Front Page Option"
+msgstr "Опция главной страницы"
+
+#: inc/admin/customizer/sections/panel.php:115
+msgid "Some basic options for Archive of the site."
+msgstr "Несколько базовых параметров для архива сайта."
+
+#: inc/admin/customizer/sections/panel.php:104
+msgid "Some basic options for single page of the site."
+msgstr "Несколько базовых параметров для отдельной страницы сайта."
+
+#: inc/admin/customizer/sections/panel.php:103
+#: inc/admin/dashboard/views/dashboard.php:113
+msgid "Single Options"
+msgstr "Параметры отдельных"
+
+#: inc/admin/customizer/sections/panel.php:93
+#: inc/admin/dashboard/views/dashboard.php:93
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: inc/admin/customizer/sections/panel.php:84
+#: inc/admin/customizer/sections/panel.php:94
+#: inc/admin/customizer/sections/panel.php:126
+msgid "Some basic options for the site."
+msgstr "Несколько базовых параметров для сайта."
+
+#: inc/admin/customizer/sections/panel.php:83
+#: inc/admin/widgets/class-tab-post.php:204
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/admin/customizer/sections/panel.php:57
+msgid "Hide Tagline"
+msgstr "Скрыть краткое описание"
+
+#: inc/admin/customizer/sections/panel.php:42
+msgid "Hide Site Title"
+msgstr "Скрыть название сайта"
+
+#: inc/admin/customizer/sections/panel.php:20
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: inc/admin/customizer/sections/must-read.php:54
+msgid "Choose Must Read category"
+msgstr "Выбрать рубрику Обязательно к прочтению"
+
+#: inc/admin/customizer/sections/must-read.php:20
+msgid "Enable Must Read"
+msgstr "Включить Обязательно к прочтению"
+
+#: inc/admin/customizer/sections/must-read.php:6
+msgid "Must Read Section"
+msgstr "Раздел Обязательно к прочтению"
+
+#: inc/admin/customizer/sections/mobile-menu.php:72
+msgid "Copyright in Mobile"
+msgstr "Авторское право на мобильных"
+
+#: inc/admin/customizer/sections/mobile-menu.php:20
+msgid "Social Menu to Display in Mobile"
+msgstr "Меню соцсети для отображения на мобильных"
+
+#: inc/admin/customizer/sections/mobile-menu.php:5
+msgid "Mobile Menu Options"
+msgstr "Параметры меню для мобильных"
+
+#: inc/admin/customizer/sections/main-metro-banner.php:100
+msgid "Metro Banner Section Meta"
+msgstr ""
+
+#: inc/admin/customizer/sections/main-metro-banner.php:62
+msgid "Choose Metro Banner Category"
+msgstr ""
+
+#: inc/admin/customizer/sections/main-metro-banner.php:25
+msgid "Enable Metro Banner"
+msgstr ""
+
+#: inc/admin/customizer/sections/main-metro-banner.php:10
+msgid "Metro Banner Section"
+msgstr ""
+
+#: inc/admin/customizer/sections/main-banner.php:168
+msgid "Banner Section Meta"
+msgstr "Мета раздела баннера"
+
+#: inc/admin/customizer/sections/main-banner.php:144
+msgid "List Post Offset"
+msgstr "Смещение записи списком"
+
+#: inc/admin/customizer/sections/main-banner.php:127
+msgid "Choose List Post Category"
+msgstr "Выбрать категорию записи списком"
+
+#: inc/admin/customizer/sections/main-banner.php:108
+msgid "Banner List"
+msgstr "Список баннера"
+
+#: inc/admin/customizer/sections/main-banner.php:86
+#: inc/admin/customizer/sections/main-metro-banner.php:80
+msgid "First Category Post Offset"
+msgstr "Первая категория Запись смещения"
+
+#: inc/admin/customizer/sections/main-banner.php:68
+msgid "Choose Grid Category"
+msgstr "Выбрать категорию сетки"
+
+#: inc/admin/customizer/sections/main-banner.php:46
+msgid "Banner Grid"
+msgstr "Сетка баннера"
+
+#: inc/admin/customizer/sections/main-banner.php:25
+msgid "Enable Banner"
+msgstr "Включить баннер"
+
+#: inc/admin/customizer/sections/main-banner.php:10
+msgid "Banner Section"
+msgstr "Раздел банера"
+
+#: inc/admin/customizer/sections/header-style.php:80
+msgid "Banner Advertisement URL"
+msgstr "URL баннерной рекламы"
+
+#: inc/admin/customizer/sections/header-style.php:61
+msgid "Upload Banner Advertisement"
+msgstr "Загрузить рекламный баннер"
+
+#: inc/admin/customizer/sections/header-style.php:42
+msgid "Enable Header Advertisement"
+msgstr "Включить рекламу в заголовке"
+
+#: inc/admin/customizer/sections/header-style.php:25
+msgid "Select Header Layout"
+msgstr "Выбрать макет заголовка"
+
+#: inc/admin/customizer/sections/header-style.php:5
+msgid "Header Layout"
+msgstr "Макет заголовка"
+
+#: inc/admin/customizer/sections/header-offcanvas.php:21
+msgid "Enable Offcanvas"
+msgstr "Включить вне холста"
+
+#: inc/admin/customizer/sections/header-offcanvas.php:5
+msgid "Offcanvas Options"
+msgstr "Параметры вне холста"
+
+#: inc/admin/customizer/sections/grid-list.php:191
+msgid "Grid List Meta Option"
+msgstr "Вариант мета списка сеткой"
+
+#: inc/admin/customizer/sections/grid-list.php:173
+msgid "Redirect to Category Page Text"
+msgstr "Перенаправление на текст страницы рубрики"
+
+#: inc/admin/customizer/sections/grid-list.php:109
+msgid "Grid List Column - 2"
+msgstr "Столбец 2 списка сеткой"
+
+#: inc/admin/customizer/sections/grid-list.php:57
+msgid "Grid List Column - 1"
+msgstr "Столбец 1 списка сеткой"
+
+#: inc/admin/customizer/sections/grid-list.php:24
+msgid "Enable Grid List"
+msgstr "Включить список сеток"
+
+#: inc/admin/customizer/sections/grid-list.php:10
+msgid "Grid List Section"
+msgstr "Раздел списка сеткой"
+
+#: inc/admin/customizer/sections/frontline-post.php:135
+#: inc/admin/customizer/sections/must-read.php:131
+#: inc/admin/customizer/sections/popular-post.php:169
+#: inc/admin/customizer/sections/search_trending.php:134
+#: inc/admin/customizer/sections/show-author-post.php:120
+#: inc/admin/customizer/sections/single-related-post.php:118
+#: inc/admin/customizer/sections/tags.php:158
+#: inc/admin/customizer/sections/ticker-post.php:170
+#: inc/admin/widgets/class-carousel-slider.php:215
+#: inc/admin/widgets/class-grid-post.php:109
+#: inc/admin/widgets/class-recent-post.php:102
+#: inc/admin/widgets/class-slider-post.php:195
+#: inc/admin/widgets/class-tab-post.php:87
+#: inc/admin/widgets/class-tab-post.php:143
+#: inc/admin/widgets/class-tab-post.php:199
+msgid "DESC"
+msgstr "По убыванию"
+
+#: inc/admin/customizer/sections/frontline-post.php:134
+#: inc/admin/customizer/sections/must-read.php:130
+#: inc/admin/customizer/sections/popular-post.php:168
+#: inc/admin/customizer/sections/search_trending.php:133
+#: inc/admin/customizer/sections/show-author-post.php:119
+#: inc/admin/customizer/sections/single-related-post.php:117
+#: inc/admin/customizer/sections/tags.php:157
+#: inc/admin/customizer/sections/ticker-post.php:169
+#: inc/admin/widgets/class-carousel-slider.php:214
+#: inc/admin/widgets/class-grid-post.php:108
+#: inc/admin/widgets/class-recent-post.php:101
+#: inc/admin/widgets/class-slider-post.php:194
+#: inc/admin/widgets/class-tab-post.php:86
+#: inc/admin/widgets/class-tab-post.php:142
+#: inc/admin/widgets/class-tab-post.php:198
+msgid "ASC"
+msgstr "По возрастанию"
+
+#: inc/admin/customizer/sections/frontline-post.php:130
+#: inc/admin/customizer/sections/must-read.php:126
+#: inc/admin/customizer/sections/popular-post.php:164
+#: inc/admin/customizer/sections/search_trending.php:129
+#: inc/admin/customizer/sections/show-author-post.php:115
+#: inc/admin/customizer/sections/single-related-post.php:113
+#: inc/admin/customizer/sections/ticker-post.php:165
+#: inc/admin/widgets/class-carousel-slider.php:212
+#: inc/admin/widgets/class-grid-post.php:106
+#: inc/admin/widgets/class-recent-post.php:99
+#: inc/admin/widgets/class-slider-post.php:192
+#: inc/admin/widgets/class-tab-post.php:84
+#: inc/admin/widgets/class-tab-post.php:140
+#: inc/admin/widgets/class-tab-post.php:196
+msgid "Order"
+msgstr "Заказ"
+
+#: inc/admin/customizer/sections/frontline-post.php:115
+#: inc/admin/customizer/sections/must-read.php:111
+#: inc/admin/customizer/sections/popular-post.php:149
+#: inc/admin/customizer/sections/search_trending.php:113
+#: inc/admin/customizer/sections/show-author-post.php:99
+#: inc/admin/customizer/sections/single-related-post.php:97
+#: inc/admin/customizer/sections/tags.php:136
+#: inc/admin/customizer/sections/ticker-post.php:149
+#: inc/admin/widgets/class-carousel-slider.php:206
+#: inc/admin/widgets/class-grid-post.php:100
+#: inc/admin/widgets/class-recent-post.php:93
+#: inc/admin/widgets/class-slider-post.php:186
+#: inc/admin/widgets/class-tab-post.php:78
+#: inc/admin/widgets/class-tab-post.php:134
+#: inc/admin/widgets/class-tab-post.php:190
+msgid "Random"
+msgstr "Случайный"
+
+#: inc/admin/customizer/sections/frontline-post.php:114
+#: inc/admin/customizer/sections/must-read.php:110
+#: inc/admin/customizer/sections/popular-post.php:148
+#: inc/admin/customizer/sections/search_trending.php:112
+#: inc/admin/customizer/sections/show-author-post.php:98
+#: inc/admin/customizer/sections/single-related-post.php:96
+#: inc/admin/customizer/sections/tags.php:135
+#: inc/admin/customizer/sections/ticker-post.php:148
+#: inc/admin/widgets/class-carousel-slider.php:26
+#: inc/admin/widgets/class-carousel-slider.php:205
+#: inc/admin/widgets/class-category-grid.php:38
+#: inc/admin/widgets/class-grid-post.php:26
+#: inc/admin/widgets/class-grid-post.php:99
+#: inc/admin/widgets/class-jumbo-post.php:31
+#: inc/admin/widgets/class-metro-post.php:31
+#: inc/admin/widgets/class-multi-grid-post.php:31
+#: inc/admin/widgets/class-recent-post.php:26
+#: inc/admin/widgets/class-recent-post.php:92
+#: inc/admin/widgets/class-slider-post.php:24
+#: inc/admin/widgets/class-slider-post.php:185
+#: inc/admin/widgets/class-social-menu.php:31
+#: inc/admin/widgets/class-tab-post.php:45
+#: inc/admin/widgets/class-tab-post.php:77
+#: inc/admin/widgets/class-tab-post.php:101
+#: inc/admin/widgets/class-tab-post.php:133
+#: inc/admin/widgets/class-tab-post.php:157
+#: inc/admin/widgets/class-tab-post.php:189
+#: inc/admin/widgets/class-youtube-video.php:34
+msgid "Title"
+msgstr "Название"
+
+#: inc/admin/customizer/sections/frontline-post.php:113
+#: inc/admin/customizer/sections/must-read.php:109
+#: inc/admin/customizer/sections/popular-post.php:147
+#: inc/admin/customizer/sections/search_trending.php:111
+#: inc/admin/customizer/sections/show-author-post.php:97
+#: inc/admin/customizer/sections/single-related-post.php:95
+#: inc/admin/customizer/sections/tags.php:134
+#: inc/admin/customizer/sections/ticker-post.php:147
+#: inc/admin/widgets/class-carousel-slider.php:204
+#: inc/admin/widgets/class-grid-post.php:98
+#: inc/admin/widgets/class-recent-post.php:91
+#: inc/admin/widgets/class-slider-post.php:184
+#: inc/admin/widgets/class-tab-post.php:76
+#: inc/admin/widgets/class-tab-post.php:132
+#: inc/admin/widgets/class-tab-post.php:188
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin/customizer/sections/frontline-post.php:112
+#: inc/admin/customizer/sections/must-read.php:108
+#: inc/admin/customizer/sections/popular-post.php:146
+#: inc/admin/customizer/sections/search_trending.php:110
+#: inc/admin/customizer/sections/show-author-post.php:96
+#: inc/admin/customizer/sections/single-related-post.php:94
+#: inc/admin/customizer/sections/tags.php:133
+#: inc/admin/customizer/sections/ticker-post.php:146
+#: inc/admin/widgets/class-carousel-slider.php:203
+#: inc/admin/widgets/class-grid-post.php:97
+#: inc/admin/widgets/class-recent-post.php:90
+#: inc/admin/widgets/class-slider-post.php:183
+#: inc/admin/widgets/class-tab-post.php:75
+#: inc/admin/widgets/class-tab-post.php:131
+#: inc/admin/widgets/class-tab-post.php:187
+msgid "Date"
+msgstr "Дата"
+
+#: inc/admin/customizer/sections/frontline-post.php:108
+#: inc/admin/customizer/sections/must-read.php:104
+#: inc/admin/customizer/sections/popular-post.php:142
+#: inc/admin/customizer/sections/search_trending.php:106
+#: inc/admin/customizer/sections/show-author-post.php:92
+#: inc/admin/customizer/sections/single-related-post.php:90
+#: inc/admin/customizer/sections/tags.php:129
+#: inc/admin/customizer/sections/tags.php:153
+#: inc/admin/customizer/sections/ticker-post.php:142
+msgid "Orderby"
+msgstr "Упорядочить по"
+
+#: inc/admin/customizer/sections/frontline-post.php:92
+#: inc/admin/customizer/sections/must-read.php:87
+#: inc/admin/customizer/sections/popular-post.php:124
+#: inc/admin/customizer/sections/show-author-post.php:74
+#: inc/admin/customizer/sections/single-related-post.php:72
+#: inc/admin/customizer/sections/ticker-post.php:124
+msgid "Post Offset Number"
+msgstr "Кол-во смещения записи"
+
+#: inc/admin/customizer/sections/frontline-post.php:75
+#: inc/admin/customizer/sections/must-read.php:70
+#: inc/admin/customizer/sections/popular-post.php:107
+#: inc/admin/customizer/sections/search_trending.php:89
+#: inc/admin/customizer/sections/ticker-post.php:107
+msgid "Number of Posts"
+msgstr "Кол-во записей"
+
+#: inc/admin/customizer/sections/frontline-post.php:60
+msgid "Layout - 3"
+msgstr "Макет - 3"
+
+#: inc/admin/customizer/sections/frontline-post.php:54
+#: inc/admin/customizer/sections/main-metro-banner.php:42
+msgid "Select Layout Style"
+msgstr "Выбрать стиль макета"
+
+#: inc/admin/customizer/sections/frontline-post.php:39
+msgid "Choose Frontline category"
+msgstr "Выбрать категорию Frontline"
+
+#: inc/admin/customizer/sections/frontline-post.php:20
+msgid "Enable Frontline"
+msgstr "Включить Frontline"
+
+#: inc/admin/customizer/sections/frontline-post.php:6
+msgid "Frontline Section"
+msgstr "Передовой раздел"
+
+#: inc/admin/customizer/sections/footer.php:185
+msgid "Screen Progressbar enable option"
+msgstr ""
+
+#: inc/admin/customizer/sections/footer.php:184
+msgid "Enable Footer ProgressBar"
+msgstr "Включить индикатор выполнения в подвале"
+
+#: inc/admin/customizer/sections/footer.php:166
+msgid "Footer ProgressBar"
+msgstr "Индикатор выполнения в подвале"
+
+#: inc/admin/customizer/sections/footer.php:155
+msgid "Enable Footer Scroll To Top"
+msgstr "Включить прокрутку вверх в подвале"
+
+#: inc/admin/customizer/sections/footer.php:137
+msgid "Footer Scroll To Top"
+msgstr "Прокрутка вверх в подвале"
+
+#: inc/admin/customizer/sections/footer.php:127
+#: inc/admin/customizer/sections/mobile-menu.php:55
+#: inc/admin/customizer/sections/top-bar.php:161
+msgid "Enable Border Radius"
+msgstr "Включить радиус рамки"
+
+#: inc/admin/customizer/sections/footer.php:108
+#: inc/admin/customizer/sections/mobile-menu.php:36
+#: inc/admin/customizer/sections/top-bar.php:142
+msgid "Social Menu Options"
+msgstr "Параметры меню соцсети"
+
+#: inc/admin/customizer/sections/footer.php:90
+msgid "You can add/edit social nav menu from <a href=\"%s\">here</a>."
+msgstr "Вы можете добавить/изменить навигацию меню соцсети <a href=\"%s\">здесь</a>."
+
+#: inc/admin/customizer/sections/footer.php:89
+msgid "Show Social Nav Menu in Footer"
+msgstr "Показать навигацию меню соцсети в подвале"
+
+#: inc/admin/customizer/sections/footer.php:70
+msgid "You can add/edit footer nav menu from <a href=\"%s\">here</a>."
+msgstr "Вы можете добавить/изменить навигацию нижнее меню <a href=\"%s\">здесь</a>."
+
+#: inc/admin/customizer/sections/footer.php:69
+msgid "Show Footer Nav Menu"
+msgstr "Показать меню навигации подвала"
+
+#: inc/admin/customizer/sections/footer.php:44
+#: inc/admin/customizer/sections/top-bar.php:110
+msgid "<a href=\"%s\" target=\"_blank\">Date and Time Formatting Documentation</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">Документация по форматированию даты и времени</a>."
+
+#: inc/admin/customizer/sections/footer.php:41
+msgid "Copyright Date Format"
+msgstr "Формат даты авторского права"
+
+#: inc/admin/customizer/sections/footer.php:24
+msgid "Use {{ date }} to get the current date."
+msgstr "Используйте {{ date }}, чтобы получить текущую дату."
+
+#: inc/admin/customizer/sections/footer.php:23
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/admin/customizer/sections/footer.php:6
+msgid "Footer Copyright Options"
+msgstr "Параметры авторского права в подвале"
+
+#: inc/admin/customizer/sections/footer-widget.php:44
+msgid "Some footer widgetareas will not be used based on the footer column layout chosen. Also make sure to insert at least one widget on the respective widgetarea for it to display."
+msgstr "Некоторые области виджетов подвала не будут использоваться в зависимости от выбранного макета столбца подвала. Также убедитесь, что в соответствующую область виджетов вставлен хотя бы один виджет, чтобы он отображался."
+
+#: inc/admin/customizer/sections/footer-widget.php:43
+msgid "Footer Column Layout"
+msgstr "Макет столбца подвала"
+
+#: inc/admin/customizer/sections/footer-widget.php:24
+msgid "Show Footer widgetarea"
+msgstr "Показать область виджетов подвала"
+
+#: inc/admin/customizer/sections/footer-widget.php:6
+msgid "Footer Widget Options"
+msgstr "Параметры виджета подвала"
+
+#: inc/admin/customizer/sections/footer-recommended.php:102
+#: inc/admin/customizer/sections/grid-list.php:91
+#: inc/admin/customizer/sections/grid-list.php:158
+#: inc/admin/customizer/sections/popular-post.php:323
+#: inc/admin/customizer/sections/split-block.php:77
+msgid "Post Offset"
+msgstr "Смещение записи"
+
+#: inc/admin/customizer/sections/footer-recommended.php:84
+#: inc/admin/customizer/sections/popular-post.php:91
+#: inc/admin/customizer/sections/split-block.php:59
+#: inc/admin/customizer/sections/ticker-post.php:90
+msgid "Choose Category"
+msgstr "Выбрать рубрику"
+
+#: inc/admin/customizer/sections/footer-recommended.php:66
+msgid "Recommended Post"
+msgstr "Рекомендованная запись"
+
+#: inc/admin/customizer/sections/footer-recommended.php:47
+msgid "Recommended Post Layout"
+msgstr "Макет рекомендуемой записи"
+
+#: inc/admin/customizer/sections/footer-recommended.php:25
+msgid "Enable Recommended Post"
+msgstr "Включить рекомендованные записи"
+
+#: inc/admin/customizer/sections/footer-recommended.php:10
+msgid "Recommended Section"
+msgstr "Раздел рекомендуемых"
+
+#: inc/admin/customizer/sections/featured-category.php:60
+msgid "Choose Category -"
+msgstr "Выбрать рубрику -"
+
+#: inc/admin/customizer/sections/featured-category.php:41
+msgid "Featured Category"
+msgstr "Избранная рубрика"
+
+#: inc/admin/customizer/sections/featured-category.php:25
+msgid "Enable Featured Category"
+msgstr "Включить избранные рубрики"
+
+#: inc/admin/customizer/sections/featured-category.php:10
+msgid "Category Section"
+msgstr "Раздел рубрики"
+
+#: inc/admin/customizer/sections/excerpt.php:83
+msgid "Excerpt Button Text"
+msgstr "Текст кнопки отрывка"
+
+#: inc/admin/customizer/sections/excerpt.php:66
+msgid "Excerpt Line Limit"
+msgstr "Ограничение на количество строк отрывка"
+
+#: inc/admin/customizer/sections/excerpt.php:48
+msgid "Number Of Excerpt Word"
+msgstr "Кол-во слов в отрывке"
+
+#: inc/admin/customizer/sections/excerpt.php:33
+msgid "Excerpt Options"
+msgstr "Настройки отрывков"
+
+#: inc/admin/customizer/sections/excerpt.php:21
+msgid "Select Pagination Style"
+msgstr "Выбрать стиль пагинации"
+
+#: inc/admin/customizer/sections/excerpt.php:5
+msgid "Pagination Options"
+msgstr "Настройки пагинации"
+
+#: inc/admin/customizer/sections/dual-insights.php:169
+msgid "Insights Post Offset - 2"
+msgstr "Insights Запись Смещение - 2"
+
+#: inc/admin/customizer/sections/dual-insights.php:134
+#: inc/admin/customizer/sections/grid-list.php:125
+msgid "Inner Column Title"
+msgstr "Название внутреннего столбца"
+
+#: inc/admin/customizer/sections/dual-insights.php:117
+msgid "Dual Insights Column - 2"
+msgstr "Столбец \"Двойное понимание\" - 2"
+
+#: inc/admin/customizer/sections/dual-insights.php:97
+msgid "Insights Post Offset - 1"
+msgstr "Insights Запись Смещение - 1"
+
+#: inc/admin/customizer/sections/dual-insights.php:61
+msgid "Dual Insights Column - 1"
+msgstr "Столбец \"Двойное понимание\" - 2"
+
+#: inc/admin/customizer/sections/dual-insights.php:25
+msgid "Enable Dual Insights"
+msgstr "Включить функцию Dual Insights"
+
+#: inc/admin/customizer/sections/dual-insights.php:10
+msgid "Dual Insights Section"
+msgstr ""
+
+#: inc/admin/customizer/sections/breadcrumb.php:20
+msgid "Enable Breadcrumb"
+msgstr "Включить навигационную цепочку"
+
+#: inc/admin/customizer/sections/breadcrumb.php:5
+msgid "Breadcrumb Options"
+msgstr "Параметры навигационной цепочки"
+
+#: inc/admin/customizer/sections/article-list.php:161
+msgid "Article List Meta Option"
+msgstr "Вариант мета списка статей"
+
+#: inc/admin/customizer/sections/article-list.php:109
+msgid "Article List Column - 2"
+msgstr "Столбец списка статей - 2"
+
+#: inc/admin/customizer/sections/article-list.php:91
+#: inc/admin/customizer/sections/article-list.php:143
+msgid "Article List Post Offset"
+msgstr "Смещение записи списка статей"
+
+#: inc/admin/customizer/sections/article-list.php:57
+msgid "Article List Column - 1"
+msgstr "Столбец списка статей  - 1"
+
+#: inc/admin/customizer/sections/article-list.php:24
+msgid "Enable Article List Post"
+msgstr "Включить запись списком статей"
+
+#: inc/admin/customizer/sections/article-list.php:10
+msgid "Article List Section"
+msgstr "Раздел списка статьей"
+
+#: inc/admin/customizer/sections/article-group.php:330
+#: inc/admin/customizer/sections/article-list.php:315
+#: inc/admin/customizer/sections/dual-insights.php:324
+#: inc/admin/customizer/sections/footer-recommended.php:257
+#: inc/admin/customizer/sections/frontline-post.php:287
+#: inc/admin/customizer/sections/grid-list.php:345
+#: inc/admin/customizer/sections/main-banner.php:324
+#: inc/admin/customizer/sections/main-metro-banner.php:256
+#: inc/admin/customizer/sections/must-read.php:283
+#: inc/admin/customizer/sections/popular-post.php:339
+#: inc/admin/customizer/sections/search_trending.php:300
+#: inc/admin/customizer/sections/show-author-post.php:287
+#: inc/admin/customizer/sections/single-related-post.php:283
+#: inc/admin/customizer/sections/slider-banner.php:329
+#: inc/admin/customizer/sections/split-block.php:232
+#: inc/admin/customizer/sections/ticker-post.php:336
+msgid "Category Label"
+msgstr "Этикетка рубрики"
+
+#: inc/admin/customizer/sections/article-group.php:253
+#: inc/admin/customizer/sections/article-list.php:238
+#: inc/admin/customizer/sections/dual-insights.php:247
+#: inc/admin/customizer/sections/footer-recommended.php:180
+#: inc/admin/customizer/sections/frontline-post.php:210
+#: inc/admin/customizer/sections/grid-list.php:268
+#: inc/admin/customizer/sections/main-banner.php:247
+#: inc/admin/customizer/sections/main-metro-banner.php:179
+#: inc/admin/customizer/sections/must-read.php:206
+#: inc/admin/customizer/sections/popular-post.php:244
+#: inc/admin/customizer/sections/search_trending.php:217
+#: inc/admin/customizer/sections/show-author-post.php:204
+#: inc/admin/customizer/sections/single-related-post.php:200
+#: inc/admin/customizer/sections/single.php:92
+#: inc/admin/customizer/sections/slider-banner.php:252
+#: inc/admin/customizer/sections/split-block.php:155
+#: inc/admin/customizer/sections/ticker-post.php:253
+msgid "Select Date Meta"
+msgstr "Выбрать мета даты"
+
+#: inc/admin/customizer/sections/article-group.php:238
+#: inc/admin/customizer/sections/article-list.php:223
+#: inc/admin/customizer/sections/dual-insights.php:232
+#: inc/admin/customizer/sections/footer-recommended.php:165
+#: inc/admin/customizer/sections/frontline-post.php:195
+#: inc/admin/customizer/sections/grid-list.php:253
+#: inc/admin/customizer/sections/main-banner.php:232
+#: inc/admin/customizer/sections/main-metro-banner.php:164
+#: inc/admin/customizer/sections/must-read.php:191
+#: inc/admin/customizer/sections/popular-post.php:229
+#: inc/admin/customizer/sections/search_trending.php:201
+#: inc/admin/customizer/sections/show-author-post.php:188
+#: inc/admin/customizer/sections/single-related-post.php:184
+#: inc/admin/customizer/sections/single.php:76
+#: inc/admin/customizer/sections/slider-banner.php:237
+#: inc/admin/customizer/sections/split-block.php:140
+#: inc/admin/customizer/sections/ticker-post.php:237
+#: inc/admin/meta-box/meta-box.php:163
+msgid "Display Published Date"
+msgstr "Отображение даты публикации"
+
+#: inc/admin/customizer/sections/article-group.php:207
+#: inc/admin/customizer/sections/article-list.php:192
+#: inc/admin/customizer/sections/dual-insights.php:201
+#: inc/admin/customizer/sections/footer-recommended.php:134
+#: inc/admin/customizer/sections/frontline-post.php:164
+#: inc/admin/customizer/sections/grid-list.php:222
+#: inc/admin/customizer/sections/main-banner.php:201
+#: inc/admin/customizer/sections/main-metro-banner.php:133
+#: inc/admin/customizer/sections/must-read.php:160
+#: inc/admin/customizer/sections/popular-post.php:198
+#: inc/admin/customizer/sections/search_trending.php:166
+#: inc/admin/customizer/sections/slider-banner.php:206
+#: inc/admin/customizer/sections/split-block.php:109
+#: inc/admin/customizer/sections/ticker-post.php:202
+msgid "Select Author Meta"
+msgstr "Выберите мета автора"
+
+#: inc/admin/customizer/sections/article-group.php:192
+#: inc/admin/customizer/sections/article-list.php:177
+#: inc/admin/customizer/sections/dual-insights.php:186
+#: inc/admin/customizer/sections/footer-recommended.php:119
+#: inc/admin/customizer/sections/frontline-post.php:149
+#: inc/admin/customizer/sections/grid-list.php:207
+#: inc/admin/customizer/sections/main-banner.php:186
+#: inc/admin/customizer/sections/main-metro-banner.php:118
+#: inc/admin/customizer/sections/must-read.php:145
+#: inc/admin/customizer/sections/popular-post.php:183
+#: inc/admin/customizer/sections/search_trending.php:150
+#: inc/admin/customizer/sections/slider-banner.php:191
+#: inc/admin/customizer/sections/split-block.php:94
+#: inc/admin/customizer/sections/ticker-post.php:186
+#: inc/admin/meta-box/meta-box.php:176
+msgid "Display Author Meta"
+msgstr "Отображать мета автора"
+
+#: inc/admin/customizer/sections/article-group.php:175
+msgid "Article Group Meta Option"
+msgstr "Вариант мета группы статей"
+
+#: inc/admin/customizer/sections/article-group.php:155
+msgid "Article Slider Offset"
+msgstr "Смещение слайдера статьи"
+
+#: inc/admin/customizer/sections/article-group.php:138
+#: inc/admin/customizer/sections/article-list.php:127
+#: inc/admin/customizer/sections/dual-insights.php:152
+#: inc/admin/customizer/sections/grid-list.php:142
+msgid "Choose Column - 2 Category"
+msgstr "Выбрать столбец - 2 рубрика"
+
+#: inc/admin/customizer/sections/article-group.php:119
+msgid "Article Group Column - 2"
+msgstr "Столбец группы статей - 2"
+
+#: inc/admin/customizer/sections/article-group.php:99
+msgid "Article Group Offset - 1"
+msgstr "Смещение группы статей - 1"
+
+#: inc/admin/customizer/sections/article-group.php:82
+#: inc/admin/customizer/sections/article-group.php:139
+#: inc/admin/customizer/sections/article-list.php:76
+#: inc/admin/customizer/sections/article-list.php:128
+#: inc/admin/customizer/sections/dual-insights.php:81
+#: inc/admin/customizer/sections/dual-insights.php:153
+#: inc/admin/customizer/sections/featured-category.php:61
+#: inc/admin/customizer/sections/footer-recommended.php:85
+#: inc/admin/customizer/sections/grid-list.php:76
+#: inc/admin/customizer/sections/grid-list.php:143
+#: inc/admin/customizer/sections/main-banner.php:69
+#: inc/admin/customizer/sections/main-banner.php:128
+#: inc/admin/customizer/sections/main-metro-banner.php:63
+#: inc/admin/customizer/sections/slider-banner.php:82
+#: inc/admin/customizer/sections/split-block.php:60
+msgid "Leave Empty if you don't want the posts to be category specific"
+msgstr "Оставьте это поле пустым, если вы не хотите, чтобы записи были привязаны к конкретной рубрике"
+
+#: inc/admin/customizer/sections/article-group.php:81
+#: inc/admin/customizer/sections/article-list.php:75
+#: inc/admin/customizer/sections/dual-insights.php:80
+#: inc/admin/customizer/sections/grid-list.php:75
+msgid "Choose Column - 1 Category"
+msgstr "Выбрать столбец - 1 рубрика"
+
+#: inc/admin/customizer/sections/article-group.php:62
+msgid "Article Group Column - 1"
+msgstr "Столбец группы статей - 1"
+
+#: inc/admin/customizer/sections/article-group.php:42
+#: inc/admin/customizer/sections/article-list.php:39
+#: inc/admin/customizer/sections/dual-insights.php:41
+#: inc/admin/customizer/sections/grid-list.php:39
+#: inc/admin/customizer/sections/must-read.php:36
+#: inc/admin/customizer/sections/slider-banner.php:38
+#: inc/admin/customizer/sections/split-block.php:41
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/admin/customizer/sections/article-group.php:25
+msgid "Enable Article Group Post"
+msgstr "Включить запись группы статей"
+
+#: inc/admin/customizer/sections/article-group.php:10
+msgid "Article Group Section"
+msgstr "Раздел группы статей"
+
+#: inc/admin/customizer/sections/archive.php:415
+#: inc/admin/customizer/sections/single.php:210
+msgid "Enable Read Time"
+msgstr "Включить время чтения"
+
+#: inc/admin/customizer/sections/archive.php:398
+msgid "Enable Comment Meta"
+msgstr "Включить мета комментария"
+
+#: inc/admin/customizer/sections/archive.php:382
+#: inc/admin/customizer/sections/single.php:194
+msgid "Enable Tag Meta"
+msgstr "Включить мета тега"
+
+#: inc/admin/customizer/sections/archive.php:363
+#: inc/admin/customizer/sections/article-group.php:346
+#: inc/admin/customizer/sections/article-list.php:330
+#: inc/admin/customizer/sections/dual-insights.php:340
+#: inc/admin/customizer/sections/footer-recommended.php:273
+#: inc/admin/customizer/sections/frontline-post.php:303
+#: inc/admin/customizer/sections/grid-list.php:360
+#: inc/admin/customizer/sections/main-banner.php:340
+#: inc/admin/customizer/sections/main-metro-banner.php:272
+#: inc/admin/customizer/sections/must-read.php:299
+#: inc/admin/customizer/sections/popular-post.php:355
+#: inc/admin/customizer/sections/search_trending.php:316
+#: inc/admin/customizer/sections/show-author-post.php:303
+#: inc/admin/customizer/sections/single-related-post.php:299
+#: inc/admin/customizer/sections/single.php:176
+#: inc/admin/customizer/sections/slider-banner.php:345
+#: inc/admin/customizer/sections/split-block.php:248
+#: inc/admin/customizer/sections/ticker-post.php:352
+msgid "Select Category Color"
+msgstr "Выбрать цвет рубрики"
+
+#: inc/admin/customizer/sections/archive.php:346
+#: inc/admin/customizer/sections/single.php:160
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:209
+msgid "Category Title"
+msgstr "Название рубрики"
+
+#: inc/admin/customizer/sections/archive.php:330
+#: inc/admin/customizer/sections/article-group.php:315
+#: inc/admin/customizer/sections/article-list.php:300
+#: inc/admin/customizer/sections/dual-insights.php:309
+#: inc/admin/customizer/sections/footer-recommended.php:242
+#: inc/admin/customizer/sections/frontline-post.php:272
+#: inc/admin/customizer/sections/grid-list.php:330
+#: inc/admin/customizer/sections/main-banner.php:309
+#: inc/admin/customizer/sections/main-metro-banner.php:241
+#: inc/admin/customizer/sections/must-read.php:268
+#: inc/admin/customizer/sections/popular-post.php:307
+#: inc/admin/customizer/sections/search_trending.php:284
+#: inc/admin/customizer/sections/show-author-post.php:271
+#: inc/admin/customizer/sections/single-related-post.php:267
+#: inc/admin/customizer/sections/slider-banner.php:314
+#: inc/admin/customizer/sections/split-block.php:217
+#: inc/admin/customizer/sections/ticker-post.php:320
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:230
+msgid "Number of Category"
+msgstr "Кол-во рубрик"
+
+#: inc/admin/customizer/sections/archive.php:314
+#: inc/admin/customizer/sections/article-group.php:300
+#: inc/admin/customizer/sections/article-list.php:285
+#: inc/admin/customizer/sections/dual-insights.php:294
+#: inc/admin/customizer/sections/footer-recommended.php:227
+#: inc/admin/customizer/sections/frontline-post.php:257
+#: inc/admin/customizer/sections/grid-list.php:315
+#: inc/admin/customizer/sections/main-banner.php:294
+#: inc/admin/customizer/sections/main-metro-banner.php:226
+#: inc/admin/customizer/sections/must-read.php:253
+#: inc/admin/customizer/sections/popular-post.php:292
+#: inc/admin/customizer/sections/search_trending.php:268
+#: inc/admin/customizer/sections/show-author-post.php:255
+#: inc/admin/customizer/sections/single-related-post.php:251
+#: inc/admin/customizer/sections/slider-banner.php:299
+#: inc/admin/customizer/sections/split-block.php:202
+#: inc/admin/customizer/sections/ticker-post.php:304
+msgid "Enable Category Meta"
+msgstr "Включить мета рубрики"
+
+#: inc/admin/customizer/sections/archive.php:296
+#: inc/admin/customizer/sections/article-group.php:284
+#: inc/admin/customizer/sections/article-list.php:269
+#: inc/admin/customizer/sections/dual-insights.php:278
+#: inc/admin/customizer/sections/footer-recommended.php:211
+#: inc/admin/customizer/sections/frontline-post.php:241
+#: inc/admin/customizer/sections/grid-list.php:299
+#: inc/admin/customizer/sections/main-banner.php:278
+#: inc/admin/customizer/sections/main-metro-banner.php:210
+#: inc/admin/customizer/sections/must-read.php:237
+#: inc/admin/customizer/sections/popular-post.php:275
+#: inc/admin/customizer/sections/search_trending.php:251
+#: inc/admin/customizer/sections/show-author-post.php:238
+#: inc/admin/customizer/sections/single-related-post.php:234
+#: inc/admin/customizer/sections/single.php:126
+#: inc/admin/customizer/sections/slider-banner.php:283
+#: inc/admin/customizer/sections/split-block.php:186
+#: inc/admin/customizer/sections/ticker-post.php:287
+msgid "Select Date Format"
+msgstr "Выбрать формат даты"
+
+#: inc/admin/customizer/sections/archive.php:273
+#: inc/admin/customizer/sections/article-group.php:269
+#: inc/admin/customizer/sections/article-list.php:254
+#: inc/admin/customizer/sections/dual-insights.php:263
+#: inc/admin/customizer/sections/footer-recommended.php:196
+#: inc/admin/customizer/sections/frontline-post.php:226
+#: inc/admin/customizer/sections/grid-list.php:284
+#: inc/admin/customizer/sections/main-banner.php:263
+#: inc/admin/customizer/sections/main-metro-banner.php:195
+#: inc/admin/customizer/sections/must-read.php:222
+#: inc/admin/customizer/sections/popular-post.php:260
+#: inc/admin/customizer/sections/search_trending.php:235
+#: inc/admin/customizer/sections/show-author-post.php:222
+#: inc/admin/customizer/sections/single-related-post.php:218
+#: inc/admin/customizer/sections/single.php:110
+#: inc/admin/customizer/sections/slider-banner.php:268
+#: inc/admin/customizer/sections/split-block.php:171
+#: inc/admin/customizer/sections/ticker-post.php:271
+msgid "Date Meta Text"
+msgstr "Текст мета даты"
+
+#: inc/admin/customizer/sections/archive.php:254
+msgid "Date Meta Display Options"
+msgstr "Параметры отображения мета даты"
+
+#: inc/admin/customizer/sections/archive.php:238
+msgid "Show Date Meta"
+msgstr "Показать мета даты"
+
+#: inc/admin/customizer/sections/archive.php:215
+#: inc/admin/customizer/sections/article-group.php:223
+#: inc/admin/customizer/sections/article-list.php:208
+#: inc/admin/customizer/sections/dual-insights.php:217
+#: inc/admin/customizer/sections/footer-recommended.php:150
+#: inc/admin/customizer/sections/frontline-post.php:180
+#: inc/admin/customizer/sections/grid-list.php:238
+#: inc/admin/customizer/sections/main-banner.php:217
+#: inc/admin/customizer/sections/main-metro-banner.php:149
+#: inc/admin/customizer/sections/must-read.php:176
+#: inc/admin/customizer/sections/popular-post.php:214
+#: inc/admin/customizer/sections/search_trending.php:185
+#: inc/admin/customizer/sections/show-author-post.php:172
+#: inc/admin/customizer/sections/single-related-post.php:168
+#: inc/admin/customizer/sections/single.php:60
+#: inc/admin/customizer/sections/slider-banner.php:222
+#: inc/admin/customizer/sections/split-block.php:125
+#: inc/admin/customizer/sections/ticker-post.php:221
+msgid "Author Meta Text"
+msgstr "Текст мета автора"
+
+#: inc/admin/customizer/sections/archive.php:195
+#: inc/admin/customizer/sections/show-author-post.php:153
+#: inc/admin/customizer/sections/single-related-post.php:149
+#: inc/admin/customizer/sections/single.php:41
+msgid "Author Meta Display Options"
+msgstr "Параметры отображения мета автора"
+
+#: inc/admin/customizer/sections/archive.php:179
+#: inc/admin/customizer/sections/show-author-post.php:137
+#: inc/admin/customizer/sections/single-related-post.php:133
+#: inc/admin/customizer/sections/single.php:25
+msgid "Show Author Meta"
+msgstr "Показать мета автора"
+
+#: inc/admin/customizer/sections/archive.php:122
+#: inc/admin/customizer/sections/archive.php:142
+#: inc/admin/customizer/sections/archive.php:161
+msgid "Enable Excerpt On Archive"
+msgstr "Включить отрывок в архиве"
+
+#: inc/admin/customizer/sections/archive.php:104
+msgid "Title Line Limit"
+msgstr "Ограничение строки названия"
+
+#: inc/admin/customizer/sections/archive.php:86
+msgid "Enable Archive Post Count"
+msgstr "Включить подсчёт архивных записей"
+
+#: inc/admin/customizer/sections/archive.php:69
+msgid "Archive Meta Options"
+msgstr "Параметры мета архива"
+
+#: inc/admin/customizer/sections/archive.php:48
+msgid "After enabling, set 'Mark as Featured' to 'Yes' in the single post options to display the post in the top section of the relevant archive page."
+msgstr "После включения установите для параметра 'Отметить как Избранное' значение 'Да' в параметрах отдельной страницы, чтобы отобразить запись в верхнем разделе соответствующей страницы архива."
+
+#: inc/admin/customizer/sections/archive.php:47
+msgid "Enable Featured Post"
+msgstr "Включить избранную запись"
+
+#: inc/admin/customizer/sections/archive.php:30
+msgid "Archive Layout"
+msgstr "Макет архива"
+
+#: inc/admin/customizer/sections/archive.php:10
+#: inc/admin/customizer/sections/panel.php:114
+#: inc/admin/dashboard/views/dashboard.php:108
+msgid "Archive Options"
+msgstr "Параметры архива"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:39
+msgid "... and many other premium features"
+msgstr "... и многие другие премиальные функции"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:38
+msgid "404 page options"
+msgstr "Параметры страницы 404"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:37
+msgid "More color options"
+msgstr "Больше параметров цвета"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:36
+msgid "17+ Preloader options"
+msgstr "17+ параметров анимации загрузки"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:35
+msgid "Menu badge options"
+msgstr "Параметры бейджа меню"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:34
+msgid "Dark mode options"
+msgstr "Параметры темного режима"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:32
+msgid "More Options on TrendingNews Pro!"
+msgstr "Больше параметров на TrendingNews Pro!"
+
+#: inc/admin/customizer/helpers/theme-upsell.php:6
+msgid "Unlock More Features"
+msgstr "Разблокировать больше функций"
+
+#: inc/admin/customizer/helpers/helper-function.php:467
+msgid "Style 4"
+msgstr "Стиль 4"
+
+#: inc/admin/customizer/helpers/helper-function.php:466
+#: inc/admin/widgets/class-category-grid.php:78
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: inc/admin/customizer/helpers/helper-function.php:465
+#: inc/admin/widgets/class-category-grid.php:77
+#: inc/admin/widgets/class-image-widget.php:68
+#: inc/admin/widgets/class-multi-grid-post.php:162
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:464
+#: inc/admin/widgets/class-category-grid.php:76
+#: inc/admin/widgets/class-image-widget.php:67
+#: inc/admin/widgets/class-multi-grid-post.php:161
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:443
+msgid "No Sidebar - Wide"
+msgstr "Без боковой панели - по ширине"
+
+#: inc/admin/customizer/helpers/helper-function.php:439
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/admin/customizer/helpers/helper-function.php:435
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/admin/customizer/helpers/helper-function.php:392
+#: inc/admin/widgets/class-carousel-slider.php:243
+#: inc/admin/widgets/class-jumbo-post.php:115
+#: inc/admin/widgets/class-metro-post.php:127
+#: inc/admin/widgets/class-multi-grid-post.php:147
+#: inc/admin/widgets/class-recent-post.php:163
+#: inc/admin/widgets/class-slider-post.php:223
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:258
+msgid "With Avatar Image"
+msgstr "С изображением аватара"
+
+#: inc/admin/customizer/helpers/helper-function.php:391
+#: inc/admin/customizer/helpers/helper-function.php:413
+#: inc/admin/customizer/sections/tags.php:76
+#: inc/admin/widgets/class-carousel-slider.php:242
+#: inc/admin/widgets/class-jumbo-post.php:114
+#: inc/admin/widgets/class-metro-post.php:126
+#: inc/admin/widgets/class-multi-grid-post.php:146
+#: inc/admin/widgets/class-recent-post.php:162
+#: inc/admin/widgets/class-slider-post.php:222
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:257
+msgid "With Icon"
+msgstr "Со значком"
+
+#: inc/admin/customizer/helpers/helper-function.php:390
+#: inc/admin/customizer/helpers/helper-function.php:412
+#: inc/admin/widgets/class-carousel-slider.php:241
+#: inc/admin/widgets/class-jumbo-post.php:113
+#: inc/admin/widgets/class-metro-post.php:125
+#: inc/admin/widgets/class-multi-grid-post.php:145
+#: inc/admin/widgets/class-recent-post.php:161
+#: inc/admin/widgets/class-slider-post.php:221
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:256
+msgid "With Label"
+msgstr "С этикеткой"
+
+#: inc/admin/customizer/helpers/helper-function.php:368
+msgid "Recommended Alternate Grid View"
+msgstr "Просмотр альтернативной сеткой рекомендуемых"
+
+#: inc/admin/customizer/helpers/helper-function.php:364
+msgid "Recommended Grid View"
+msgstr "Просмотр сеткой рекомендуемых"
+
+#: inc/admin/customizer/helpers/helper-function.php:360
+msgid "Recommended List View"
+msgstr "Просмотр списком рекомендуемых"
+
+#: inc/admin/customizer/helpers/helper-function.php:337
+msgid "Style - 10"
+msgstr "Стиль - 10"
+
+#: inc/admin/customizer/helpers/helper-function.php:336
+msgid "Style - 9"
+msgstr "Стиль - 9"
+
+#: inc/admin/customizer/helpers/helper-function.php:335
+msgid "Style - 8"
+msgstr "Стиль - 8"
+
+#: inc/admin/customizer/helpers/helper-function.php:334
+msgid "Style - 7"
+msgstr "Стиль - 7"
+
+#: inc/admin/customizer/helpers/helper-function.php:333
+msgid "Style - 6"
+msgstr "Стиль - 6"
+
+#: inc/admin/customizer/helpers/helper-function.php:332
+msgid "Style - 5"
+msgstr "Стиль - 5"
+
+#: inc/admin/customizer/helpers/helper-function.php:331
+msgid "Style - 4"
+msgstr "Стиль - 4"
+
+#: inc/admin/customizer/helpers/helper-function.php:330
+msgid "Style - 3"
+msgstr "Стиль - 3"
+
+#: inc/admin/customizer/helpers/helper-function.php:329
+msgid "Style - 2"
+msgstr "Стиль - 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:328
+msgid "Style - 1"
+msgstr "Стиль - 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:308
+#: inc/admin/customizer/sections/frontline-post.php:59
+msgid "Layout - 2"
+msgstr "Макет - 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:307
+#: inc/admin/customizer/sections/frontline-post.php:58
+msgid "Layout - 1"
+msgstr "Макет - 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:286
+msgid "Single Column"
+msgstr "Отдельный столбец"
+
+#: inc/admin/customizer/helpers/helper-function.php:282
+msgid "Two Columns Big Right"
+msgstr "Две столбца, большой справа"
+
+#: inc/admin/customizer/helpers/helper-function.php:278
+msgid "Three Columns Big Middle"
+msgstr "Три столбца, большой средний"
+
+#: inc/admin/customizer/helpers/helper-function.php:274
+msgid "Two Columns Big Left"
+msgstr "Два столбца, большой слева"
+
+#: inc/admin/customizer/helpers/helper-function.php:270
+msgid "Two Columns"
+msgstr "Два столбца"
+
+#: inc/admin/customizer/helpers/helper-function.php:266
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/admin/customizer/helpers/helper-function.php:262
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/admin/customizer/helpers/helper-function.php:239
+#: inc/admin/widgets/class-carousel-slider.php:268
+#: inc/admin/widgets/class-grid-post.php:65
+#: inc/admin/widgets/class-jumbo-post.php:79
+#: inc/admin/widgets/class-metro-post.php:91
+#: inc/admin/widgets/class-multi-grid-post.php:111
+#: inc/admin/widgets/class-recent-post.php:188
+#: inc/admin/widgets/class-slider-post.php:248
+#: inc/admin/widgets/class-tab-post.php:239
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:222
+msgid "Has text color"
+msgstr "Имеет цвет текста"
+
+#: inc/admin/customizer/helpers/helper-function.php:238
+#: inc/admin/widgets/class-carousel-slider.php:267
+#: inc/admin/widgets/class-grid-post.php:64
+#: inc/admin/widgets/class-jumbo-post.php:78
+#: inc/admin/widgets/class-metro-post.php:90
+#: inc/admin/widgets/class-multi-grid-post.php:110
+#: inc/admin/widgets/class-recent-post.php:187
+#: inc/admin/widgets/class-slider-post.php:247
+#: inc/admin/widgets/class-tab-post.php:238
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:221
+msgid "Has background"
+msgstr "Имеет фон"
+
+#: inc/admin/customizer/helpers/helper-function.php:217
+msgid "Load More On Click"
+msgstr "Загрузить больше при нажатии"
+
+#: inc/admin/customizer/helpers/helper-function.php:216
+msgid "Load More On Scroll"
+msgstr "Загрузить больше при прокрутке"
+
+#: inc/admin/customizer/helpers/helper-function.php:215
+msgid "Default(New/Old Post)"
+msgstr "По умолчанию (новая/старая запись)"
+
+#: inc/admin/customizer/helpers/helper-function.php:214
+msgid "Numeric"
+msgstr "Числовой"
+
+#: inc/admin/customizer/helpers/helper-function.php:193
+#: inc/admin/customizer/helpers/helper-function.php:213
+#: inc/admin/customizer/helpers/helper-function.php:237
+#: inc/admin/widgets/class-carousel-slider.php:266
+#: inc/admin/widgets/class-grid-post.php:63
+#: inc/admin/widgets/class-jumbo-post.php:77
+#: inc/admin/widgets/class-metro-post.php:89
+#: inc/admin/widgets/class-multi-grid-post.php:109
+#: inc/admin/widgets/class-recent-post.php:186
+#: inc/admin/widgets/class-slider-post.php:246
+#: inc/admin/widgets/class-tab-post.php:237
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:220
+msgid "None"
+msgstr "Отсутствует"
+
+#: inc/admin/customizer/helpers/helper-function.php:192
+#: inc/admin/widgets/class-author.php:242
+msgid "Has Brand Color"
+msgstr "Имеет цвет бренда"
+
+#: inc/admin/customizer/helpers/helper-function.php:191
+#: inc/admin/widgets/class-author.php:240
+msgid "Has Brand Background"
+msgstr "Имеет фон бренда"
+
+#: inc/admin/customizer/helpers/helper-function.php:171
+msgid "Header Style 4"
+msgstr "Стиль заголовка 4"
+
+#: inc/admin/customizer/helpers/helper-function.php:167
+msgid "Header Style 3"
+msgstr "Стиль заголовка 3"
+
+#: inc/admin/customizer/helpers/helper-function.php:163
+msgid "Header Style 2"
+msgstr "Стиль заголовка 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:159
+msgid "Header Style 1"
+msgstr "Стиль заголовка 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:136
+msgid "Read Time Style 3"
+msgstr "Стиль времени чтения 3"
+
+#: inc/admin/customizer/helpers/helper-function.php:135
+msgid "Read Time Style 2"
+msgstr "Стиль времени чтения 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:134
+msgid "Read Time Style 1"
+msgstr "Стиль времени чтения 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:114
+msgid "Category Style 3"
+msgstr "Стиль рубрики 3"
+
+#: inc/admin/customizer/helpers/helper-function.php:113
+msgid "Category Style 2"
+msgstr "Стиль рубрики 2"
+
+#: inc/admin/customizer/helpers/helper-function.php:112
+msgid "Category Style 1"
+msgstr "Стиль рубрики 1"
+
+#: inc/admin/customizer/helpers/helper-function.php:94
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:131
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:118
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:72
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:106
+msgid "5 Lines"
+msgstr "5 строк"
+
+#: inc/admin/customizer/helpers/helper-function.php:93
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:130
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:117
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:71
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:105
+msgid "4 Lines"
+msgstr "4 строки"
+
+#: inc/admin/customizer/helpers/helper-function.php:92
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:129
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:116
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:70
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:104
+msgid "3 Lines"
+msgstr "3 строки"
+
+#: inc/admin/customizer/helpers/helper-function.php:91
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:128
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:115
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:69
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:103
+msgid "2 Lines"
+msgstr "2 строки"
+
+#: inc/admin/customizer/helpers/helper-function.php:90
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-1.php:127
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-2.php:114
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-4.php:68
+#: inc/compatibility/elementor/widgets/trendingnews-elementor-widgets-block-5.php:102
+msgid "1 Line"
+msgstr "1 строка"
+
+#: inc/admin/customizer/helpers/helper-function.php:89
+msgid "&mdash; No Limit &mdash;"
+msgstr "&mdash; Никаких ограничений &mdash;"
+
+#: inc/admin/customizer/helpers/helper-function.php:69
+#: inc/admin/widgets/class-carousel-slider.php:228
+#: inc/admin/widgets/class-grid-post.php:140
+#: inc/admin/widgets/class-jumbo-post.php:100
+#: inc/admin/widgets/class-metro-post.php:112
+#: inc/admin/widgets/class-multi-grid-post.php:132
+#: inc/admin/widgets/class-recent-post.php:148
+#: inc/admin/widgets/class-slider-post.php:208
+#: inc/admin/widgets/class-tab-post.php:220
+msgid "Time Ago"
+msgstr "Время назад"
+
+#: inc/admin/customizer/helpers/helper-function.php:68
+#: inc/admin/widgets/class-carousel-slider.php:227
+#: inc/admin/widgets/class-grid-post.php:139
+#: inc/admin/widgets/class-jumbo-post.php:99
+#: inc/admin/widgets/class-metro-post.php:111
+#: inc/admin/widgets/class-multi-grid-post.php:131
+#: inc/admin/widgets/class-recent-post.php:147
+#: inc/admin/widgets/class-slider-post.php:207
+#: inc/admin/widgets/class-tab-post.php:219
+msgid "Classic"
+msgstr "Классическая"
+
+#: inc/admin/customizer/helpers/helper-function.php:48
+msgid "Archive Alternate Grid View"
+msgstr "Просмотр альтернативной сетки архива"
+
+#: inc/admin/customizer/helpers/helper-function.php:44
+msgid "Archive Grid View"
+msgstr "Просмотр сетки архива"
+
+#: inc/admin/customizer/helpers/helper-function.php:40
+msgid "Archive List View"
+msgstr "Просмотр списока архива"
+
+#: inc/admin/customizer/helpers/defaults.php:428
+msgid "&copy; All rights reserved. Proudly powered by WordPress."
+msgstr "&copy; Все права защищены. С гордостью используем WordPress."
+
+#: inc/admin/customizer/helpers/defaults.php:423
+#: inc/compatibility/elementor/widgets/class-trendingnews-elementor-widget-base.php:334
+msgid "Categories"
+msgstr "Рубрики (Categories)"
+
+#: inc/admin/customizer/helpers/defaults.php:405
+msgid "Just For You"
+msgstr "Только для тебя"
+
+#: inc/admin/customizer/helpers/defaults.php:388
+#: inc/admin/meta-box/meta-box.php:81
+msgid "More From Author"
+msgstr "Еще от автора"
+
+#: inc/admin/customizer/helpers/defaults.php:368
+#: inc/admin/meta-box/meta-box.php:78
+msgid "You May Also Like"
+msgstr "Вам также может понравиться"
+
+#: inc/admin/customizer/helpers/defaults.php:325
+#: inc/admin/dashboard/views/products.php:59
+#: inc/admin/dashboard/views/products.php:126
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/admin/customizer/helpers/defaults.php:286
+msgid "Article Group"
+msgstr "Группа статей"
+
+#: inc/admin/customizer/helpers/defaults.php:282
+msgid "More from this category"
+msgstr "Другие материалы из этой рубрики"
+
+#: inc/admin/customizer/helpers/defaults.php:268
+#: inc/admin/widgets/class-tab-post.php:158
+msgid "Latest"
+msgstr "Последние"
+
+#: inc/admin/customizer/helpers/defaults.php:265
+msgid "Grid List"
+msgstr "Список сеткой"
+
+#: inc/admin/customizer/helpers/defaults.php:248
+msgid "Split Block Title"
+msgstr "Название разделенного блока"
+
+#: inc/admin/customizer/helpers/defaults.php:229
+msgid "Trending"
+msgstr "Трендовые"
+
+#: inc/admin/customizer/helpers/defaults.php:228
+msgid "Dual Insights"
+msgstr ""
+
+#: inc/admin/customizer/helpers/defaults.php:209
+msgid "Article Grid"
+msgstr "Сетка статьи"
+
+#: inc/admin/customizer/helpers/defaults.php:187
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: inc/admin/customizer/helpers/defaults.php:137
+#: inc/admin/customizer/helpers/defaults.php:310
+msgid "Must Read"
+msgstr "Обязательно прочитать"
+
+#: inc/admin/customizer/helpers/defaults.php:107
+#: template-parts/section/popular-post.php:89
+msgid "Top Picks"
+msgstr "Лучший выбор"
+
+#: inc/admin/customizer/helpers/defaults.php:97
+msgid "Tags"
+msgstr "Тэги"
+
+#: inc/admin/customizer/helpers/defaults.php:77
+msgid "Trending Mag"
+msgstr "Трендовый журнал"
+
+#: inc/admin/customizer/helpers/defaults.php:69
+msgid "Today:"
+msgstr "Сегодня:"
+
+#: inc/admin/customizer/helpers/defaults.php:52
+#: inc/admin/customizer/helpers/defaults.php:85
+#: inc/admin/customizer/helpers/defaults.php:116
+#: inc/admin/customizer/helpers/defaults.php:141
+#: inc/admin/customizer/helpers/defaults.php:157
+#: inc/admin/customizer/helpers/defaults.php:177
+#: inc/admin/customizer/helpers/defaults.php:197
+#: inc/admin/customizer/helpers/defaults.php:217
+#: inc/admin/customizer/helpers/defaults.php:236
+#: inc/admin/customizer/helpers/defaults.php:253
+#: inc/admin/customizer/helpers/defaults.php:273
+#: inc/admin/customizer/helpers/defaults.php:293
+#: inc/admin/customizer/helpers/defaults.php:314
+#: inc/admin/customizer/helpers/defaults.php:377
+#: inc/admin/customizer/helpers/defaults.php:394
+#: inc/admin/customizer/helpers/defaults.php:411
+msgid "Posted by"
+msgstr "Запись от"
+
+#: inc/admin/customizer/helpers/defaults.php:51
+#: inc/admin/customizer/helpers/defaults.php:84
+#: inc/admin/customizer/helpers/defaults.php:115
+#: inc/admin/customizer/helpers/defaults.php:140
+#: inc/admin/customizer/helpers/defaults.php:160
+#: inc/admin/customizer/helpers/defaults.php:176
+#: inc/admin/customizer/helpers/defaults.php:196
+#: inc/admin/customizer/helpers/defaults.php:216
+#: inc/admin/customizer/helpers/defaults.php:239
+#: inc/admin/customizer/helpers/defaults.php:256
+#: inc/admin/customizer/helpers/defaults.php:276
+#: inc/admin/customizer/helpers/defaults.php:296
+#: inc/admin/customizer/helpers/defaults.php:313
+#: inc/admin/customizer/helpers/defaults.php:338
+#: inc/admin/customizer/helpers/defaults.php:357
+#: inc/admin/customizer/helpers/defaults.php:376
+#: inc/admin/customizer/helpers/defaults.php:393
+#: inc/admin/customizer/helpers/defaults.php:410
+msgid "on"
+msgstr "on"
+
+#: inc/admin/customizer/helpers/defaults.php:43
+#: template-parts/header/search-trending-post.php:54
+#: template-parts/section/ticker-post.php:65
+msgid "News Flash"
+msgstr "Срочные новости"
+
+#: inc/admin/customizer/helpers/controls.php:249
+msgid "Contact Us"
+msgstr "Напишите нам"
+
+#: inc/admin/customizer/helpers/controls.php:247
+msgid "If you have any questions about the theme, please don't hesitate to reach out to us."
+msgstr "Если у Вас есть вопросы по этой теме, не стесняйтесь обращаться к нам."
+
+#: inc/admin/customizer/helpers/controls.php:246
+msgid "Need Support?"
+msgstr "Нужна поддержка?"
+
+#: inc/admin/customizer/helpers/controls.php:243
+#: inc/admin/customizer/helpers/controls.php:287
+#: inc/admin/dashboard/views/free-vs-pro.php:281
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: inc/admin/customizer/helpers/controls.php:241
+msgid "Many More .."
+msgstr "Многое другое ..."
+
+#: inc/admin/customizer/helpers/controls.php:240
+msgid "Remove Footer Credit"
+msgstr "Удалить титры авторства в подвале"
+
+#: inc/admin/customizer/helpers/controls.php:239
+msgid "Post Format Support"
+msgstr "Поддержка форматов записи"
+
+#: inc/admin/customizer/helpers/controls.php:238
+msgid "Mailchimp Topbar"
+msgstr "Верхняя панель MailChimp"
+
+#: inc/admin/customizer/helpers/controls.php:237
+#: inc/admin/dashboard/views/dashboard.php:153
+msgid "Webmaster Tools"
+msgstr "Инструменты вебмастера"
+
+#: inc/admin/customizer/helpers/controls.php:236
+msgid "Additional Customizer Sections"
+msgstr "Дополнительные разделы настройки темы"
+
+#: inc/admin/customizer/helpers/controls.php:235
+msgid "Extended Widget Options"
+msgstr "Расширенные параметры виджета"
+
+#: inc/admin/customizer/helpers/controls.php:234
+msgid "Additional Widgets"
+msgstr "Дополнительные виджеты"
+
+#: inc/admin/customizer/helpers/controls.php:233
+msgid "Additional Widget Areas"
+msgstr "Дополнительные области для виджетов"
+
+#: inc/admin/customizer/helpers/controls.php:232
+msgid "Dark Mode Feature"
+msgstr "Особенность темного режима"
+
+#: inc/admin/customizer/helpers/controls.php:231
+#: inc/admin/dashboard/views/dashboard.php:149
+msgid "Font Options"
+msgstr "Параметры шрифта"
+
+#: inc/admin/customizer/helpers/controls.php:230
+msgid "More Color Options"
+msgstr "Больше параметров цвета"
+
+#: inc/admin/customizer/helpers/controls.php:229
+msgid "Dedicated Premium Support"
+msgstr "Выделенная премиум поддержка"
+
+#: inc/admin/customizer/helpers/controls.php:227
+msgid "Explore Our Premium Features"
+msgstr "Изучите наши премиум-функции"
+
+#: inc/admin/customizer/helpers/controls.php:169
+#: inc/admin/widgets/class-carousel-slider.php:76
+#: inc/admin/widgets/class-grid-post.php:47
+#: inc/admin/widgets/class-jumbo-post.php:61
+#: inc/admin/widgets/class-metro-post.php:73
+#: inc/admin/widgets/class-multi-grid-post.php:93
+#: inc/admin/widgets/class-recent-post.php:66
+#: inc/admin/widgets/class-slider-post.php:74
+#: inc/admin/widgets/class-tab-post.php:58
+#: inc/admin/widgets/class-tab-post.php:114
+#: inc/admin/widgets/class-tab-post.php:170
+msgid "&mdash; Select &mdash;"
+msgstr "— Выбрать —"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:62
+msgid "Social Menu"
+msgstr "Меню соцсети"
+
+#: functions.php:61
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:27
+msgid "Add widgets on Off-canvas Drawer"
+msgstr "Добавить виджеты на выдвежной вне холста"
+
+#: footer.php:25
+msgid "No widgets added yet."
+msgstr "Виджеты пока не добавлены."
+
+#: footer.php:17
+msgid "Close menu"
+msgstr "Закрыть меню"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. translators: Hidden accessibility text.
+#: classes/class-walker-page.php:111 inc/template-tags.php:391
+msgid "Show sub menu"
+msgstr "Показывать подменю"
+
+#. translators: %d: ID of a post.
+#: classes/class-walker-page.php:72
+msgid "#%d (no title)"
+msgstr "#%d (без заголовка)"
+
+#: assets/breadcrumbs/breadcrumbs.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: assets/breadcrumbs/breadcrumbs.php:794
+#: assets/breadcrumbs/breadcrumbs.php:1223
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: assets/breadcrumbs/breadcrumbs.php:793
+#: assets/breadcrumbs/breadcrumbs.php:849
+#: assets/breadcrumbs/breadcrumbs.php:1219
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: assets/breadcrumbs/breadcrumbs.php:792
+#: assets/breadcrumbs/breadcrumbs.php:821
+#: assets/breadcrumbs/breadcrumbs.php:848
+#: assets/breadcrumbs/breadcrumbs.php:875
+#: assets/breadcrumbs/breadcrumbs.php:1215
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: assets/breadcrumbs/breadcrumbs.php:776
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: assets/breadcrumbs/breadcrumbs.php:759
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: assets/breadcrumbs/breadcrumbs.php:742
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: assets/breadcrumbs/breadcrumbs.php:282
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: assets/breadcrumbs/breadcrumbs.php:280
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: assets/breadcrumbs/breadcrumbs.php:278
+msgid "Comment Page %s"
+msgstr "Страница комментария %s"
+
+#. Translators: %s is the page number.
+#: assets/breadcrumbs/breadcrumbs.php:276
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query.
+#: assets/breadcrumbs/breadcrumbs.php:274
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: assets/breadcrumbs/breadcrumbs.php:272
+msgid "Archives"
+msgstr "Архивы"
+
+#: assets/breadcrumbs/breadcrumbs.php:271
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#: assets/breadcrumbs/breadcrumbs.php:270
+msgid "Home"
+msgstr "Главная"
+
+#: assets/breadcrumbs/breadcrumbs.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигационные цепочки"
+
+#: assets/breadcrumbs/breadcrumbs.php:268
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: 404.php:22
+msgid "Go Back To Homepage"
+msgstr "Вернуться на главную страницу"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wpinterface.com/"
+msgstr "https://wpinterface.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "WPInterface"
+msgstr "WPInterface"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wpinterface.com/themes/trendingnews/"
+msgstr "https://wpinterface.com/themes/trendingnews/"

@@ -1,0 +1,1184 @@
+# Translation of Themes - Newspaperup in Russian
+# This file is distributed under the same license as the Themes - Newspaperup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-10 13:05:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Newspaperup\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Newspaperup is a fast, clean, modern-looking Best Responsive News Magazine WordPress theme. The theme is fully widgetized, so users can manage the content by using easy to use widgets. Newspaperup is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. Newspaperup is SEO friendly, WPML,Gutenberg, translation and RTL ready. Live preview : https://demos.themeansar.com/newspaperup and documentation at https://docs.themeansar.com/docs/newspaperup/"
+msgstr ""
+"Newspaperup – быстрая, чистая, современная тема WordPress для Best Responsive News Magazine. Тема полностью построена на виджетах, поэтому пользователи могут управлять контентом с помощью простых виджетов. Newspaperup подходит для динамичных новостей, газет, журналов, издателей, блогов, редакторов, онлайн и игровых журналов, новостных порталов, персональных блогов, газет, сайтов для публикаций и обзоров, а также любых творческих сайтов. Newspaperup пригодна для SEO, WPML, Gutenberg, перевода и RTL. Предпросмотр в реальном времени:  https://demos.themeansar.com/newspaperup \n"
+"Документация: https://docs.themeansar.com/docs/newspaperup/"
+
+#. Theme Name of the theme
+#: style.css inc/ansar/customizer-admin/admin-plugin-install.php:79
+#, gp-priority: high
+msgid "Newspaperup"
+msgstr "Newspaperup"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:131
+msgid "Plugin installed and activated successfully."
+msgstr "Плагин успешно установлен и активирован."
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:125
+msgid "Plugin installation failed."
+msgstr "Установка плагина не удалась."
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:118
+msgid "Failed to fetch plugin information."
+msgstr "Не удалось получить информацию о плагине."
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:98
+msgid "Sorry, you are not allowed to access this page."
+msgstr "У вас нет доступа к этой странице."
+
+#: inc/ansar/widgets/widget-author-info.php:231
+msgid "Open link in new tab"
+msgstr "Открывать ссылку в новой вкладке"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:51
+msgid "Get Started"
+msgstr "Начать"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:69
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:65
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/ansar/template-tags.php:516
+msgid "No results found"
+msgstr "Не найдено результатов"
+
+#: inc/ansar/template-tags.php:512
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] "%s результат найден"
+msgstr[1] "%s результата найдено"
+msgstr[2] "%s результатов найдено"
+
+#: inc/ansar/hooks/hook-side-menu-section.php:29
+msgid "in the admin."
+msgstr "в админке."
+
+#: inc/ansar/hooks/hook-side-menu-section.php:25
+msgid "This is an example widget to show how the Header Toggle Sidebar looks by default. You can add custom widgets from the"
+msgstr "Это пример виджета, показывающего, как боковая панель заголовка выглядит по умолчанию. Вы можете добавить пользовательские виджеты из раздела"
+
+#: inc/ansar/template-tags.php:136
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:39
+msgid "Thank you for choosing %1$s theme. To take full advantage of the complete features of the theme, click Get Started and install and activate the %2$s plugin, then use the demo importer and install the %3$s demo according to your need."
+msgstr "Благодарим Вас за выбор темы %1$s. Чтобы воспользоваться всеми возможностями темы, нажмите кнопку Начало работы, установите и активируйте плагин %2$s, затем воспользуйтесь импортером демо и установите демо %3$s в соответствии с Вашими потребностями."
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Главная страница"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#: sections/page-data.php:37
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: sections/content-search.php:16
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: sections/content-search.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: search term
+#: inc/ansar/template-tags.php:310
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/ansar/widgets/widgets-base.php:208
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/ansar/widgets/widgets-base.php:197
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: inc/ansar/widgets/widgets-base.php:196
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: inc/ansar/widgets/widgets-base.php:195
+msgid "Upload"
+msgstr "Отправить"
+
+#: inc/ansar/widgets/widget-posts-slider.php:23
+msgid "AR: Posts Slider"
+msgstr "AR: Ползунок сообщений"
+
+#: inc/ansar/widgets/widget-posts-list.php:126
+msgid "Post Count Per Row"
+msgstr "Количество записей (на странице)"
+
+#: inc/ansar/widgets/widget-posts-list.php:124
+msgid "Number of Posts to Show"
+msgstr "Количество отображаемых записей"
+
+#: inc/ansar/widgets/widget-posts-list.php:120
+msgid "Posts List"
+msgstr "Список записей"
+
+#: inc/ansar/widgets/widget-posts-list.php:111
+msgid "2 Posts"
+msgstr "2 записи"
+
+#: inc/ansar/widgets/widget-posts-list.php:110
+msgid "1 Post"
+msgstr "1 запись"
+
+#: inc/ansar/widgets/widget-posts-list.php:25
+msgid "AR: Posts List"
+msgstr "AR: Список записей"
+
+#: inc/ansar/widgets/widget-posts-list.php:21
+msgid "Displays posts from selected category in a list."
+msgstr "Отображает записи из выбранной рубрики в списке."
+
+#: inc/ansar/widgets/widget-posts-double-category.php:192
+msgid "Select category 2"
+msgstr "Выберите рубрику 2"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:191
+msgid "Title 2"
+msgstr "Название 2"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:189
+msgid "Select category 1"
+msgstr "Выберите рубрику 1"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:188
+msgid "Title 1"
+msgstr "Название 1"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:24
+msgid "AR: Double Categories Posts"
+msgstr "AR: Записи двух рубрик"
+
+#: inc/ansar/widgets/widget-posts-double-category.php:20
+msgid "Displays posts from 2 selected categories in double column."
+msgstr "Отображать записи из 2 выбранных рубрик в двойном столбце."
+
+#: inc/ansar/widgets/widget-posts-carousel.php:24
+msgid "AR: Posts Carousel"
+msgstr "AR: карусель записей"
+
+#: inc/ansar/widgets/widget-posts-carousel.php:20
+msgid "Displays posts carousel from selected category."
+msgstr "Отображать карусель записей из выбранной рубрики."
+
+#: inc/ansar/widgets/widget-latest-news.php:120
+msgid "Number of Post to Show"
+msgstr "Количество записей для показа"
+
+#: inc/ansar/widgets/widget-latest-news.php:24
+msgid "AR: Latest News Post"
+msgstr "AR: Последнее новостное сообщение"
+
+#: inc/ansar/widgets/widget-latest-news.php:20
+msgid "Displays posts from selected category in single column."
+msgstr "Показывает сообщения из выбранной категории в отдельном столбце."
+
+#: inc/ansar/widgets/widget-featured-post-widget.php:120
+msgid "All categories"
+msgstr "Все рубрики"
+
+#: inc/ansar/widgets/widget-featured-post-widget.php:111
+msgid "Title: "
+msgstr "Заголовок: "
+
+#: inc/ansar/widgets/widget-featured-post-widget.php:12
+msgid "AR: Featured Posts"
+msgstr "AR: Избранные записи"
+
+#: inc/ansar/widgets/widget-featured-post-widget.php:10
+#: inc/ansar/widgets/widget-featured-post-widget.php:105
+msgid "Featured Posts"
+msgstr "Рекомендованные записи"
+
+#: inc/ansar/widgets/widget-author-info.php:216
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/ansar/widgets/widget-author-info.php:205
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/ansar/widgets/widget-author-info.php:194
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/ansar/widgets/widget-author-info.php:183
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/ansar/widgets/widget-author-info.php:169
+msgid "Designation"
+msgstr "Обозначение"
+
+#: inc/ansar/widgets/widget-author-info.php:164
+msgid "Name"
+msgstr "Имя"
+
+#: inc/ansar/widgets/widget-author-info.php:160
+msgid "Upload Image"
+msgstr "Загрузить картинку"
+
+#: inc/ansar/widgets/widget-author-info.php:153
+msgid "Uploaded image"
+msgstr "Загруженное изображение"
+
+#: inc/ansar/widgets/widget-author-info.php:147
+msgid "Author Image"
+msgstr "Изображение автора"
+
+#: inc/ansar/widgets/widget-author-info.php:17
+msgid "AR: Author Info"
+msgstr "AR: Показать данные автора"
+
+#: inc/ansar/widgets/widget-3-column-slider.php:23
+msgid "AR: 3 Column Posts Slider"
+msgstr "AR: Ползунок сообщений в 3 колонки"
+
+#: inc/ansar/widgets/widget-3-column-slider.php:19
+#: inc/ansar/widgets/widget-posts-slider.php:19
+msgid "Displays posts slider from selected category."
+msgstr "Отображать слайдер записи из выбранной рубрики."
+
+#: inc/ansar/widgets/popular_tab_widget.php:107
+#: inc/ansar/widgets/widget-3-column-slider.php:106
+#: inc/ansar/widgets/widget-posts-carousel.php:119
+#: inc/ansar/widgets/widget-posts-list.php:122
+#: inc/ansar/widgets/widget-posts-slider.php:112
+msgid "Select category"
+msgstr "Выберите рубрику"
+
+#: inc/ansar/widgets/popular_tab_widget.php:105
+msgid "Enable Categorised Tab"
+msgstr "Включить вкладку По рубрикам"
+
+#: inc/ansar/widgets/popular_tab_widget.php:103
+msgid "Categorised Posts"
+msgstr "Записи по рубрикам"
+
+#: inc/ansar/widgets/popular_tab_widget.php:98
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: inc/ansar/widgets/popular_tab_widget.php:95
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: inc/ansar/widgets/popular_tab_widget.php:90
+#: inc/ansar/widgets/widget-3-column-slider.php:98
+#: inc/ansar/widgets/widget-posts-list.php:105
+#: inc/ansar/widgets/widget-posts-slider.php:102
+msgid "No"
+msgstr "Нет"
+
+#: inc/ansar/widgets/popular_tab_widget.php:89
+#: inc/ansar/widgets/widget-3-column-slider.php:97
+#: inc/ansar/widgets/widget-posts-list.php:104
+#: inc/ansar/widgets/widget-posts-slider.php:101
+msgid "Yes"
+msgstr "Да"
+
+#: inc/ansar/widgets/popular_tab_widget.php:44
+#: inc/ansar/widgets/popular_tab_widget.php:106
+msgid "Trending"
+msgstr "Анализ тенденций"
+
+#: inc/ansar/widgets/popular_tab_widget.php:40
+#: inc/ansar/widgets/popular_tab_widget.php:96
+msgid "Latest"
+msgstr "Последнии"
+
+#: inc/ansar/widgets/popular_tab_widget.php:39
+#: inc/ansar/widgets/popular_tab_widget.php:99
+msgid "Popular"
+msgstr "Популярный"
+
+#: inc/ansar/widgets/popular_tab_widget.php:16
+msgid "AR: Popular Tab"
+msgstr "AR: Вкладка популярного"
+
+#: inc/ansar/widgets/popular_tab_widget.php:14
+msgid "Popular Tab"
+msgstr "Вкладка Популярное"
+
+#: inc/ansar/template-tags.php:352
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: inc/ansar/template-tags.php:139
+msgid "Comment"
+msgstr "Комментарий"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/ansar/template-functions.php:285
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/ansar/hooks/hook-single-page.php:9 sections/single-author.php:5
+msgid "By"
+msgstr "Автор"
+
+#: inc/ansar/hooks/hook-side-menu-section.php:26
+#: inc/ansar/hooks/hook-side-menu-section.php:27
+msgid "widgets"
+msgstr "виджеты"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:497
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:530
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:492
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Remove Icon"
+msgstr "Удалить значок"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Social icons"
+msgstr "Значки соцсетей"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:457
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Примечание: Некоторые иконки могут здесь не отображаться. Полный список иконок доступен тут: %1$s."
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:321
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:404
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:57
+msgid "View Demos"
+msgstr "Посмотреть демонстрации"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:61
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:52
+msgid "Customize Site"
+msgstr "Настройка сайта"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:44
+msgid "Ansar Import"
+msgstr "Ansar Import"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:34
+msgid "Welcome to %1$s"
+msgstr "Добро пожаловать в %1$s"
+
+#: inc/ansar/customizer-admin/admin-plugin-install.php:26
+msgid "Hello, "
+msgstr "Привет, "
+
+#: inc/ansar/customize/theme-options.php:768
+msgid "Menu Font"
+msgstr "Шрифт меню"
+
+#: inc/ansar/customize/theme-options.php:755
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/ansar/customize/theme-options.php:744
+#: inc/ansar/customize/theme-options.php:777
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+#: inc/ansar/customize/theme-options.php:735
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/ansar/customize/theme-options.php:716
+#: inc/ansar/customize/theme-options.php:725
+msgid "Typography"
+msgstr "Оформление"
+
+#: inc/ansar/customize/theme-options.php:676
+msgid "Scroll To Top"
+msgstr "Прокрутить вверх"
+
+#: inc/ansar/customize/theme-options.php:667
+msgid "Scroller"
+msgstr "Прокрутка"
+
+#: inc/ansar/customize/theme-options.php:634
+#: inc/ansar/customize/theme-options.php:644
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+#: inc/ansar/customize/theme-options.php:624
+msgid "Hover Color (Dark Layout)"
+msgstr "Цвет при наведении (темный макет)"
+
+#: inc/ansar/customize/theme-options.php:614
+msgid "Color (Dark Layout)"
+msgstr "Цвета и тёмный режим"
+
+#: inc/ansar/customize/theme-options.php:604
+msgid "Hover Color"
+msgstr "Цвет при наведении"
+
+#: inc/ansar/customize/theme-options.php:574
+#: inc/ansar/customize/theme-options.php:583
+msgid "Site Title/Tagline"
+msgstr "Название и краткое описание сайта"
+
+#: inc/ansar/customize/theme-options.php:550
+msgid "Category Color"
+msgstr "Цвет рубрики"
+
+#: inc/ansar/customize/theme-options.php:541
+msgid "Theme Colors"
+msgstr "Цвета темы"
+
+#: inc/ansar/customize/theme-options.php:521
+#: inc/ansar/customize/theme-options.php:531
+msgid "Sticky Sidebar"
+msgstr "Прилепленная область виджетов"
+
+#: inc/ansar/customize/theme-options.php:501
+msgid "Post Comments"
+msgstr "Комментарии записи"
+
+#: inc/ansar/customize/theme-options.php:480
+msgid "Author Details"
+msgstr "Информация об авторе"
+
+#: inc/ansar/customize/theme-options.php:438
+#: inc/ansar/customize/theme-options.php:458 sections/single-related.php:5
+msgid "Related Posts"
+msgstr "Связанные записи"
+
+#: inc/ansar/customize/theme-options.php:409
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/ansar/customize/theme-options.php:378
+msgid "Hide/Show Sharing Icons"
+msgstr "Скрыть/показать значки \"поделиться\""
+
+#: inc/ansar/customize/theme-options.php:367
+msgid "Featured Image"
+msgstr "Сопутствующее изображение"
+
+#: inc/ansar/customize/theme-options.php:335
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/ansar/customize/theme-options.php:316
+msgid "Numbers"
+msgstr "Числа"
+
+#: inc/ansar/customize/theme-options.php:315
+msgid "Next-Prev"
+msgstr "След/Пред"
+
+#: inc/ansar/customize/theme-options.php:304
+msgid "Pagination"
+msgstr "Разделение на страницы"
+
+#: inc/ansar/customize/theme-options.php:295
+msgid "Full Content"
+msgstr "Всё содержимое"
+
+#: inc/ansar/customize/theme-options.php:294
+msgid "Excerpt"
+msgstr "Анонс"
+
+#: inc/ansar/customize/theme-options.php:283
+msgid "Choose Content Option"
+msgstr "Выбрать другую опцию"
+
+#: inc/ansar/customize/theme-options.php:274
+#: inc/ansar/customize/theme-options.php:408 inc/ansar/template-tags.php:139
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/ansar/customize/theme-options.php:272
+#: inc/ansar/customize/theme-options.php:406
+#: inc/ansar/customize/theme-options.php:419
+msgid "Author"
+msgstr "По автору"
+
+#: inc/ansar/customize/theme-options.php:247
+#: inc/ansar/customize/theme-options.php:257
+#: inc/ansar/customize/theme-options.php:356
+#: inc/ansar/customize/theme-options.php:389
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: inc/ansar/customize/theme-options.php:236
+#: inc/ansar/customize/theme-options.php:345
+#: inc/ansar/customize/theme-options.php:469
+msgid "Category"
+msgstr "Рубрика"
+
+#: inc/ansar/customize/theme-options.php:224
+msgid "Drop Caps (First Big Letter)"
+msgstr "Отображать буквицы (большая заглавная буква)"
+
+#: inc/ansar/customize/theme-options.php:214
+msgid "Blog Post"
+msgstr "Запись блога"
+
+#: inc/ansar/customize/theme-options.php:204
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: inc/ansar/customize/theme-options.php:195
+msgid "Go Back"
+msgstr "Вернуться"
+
+#: inc/ansar/customize/theme-options.php:194
+msgid "Button Title"
+msgstr "Название кнопки"
+
+#: inc/ansar/customize/theme-options.php:184
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "К сожалению, запрашиваемая страница не существует."
+
+#: inc/ansar/customize/theme-options.php:183
+#: inc/ansar/widgets/widget-author-info.php:175
+msgid "Description"
+msgstr "Описание"
+
+#: inc/ansar/customize/theme-options.php:173
+msgid "Oops! Page not found"
+msgstr "Упс, страница не найдена"
+
+#: inc/ansar/customize/theme-options.php:162
+msgid "404 Page"
+msgstr "страница 404"
+
+#: inc/ansar/customize/theme-options.php:153
+msgid "Auto Height Post Image"
+msgstr "Автоматически устанавливать высоту изображения записи"
+
+#: inc/ansar/customize/theme-options.php:152
+msgid "Fix Height Post Image"
+msgstr "Фиксировать высоту изображения записи"
+
+#: inc/ansar/customize/theme-options.php:148
+msgid "Post Image display type:"
+msgstr "Тип отображения изображения записи:"
+
+#: inc/ansar/customize/theme-options.php:137
+msgid "Post Image"
+msgstr "Изображение записи"
+
+#: inc/ansar/customize/theme-options.php:116
+msgid "Social"
+msgstr "Соцсети"
+
+#: inc/ansar/customize/theme-options.php:115
+msgid "Add New Social"
+msgstr "Добавить новую социальную сеть"
+
+#: inc/ansar/customize/theme-options.php:92
+msgid "Hide/Show on Footer"
+msgstr "Показать/Скрыть подвал"
+
+#: inc/ansar/customize/theme-options.php:80
+msgid "Hide/Show on Header"
+msgstr "Скрыть/показать в заголовке"
+
+#: inc/ansar/customize/theme-options.php:70
+#: inc/ansar/customize/theme-options.php:112
+msgid "Social Icons"
+msgstr "Иконки социальных сетей"
+
+#: inc/ansar/customize/theme-options.php:61
+msgid "Rank Math"
+msgstr "Rank Math"
+
+#: inc/ansar/customize/theme-options.php:60
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: inc/ansar/customize/theme-options.php:59
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/ansar/customize/theme-options.php:58
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/ansar/customize/theme-options.php:56
+msgid "If you use other than \"default\" one you will need to install and activate respective plugins Breadcrumb NavXT, Yoast SEO and Rank Math SEO"
+msgstr "Если вы используете вариант, отличный от «по умолчанию», вам необходимо установить и активировать соответствующие плагины Breadcrumb NavXT, Yoast SEO и Rank Math SEO"
+
+#: inc/ansar/customize/theme-options.php:53
+msgid "Breadcrumb Type"
+msgstr "Тип навигационной цепочки"
+
+#: inc/ansar/customize/theme-options.php:31
+msgid "Breadcrumb"
+msgstr "Хлебные крошки"
+
+#: inc/ansar/customize/theme-options.php:22
+msgid "Theme Options"
+msgstr "Опции Темы"
+
+#: inc/ansar/customize/theme-layout.php:118
+#: inc/ansar/customize/theme-layout.php:127
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/ansar/customize/theme-layout.php:94
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/ansar/customize/theme-layout.php:70
+#: inc/ansar/customize/theme-options.php:326
+msgid "Single Page"
+msgstr "Одиночная страница"
+
+#: inc/ansar/customize/theme-layout.php:40
+msgid "Sidebar Width"
+msgstr "Ширина боковой панели"
+
+#: inc/ansar/customize/theme-layout.php:30
+msgid "Archive Pages"
+msgstr "Страницы архива"
+
+#: inc/ansar/customize/theme-layout.php:21
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/ansar/customize/theme-layout.php:12
+msgid "Theme Layout"
+msgstr "Макет темы"
+
+#: inc/ansar/customize/header-options.php:527
+#: inc/ansar/customize/header-options.php:536
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: inc/ansar/customize/header-options.php:477
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:452
+msgid "Icon"
+msgstr "Значок"
+
+#: inc/ansar/customize/header-options.php:457
+#: inc/ansar/customize/header-options.php:494
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: inc/ansar/customize/header-options.php:435
+msgid "Shopping Cart"
+msgstr "Корзина"
+
+#: inc/ansar/customize/header-options.php:423
+msgid "Dark/Light Icon"
+msgstr "Темный/светлый режим"
+
+#: inc/ansar/customize/header-options.php:413
+msgid "Search Icon"
+msgstr "Значок поиска"
+
+#: inc/ansar/customize/header-options.php:403
+msgid "Header Toggle Icon"
+msgstr "Выберите значок переключения"
+
+#: inc/ansar/customize/header-options.php:384
+#: inc/ansar/customize/header-options.php:393
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/ansar/customize/header-options.php:372
+#: inc/ansar/customize/header-options.php:516
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:441
+msgid "Open link in a new tab"
+msgstr "Открывать в новой вкладке"
+
+#: inc/ansar/customize/header-options.php:360
+#: inc/ansar/customize/header-options.php:504
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:283
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:384
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:489
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:511
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/ansar/customize/header-options.php:334
+#: inc/ansar/customize/header-options.php:344
+msgid "Banner Advertisement"
+msgstr "Баннерная реклама"
+
+#: inc/ansar/customize/header-options.php:277
+msgid "Remove Overlay Color"
+msgstr "Цвет наложения при наведении"
+
+#: inc/ansar/customize/header-options.php:267
+msgid "Header Image"
+msgstr "Изображение заголовка"
+
+#: inc/ansar/customize/header-options.php:247
+#: inc/ansar/customize/theme-options.php:593
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:351
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/ansar/customize/header-options.php:228
+msgid "From WordPress Setting"
+msgstr "Установка из WordPress"
+
+#: inc/ansar/customize/header-options.php:227
+msgid "Theme Default Setting"
+msgstr "Установка темой по умолчанию"
+
+#: inc/ansar/customize/header-options.php:223
+msgid "Date Display Type:"
+msgstr "Тип отображения даты"
+
+#: inc/ansar/customize/header-options.php:203
+#: inc/ansar/customize/theme-options.php:273
+#: inc/ansar/customize/theme-options.php:407
+#: inc/ansar/customize/theme-options.php:491
+msgid "Date"
+msgstr "Дата"
+
+#: inc/ansar/customize/header-options.php:179
+#: inc/ansar/customize/header-options.php:213
+msgid "Hide / Show"
+msgstr "Скрыть/Показать"
+
+#: inc/ansar/customize/header-options.php:127
+#: inc/ansar/customize/header-options.php:238
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/ansar/customize/header-options.php:117
+msgid "Header Option"
+msgstr "Настройки заголовка"
+
+#: inc/ansar/customize/header-options.php:107
+msgid "Display Center Site Title and Tagline"
+msgstr "Отображать название и слоган сайта по центру"
+
+#: inc/ansar/customize/header-options.php:76
+msgid "Site Title Size"
+msgstr "Размер названия сайта"
+
+#: inc/ansar/customize/header-options.php:69
+msgid "Display site title"
+msgstr "Отображение названия сайта"
+
+#: inc/ansar/customize/header-options.php:62
+msgid "Site Title & Tagline"
+msgstr "Название и краткое описание сайта"
+
+#: inc/ansar/customize/header-options.php:32
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/ansar/customize/header-options.php:23
+msgid "Logo & Site Icon"
+msgstr "Логотип и иконка сайта"
+
+#: inc/ansar/customize/header-options.php:14
+msgid "Site Identity"
+msgstr "Свойства сайта"
+
+#: inc/ansar/customize/frontpage-options.php:197
+msgid "Trending/Editor Post Section"
+msgstr "Раздел популярных записей"
+
+#: inc/ansar/customize/frontpage-options.php:186
+msgid "Hide/Show Meta"
+msgstr "Скрыть мета автора"
+
+#: inc/ansar/customize/frontpage-options.php:155
+#: inc/ansar/customize/frontpage-options.php:207
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: inc/ansar/customize/frontpage-options.php:141
+msgid "Posts to be shown on editor slider section"
+msgstr "Сообщения для показа в разделе баннеров с ползунком"
+
+#: inc/ansar/customize/frontpage-options.php:129
+msgid "Editor Post Section"
+msgstr "Раздел рекомендуемые записи"
+
+#: inc/ansar/customize/frontpage-options.php:115
+msgid "Posts to be shown on trending slider section"
+msgstr "Записи, которые будут отображаться в разделе слайдера Анализ тенденций"
+
+#: inc/ansar/customize/frontpage-options.php:103
+msgid "Trending Post Section"
+msgstr "Раздел популярных записей"
+
+#: inc/ansar/customize/frontpage-options.php:90
+msgid "Posts to be shown on banner slider section"
+msgstr "Сообщения для показа в разделе баннеров с ползунком"
+
+#: inc/ansar/customize/frontpage-options.php:89
+#: inc/ansar/customize/frontpage-options.php:114
+#: inc/ansar/customize/frontpage-options.php:140
+#: inc/ansar/widgets/widget-featured-post-widget.php:116
+#: inc/ansar/widgets/widget-latest-news.php:118
+#: inc/ansar/widgets/widgets-common-functions.php:24
+msgid "Select Category"
+msgstr "Выбрать рубрику"
+
+#: inc/ansar/customize/header-options.php:345
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Рекомендуемый размер %1$s px X %2$s px"
+
+#: inc/ansar/customize/frontpage-options.php:78
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: inc/ansar/customize/frontpage-options.php:13
+#: inc/ansar/customize/frontpage-options.php:58
+msgid "Featured Slider"
+msgstr "Рекомендуемый слайдер"
+
+#: inc/ansar/customize/footer-options.php:221
+#: inc/ansar/customize/footer-options.php:242
+msgid "Copyright"
+msgstr "Авторское право"
+
+#: inc/ansar/customize/footer-options.php:204
+msgid "Select Column Layout"
+msgstr "Выберите макет колонок"
+
+#: inc/ansar/customize/footer-options.php:191
+#: inc/ansar/customize/footer-options.php:264
+msgid "Text Color"
+msgstr "Цвет Текста"
+
+#: inc/ansar/customize/footer-options.php:179
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: inc/ansar/customize/footer-options.php:164
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/ansar/customize/footer-options.php:154
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/ansar/customize/footer-options.php:123
+#: inc/ansar/customize/header-options.php:303
+msgid "Height"
+msgstr "Высота"
+
+#: inc/ansar/customize/footer-options.php:93
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/ansar/customize/footer-options.php:83
+msgid "Logo"
+msgstr "Лого"
+
+#: inc/ansar/customize/footer-options.php:73
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: inc/ansar/customize/footer-options.php:62
+#: inc/ansar/customize/header-options.php:191
+#: inc/ansar/customize/header-options.php:492
+#: inc/ansar/customize/theme-options.php:172
+#: inc/ansar/customize/theme-options.php:457
+#: inc/ansar/customizer-repeater/class/customizer-repeater-control.php:359
+#: inc/ansar/widgets/popular_tab_widget.php:96
+#: inc/ansar/widgets/popular_tab_widget.php:99
+#: inc/ansar/widgets/popular_tab_widget.php:106
+#: inc/ansar/widgets/widget-3-column-slider.php:104
+#: inc/ansar/widgets/widget-author-info.php:143
+#: inc/ansar/widgets/widget-posts-carousel.php:117
+#: inc/ansar/widgets/widget-posts-list.php:120
+#: inc/ansar/widgets/widget-posts-slider.php:110
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/ansar/customize/footer-options.php:51
+#: inc/ansar/customize/footer-options.php:231
+#: inc/ansar/customize/frontpage-options.php:67
+#: inc/ansar/customize/header-options.php:444
+#: inc/ansar/customize/header-options.php:466
+#: inc/ansar/customize/theme-options.php:42
+#: inc/ansar/customize/theme-options.php:427
+#: inc/ansar/customize/theme-options.php:446
+#: inc/ansar/customize/theme-options.php:510
+#: inc/ansar/customize/theme-options.php:685
+msgid "Hide/Show"
+msgstr "Скрыть/Показать"
+
+#: inc/ansar/customize/customizer-default.php:74
+msgid "Copyright &copy; All rights reserved"
+msgstr "Авторские права &copy; Все права защищены"
+
+#: inc/ansar/customize/customizer-default.php:69
+#: inc/ansar/customize/footer-options.php:31
+#: inc/ansar/customize/footer-options.php:41
+msgid "You Missed"
+msgstr "Вы пропустили"
+
+#: inc/ansar/customize/customizer-default.php:23
+#: inc/ansar/customize/header-options.php:169
+msgid "Breaking"
+msgstr "Нарушение"
+
+#: inc/ansar/customize/customizer-control.php:127
+msgid "All"
+msgstr "Все"
+
+#: inc/ansar/customize/customize-core.php:24
+#: inc/ansar/customize/customize-core.php:35
+#: inc/ansar/customize/footer-options.php:253
+#: inc/ansar/customize/header-options.php:257
+#: inc/ansar/customize/header-options.php:287
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/ansar/customize/customize-core.php:14
+msgid "Background Settings"
+msgstr "Настройки фона"
+
+#: inc/ansar/customize-pro/class-customize.php:75
+msgid "Get Support"
+msgstr "Получить поддержку"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "UPGRADE TO PRO"
+msgstr "ОБНОВИТЬ ДО ПРО"
+
+#: inc/ansar/custom-navwalker-class.php:207
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/ansar/custom-control/custom_tab_control/custom_tab_control_class.php:40
+msgid "Style"
+msgstr "Внешний вид"
+
+#: inc/ansar/custom-control/custom_tab_control/custom_tab_control_class.php:38
+msgid "General"
+msgstr "Основной"
+
+#: inc/ansar/custom-control/customize_layout.php:35
+msgid "Disable"
+msgstr "Отключение"
+
+#: inc/ansar/custom-control/customize_layout.php:28
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:272
+msgid "Footer Widget Area"
+msgstr "Область виджетов в подвале"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:262
+msgid "Frontpage Right Content"
+msgstr "Содержимое средней правой части главной страницы"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:252
+msgid "Frontpage Content"
+msgstr "Содержимое главной страницы"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:242
+msgid "Frontpage Left Content"
+msgstr "Содержимое главной страницы"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:232
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:222
+msgid "Header Toggle Sidebar"
+msgstr "Переключатель боковую панель заголовка"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:125
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/ansar/core/class-newspaperup-theme-setup.php:124
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:840
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "Ш"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:812
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:1239
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:811
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:867
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:1234
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:810
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:839
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:866
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:893
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:1228
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:794
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:777
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:760
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:308
+msgid "Week %s"
+msgstr "%s за неделю"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:306
+msgid "Minute %s"
+msgstr "%s за минуту"
+
+#. Translators: %s is the page number.
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:304
+msgid "Comment Page %s"
+msgstr "Страница комментария %s"
+
+#. Translators: %s is the page number.
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:302
+msgid "Page %s"
+msgstr "Страниц %s"
+
+#. Translators: %s is the search query.
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:300
+msgid "Search results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:298
+msgid "Archives"
+msgstr "Страниц архивов"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:297
+msgid "404 Not Found"
+msgstr "Не найдено 404"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:296 index-banner.php:16
+#: index-banner.php:21
+msgid "Home"
+msgstr "Домашняя"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:295
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Цепочки навигации"
+
+#: inc/ansar/breadcrumb-trail/breadcrumbs.php:294
+msgid "Browse:"
+msgstr "Обзор:"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: footer.php:70
+msgid "%1$s by %2$s."
+msgstr "%1$s от %2$s."
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:52 comments.php:72
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:51 comments.php:71
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:49 comments.php:68
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:26
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:21
+msgid "4"
+msgstr "4"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newspaperup-free-magazine-blog-wordpress-theme/"
+msgstr "https://themeansar.com/free-themes/newspaperup-free-magazine-blog-wordpress-theme/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"

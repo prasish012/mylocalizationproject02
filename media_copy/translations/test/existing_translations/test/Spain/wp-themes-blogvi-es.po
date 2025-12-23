@@ -1,0 +1,58 @@
+# Translation of Themes - Blogvi in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Blogvi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-19 14:25:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Blogvi\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "A child theme of Bloglo, Blogvi offers a boxed width design with a distinctive background color and a pattern image. This theme showcases a horizontal blog list style and provides users with extensive customization options for color and typography adjustments.Blogvi is lightweight, moderate and customizable News Magazine WordPress theme. You'll be able fully customize your site with rich customization options. It is idealize for personal and multi-author bloggers and content publishers. Blogvi is suitable for dynamic news, newspaper, magazine, blogs, publishers, publishing, editors, online and gaming magazines, personal blogs, news portals or review site and any creative site. Blogvi is SEO friendly, WPML, Gutenberg, WooCommerce, translation and RTL ready. Live preview : https://demo.peregrine-themes.com/bloglo/blogvi/"
+msgstr "Blogvi, un tema hijo de Bloglo, ofrece un diseño de ancho fijo con un color de fondo distintivo y una imagen de patrón. Este tema muestra un estilo de lista de blog horizontal y proporciona a los usuarios amplias opciones de personalización para ajustes de color y tipografía. Blogvi es un tema de WordPress para revista de noticias ligero, moderado y personalizable. Podrás personalizar completamente tu sitio con abundantes opciones de personalización. Es ideal para blogueros y editores de contenidos personales y multiautor. Blogvi es adecuado para noticias dinámicas, periódicos, revistas, blogs, editores, editoriales, revistas online y de juegos, blogs personales, portales de noticias o sitios de reseñas y cualquier sitio creativo. Blogvi es apto para SEO, WPML, Gutenberg, WooCommerce, traducción y RTL. Vista previa en vivo : https://demo.peregrine-themes.com/bloglo/blogvi/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blogvi"
+msgstr "Blogvi"
+
+#: inc/customizer/settings/settings-header.php:9
+msgid "Header 1"
+msgstr "Cabecera 1"
+
+#: inc/customizer/settings/settings-blog.php:15
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/customizer/settings/settings-blog.php:12
+msgid "Choose blog layout. This will affect blog layout on archives, search results and posts page."
+msgstr "Elige el diseño del blog. Esto afectará al diseño del blog en los archivos, los resultados de búsqueda y la página de las entradas."
+
+#: inc/customizer/settings/settings-blog.php:11
+msgid "Layout"
+msgstr "Diseño"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://peregrine-themes.com/blogvi"
+msgstr "https://peregrine-themes.com/blogvi"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://peregrine-themes.com/"
+msgstr "https://peregrine-themes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Peregrine themes"
+msgstr "Peregrine themes"

@@ -1,449 +1,555 @@
+# # localizationtool/views.py
+# # FULLY UPDATED & FIXED VERSION — SINGLE FOLDER + WORKS WITH NEW TOOL (2025-12-16)
 # import os
 # import shutil
-# import datetime
-# from django.shortcuts import render, redirect
-# from django.http import FileResponse, Http404
-# from django.core.files.storage import FileSystemStorage
-# from django.urls import reverse
-# from django.conf import settings
-# from django.contrib import messages  # Import the messages framework
-# from .forms import LocalizationForm
-# from .localization_logic import ColabLocalizationTool
-
-# # The main view to handle file uploads and start the localization process
-# def localize_files(request):
-#     if request.method == 'POST':
-#         form = LocalizationForm(request.POST, request.FILES)
-#         if form.is_valid():
-#             pot_file = form.cleaned_data['pot_file']
-#             zip_file = form.cleaned_data['zip_file']
-#             csv_file = form.cleaned_data['csv_file']
-#             target_langs = form.cleaned_data['target_languages']
-
-#             # Step 1: Get the text domain and create a timestamped folder
-#             text_domain = os.path.splitext(pot_file.name)[0].split('.')[0]
-#             # Updated timestamp format for better readability
-#             timestamp = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-#             folder_name = f"{text_domain}"
-            
-#             # Define the base directory for translations
-#             translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#             new_dir_path = os.path.join(translations_root, folder_name)
-
-#             os.makedirs(new_dir_path, exist_ok=True)
-
-#             # Save uploaded files temporarily to process them
-#             fs = FileSystemStorage(location=new_dir_path)
-#             pot_file_path = fs.save(pot_file.name, pot_file)
-#             zip_file_path = fs.save(zip_file.name, zip_file) if zip_file else None
-#             csv_file_path = fs.save(csv_file.name, csv_file) if csv_file else None
-
-#             # Step 2: Use your localization logic to generate files in the new folder
-#             tool = ColabLocalizationTool()
-#             # The run method is modified to take the output directory as an argument
-#             tool.run(
-#                 os.path.join(new_dir_path, pot_file_path),
-#                 os.path.join(new_dir_path, zip_file_path) if zip_file_path else None,
-#                 os.path.join(new_dir_path, csv_file_path) if csv_file_path else None,
-#                 target_langs,
-#                 new_dir_path
-#             )
-
-#             # Clean up the temporary uploaded files from inside the folder,
-#             # but leave the generated .po and .mo files
-#             os.remove(os.path.join(new_dir_path, pot_file.name))
-#             if zip_file: os.remove(os.path.join(new_dir_path, zip_file.name))
-#             if csv_file: os.remove(os.path.join(new_dir_path, csv_file.name))
-            
-#             # Add a success message and redirect back to the form page
-#             messages.success(request, 'Translation process is complete! You can view the files by clicking on the "View Translated Files" button.')
-#             return redirect('localize_files')
-#     else:
-#         form = LocalizationForm()
-#     return render(request, 'localizationtool/form.html', {'form': form})
-
-# # New view to list all translation folders
-# def folder_list(request):
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     if not os.path.isdir(translations_root):
-#         folders = []
-#     else:
-#         folders = [d for d in os.listdir(translations_root) if os.path.isdir(os.path.join(translations_root, d))]
-    
-#     folder_data = [{'id': i + 1, 'name': folder} for i, folder in enumerate(folders)]
-#     return render(request, 'localizationtool/folder_list.html', {'folders': folder_data})
-
-# # New view to download a folder as a ZIP file
-# def download_folder(request, folder_name):
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     folder_path = os.path.join(translations_root, folder_name)
-    
-#     if not os.path.isdir(folder_path):
-#         raise Http404("Folder not found.")
-    
-#     zip_path = shutil.make_archive(
-#         base_name=os.path.join(settings.BASE_DIR, 'temp', folder_name),
-#         format='zip',
-#         root_dir=translations_root,
-#         base_dir=folder_name
-#     )
-    
-#     response = FileResponse(open(zip_path, 'rb'), as_attachment=True, filename=f"{folder_name}.zip")
-#     response['Content-Length'] = os.path.getsize(zip_path)
-#     os.remove(zip_path)
-
-#     return response
-
-# # New view to delete a folder
-# def delete_folder(request, folder_name):
-#     if request.method == 'POST':
-#         translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#         folder_path = os.path.join(translations_root, folder_name)
-        
-#         if os.path.isdir(folder_path):
-#             shutil.rmtree(folder_path)
-            
-#     return redirect('folder_list')
-
-# import os
-# import shutil
-# import datetime
-# from django.shortcuts import render, redirect
-# from django.http import FileResponse, Http404
-# from django.core.files.storage import FileSystemStorage
-# from django.urls import reverse
+# import polib
+# from collections import defaultdict
+# from django.shortcuts import render, redirect, get_object_or_404
+# from django.http import FileResponse, Http404, JsonResponse
 # from django.conf import settings
 # from django.contrib import messages
+# from django.views.decorators.csrf import csrf_exempt
 # from .forms import LocalizationForm
+# from .models import LocalizationUpload, TranslationResult
 # from .localization_logic import ColabLocalizationTool
 
-# # The main view to handle file uploads and start the localization process
-# def localize_files(request):
-#     if request.method == 'POST':
-#         form = LocalizationForm(request.POST, request.FILES)
-#         if form.is_valid():
-#             pot_file = form.cleaned_data['pot_file']
-#             zip_file = form.cleaned_data['zip_file']
-#             csv_file = form.cleaned_data['csv_file']
-#             target_langs = form.cleaned_data['target_languages']
 
-#             # Step 1: Get the text domain and define the folder name
-#             text_domain = os.path.splitext(pot_file.name)[0].split('.')[0]
-#             folder_name = f"{text_domain}"
-            
-#             # Define the base directory for translations
-#             translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#             new_dir_path = os.path.join(translations_root, folder_name)
-
-#             os.makedirs(new_dir_path, exist_ok=True)
-
-#             # Save uploaded files temporarily to process them
-#             fs = FileSystemStorage(location=new_dir_path)
-#             pot_file_path = fs.save(pot_file.name, pot_file)
-#             zip_file_path = fs.save(zip_file.name, zip_file) if zip_file else None
-#             csv_file_path = fs.save(csv_file.name, csv_file) if csv_file else None
-
-#             # Step 2: Use your localization logic to generate files in the new folder
-#             tool = ColabLocalizationTool()
-#             tool.run(
-#                 os.path.join(new_dir_path, pot_file_path),
-#                 os.path.join(new_dir_path, zip_file_path) if zip_file_path else None,
-#                 os.path.join(new_dir_path, csv_file_path) if csv_file_path else None,
-#                 target_langs,
-#                 new_dir_path
-#             )
-
-#             # Clean up the temporary uploaded files
-#             os.remove(os.path.join(new_dir_path, pot_file.name))
-#             if zip_file: os.remove(os.path.join(new_dir_path, zip_file.name))
-#             if csv_file: os.remove(os.path.join(new_dir_path, csv_file.name))
-            
-#             # Add a success message and redirect back to the form page
-#             messages.success(request, 'Translation process is complete! You can view the files by clicking on the "View Translated Files" button.')
-#             return redirect('localize_files')
-#     else:
-#         form = LocalizationForm()
-#     return render(request, 'localizationtool/form.html', {'form': form})
-
-# # New view to list all translation folders
-# def folder_list(request):
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     if not os.path.isdir(translations_root):
-#         folders = []
-#     else:
-#         folders = [d for d in os.listdir(translations_root) if os.path.isdir(os.path.join(translations_root, d))]
-    
-#     folder_data = [{'id': i + 1, 'name': folder} for i, folder in enumerate(folders)]
-#     return render(request, 'localizationtool/folder_list.html', {'folders': folder_data})
-
-# # New view to download a folder as a ZIP file
-# def download_folder(request, folder_name):
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     folder_path = os.path.join(translations_root, folder_name)
-    
-#     if not os.path.isdir(folder_path):
-#         raise Http404("Folder not found.")
-    
-#     zip_path = shutil.make_archive(
-#         base_name=os.path.join(settings.BASE_DIR, 'temp', folder_name),
-#         format='zip',
-#         root_dir=translations_root,
-#         base_dir=folder_name
-#     )
-    
-#     response = FileResponse(open(zip_path, 'rb'), as_attachment=True, filename=f"{folder_name}.zip")
-#     response['Content-Length'] = os.path.getsize(zip_path)
-#     os.remove(zip_path)
-
-#     return response
-
-# # New view to delete a folder
-# def delete_folder(request, folder_name):
-#     if request.method == 'POST':
-#         translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#         folder_path = os.path.join(translations_root, folder_name)
-        
-#         if os.path.isdir(folder_path):
-#             shutil.rmtree(folder_path)
-            
-#     return redirect('folder_list')
-
-
-
-# import os
-# import shutil
-# import datetime
-# from django.shortcuts import render, redirect
-# from django.http import FileResponse, Http404
-# from django.core.files.storage import FileSystemStorage
-# from django.urls import reverse
-# from django.conf import settings
-# from django.contrib import messages
-# from .forms import LocalizationForm
-# from .localization_logic import ColabLocalizationTool
-
-# # The unified view to handle everything
 # def localize_tool_view(request):
-#     """
-#     Handles file uploads, runs localization, and displays the list of translated folders
-#     on a single page.
-#     """
-#     # 1. Handle POST request for form submission
 #     if request.method == 'POST':
 #         form = LocalizationForm(request.POST, request.FILES)
 #         if form.is_valid():
-#             pot_file = form.cleaned_data['pot_file']
-#             zip_file = form.cleaned_data['zip_file']
-#             csv_file = form.cleaned_data['csv_file']
-#             target_langs = form.cleaned_data['target_languages']
+#             pot_file = request.FILES['upload_po_file']
+#             zip_file = request.FILES.get('upload_zip_file')
+#             glossary_file = request.FILES.get('upload_glossary_file')
+#             target_languages = form.cleaned_data['target_languages']
 
-#             # Step 1: Get the text domain and define the folder name
-#             text_domain = os.path.splitext(pot_file.name)[0].split('.')[0]
-#             folder_name = f"{text_domain}"
-            
-#             # Define the base directory for translations
-#             translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#             new_dir_path = os.path.join(translations_root, folder_name)
+#             # Generate folder name from .pot file
+#             folder_name = os.path.splitext(pot_file.name)[0]
 
-#             os.makedirs(new_dir_path, exist_ok=True)
+#             # Delete old project if exists
+#             existing = LocalizationUpload.objects.filter(folder_name=folder_name).first()
+#             if existing:
+#                 existing.delete()
 
-#             # Save uploaded files temporarily to process them
-#             fs = FileSystemStorage(location=new_dir_path)
-#             pot_file_path = fs.save(pot_file.name, pot_file)
-#             zip_file_path = fs.save(zip_file.name, zip_file) if zip_file else None
-#             csv_file_path = fs.save(csv_file.name, csv_file) if csv_file else None
+#             upload = LocalizationUpload(pot_file=pot_file)
+#             upload.save()
+#             folder_name = upload.folder_name  # Use DB-generated safe name if needed
 
-#             # Step 2: Use your localization logic to generate files in the new folder
+#             # FIXED: Single project folder
+#             project_dir = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
+#             os.makedirs(project_dir, exist_ok=True)
+
+#             # Save .pot file
+#             pot_path = os.path.join(project_dir, pot_file.name)
+#             with open(pot_path, 'wb') as f:
+#                 for chunk in pot_file.chunks():
+#                     f.write(chunk)
+
+#             # Save ZIP file (optional)
+#             zip_save_path = None
+#             if zip_file:
+#                 zip_save_path = os.path.join(project_dir, zip_file.name)
+#                 with open(zip_save_path, 'wb') as f:
+#                     for chunk in zip_file.chunks():
+#                         f.write(chunk)
+
+#             # Save Glossary CSV (optional)
+#             glossary_save_path = None
+#             if glossary_file:
+#                 glossary_save_path = os.path.join(project_dir, glossary_file.name)
+#                 with open(glossary_save_path, 'wb') as f:
+#                     for chunk in glossary_file.chunks():
+#                         f.write(chunk)
+
+#             # Run the localization tool
 #             tool = ColabLocalizationTool()
-#             tool.run(
-#                 os.path.join(new_dir_path, pot_file_path),
-#                 os.path.join(new_dir_path, zip_file_path) if zip_file_path else None,
-#                 os.path.join(new_dir_path, csv_file_path) if csv_file_path else None,
-#                 target_langs,
-#                 new_dir_path
+#             success = tool.run(
+#                 pot_path=pot_path,
+#                 zip_path=zip_save_path,
+#                 csv_path=glossary_save_path,
+#                 target_langs=target_languages,
+#                 output_dir=project_dir  # Single folder
 #             )
 
-#             # Clean up the temporary uploaded files
-#             os.remove(os.path.join(new_dir_path, pot_file.name))
-#             if zip_file: os.remove(os.path.join(new_dir_path, zip_file.name))
-#             if csv_file: os.remove(os.path.join(new_dir_path, csv_file.name))
-            
-#             # Add a success message and redirect back to the same page
-#             messages.success(request, 'Translation process is complete! You can view the files in the table below.')
+#             if not success:
+#                 messages.error(request, "Translation failed.")
+#                 return redirect('localize_tool_view')
+
+#             # Update database with latest versions
+#             lang_files = defaultdict(list)
+#             for file_name in os.listdir(project_dir):
+#                 if file_name.endswith('.po'):
+#                     parts = file_name.rsplit('-', 1)
+#                     if len(parts) == 2:
+#                         lang_code = parts[0]
+#                         version_part = parts[1].replace('.po', '')
+#                         try:
+#                             version_num = int(version_part)
+#                             lang_files[lang_code].append((version_num, file_name))
+#                         except ValueError:
+#                             continue
+
+#             for lang_code, files in lang_files.items():
+#                 files.sort(key=lambda x: x[0], reverse=True)
+#                 latest_file = files[0][1]
+#                 po_path = os.path.join(project_dir, latest_file)
+#                 mo_path = po_path.replace('.po', '.mo')
+#                 TranslationResult.objects.update_or_create(
+#                     upload=upload,
+#                     language=lang_code,
+#                     defaults={'po_file': po_path, 'mo_file': mo_path}
+#                 )
+
+#             messages.success(request, f'Translation complete: {folder_name}')
 #             return redirect('localize_tool_view')
 #     else:
 #         form = LocalizationForm()
-        
-#     # 2. Retrieve the list of folders (for both GET and POST requests)
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     if not os.path.isdir(translations_root):
-#         folders = []
-#     else:
-#         folders = [d for d in os.listdir(translations_root) if os.path.isdir(os.path.join(translations_root, d))]
-    
-#     folder_data = [{'id': i + 1, 'name': folder} for i, folder in enumerate(folders)]
 
-#     # 3. Render the single, combined template with all context
-#     context = {
-#         'form': form,
-#         'folders': folder_data,
-#     }
+#     # List existing projects
+#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
+#     folders = []
+#     if os.path.isdir(translations_root):
+#         for d in sorted(os.listdir(translations_root), reverse=True):
+#             full_path = os.path.join(translations_root, d)
+#             if os.path.isdir(full_path):
+#                 upload = LocalizationUpload.objects.filter(folder_name=d).first()
+#                 folders.append({'id': len(folders) + 1, 'name': d, 'upload': upload})
+
+#     context = {'form': form, 'folders': folders}
 #     return render(request, 'localizationtool/combined_view.html', context)
 
-# # Keep these views as they are because they handle separate actions (download, delete)
+
+# def view_and_edit_translations(request, folder_name):
+#     # FIXED: Single folder path
+#     project_dir = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
+#     if not os.path.isdir(project_dir):
+#         raise Http404("Project not found.")
+
+#     upload = get_object_or_404(LocalizationUpload, folder_name=folder_name)
+
+#     lang_versions = defaultdict(list)
+#     if os.path.isdir(project_dir):
+#         for file_name in os.listdir(project_dir):
+#             if file_name.endswith('.po'):
+#                 parts = file_name.rsplit('-', 1)
+#                 if len(parts) == 2:
+#                     lang_code = parts[0]
+#                     version_part = parts[1].replace('.po', '')
+#                     try:
+#                         version_num = int(version_part)
+#                         po_path = os.path.join(project_dir, file_name)
+#                         mo_path = po_path.replace('.po', '.mo')
+#                         lang_versions[lang_code].append({
+#                             'version': version_num,
+#                             'po_file': po_path,
+#                             'mo_file': mo_path,
+#                             'file_name': file_name,
+#                         })
+#                     except ValueError:
+#                         continue
+
+#     for lang in lang_versions:
+#         lang_versions[lang].sort(key=lambda x: x['version'], reverse=True)
+
+#     context = {
+#         'folder_name': folder_name,
+#         'upload': upload,
+#         'lang_versions': dict(lang_versions),
+#     }
+#     return render(request, 'localizationtool/edit_translations.html', context)
+
+
+# def edit_language_version(request, folder_name, lang_code, version):
+#     # FIXED: Single folder path
+#     po_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name, f"{lang_code}-{version}.po")
+#     if not os.path.exists(po_path):
+#         raise Http404("PO file not found.")
+#     po = polib.pofile(po_path, encoding='utf-8')
+#     entries = []
+#     for entry in po:
+#         if entry.msgid and entry.msgid.strip():
+#             entries.append({
+#                 'msgid': entry.msgid,
+#                 'msgstr': entry.msgstr or '',
+#                 'msgctxt': entry.msgctxt or '',
+#                 'fuzzy': 'fuzzy' in entry.flags,
+#                 'msgid_key': entry.msgid,
+#             })
+#     lang_name = dict(settings.LANGUAGES).get(lang_code, lang_code.upper())
+#     context = {
+#         'folder_name': folder_name,
+#         'lang_code': lang_code,
+#         'lang_name': lang_name,
+#         'version': version,
+#         'entries': entries,
+#         'po_path': po_path,
+#     }
+#     return render(request, 'localizationtool/edit_language_version.html', context)
+
+
+# @csrf_exempt
+# def save_translation_version(request, folder_name, lang_code, version):
+#     if request.method != 'POST':
+#         return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
+
+#     # FIXED: Single folder path
+#     po_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name, f"{lang_code}-{version}.po")
+#     if not os.path.exists(po_path):
+#         messages.error(request, 'PO file not found.')
+#         return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
+
+#     po = polib.pofile(po_path, encoding='utf-8')
+#     updated = 0
+#     from django.utils.text import slugify
+
+#     for entry in po:
+#         key = f'translation_{slugify(entry.msgid)}'
+#         if key in request.POST:
+#             new_msgstr = request.POST[key].strip()
+#             if entry.msgstr != new_msgstr:
+#                 entry.msgstr = new_msgstr
+#                 if 'fuzzy' in entry.flags:
+#                     entry.flags.remove('fuzzy')
+#                 updated += 1
+
+#     po.save(po_path)
+#     mo_path = po_path.replace('.po', '.mo')
+#     po.save_as_mofile(mo_path)
+
+#     if updated > 0:
+#         messages.success(request, f'Great! {updated} string{"s" if updated > 1 else ""} updated in {lang_code.upper()} (v{version}).')
+#     else:
+#         messages.info(request, 'No changes made.')
+
+#     return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
+
+
 # def download_folder(request, folder_name):
-#     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#     folder_path = os.path.join(translations_root, folder_name)
+#     # FIXED: Single folder path
+#     folder_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
 #     if not os.path.isdir(folder_path):
 #         raise Http404("Folder not found.")
-#     zip_path = shutil.make_archive(
-#         base_name=os.path.join(settings.BASE_DIR, 'temp', folder_name),
+
+#     temp_zip = shutil.make_archive(
+#         base_name=os.path.join(settings.MEDIA_ROOT, 'temp', folder_name),
 #         format='zip',
-#         root_dir=translations_root,
+#         root_dir=os.path.join(settings.MEDIA_ROOT, 'translations'),
 #         base_dir=folder_name
 #     )
-#     response = FileResponse(open(zip_path, 'rb'), as_attachment=True, filename=f"{folder_name}.zip")
-#     response['Content-Length'] = os.path.getsize(zip_path)
-#     os.remove(zip_path)
+
+#     response = FileResponse(open(temp_zip, 'rb'), as_attachment=True, filename=f"{folder_name}_translations.zip")
+#     response['Content-Length'] = os.path.getsize(temp_zip)
+#     os.remove(temp_zip)
 #     return response
+
 
 # def delete_folder(request, folder_name):
 #     if request.method == 'POST':
-#         translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-#         folder_path = os.path.join(translations_root, folder_name)
+#         # FIXED: Single folder path
+#         folder_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
 #         if os.path.isdir(folder_path):
 #             shutil.rmtree(folder_path)
-#         messages.success(request, f'Folder "{folder_name}" has been deleted.')
-#     # Redirect to the main view to show the updated list
+#             upload = LocalizationUpload.objects.filter(folder_name=folder_name).first()
+#             if upload:
+#                 TranslationResult.objects.filter(upload=upload).delete()
+#                 upload.delete()
+#             messages.success(request, f'Folder "{folder_name}" deleted.')
 #     return redirect('localize_tool_view')
 
 
+# localizationtool/views.py
+# FULLY COMPLETE & WORKING — All views included (Dec 23, 2025)
+
 import os
 import shutil
-from django.shortcuts import render, redirect
+import zipfile
+import tempfile
+from collections import defaultdict
+
+from django.shortcuts import render, redirect, get_object_or_404
 from django.http import FileResponse, Http404
 from django.conf import settings
 from django.contrib import messages
+from django.views.decorators.csrf import csrf_exempt
+
 from .forms import LocalizationForm
+from .models import LocalizationUpload, TranslationResult
 from .localization_logic import ColabLocalizationTool
 
 
+# Map folder names → language codes
+LANG_FOLDER_MAP = {
+    "dutch": "nl", "netherlands": "nl", "nederlands": "nl", "holland": "nl",
+    "arabic": "ar",
+    "french": "fr", "français": "fr", "france": "fr",
+    "german": "de", "deutsch": "de", "germany": "de",
+    "spanish": "es", "español": "es",
+    "portuguese": "pt", "português": "pt", "brazil": "pt",
+    "italian": "it", "italiano": "it",
+    "russian": "ru", "русский": "ru",
+    "japanese": "ja", "日本語": "ja",
+    "hindi": "hi",
+    "nepali": "ne",
+    "polish": "pl", "polski": "pl",
+}
+
+
 def localize_tool_view(request):
-    """
-    Handles file uploads, runs localization, and displays the list of translated folders
-    on a single page.
-    """
     if request.method == 'POST':
         form = LocalizationForm(request.POST, request.FILES)
         if form.is_valid():
-            # Use .get() to safely retrieve files. This prevents KeyErrors if a file is not uploaded.
-            pot_file = form.cleaned_data.get('upload_po_file')
-            zip_file = form.cleaned_data.get('upload_zip_file')
-            glossary_file = form.cleaned_data.get('upload_glossary_file')
+            pot_file = request.FILES['upload_po_file']
+            zip_file = request.FILES.get('upload_zip_file')
+            glossary_input = request.FILES.get('upload_glossary_file')
             target_languages = form.cleaned_data['target_languages']
 
-            # Ensure a .po or .pot file is uploaded
-            if not pot_file:
-                messages.error(request, 'Please upload a .po or .pot file to translate.')
-                return redirect('localize_tool_view')
+            folder_name = os.path.splitext(pot_file.name)[0]
 
-            # Step 1: Get text domain and define project folder
-            text_domain = os.path.splitext(pot_file.name)[0].split('.')[0]
-            folder_name = f"{text_domain}"
+            # Delete old project if exists
+            existing = LocalizationUpload.objects.filter(folder_name=folder_name).first()
+            if existing:
+                existing.delete()
 
-            translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-            new_dir_path = os.path.join(translations_root, folder_name)
-            os.makedirs(new_dir_path, exist_ok=True)
+            upload = LocalizationUpload(pot_file=pot_file)
+            upload.save()
+            project_dir = os.path.join(settings.MEDIA_ROOT, 'translations', upload.folder_name)
+            os.makedirs(project_dir, exist_ok=True)
 
-            # Step 2: Save uploaded files manually
-            pot_save_path = os.path.join(new_dir_path, pot_file.name)
-            with open(pot_save_path, 'wb+') as dest:
+            # Save .pot file
+            pot_path = os.path.join(project_dir, 'source.pot')
+            with open(pot_path, 'wb') as f:
                 for chunk in pot_file.chunks():
-                    dest.write(chunk)
+                    f.write(chunk)
 
-            zip_save_path = None
+            # Handle ZIP with language folders (Dutch/, Arabic/, etc.)
+            zip_paths_by_lang = {}
             if zip_file:
-                zip_save_path = os.path.join(new_dir_path, zip_file.name)
-                with open(zip_save_path, 'wb+') as dest:
+                extract_dir = os.path.join(project_dir, "existing_translations")
+                os.makedirs(extract_dir, exist_ok=True)
+                zip_save_path = os.path.join(project_dir, "existing.zip")
+                with open(zip_save_path, 'wb') as f:
                     for chunk in zip_file.chunks():
-                        dest.write(chunk)
+                        f.write(chunk)
 
-            glossary_save_path = None
-            if glossary_file:
-                glossary_save_path = os.path.join(new_dir_path, glossary_file.name)
-                with open(glossary_save_path, 'wb+') as dest:
-                    for chunk in glossary_file.chunks():
-                        dest.write(chunk)
+                with zipfile.ZipFile(zip_save_path, 'r') as zf:
+                    zf.extractall(extract_dir)
 
-            # Step 3: Run localization tool
+                for item in os.listdir(extract_dir):
+                    item_path = os.path.join(extract_dir, item)
+                    if os.path.isdir(item_path):
+                        folder_lower = item.lower()
+                        lang_code = None
+                        for key, code in LANG_FOLDER_MAP.items():
+                            if key in folder_lower:
+                                lang_code = code
+                                break
+                        if lang_code and lang_code in target_languages:
+                            zip_paths_by_lang[lang_code] = item_path
+                            print(f"Mapped folder '{item}' → {lang_code}")
+
+                # Fallback: no folders detected
+                if not zip_paths_by_lang:
+                    print("No language folders found — using all .po files for every language")
+                    for lang in target_languages:
+                        zip_paths_by_lang[lang] = extract_dir
+
+            # Handle Glossary (CSV or ZIP)
+            glossary_by_lang = {}
+            if glossary_input:
+                gloss_dir = os.path.join(project_dir, "glossaries")
+                os.makedirs(gloss_dir, exist_ok=True)
+
+                if glossary_input.name.lower().endswith('.zip'):
+                    gloss_zip_path = os.path.join(gloss_dir, "glossary.zip")
+                    with open(gloss_zip_path, 'wb') as f:
+                        for chunk in glossary_input.chunks():
+                            f.write(chunk)
+                    with zipfile.ZipFile(gloss_zip_path, 'r') as zf:
+                        for member in zf.namelist():
+                            if member.lower().endswith('.csv'):
+                                extracted = zf.extract(member, gloss_dir)
+                                base = os.path.basename(member).lower().removesuffix('.csv')
+                                lang_code = base.split('_')[-1] if '_' in base and len(base.split('_')[-1]) == 2 else None
+                                if lang_code and lang_code in target_languages:
+                                    glossary_by_lang[lang_code] = extracted
+                                else:
+                                    for lang in target_languages:
+                                        glossary_by_lang[lang] = extracted
+                else:
+                    csv_path = os.path.join(gloss_dir, glossary_input.name)
+                    with open(csv_path, 'wb') as f:
+                        for chunk in glossary_input.chunks():
+                            f.write(chunk)
+                    for lang in target_languages:
+                        glossary_by_lang[lang] = csv_path
+
+            # Run the localization tool
             tool = ColabLocalizationTool()
-            tool.run(
-                pot_save_path,
-                zip_save_path,
-                glossary_save_path,
-                target_languages,
-                new_dir_path
+            success = tool.run(
+                pot_path=pot_path,
+                zip_paths_by_lang=zip_paths_by_lang,
+                glossary_by_lang=glossary_by_lang,
+                target_langs=target_languages,
+                output_dir=project_dir
             )
 
-            messages.success(
-                request,
-                'Translation process is complete! You can view the files in the table below.'
-            )
+            if success:
+                messages.success(request, f"Translation completed successfully: {folder_name}")
+            else:
+                messages.error(request, "Translation failed. Check console for errors.")
+
             return redirect('localize_tool_view')
     else:
         form = LocalizationForm()
 
-    # Step 4: Retrieve list of folders
+    # List all existing projects
+    folders = []
     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-    if not os.path.isdir(translations_root):
-        folders = []
-    else:
-        folders = [
-            d for d in os.listdir(translations_root)
-            if os.path.isdir(os.path.join(translations_root, d))
-        ]
+    if os.path.exists(translations_root):
+        for d in sorted(os.listdir(translations_root), reverse=True):
+            full_path = os.path.join(translations_root, d)
+            if os.path.isdir(full_path):
+                upload = LocalizationUpload.objects.filter(folder_name=d).first()
+                folders.append({'name': d, 'upload': upload})
 
-    folder_data = [{'id': i + 1, 'name': folder} for i, folder in enumerate(folders)]
+    return render(request, 'localizationtool/combined_view.html', {'form': form, 'folders': folders})
+
+
+def view_and_edit_translations(request, folder_name):
+    project_dir = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
+    if not os.path.isdir(project_dir):
+        raise Http404("Project not found")
+
+    upload = get_object_or_404(LocalizationUpload, folder_name=folder_name)
+
+    lang_versions = defaultdict(list)
+    for file_name in os.listdir(project_dir):
+        if file_name.endswith('.po'):
+            parts = file_name.rsplit('-', 1)
+            if len(parts) == 2:
+                lang_code = parts[0]
+                try:
+                    version = int(parts[1].replace('.po', ''))
+                    po_path = os.path.join(project_dir, file_name)
+                    mo_path = po_path.replace('.po', '.mo')
+                    lang_versions[lang_code].append({
+                        'version': version,
+                        'po_file': po_path,
+                        'mo_file': mo_path,
+                        'file_name': file_name,
+                    })
+                except:
+                    continue
+
+    for lang in lang_versions:
+        lang_versions[lang].sort(key=lambda x: x['version'], reverse=True)
 
     context = {
-        'form': form,
-        'folders': folder_data,
+        'folder_name': folder_name,
+        'upload': upload,
+        'lang_versions': dict(lang_versions),
     }
-    return render(request, 'localizationtool/combined_view.html', context)
+    return render(request, 'localizationtool/edit_translations.html', context)
+
+
+def edit_language_version(request, folder_name, lang_code, version):
+    po_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name, f"{lang_code}-{version}.po")
+    if not os.path.exists(po_path):
+        raise Http404("PO file not found")
+
+    import polib
+    po = polib.pofile(po_path)
+    entries = []
+    for entry in po:
+        if entry.msgid:
+            entries.append({
+                'msgid': entry.msgid,
+                'msgstr': entry.msgstr,
+                'msgctxt': entry.msgctxt or '',
+                'fuzzy': 'fuzzy' in entry.flags,
+            })
+
+    lang_name = dict(settings.LANGUAGES).get(lang_code, lang_code.upper())
+
+    context = {
+        'folder_name': folder_name,
+        'lang_code': lang_code,
+        'lang_name': lang_name,
+        'version': version,
+        'entries': entries,
+        'po_path': po_path,
+    }
+    return render(request, 'localizationtool/edit_language_version.html', context)
+
+
+@csrf_exempt
+def save_translation_version(request, folder_name, lang_code, version):
+    if request.method != 'POST':
+        return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
+
+    po_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name, f"{lang_code}-{version}.po")
+    if not os.path.exists(po_path):
+        messages.error(request, "PO file not found")
+        return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
+
+    import polib
+    po = polib.pofile(po_path)
+
+    updated = 0
+    for entry in po:
+        key = f"trans_{hash(entry.msgid) % 100000}"
+        if key in request.POST:
+            new_text = request.POST[key].strip()
+            if entry.msgstr != new_text:
+                entry.msgstr = new_text
+                if 'fuzzy' in entry.flags:
+                    entry.flags.remove('fuzzy')
+                updated += 1
+
+    po.save(po_path)
+    po.save_as_mofile(po_path.replace('.po', '.mo'))
+
+    if updated:
+        messages.success(request, f"{updated} translations updated!")
+    else:
+        messages.info(request, "No changes made.")
+
+    return redirect('edit_language_version', folder_name=folder_name, lang_code=lang_code, version=version)
 
 
 def download_folder(request, folder_name):
-    translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-    folder_path = os.path.join(translations_root, folder_name)
+    folder_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
     if not os.path.isdir(folder_path):
-        raise Http404("Folder not found.")
+        raise Http404("Folder not found")
 
-    temp_dir = os.path.join(settings.BASE_DIR, 'temp')
-    os.makedirs(temp_dir, exist_ok=True)
-
+    # Create temporary ZIP
+    temp_zip = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
+    temp_zip.close()
     zip_path = shutil.make_archive(
-        base_name=os.path.join(temp_dir, folder_name),
+        base_name=os.path.splitext(temp_zip.name)[0],
         format='zip',
-        root_dir=translations_root,
+        root_dir=os.path.dirname(folder_path),
         base_dir=folder_name
     )
 
-    response = FileResponse(
-        open(zip_path, 'rb'),
-        as_attachment=True,
-        filename=f"{folder_name}.zip"
-    )
-    response['Content-Length'] = os.path.getsize(zip_path)
+    response = FileResponse(open(zip_path, 'rb'), as_attachment=True)
+    response['Content-Disposition'] = f'attachment; filename="{folder_name}_translations.zip"'
 
-    os.remove(zip_path)
+    # Cleanup
+    import atexit
+    atexit.register(os.remove, zip_path)
+
     return response
 
 
 def delete_folder(request, folder_name):
     if request.method == 'POST':
-        translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
-        folder_path = os.path.join(translations_root, folder_name)
+        folder_path = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
         if os.path.isdir(folder_path):
             shutil.rmtree(folder_path)
-        messages.success(request, f'Folder "{folder_name}" has been deleted.')
+            upload = LocalizationUpload.objects.filter(folder_name=folder_name).first()
+            if upload:
+                TranslationResult.objects.filter(upload=upload).delete()
+                upload.delete()
+            messages.success(request, f'Project "{folder_name}" deleted successfully.')
     return redirect('localize_tool_view')

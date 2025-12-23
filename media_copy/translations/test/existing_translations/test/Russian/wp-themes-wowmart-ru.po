@@ -1,0 +1,2489 @@
+# Translation of Themes - WowMart in Russian
+# This file is distributed under the same license as the Themes - WowMart package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-22 18:54:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - WowMart\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "WowMart is a multipurpose WooCommerce theme perfect for creating any online store or shop. Whether you sell fashion, electronics, books, furniture, or any products, this clean and lightweight theme makes it easy to build your dream eCommerce website. The mobile-responsive design looks great on all devices and loads fast for better SEO performance. With WowMart, you get professional product layouts, advanced filtering, custom banners, and everything needed to convert visitors into customers. No coding skills required - just install, customize, and start selling. Perfect for beginners and experts alike."
+msgstr "WowMart - это многоцелевая тема WooCommerce, идеально подходящая для создания любого интернет-магазина или торговой точки. Продаете ли Вы моду, электронику, книги, мебель или любые другие товары, эта чистая и легкая тема позволит Вам легко создать сайт электронной коммерции Вашей мечты. Мобильно-резонансный дизайн отлично смотрится на всех устройствах и быстро загружается для улучшения SEO. С WowMart Вы получите профессиональные макеты товаров, расширенную фильтрацию, пользовательские баннеры и все необходимое для превращения посетителей в покупателей. Никаких навыков кодирования не требуется - просто установите, настройте и начинайте продавать. Идеально подходит как для новичков, так и для экспертов."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "WowMart"
+msgstr "WowMart"
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:72
+#: libs/magical-plugin-activation/plugin-recommendations.php:82
+msgid "Enhance your site with a collection of magical Posts widgets for Elementor."
+msgstr "Улучшите свой сайт с помощью коллекции волшебных виджетов записей для Elementor."
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:69
+#: libs/magical-plugin-activation/plugin-recommendations.php:79
+msgid "Magical Posts"
+msgstr "Magical Posts"
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:62
+msgid "Enhance your site with a collection of magical addons for Elementor."
+msgstr "Улучшите свой сайт с помощью коллекции волшебных дополнений для Elementor."
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:59
+msgid "Magical Addons"
+msgstr "Magical Addons"
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:52
+msgid "Create beautiful pages with drag & drop page builder. Perfect for creating stunning layouts with your theme."
+msgstr "Создавайте красивые страницы с помощью конструктора страниц. Идеально подходит для создания потрясающих макетов в теме."
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:49
+msgid "Elementor"
+msgstr "Elementor"
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:42
+msgid "The most popular eCommerce platform for WordPress."
+msgstr "Самая популярная платформа электронной коммерции для WordPress."
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:32
+msgid "Display your products in a magical way with this addon."
+msgstr "Отобразите свои товары в волшебном виде с помощью этого дополнения."
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:29
+msgid "Magical Product"
+msgstr "Magical Product"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1060
+msgid "Install Recommended Plugins"
+msgstr "Установить рекомендуемые плагины"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1058
+msgid "We recommend %d additional plugins to enhance your %s theme experience."
+msgstr "Мы рекомендуем %d дополнительных плагинов, чтобы расширить возможности темы %s."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1007
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1063
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1004
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1061
+msgid "View All Plugins"
+msgstr "Посмотреть все плагины"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:998
+msgid "%d required plugins are missing. Please install them for optimal theme functionality."
+msgstr "%d отсутствуют необходимые плагины. Установить их для оптимальной функциональности темы."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:962
+msgid "Some recommended plugins are not active."
+msgstr "Некоторые рекомендуемые плагины не активны."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:962
+msgid "All recommended plugins are active!"
+msgstr "Все рекомендуемые плагины активны!"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:946
+msgid "%d of %d recommended plugins installed successfully."
+msgstr "%d из %d рекомендуемых плагинов установлены успешно."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:941
+msgid "%d recommended plugins installed and activated successfully."
+msgstr "%d рекомендуемых плагинов успешно установлены и активированы."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:900
+msgid "%d of %d required plugins installed successfully."
+msgstr "%d из %d необходимых плагинов установлены успешно."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:895
+msgid "%d required plugins installed and activated successfully."
+msgstr "%d необходимых плагинов успешно установлены и активированы."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:855
+msgid "Failed to update plugin."
+msgstr "Не удалось обновить плагин."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:853
+msgid "Plugin updated successfully."
+msgstr "Плагин успешно обновлён."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:846
+msgid "Failed to update local plugin."
+msgstr "Не удалось обновить локальный плагин."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:844
+msgid "Local plugin updated successfully."
+msgstr "Локальный плагин успешно обновлен."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:834
+msgid "Plugin not found."
+msgstr "Плагин не найден."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:803
+msgid "You do not have permission to activate plugins."
+msgstr "У Вас нет разрешения на активацию плагинов."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:791
+msgid "Plugin installation failed."
+msgstr "Установка плагина не удалась."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:782
+msgid "Plugin information could not be retrieved."
+msgstr "Не удалось получить информацию о плагине."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:772
+msgid "Local plugin installation failed. Please check error logs for details."
+msgstr "Не удалось установить локальный плагин. Проверьте журналы ошибок для получения подробной информации."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:770
+msgid "Local plugin installed successfully."
+msgstr "Локальный плагин успешно установлен."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:764
+msgid "Plugins directory is not writable. Please check directory permissions."
+msgstr "Каталог Plugins недоступен для записи. Проверьте права доступа к каталогу."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:752
+msgid "Local plugin zip file not found. Please ensure the plugin zip file exists in the theme directory."
+msgstr "Локальный zip-файл плагина не найден. Убедитесь, что zip-файл плагина существует в директории темы."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:736
+msgid "Plugin not found in recommendations."
+msgstr "Плагин не найден в рекомендациях."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:725
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:867
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:913
+msgid "You do not have permission to install plugins."
+msgstr "У вас нет разрешения на установку плагинов."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:706
+msgid "You must install and activate all required plugins before dismissing this notice. Click Dismiss again to hide this warning."
+msgstr "Вы должны установить и активировать все необходимые плагины, прежде чем отменить это предупреждение. Нажмите \"Пропустить\" еще раз, чтобы скрыть это предупреждение."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:705
+msgid "Error occurred"
+msgstr "Возникла ошибка"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:698
+msgid "Inactive"
+msgstr "Неактивна"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:696
+msgid "Updated"
+msgstr "Обновлен"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:695
+msgid "Activated"
+msgstr "Активировано"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:694
+msgid "Installed"
+msgstr "Установлен"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:693
+msgid "Updating..."
+msgstr "Обновление ..."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:692
+msgid "Activating..."
+msgstr "Активация..."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:691
+msgid "Installing..."
+msgstr "Установка..."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:664
+msgid "%d of %d plugins updated successfully."
+msgstr "%d из %d плагинов успешно обновлены."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:659
+msgid "%d plugins updated successfully."
+msgstr "%d плагины успешно обновлены."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:632
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:824
+msgid "You do not have permission to update plugins."
+msgstr "У Вас нет разрешения на обновление плагинов."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:561
+msgid "Manage Plugins"
+msgstr "Управление плагинами"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:560
+msgid "Update All Plugins"
+msgstr "Обновить все плагины"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:558
+msgid "%d plugins have updates available. Keep your plugins up to date for better security and performance."
+msgstr "Для %d плагинов доступны обновления. Следите за обновлением своих плагинов, чтобы повысить безопасность и производительность."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:557
+msgid "Plugin Updates Available"
+msgstr "Доступны обновления плагинов"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:523
+msgid "Unknown"
+msgstr "Неизвестно"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:521
+msgid "Not installed"
+msgstr "Не установлен"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:519
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:701
+msgid "Update Available (Inactive)"
+msgstr "Обновление доступно (неактивно)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:517
+msgid "Installed but not active"
+msgstr "Установлен, но не активирован"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:515
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:700
+msgid "Update Available"
+msgstr "Доступно обновление"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:502
+msgid "Required Version: %s"
+msgstr "Требуемая версия: %s"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:498
+msgid "Version: %s"
+msgstr "Версия: %s"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:494
+msgid "Current: %s | Required: %s"
+msgstr "Текущий: %s | Требуемый: %s"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:432
+msgid "Local"
+msgstr "Локальный"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:424
+msgid "Featured"
+msgstr "Избранные"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:411
+msgid "Not Installed (%d)"
+msgstr "Не установлен (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:407
+msgid "Inactive (%d)"
+msgstr "Неактивно (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:403
+msgid "Active (%d)"
+msgstr "Активен (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:399
+msgid "Required (%d)"
+msgstr "Требуется (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:395
+msgid "Featured (%d)"
+msgstr "Избранное (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:391
+msgid "All Plugins (%d)"
+msgstr "Все плагины (%d)"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:315
+msgid "%d required plugins are missing or inactive."
+msgstr "%d необходимых плагинов отсутствуют или неактивны."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:314
+msgid "Missing Required Plugins:"
+msgstr "Отсутствие необходимых плагинов:"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:296
+msgid "These plugins are recommended to enhance your %s theme experience. They work perfectly with the theme's features and animations."
+msgstr "Эти плагины рекомендуются для того, чтобы расширить возможности темы %s. Они прекрасно сочетаются с функциями и анимацией темы."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:294
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1057
+msgid "Recommended Plugins for %s"
+msgstr "Рекомендуемые плагины для %s"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:184
+msgid "Easily manage password protection for your WordPress content."
+msgstr "Без усилий управляйте защитой паролем содержимого WordPress."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:181
+msgid "WP Edit Password Protected"
+msgstr "WP Edit Password Protected"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:172
+msgid "Easily add social sharing buttons to your content."
+msgstr "Легко добавьте кнопки социального обмена к содержимому."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:169
+msgid "Easy Share Solution"
+msgstr "Easy Share Solution"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:152
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:153
+msgid "Recommended Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/admin-documentation.php:722
+msgid "PHP Version:"
+msgstr "Версия PHP:"
+
+#: inc/admin-documentation.php:718
+msgid "WordPress Version:"
+msgstr "Версия WordPress:"
+
+#: inc/admin-documentation.php:714
+msgid "Author:"
+msgstr "Автор:"
+
+#: inc/admin-documentation.php:710
+msgid "Version:"
+msgstr "Версия:"
+
+#: inc/admin-documentation.php:706
+msgid "Theme Name:"
+msgstr "Название темы:"
+
+#: inc/admin-documentation.php:703
+msgid "Theme Information"
+msgstr "Информация о теме"
+
+#: inc/admin-documentation.php:697
+msgid "A: Pro version includes Ajax filters, live search, mobile bottom menu, subscribe popup, one-click demo import with 6 premium designs, and priority support."
+msgstr "Ответ: Про-версия включает Ajax-фильтры, живой поиск, мобильное нижнее меню, всплывающее окно подписки, импорт демо-версий в один клик с 6 премиум-дизайнами, а также приоритетную поддержку."
+
+#: inc/admin-documentation.php:696
+msgid "Q: What's the difference between free and pro version?"
+msgstr "Вопрос: В чем разница между free и pro версией?"
+
+#: inc/admin-documentation.php:694
+msgid "A: Theme updates are available through the WordPress dashboard (Appearance → Themes). Always backup before updating."
+msgstr "Ответ: Обновления тем доступны через приборную панель WordPress (Внешний вид → Темы). Всегда делайте резервную копию перед обновлением."
+
+#: inc/admin-documentation.php:693
+msgid "Q: How do I update the theme?"
+msgstr "Вопрос: Как мне обновить тему?"
+
+#: inc/admin-documentation.php:691
+msgid "A: Yes, WowMart is fully responsive and optimized for all devices including smartphones and tablets."
+msgstr "Ответ: Да, WowMart полностью отзывчив и оптимизирован для всех устройств, включая смартфоны и планшеты."
+
+#: inc/admin-documentation.php:690
+msgid "Q: Will my site be mobile-friendly?"
+msgstr "Вопрос: Будет ли мой сайт удобен для мобильных устройств?"
+
+#: inc/admin-documentation.php:688
+msgid "A: Absolutely! Go to Appearance → Customize to change colors, fonts, and other design elements."
+msgstr "Ответ: Конечно! Перейдите Внешний вид → Настроить, чтобы изменить цвета, шрифты и другие элементы дизайна."
+
+#: inc/admin-documentation.php:687
+msgid "Q: Can I customize colors and fonts?"
+msgstr "Вопрос: Могу ли я настроить цвета и шрифты?"
+
+#: inc/admin-documentation.php:685
+msgid "A: Yes, the theme is fully translation ready. You can use plugins like WPML or Loco Translate to translate into any language."
+msgstr "Ответ: Да, тема полностью готова к переводу. Вы можете использовать такие плагины, как WPML или Loco Translate, чтобы перевести ее на любой язык."
+
+#: inc/admin-documentation.php:684
+msgid "Q: Is the theme translation ready?"
+msgstr "Вопрос: Готова ли тема к переводу?"
+
+#: inc/admin-documentation.php:682
+msgid "A: Yes, the theme is compatible with popular page builders like Elementor, Beaver Builder, and Gutenberg block editor."
+msgstr "Ответ: Да, тема совместима с такими популярными конструкторами страниц, как Elementor, Beaver Builder и блочным редактором Gutenberg."
+
+#: inc/admin-documentation.php:681
+msgid "Q: Can I use a page builder with this theme?"
+msgstr "Вопрос: Могу ли я использовать конструктор страниц с этой темой?"
+
+#: inc/admin-documentation.php:679
+msgid "A: Yes, WooCommerce is required for e-commerce functionality. The theme can work without it but will not display product features."
+msgstr "Ответ: Да, WooCommerce требуется для функциональности электронной коммерции. Тема может работать и без него, но не будет отображать характеристики товаров."
+
+#: inc/admin-documentation.php:678
+msgid "Q: Is WooCommerce required for this theme?"
+msgstr "Вопрос: Требуется ли WooCommerce для этой темы?"
+
+#: inc/admin-documentation.php:676
+msgid "❓ Frequently Asked Questions"
+msgstr "❓ Часто задаваемые вопросы"
+
+#: inc/admin-documentation.php:669
+msgid "WooCommerce Documentation"
+msgstr "Документация WooCommerce"
+
+#: inc/admin-documentation.php:668
+msgid "WordPress Support"
+msgstr "Поддержка WordPress"
+
+#: inc/admin-documentation.php:667
+msgid "Theme Homepage"
+msgstr "Главная страница темы"
+
+#: inc/admin-documentation.php:665
+msgid "Useful Links:"
+msgstr "Полезные ссылки:"
+
+#: inc/admin-documentation.php:661
+msgid " Official WooCommerce setup and configuration guides"
+msgstr " Официальные руководства по установке и конфигурированию WooCommerce"
+
+#: inc/admin-documentation.php:660
+msgid "WooCommerce Documentation:"
+msgstr "Документация WooCommerce:"
+
+#: inc/admin-documentation.php:657
+msgid " General WordPress documentation and tutorials"
+msgstr " Общая документация и учебники по WordPress"
+
+#: inc/admin-documentation.php:656
+msgid "WordPress Codex:"
+msgstr "Кодекс WordPress:"
+
+#: inc/admin-documentation.php:653
+msgid " You are viewing it now!"
+msgstr " Вы просматриваете это сейчас!"
+
+#: inc/admin-documentation.php:652
+msgid "Theme Documentation:"
+msgstr "Документация к теме:"
+
+#: inc/admin-documentation.php:649
+msgid " Free community support for theme users"
+msgstr " Бесплатная поддержка сообщества для пользователей тем"
+
+#: inc/admin-documentation.php:648
+msgid "WordPress.org Support Forum:"
+msgstr "Форум поддержки WordPress.org:"
+
+#: inc/admin-documentation.php:645
+msgid "Getting Help:"
+msgstr "Получение помощи:"
+
+#: inc/admin-documentation.php:643
+msgid "💬 Support & Resources"
+msgstr "💬 Поддержка и ресурсы"
+
+#: inc/admin-documentation.php:636
+msgid "Check if a CDN is caching old files"
+msgstr "Проверьте, кэширует ли CDN старые файлы"
+
+#: inc/admin-documentation.php:635
+msgid "Clear WordPress cache if using a caching plugin"
+msgstr "Очистите кэш WordPress, если используете плагин кэширования"
+
+#: inc/admin-documentation.php:634
+msgid "Clear your browser cache (Ctrl+F5 or Cmd+Shift+R)"
+msgstr "Очистите кэш браузера (Ctrl+F5 или Cmd+Shift+R)"
+
+#: inc/admin-documentation.php:632
+msgid "CSS/Style Changes Not Reflecting:"
+msgstr "Изменения CSS/стиля не отражаются:"
+
+#: inc/admin-documentation.php:629
+msgid "Verify the page/post supports sidebar layout"
+msgstr "Убедитесь, что страница/запись поддерживает макет боковой панели"
+
+#: inc/admin-documentation.php:628
+msgid "Add widgets to Sidebar area in Appearance → Widgets"
+msgstr "Добавить виджеты в область боковой панели во Внешний вид → Виджеты"
+
+#: inc/admin-documentation.php:627
+msgid "Check if you are using the Full Width template"
+msgstr "Проверьте, используете ли Вы шаблон Во всю ширину"
+
+#: inc/admin-documentation.php:625
+msgid "Sidebar Not Appearing:"
+msgstr "Боковая панель не отображается:"
+
+#: inc/admin-documentation.php:622
+msgid "Reset permalinks: Settings → Permalinks → Save Changes"
+msgstr "Сброс постоянных ссылок: Настройки → Постоянные ссылки → Сохранить изменения"
+
+#: inc/admin-documentation.php:621
+msgid "Click \"Create default WooCommerce pages\""
+msgstr "Нажмите \"Создать страницы WooCommerce по умолчанию\""
+
+#: inc/admin-documentation.php:620
+msgid "Go to WooCommerce → Status → Tools"
+msgstr "Перейдите WooCommerce → Статус → Инструменты"
+
+#: inc/admin-documentation.php:618
+msgid "WooCommerce Pages Not Working:"
+msgstr "Не работают страницы WooCommerce:"
+
+#: inc/admin-documentation.php:615
+msgid "Recommended logo size: 250x250 pixels"
+msgstr "Рекомендуемый размер логотипа: 250x250 px"
+
+#: inc/admin-documentation.php:614
+msgid "Click \"Select logo\" and upload your image"
+msgstr "Нажмите \"Выбрать логотип\" и загрузите свое изображение"
+
+#: inc/admin-documentation.php:613
+msgid "Go to Appearance → Customize → Site Identity"
+msgstr "Перейдите Внешний вид → Настройки → Свойства сайта"
+
+#: inc/admin-documentation.php:611
+msgid "Logo Not Showing:"
+msgstr "Логотип не отображается:"
+
+#: inc/admin-documentation.php:608
+msgid "Verify menu items are added and saved"
+msgstr "Убедитесь, что пункты меню добавлены и сохранены"
+
+#: inc/admin-documentation.php:607
+msgid "Check that menu is assigned to the correct location"
+msgstr "Проверьте, что меню назначено на правильное местоположение"
+
+#: inc/admin-documentation.php:606
+msgid "Ensure you have created a menu under Appearance → Menus"
+msgstr "Убедитесь, что Вы создали меню в разделе Внешний вид → Меню"
+
+#: inc/admin-documentation.php:604
+msgid "Menu Not Displaying:"
+msgstr "Меню не отображается:"
+
+#: inc/admin-documentation.php:602
+msgid "Common Issues & Solutions:"
+msgstr "Общие проблемы и решения:"
+
+#: inc/admin-documentation.php:600
+msgid "🔧 Troubleshooting"
+msgstr "🔧 Устранение неполадок"
+
+#: inc/admin-documentation.php:593
+msgid "WooCommerce Product Reviews - Enhanced review system"
+msgstr "WooCommerce Product Reviews - улучшенная система отзывов"
+
+#: inc/admin-documentation.php:592
+msgid "WooCommerce Wishlist - Let customers save favorite products"
+msgstr "WooCommerce Wishlist - позвольте клиентам сохранять любимые товары"
+
+#: inc/admin-documentation.php:591
+msgid "WooCommerce Product Filter - Product filtering and sorting"
+msgstr "WooCommerce Product Filter - фильтрация и сортировка товара"
+
+#: inc/admin-documentation.php:589
+msgid "WooCommerce Extensions:"
+msgstr "Расширения WooCommerce:"
+
+#: inc/admin-documentation.php:585
+msgid " Page builder for advanced customization"
+msgstr " Конструктор тем для расширенной настройки"
+
+#: inc/admin-documentation.php:584
+msgid "Elementor:"
+msgstr "Elementor:"
+
+#: inc/admin-documentation.php:581
+msgid " Optimize your site for search engines"
+msgstr " Оптимизируйте сайт для поисковых систем"
+
+#: inc/admin-documentation.php:580
+msgid "Yoast SEO:"
+msgstr "Yoast SEO:"
+
+#: inc/admin-documentation.php:577
+msgid " Create and manage contact forms"
+msgstr " Создавайте и управляйте контактными формами"
+
+#: inc/admin-documentation.php:576
+msgid "Contact Form 7:"
+msgstr "Contact Form 7:"
+
+#: inc/admin-documentation.php:573
+msgid " Required for e-commerce functionality"
+msgstr " Требуется для функциональности электронной коммерции"
+
+#: inc/admin-documentation.php:572
+msgid "WooCommerce:"
+msgstr "WooCommerce:"
+
+#: inc/admin-documentation.php:569
+msgid "Essential Plugins:"
+msgstr "Основные плагины:"
+
+#: inc/admin-documentation.php:567
+msgid "🔌 Recommended Plugins"
+msgstr "🔌 Рекомендуемые плагины"
+
+#: inc/admin-documentation.php:559
+msgid " Keep WordPress, theme, and plugins updated"
+msgstr " Обновляйте WordPress, тему и плагины"
+
+#: inc/admin-documentation.php:558
+msgid "Regular Updates:"
+msgstr "Регулярные обновления:"
+
+#: inc/admin-documentation.php:555
+msgid " Consider using a Content Delivery Network like Cloudflare"
+msgstr " Рассмотрите возможность использования сети доставки содержимого, напр., Cloudflare"
+
+#: inc/admin-documentation.php:554
+msgid "CDN Usage:"
+msgstr "Использование CDN:"
+
+#: inc/admin-documentation.php:551
+msgid " Only use essential plugins. Deactivate and delete unused ones"
+msgstr " Используйте только необходимые плагины. Деактивируйте и удалите неиспользуемые"
+
+#: inc/admin-documentation.php:550
+msgid "Minimize Plugins:"
+msgstr "Минимизируйте плагины:"
+
+#: inc/admin-documentation.php:547
+msgid " WordPress 5.5+ includes native lazy loading for images"
+msgstr " WordPress 5.5+ включает встроенную отложенную загрузку для изображений"
+
+#: inc/admin-documentation.php:546
+msgid "Lazy Loading:"
+msgstr "Отложенная загрузка:"
+
+#: inc/admin-documentation.php:543
+msgid " Install a caching plugin like WP Rocket, W3 Total Cache, or WP Super Cache"
+msgstr " Установить плагин кэширования, напр., WP Rocket, W3 Total Cache или WP Super Cache"
+
+#: inc/admin-documentation.php:542
+msgid "Use Caching:"
+msgstr "Используйте кэширование:"
+
+#: inc/admin-documentation.php:539
+msgid " Compress images before uploading. Recommended plugins: Smush, ShortPixel, or Imagify"
+msgstr " Сжимайте изображения перед загрузкой. Рекомендуемые плагины: Smush, ShortPixel или Imagify"
+
+#: inc/admin-documentation.php:538
+msgid "Optimize Images:"
+msgstr "Оптимизация изображений:"
+
+#: inc/admin-documentation.php:535
+msgid "Tips for Faster Loading:"
+msgstr "Советы по ускорению загрузки:"
+
+#: inc/admin-documentation.php:533
+msgid "⚡ Performance Optimization"
+msgstr "⚡ Оптимизация производительности"
+
+#: inc/admin-documentation.php:526
+msgid "Update or publish the page"
+msgstr "Обновите или опубликуйте страницу"
+
+#: inc/admin-documentation.php:525
+msgid "Select desired template from \"Template\" dropdown"
+msgstr "Выбрать нужный шаблон из выпадающего списка \"Шаблон\""
+
+#: inc/admin-documentation.php:524
+msgid "In the right sidebar, find \"Page Attributes\""
+msgstr "В правой боковой панели найдите \"Атрибуты страницы\""
+
+#: inc/admin-documentation.php:523
+msgid "Edit or create a page"
+msgstr "Изменить или создайте страницу"
+
+#: inc/admin-documentation.php:521
+msgid "Applying Templates:"
+msgstr "Применение шаблонов:"
+
+#: inc/admin-documentation.php:517
+msgid " No sidebar, content spans full width - perfect for landing pages"
+msgstr " Без боковой панели, содержимое занимает всю ширину - идеально для целевых страниц"
+
+#: inc/admin-documentation.php:516
+msgid "Full Width Template:"
+msgstr "Шаблон во всю ширину:"
+
+#: inc/admin-documentation.php:513
+msgid " Standard page layout with sidebar"
+msgstr " Стандартный макет страницы с боковой панелью"
+
+#: inc/admin-documentation.php:512
+msgid "Default Template:"
+msgstr "Шаблон по умолчанию:"
+
+#: inc/admin-documentation.php:509
+msgid "Available Templates:"
+msgstr "Доступные шаблоны:"
+
+#: inc/admin-documentation.php:507
+msgid "WowMart includes specialized page templates:"
+msgstr "WowMart включает в себя специализированные шаблоны страницы:"
+
+#: inc/admin-documentation.php:505
+msgid "📄 Page Templates"
+msgstr "📄 Шаблоны страницы"
+
+#: inc/admin-documentation.php:498
+msgid "Click \"Publish\""
+msgstr "Нажмите \"Опубликовать\""
+
+#: inc/admin-documentation.php:497
+msgid "Set inventory and shipping details"
+msgstr "Установить детали запасов и доставки"
+
+#: inc/admin-documentation.php:496
+msgid "Assign product categories and tags"
+msgstr "Назначьте категории и теги товара"
+
+#: inc/admin-documentation.php:495
+msgid "Upload product images"
+msgstr "Загрузить изображения товара"
+
+#: inc/admin-documentation.php:494
+msgid "Set product price (regular and sale price)"
+msgstr "Установить цену товара (обычная и акционная цена)"
+
+#: inc/admin-documentation.php:493
+msgid "Enter product name and description"
+msgstr "Введите название и описание товара"
+
+#: inc/admin-documentation.php:492
+msgid "Go to Products → Add New"
+msgstr "Перейти Товары → Добавить новый"
+
+#: inc/admin-documentation.php:490
+msgid "Adding Products:"
+msgstr "Добавление товаров:"
+
+#: inc/admin-documentation.php:487
+msgid "Test payment processing"
+msgstr "Протестируйте обработку платежей"
+
+#: inc/admin-documentation.php:486
+msgid "Configure payment gateway settings"
+msgstr "Конфигурируйте настройки платежного шлюза"
+
+#: inc/admin-documentation.php:485
+msgid "Enable payment methods (PayPal, Stripe, etc.)"
+msgstr "Включить способы оплаты (PayPal, Stripe и т.д.)"
+
+#: inc/admin-documentation.php:483
+msgid "4. Payment Gateways"
+msgstr "4. Платежные шлюзы"
+
+#: inc/admin-documentation.php:480
+msgid "Set up tax rates if applicable"
+msgstr "Установить налоговые ставки, если это применимы"
+
+#: inc/admin-documentation.php:479
+msgid "Configure shipping zones and methods"
+msgstr "Конфигурируйте зоны и способы доставки"
+
+#: inc/admin-documentation.php:477
+msgid "3. Shipping & Tax"
+msgstr "3. Доставка и налог"
+
+#: inc/admin-documentation.php:474
+msgid "Set product image dimensions"
+msgstr "Установить размеры изображения товара"
+
+#: inc/admin-documentation.php:473
+msgid "Configure inventory options"
+msgstr "Настройка параметров запаса"
+
+#: inc/admin-documentation.php:472
+msgid "Set shop and product page layouts"
+msgstr "Установить макеты страниц магазина и товара"
+
+#: inc/admin-documentation.php:471
+msgid "WooCommerce → Settings → Products"
+msgstr "WooCommerce → Настройки → Товары"
+
+#: inc/admin-documentation.php:469
+msgid "2. Product Settings"
+msgstr "2. Настройки товара"
+
+#: inc/admin-documentation.php:466
+msgid "Configure selling locations"
+msgstr "Конфигурируйте местоположение продаж"
+
+#: inc/admin-documentation.php:465
+msgid "Set your store location and currency"
+msgstr "Установить местоположение и валюту магазина"
+
+#: inc/admin-documentation.php:464
+msgid "Go to WooCommerce → Settings → General"
+msgstr "Перейдите WooCommerce → Настройки → Общие"
+
+#: inc/admin-documentation.php:462
+msgid "1. General Settings"
+msgstr "1. Общие настройки"
+
+#: inc/admin-documentation.php:460
+msgid "Essential WooCommerce Settings:"
+msgstr "Основные настройки WooCommerce:"
+
+#: inc/admin-documentation.php:458
+msgid "🛍️ WooCommerce Configuration"
+msgstr "🛍️ Конфигурация WooCommerce"
+
+#: inc/admin-documentation.php:451
+msgid "Click \"Save\" or \"Done\""
+msgstr "Нажмите \"Сохранить\" или \"Готово\""
+
+#: inc/admin-documentation.php:450
+msgid "Configure widget settings"
+msgstr "Конфигурируйте настройки виджета"
+
+#: inc/admin-documentation.php:449
+msgid "Drag it to the desired widget area"
+msgstr "Перетащите в нужную область виджета"
+
+#: inc/admin-documentation.php:448
+msgid "Select a widget from the left panel"
+msgstr "Выбрать виджет для панели слева"
+
+#: inc/admin-documentation.php:447
+msgid "Navigate to Appearance → Widgets"
+msgstr "Перейдите Внешний вид → Виджеты"
+
+#: inc/admin-documentation.php:445
+msgid "Adding Widgets:"
+msgstr "Добавление виджетов:"
+
+#: inc/admin-documentation.php:441
+msgid " 4-column footer area. Add contact info, navigation menus, recent products, or newsletter signup forms."
+msgstr " область подвала с 4 столбцами. Добавить контактную информацию, меню навигации, последние товары или формы подписки на новостную рассылку."
+
+#: inc/admin-documentation.php:440
+msgid "Footer Widget:"
+msgstr "Виджет подвала:"
+
+#: inc/admin-documentation.php:437
+msgid " Appears on blog posts and pages with sidebar layout. Add search, categories, recent posts, or custom widgets."
+msgstr " Появляется в записях блога и на страницах с боковой панелью. Поиск, рубрики, последние записи или пользовательские виджеты."
+
+#: inc/admin-documentation.php:436
+msgid "Sidebar:"
+msgstr "Боковая панель:"
+
+#: inc/admin-documentation.php:433
+msgid "Available Widget Areas:"
+msgstr "Доступные области виджетов:"
+
+#: inc/admin-documentation.php:431
+msgid "Go to Appearance → Widgets to manage widget areas:"
+msgstr "Перейдите Внешний вид → Виджеты, чтобы управлять областями виджетов:"
+
+#: inc/admin-documentation.php:429
+msgid "📦 Widget Areas"
+msgstr "📦 Области виджетов"
+
+#: inc/admin-documentation.php:421
+msgid " Primary navigation menu below the logo, perfect for product categories and main pages"
+msgstr " Основное меню навигации ниже логотипа, идеально подходит для категорий товаров и главных страниц"
+
+#: inc/admin-documentation.php:420
+msgid "Main Menu:"
+msgstr "Главное меню:"
+
+#: inc/admin-documentation.php:417
+msgid " Appears at the very top of the header, ideal for utility links like \"Contact\", \"About Us\", or \"My Account\""
+msgstr " Появляется в самом верху заголовка, идеально подходит для полезных ссылок, таких как \"Контакты\", \"О нас\" или \"Моя учётная запись\""
+
+#: inc/admin-documentation.php:416
+msgid "Top Menu:"
+msgstr "Верхнее меню:"
+
+#: inc/admin-documentation.php:413
+msgid "Menu Locations:"
+msgstr "Расположение меню:"
+
+#: inc/admin-documentation.php:410
+msgid "Click \"Save Menu\""
+msgstr "Нажмите \"Сохранить меню\""
+
+#: inc/admin-documentation.php:409
+msgid "Assign the menu to a location (Top Menu or Main Menu)"
+msgstr "Присвойте меню определенное местоположение (Верхнее или Главное меню)"
+
+#: inc/admin-documentation.php:408
+msgid "Drag and drop to reorder items"
+msgstr "Перетаскивайте элементы, чтобы изменить их порядок"
+
+#: inc/admin-documentation.php:407
+msgid "Add pages, products, categories, or custom links"
+msgstr "Добавить страницы, товары, категории или пользовательские ссылки"
+
+#: inc/admin-documentation.php:406
+msgid "Create a new menu or select an existing one"
+msgstr "Создайте новое меню или выберите существующее"
+
+#: inc/admin-documentation.php:405
+msgid "Go to Appearance → Menus"
+msgstr "Перейти Внешний вид → Меню"
+
+#: inc/admin-documentation.php:403
+msgid "Creating Menus:"
+msgstr "Создание меню:"
+
+#: inc/admin-documentation.php:401
+msgid "WowMart theme supports two menu locations:"
+msgstr "Тема WowMart поддерживает два варианта расположения меню:"
+
+#: inc/admin-documentation.php:399
+msgid "📋 Menu Setup"
+msgstr "📋 Установить меню"
+
+#: inc/admin-documentation.php:392
+msgid "Show/hide post meta information"
+msgstr "Показать/скрыть мета информацию записи"
+
+#: inc/admin-documentation.php:391
+msgid "Set excerpt length"
+msgstr "Установить длину отрывка"
+
+#: inc/admin-documentation.php:390
+msgid "Choose between grid and list layout"
+msgstr "Выбрать макет сетки или списка"
+
+#: inc/admin-documentation.php:388
+msgid "5. Blog Layout"
+msgstr "5. Макет блога"
+
+#: inc/admin-documentation.php:385
+msgid "Customize search functionality"
+msgstr "Настройте функциональность поиска"
+
+#: inc/admin-documentation.php:384
+msgid "Configure shopping cart display"
+msgstr "Конфигурируйте отображение корзины"
+
+#: inc/admin-documentation.php:383
+msgid "Add contact information"
+msgstr "Добавить контактную информацию"
+
+#: inc/admin-documentation.php:382
+msgid "Enable/disable top header bar"
+msgstr "Верхняя панель заголовка: вкл/откл"
+
+#: inc/admin-documentation.php:380
+msgid "4. Header Settings"
+msgstr "4. Настройки заголовка"
+
+#: inc/admin-documentation.php:377
+msgid "Header and footer colors"
+msgstr "Цвета заголовка и подвала"
+
+#: inc/admin-documentation.php:376
+msgid "Text colors"
+msgstr "Цвета текста"
+
+#: inc/admin-documentation.php:375
+msgid "Background colors"
+msgstr "Цвета фона"
+
+#: inc/admin-documentation.php:374
+msgid "Primary color for buttons and links"
+msgstr "Основной цвет для кнопок и ссылок"
+
+#: inc/admin-documentation.php:372
+msgid "3. Colors"
+msgstr "3. Цвета"
+
+#: inc/admin-documentation.php:369
+msgid "Default fonts: Poppins (body) and Montserrat (headings)"
+msgstr "Шрифты по умолчанию: Poppins (основная часть) и Montserrat (заголовки)"
+
+#: inc/admin-documentation.php:368
+msgid "Set different fonts for body text and headings"
+msgstr "Установить разные шрифты для основного текста и заголовков"
+
+#: inc/admin-documentation.php:367
+msgid "Choose from 800+ Google Fonts"
+msgstr "Выбирайте из 800+ шрифтов Google"
+
+#: inc/admin-documentation.php:365
+msgid "2. Typography"
+msgstr "2. Типографика"
+
+#: inc/admin-documentation.php:362
+msgid "Add site icon (favicon)"
+msgstr "Добавить иконку сайта (favicon)"
+
+#: inc/admin-documentation.php:361
+msgid "Set site title and tagline"
+msgstr "Установить название и краткое описание сайта"
+
+#: inc/admin-documentation.php:360
+msgid "Upload your site logo"
+msgstr "Загрузить логотип сайта"
+
+#: inc/admin-documentation.php:358
+msgid "1. Site Identity"
+msgstr "1. Свойства сайта"
+
+#: inc/admin-documentation.php:356
+msgid "Available Customization Options:"
+msgstr "Доступные варианты настройки:"
+
+#: inc/admin-documentation.php:354
+msgid "Navigate to Appearance → Customize to access all theme options. Changes are previewed in real-time before publishing."
+msgstr "Перейдите Внешний вид → Настроить, чтобы получить доступ ко всем параметрам темы. Перед публикацией изменения просматриваются в режиме реального времени."
+
+#: inc/admin-documentation.php:353
+msgid "Accessing the Customizer"
+msgstr "Доступ к настройке темы"
+
+#: inc/admin-documentation.php:351
+msgid "🎨 Theme Customization"
+msgstr "🎨 Настройка темы"
+
+#: inc/admin-documentation.php:343
+msgid "Start adding your products through Products → Add New in the WordPress dashboard."
+msgstr "Начните добавлять свои товары через раздел Товары → Добавить новый на консоли WordPress."
+
+#: inc/admin-documentation.php:342
+msgid "Add Products:"
+msgstr "Добавить товары:"
+
+#: inc/admin-documentation.php:339
+msgid "Go to Appearance → Menus to create and assign menus to \"Top Menu\" and \"Main Menu\" locations."
+msgstr "Перейдите Внешний вид → Меню, чтобы создать и назначить меню для местоположения \"Верхнее меню\" и \"Главное меню\"."
+
+#: inc/admin-documentation.php:338
+msgid "Create Menus:"
+msgstr "Создать меню:"
+
+#: inc/admin-documentation.php:335
+msgid "Navigate to Appearance → Customize → Site Identity → Logo to upload your brand logo."
+msgstr "Перейдите Внешний вид → Настройки → Свойства сайта → Логотип, чтобы загрузить логотип своего бренда."
+
+#: inc/admin-documentation.php:334
+msgid "Set Your Logo:"
+msgstr "Установить свой логотип:"
+
+#: inc/admin-documentation.php:331
+msgid "Follow the WooCommerce setup wizard to configure your store settings, currency, and payment methods."
+msgstr "Следуйте указаниям мастера установки WooCommerce, чтобы настроить параметры магазина, валюту и способы оплаты."
+
+#: inc/admin-documentation.php:330
+msgid "Run WooCommerce Setup:"
+msgstr "Запустить настройку WooCommerce:"
+
+#: inc/admin-documentation.php:327
+msgid "Go to Plugins → Add New, search for \"WooCommerce\", install and activate it."
+msgstr "Перейдите Плагины → Добавить новый, найдите \"WooCommerce\", установите и активируйте его."
+
+#: inc/admin-documentation.php:326
+msgid "Install WooCommerce:"
+msgstr "Установить WooCommerce:"
+
+#: inc/admin-documentation.php:322
+msgid "🚀 Quick Start Guide"
+msgstr "🚀 Краткое руководство"
+
+#: inc/admin-documentation.php:311
+msgid "Get dedicated premium support from our expert team"
+msgstr "Получите спец. поддержку премиум-класса от нашей команды экспертов"
+
+#: inc/admin-documentation.php:310
+msgid "Priority Support"
+msgstr "Приоритетная поддержка"
+
+#: inc/admin-documentation.php:306
+msgid "Premium professionally designed templates for various niches"
+msgstr "Премиальные профессионально разработанные шаблоны для различных ниш"
+
+#: inc/admin-documentation.php:305
+msgid "High-Quality Designs"
+msgstr "Высококачественный дизайн"
+
+#: inc/admin-documentation.php:301
+msgid "6 different premium designs with one-click installation"
+msgstr "6 различных премиальных дизайнов с установкой в один клик"
+
+#: inc/admin-documentation.php:300
+msgid "One-Click Demo Import"
+msgstr "Импортировать демонстрацию в один клик"
+
+#: inc/admin-documentation.php:296
+msgid "Convert visitors into subscribers with elegant popup forms"
+msgstr "Превращайте посетителей в подписчиков с помощью элегантных всплывающих окон"
+
+#: inc/admin-documentation.php:295
+msgid "Subscribe Popup"
+msgstr "Всплывающее окно подписки"
+
+#: inc/admin-documentation.php:291
+msgid "Sticky bottom navigation menu for better mobile shopping experience"
+msgstr "Прикреплённое нижнее навигационное меню для лучшего опыта покупок с мобильных устройств"
+
+#: inc/admin-documentation.php:290
+msgid "Mobile Bottom Shop Menu"
+msgstr "Меню магазинов для мобильных"
+
+#: inc/admin-documentation.php:286
+msgid "Optimized mobile filter experience with sticky filter button"
+msgstr "Оптимизированный фильтр для мобильных устройств с прикреплённой кнопкой фильтрации"
+
+#: inc/admin-documentation.php:285
+msgid "Mobile Filter Button"
+msgstr "Кнопка фильтрации для мобильных"
+
+#: inc/admin-documentation.php:281
+msgid "Advanced filtering by price, categories, attributes without page refresh"
+msgstr "Расширенная фильтрация по цене, категориям, атрибутам без обновления страницы"
+
+#: inc/admin-documentation.php:280
+msgid "Ajax Product Filter"
+msgstr "Ajax-фильтр товаров"
+
+#: inc/admin-documentation.php:276
+msgid "Real-time product search with instant results without page reload"
+msgstr "Поиск товаров в режиме реального времени с мгновенными результатами без перезагрузки страницы"
+
+#: inc/admin-documentation.php:275
+msgid "Ajax Live Search"
+msgstr "Ajax Живой поиск"
+
+#: inc/admin-documentation.php:271
+msgid "Premium Features Include:"
+msgstr "Возможности Премиум версии:"
+
+#: inc/admin-documentation.php:265
+msgid "Upgrade to Pro Now"
+msgstr "Обновите до Pro сейчас"
+
+#: inc/admin-documentation.php:261
+msgid "Unlock powerful premium features and take your online store to the next level!"
+msgstr "Разблокируйте мощные премиум-функции и выведите свой интернет-магазин на новый уровень!"
+
+#: inc/admin-documentation.php:260
+msgid "🚀 Upgrade to WowMart Pro"
+msgstr "🚀 Обновление до WowMart Pro"
+
+#: inc/admin-documentation.php:254
+msgid "%s Documentation"
+msgstr "Документация %s"
+
+#: inc/admin-documentation.php:244
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: inc/admin-documentation.php:233
+msgid "Notice dismissed for 7 days."
+msgstr "Уведомление отложено на 7 дней."
+
+#: inc/admin-documentation.php:209
+msgid "Notice dismissed."
+msgstr "Уведомление отклонено."
+
+#: inc/admin-documentation.php:202 inc/admin-documentation.php:226
+msgid "Insufficient permissions."
+msgstr "Недостаточно разрешений."
+
+#: inc/admin-documentation.php:196 inc/admin-documentation.php:220
+msgid "Security check failed."
+msgstr "Проверка безопасности не удалась."
+
+#: inc/admin-documentation.php:181
+msgid "Dismissing..."
+msgstr "Отказ от..."
+
+#: inc/admin-documentation.php:179
+msgid "View Demo"
+msgstr "Смотреть демо"
+
+#: inc/admin-documentation.php:176
+msgid "Upgrade to Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/admin-documentation.php:170
+msgid "Transform your store into a conversion machine with advanced features that boost sales and enhance user experience!"
+msgstr "Превратите свой магазин в машину для конверсии с расширенными функциями, которые увеличат продажи и улучшат пользовательский опыт!"
+
+#: inc/admin-documentation.php:167
+msgid "Unlock powerful features: Ajax Filters, Live Search, Mobile Bottom Menu, Subscribe Popup, One-Click Demo Import with 6 premium designs, and priority support!"
+msgstr "Разблокируйте мощные функции: Ajax-фильтры, живой поиск, нижнее меню для мобильных устройств, всплывающее окно подписки, импорт демо в один клик с 6 премиум-дизайнами и приоритетная поддержка!"
+
+#: inc/admin-documentation.php:164
+msgid "Premium"
+msgstr "Премиум"
+
+#: inc/admin-documentation.php:163
+msgid "Upgrade to WowMart Pro"
+msgstr "Обновление до WowMart Pro"
+
+#: inc/admin-documentation.php:121
+msgid "Customize Theme"
+msgstr "Настройка темы"
+
+#: inc/admin-documentation.php:118
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/admin-documentation.php:114
+msgid "Thank you for choosing WowMart! Before you start building your amazing online store, we highly recommend reading the comprehensive documentation to get the most out of your theme."
+msgstr "Спасибо, что выбрали WowMart! Перед тем, как Вы начнете создавать свой удивительный интернет-магазин, мы настоятельно рекомендуем прочитать исчерпывающую документацию, чтобы получить максимальную отдачу от темы."
+
+#: inc/admin-documentation.php:112
+msgid "Welcome to WowMart Theme! 🎉"
+msgstr "Добро пожаловать в тему WowMart! 🎉"
+
+#: inc/admin-documentation.php:19
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/admin-documentation.php:18
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:45
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:58
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-blog.php:64 template-parts/content-grid.php:56
+msgid "Read more about %s"
+msgstr "Прочитать больше о %s"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Шаблон во всю ширину"
+
+#: single.php:42
+msgid "Next:"
+msgstr "Следующая:"
+
+#: single.php:41
+msgid "Previous:"
+msgstr "Предыдущая:"
+
+#. translators: %s: search query.
+#: search.php:40
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/woo-items/woo-extra.php:605
+msgid "Shop by Department"
+msgstr "Магазин по отделам"
+
+#: inc/woo-items/woo-extra.php:538
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: inc/woo-items/woo-extra.php:486
+msgid "Sale!"
+msgstr "Распродажа!"
+
+#: inc/woo-items/woo-extra.php:421
+msgid "Start Shopping"
+msgstr "Начните делать покупки"
+
+#: inc/woo-items/woo-extra.php:420
+msgid "Your cart is empty!"
+msgstr "Корзина пуста!"
+
+#: inc/woo-items/woo-extra.php:397
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: inc/woo-items/woo-extra.php:361
+msgid "Name"
+msgstr "Имя"
+
+#: inc/woo-items/woo-extra.php:337
+msgid "DEFAULT"
+msgstr "ПО УМОЛЧАНИЮ"
+
+#: inc/woo-items/woo-extra.php:336
+msgid "PRICE: HIGH TO LOW"
+msgstr "ЦЕНА: ОТ ВЫСОКОЙ ДО НИЗКОЙ"
+
+#: inc/woo-items/woo-extra.php:335
+msgid "PRICE: LOW TO HIGH"
+msgstr "ЦЕНА: ОТ НИЗКОЙ ДО ВЫСОКОЙ"
+
+#: inc/woo-items/woo-extra.php:334
+msgid "AVERAGE RATING"
+msgstr "СРЕДНИЙ РЕЙТИНГ"
+
+#: inc/woo-items/woo-extra.php:333
+msgid "POPULARITY"
+msgstr "ПОПУЛЯРНОСТЬ"
+
+#: inc/woo-items/woo-extra.php:332
+msgid "NEWEST"
+msgstr "НОВИНКА"
+
+#: inc/woo-items/woo-extra.php:330
+msgid "SORT BY :"
+msgstr "СОРТИРОВАТЬ ПО:"
+
+#: inc/woo-items/woo-extra.php:326
+msgid "RESULTS FOUND"
+msgstr "НАЙДЕННЫЕ РЕЗУЛЬТАТЫ"
+
+#: inc/woo-items/woo-extra.php:320
+msgid "RESET ALL FILTER"
+msgstr "СБРОСИТЬ ВСЕ ФИЛЬТРЫ"
+
+#: inc/woo-items/woo-extra.php:314
+msgid "Out of Stock"
+msgstr "Нет в наличии"
+
+#: inc/woo-items/woo-extra.php:310
+msgid "In Stock"
+msgstr "В наличии"
+
+#: inc/woo-items/woo-extra.php:302
+msgid "AVAILABLE"
+msgstr "ДОСТУПНО"
+
+#: inc/woo-items/woo-extra.php:263
+msgid "COLOR"
+msgstr "ЦВЕТ"
+
+#: inc/woo-items/woo-extra.php:243
+msgid "CATEGORIES"
+msgstr "РУБРИКИ"
+
+#: inc/woo-items/woo-extra.php:95
+msgid "Shop Page products fileter top widget."
+msgstr "Верхний виджет фильтра товаров на странице магазина."
+
+#: inc/woo-items/woo-extra.php:93
+msgid "Shop Page Top Widget."
+msgstr "Верхний виджет страницы магазина."
+
+#: inc/woo-items/woo-extra.php:86
+msgid "Add shop widgets here."
+msgstr "Добавить виджеты магазинов здесь."
+
+#: inc/woo-items/woo-extra.php:84
+msgid "Shop Sidebar"
+msgstr "Боковая панель магазина"
+
+#. translators: number of items in the mini cart.
+#: inc/woo-items/woo-extra.php:60
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] "%d"
+msgstr[1] "%d"
+msgstr[2] "%d"
+
+#: inc/woo-items/customizer-woo.php:935
+msgid "Show Postcode / ZIP"
+msgstr "Показать почтовый индекс"
+
+#: inc/woo-items/customizer-woo.php:923
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: inc/woo-items/customizer-woo.php:922
+msgid "Optional"
+msgstr "Необязательно"
+
+#: inc/woo-items/customizer-woo.php:916
+msgid "Email field"
+msgstr "Поле email"
+
+#: inc/woo-items/customizer-woo.php:902
+msgid "Show Last Nama Field"
+msgstr "Показать поле фамилии"
+
+#: inc/woo-items/customizer-woo.php:888
+msgid "Show Related Products"
+msgstr "Показать сопутствующие товары"
+
+#: inc/woo-items/customizer-woo.php:875
+msgid "Show Tab"
+msgstr "Показать вкладку"
+
+#: inc/woo-items/customizer-woo.php:862
+msgid "Show Tags"
+msgstr "Показывать теги"
+
+#: inc/woo-items/customizer-woo.php:849
+msgid "Show Categories "
+msgstr "Показать категории "
+
+#: inc/woo-items/customizer-woo.php:836
+msgid "Show SKU"
+msgstr "Показать артикул"
+
+#: inc/woo-items/customizer-woo.php:823
+msgid "You can show or hide single product short description."
+msgstr "Вы можете показать или скрыть краткое описание отдельного товара."
+
+#: inc/woo-items/customizer-woo.php:822
+msgid "Show Short description "
+msgstr "Показать краткое описание "
+
+#: inc/woo-items/customizer-woo.php:809
+msgid "You can show or hide single product rating. Rating only show when rating available."
+msgstr "Вы можете показать или скрыть рейтинг отдельного товара. Ставка отображается только при доступности рейтинга."
+
+#: inc/woo-items/customizer-woo.php:808
+msgid "Show Rating "
+msgstr "Показать рейтинг "
+
+#: inc/woo-items/customizer-woo.php:795
+msgid "Title Color"
+msgstr "Цвет названия"
+
+#: inc/woo-items/customizer-woo.php:777
+msgid "Set single product title font size."
+msgstr "Установить размер шрифта названия отдельного товара."
+
+#: inc/woo-items/customizer-woo.php:776
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/woo-items/customizer-woo.php:763
+msgid "Single Product Settings"
+msgstr "Настройки отдельного товара"
+
+#: inc/woo-items/customizer-woo.php:754
+msgid "Products button hover color"
+msgstr "Цвет кнопки товаров при наведении"
+
+#: inc/woo-items/customizer-woo.php:737
+msgid "Products button color"
+msgstr "Цвет кнопки товаров"
+
+#: inc/woo-items/customizer-woo.php:720
+msgid "Products button hover background color"
+msgstr "Цвет фона кнопки товаров при наведении"
+
+#: inc/woo-items/customizer-woo.php:703
+msgid "Products button background color"
+msgstr "Цвет фона кнопки товаров"
+
+#: inc/woo-items/customizer-woo.php:686
+msgid "Products Price Color"
+msgstr "Цвет цены товаров"
+
+#: inc/woo-items/customizer-woo.php:669
+msgid "Products Rating Color"
+msgstr "Цвет рейтинга товаров"
+
+#: inc/woo-items/customizer-woo.php:652
+msgid "Products Title Color"
+msgstr "Цвет названия товаров"
+
+#: inc/woo-items/customizer-woo.php:635
+msgid "Products Background Color"
+msgstr "Цвет фона товаров"
+
+#: inc/woo-items/customizer-woo.php:620
+msgid "Style Two"
+msgstr "Второй стиль"
+
+#: inc/woo-items/customizer-woo.php:619
+msgid "Style One"
+msgstr "Первый стиль"
+
+#: inc/woo-items/customizer-woo.php:614
+msgid "Select Products Style"
+msgstr "Выбрать стиль товаров"
+
+#: inc/woo-items/customizer-woo.php:603
+msgid "Two Products"
+msgstr "Два товара"
+
+#: inc/woo-items/customizer-woo.php:602
+msgid "Three Products"
+msgstr "Три товара"
+
+#: inc/woo-items/customizer-woo.php:601
+msgid "Four Products"
+msgstr "Четыре товара"
+
+#: inc/woo-items/customizer-woo.php:600
+msgid "Five Products"
+msgstr "Пять товаров"
+
+#: inc/woo-items/customizer-woo.php:595
+msgid "Set Product Per row"
+msgstr "Установить товар на строку"
+
+#: inc/woo-items/customizer-woo.php:582
+msgid "Show Products Order? "
+msgstr "Показать порядок товаров? "
+
+#: inc/woo-items/customizer-woo.php:569
+msgid "Show Result Count? "
+msgstr "Показать количество результатов? "
+
+#: inc/woo-items/customizer-woo.php:556
+msgid "Shop Top Widget Background Color"
+msgstr "Цвет фона верхнего виджета магазина"
+
+#: inc/woo-items/customizer-woo.php:539
+msgid "Shop Top Widget Text Hover Color"
+msgstr "Цвет текста верхнего виджета магазина при наведении"
+
+#: inc/woo-items/customizer-woo.php:522
+msgid "Shop Top Widget Text Color"
+msgstr "Цвет текста верхнего виджета магазина"
+
+#: inc/woo-items/customizer-woo.php:500
+msgid "Set filter widget from widget section for fiilter shop page products. You can set posotion filiter items by this opiton."
+msgstr "Установить виджет фильтра из раздела виджетов для фильтрации товаров на странице магазина. С помощью этой опции Вы можете установить позиционный фильтр товаров."
+
+#: inc/woo-items/customizer-woo.php:499
+msgid "Shop Page Top Widget Position"
+msgstr "Положение виджета на верхней части страницы магазина"
+
+#: inc/woo-items/customizer-woo.php:486
+msgid "Shop Title Color"
+msgstr "Цвет названия магазина"
+
+#: inc/woo-items/customizer-woo.php:464
+msgid "Title Position"
+msgstr "Позиция названия"
+
+#: inc/woo-items/customizer-woo.php:451
+msgid "Enter your shop page title. Leave empty if you don't want the title."
+msgstr "Введите название страницы магазина. Оставьте пустым, если название не нужно."
+
+#: inc/woo-items/customizer-woo.php:450
+msgid "Shop Page Title"
+msgstr "Название страницы магазина"
+
+#: inc/woo-items/customizer-woo.php:445 inc/woo-items/woo-extra.php:165
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/woo-items/customizer-woo.php:430
+msgid "Right and Left sidebar only show when shop sidebar widget is available. "
+msgstr "Правая и левая боковые панели отображаются только при наличии виджета боковой панели магазина. "
+
+#: inc/woo-items/customizer-woo.php:429
+msgid "Select Shop Layout"
+msgstr "Выбрать макет магазина"
+
+#: inc/woo-items/customizer-woo.php:412
+msgid "You can set standard container or full width container for shop. "
+msgstr "Вы можете установить стандартный контейнер или во всю ширину для магазина. "
+
+#: inc/woo-items/customizer-woo.php:411
+msgid "Shop Container type"
+msgstr "Тип контейнера магазина"
+
+#: inc/woo-items/customizer-woo.php:396
+msgid "WowMart  Settings"
+msgstr "Настройки WowMart"
+
+#: inc/woo-items/customizer-woo.php:384
+msgid "You can show or hide banner overlay."
+msgstr "Вы можете показать или скрыть наложение баннера."
+
+#: inc/woo-items/customizer-woo.php:383
+msgid "Show banner overlay? "
+msgstr "Показать наложение баннера? "
+
+#: inc/woo-items/customizer-woo.php:370
+msgid "Banner Text Color"
+msgstr "Цвет текста баннера"
+
+#: inc/woo-items/customizer-woo.php:348
+msgid "Text Position"
+msgstr "Расположение текста"
+
+#: inc/woo-items/customizer-woo.php:335
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: inc/woo-items/customizer-woo.php:318
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/woo-items/customizer-woo.php:301
+msgid "Enter your shop banner button url. Leave empty if you don't want to use the button."
+msgstr "Введите URL кнопки баннера магазина. Оставьте пустым, если Вы не хотите использовать кнопку."
+
+#: inc/woo-items/customizer-woo.php:300
+msgid "Shop Banner Button url"
+msgstr "URL кнопки баннера магазина"
+
+#: inc/woo-items/customizer-woo.php:287
+msgid "Enter your shop banner button text."
+msgstr "Введите текст кнопки баннера магазина."
+
+#: inc/woo-items/customizer-woo.php:286
+msgid "Shop Banner Button text"
+msgstr "Текст кнопки баннера магазина"
+
+#: inc/woo-items/customizer-woo.php:279 woocommerce.php:21
+msgid "Shop Now"
+msgstr "Купить сейчас"
+
+#: inc/woo-items/customizer-woo.php:273
+msgid "Enter your shop banner description. This provides additional context about your store."
+msgstr "Введите описание баннера магазина. Это дает дополнительный контекст о магазине."
+
+#: inc/woo-items/customizer-woo.php:272
+msgid "Shop Banner Description"
+msgstr "Описание баннера магазина"
+
+#: inc/woo-items/customizer-woo.php:265 woocommerce.php:41
+msgid "Discover exceptional quality products with our cutting-edge shopping platform. Enjoy seamless browsing, secure checkout, and outstanding customer service."
+msgstr "Откройте для себя товары исключительного качества с помощью нашей передовой торговой платформы. Наслаждайтесь беспрепятственным просмотром, безопасным оформлением заказа и превосходным обслуживанием клиентов."
+
+#: inc/woo-items/customizer-woo.php:259
+msgid "Enter your shop banner main title. This is the primary headline."
+msgstr "Введите заголовок главного баннера магазина. Это основной заголовок."
+
+#: inc/woo-items/customizer-woo.php:258
+msgid "Shop Banner Title"
+msgstr "Заголовок баннера магазина"
+
+#: inc/woo-items/customizer-woo.php:251 woocommerce.php:39
+msgid "Premium Shopping Experience"
+msgstr "Покупки премиум-класса"
+
+#: inc/woo-items/customizer-woo.php:243
+msgid "Enter your shop banner subtitle. This appears above the main title."
+msgstr "Введите подзаголовок баннера магазина. Он появится над основным заголовком."
+
+#: inc/woo-items/customizer-woo.php:242
+msgid "Shop Banner Subtitle"
+msgstr "Подзаголовок баннера магазина"
+
+#: inc/woo-items/customizer-woo.php:235 woocommerce.php:40
+msgid "Modern eCommerce Solution"
+msgstr "Современное решение для электронной коммерции"
+
+#: inc/woo-items/customizer-woo.php:227
+msgid "You can upload shop image by this option"
+msgstr "Вы можете загрузить изображение магазина с помощью этой опции"
+
+#: inc/woo-items/customizer-woo.php:226
+msgid "Upload Shop Image"
+msgstr "Загрузить изображение магазина"
+
+#: inc/woo-items/customizer-woo.php:210
+msgid "You can show or hide shop page banner."
+msgstr "Вы можете показать или скрыть баннер страницы магазина."
+
+#: inc/woo-items/customizer-woo.php:209
+msgid "Display Shop Page banner"
+msgstr "Отображение баннера страницы магазина"
+
+#: inc/woo-items/customizer-woo.php:195
+msgid "Shop Page Banner"
+msgstr "Баннер страницы магазина"
+
+#: inc/woo-items/customizer-woo.php:187
+msgid "Pagination Background Color"
+msgstr "Цвет фона пагинации"
+
+#: inc/woo-items/customizer-woo.php:170
+msgid "Pagination Text Color"
+msgstr "Цвет текста пагинации"
+
+#: inc/woo-items/customizer-woo.php:148
+msgid "Products Pagination Position"
+msgstr "Позиция пагинации товаров"
+
+#: inc/woo-items/customizer-woo.php:133
+msgid "Breadcrump Background Color"
+msgstr "Цвет фона навигационной цепочки"
+
+#: inc/woo-items/customizer-woo.php:116
+msgid "Breadcrump Text Color"
+msgstr "Цвет текста навигационной цепочки"
+
+#: inc/woo-items/customizer-woo.php:101 inc/woo-items/customizer-woo.php:155
+#: inc/woo-items/customizer-woo.php:355 inc/woo-items/customizer-woo.php:471
+#: inc/woo-items/customizer-woo.php:507
+msgid "Right"
+msgstr "Справа"
+
+#: inc/woo-items/customizer-woo.php:100 inc/woo-items/customizer-woo.php:154
+#: inc/woo-items/customizer-woo.php:354 inc/woo-items/customizer-woo.php:470
+#: inc/woo-items/customizer-woo.php:506
+msgid "Center"
+msgstr "По центру"
+
+#: inc/woo-items/customizer-woo.php:99 inc/woo-items/customizer-woo.php:153
+#: inc/woo-items/customizer-woo.php:353 inc/woo-items/customizer-woo.php:469
+#: inc/woo-items/customizer-woo.php:505
+msgid "Left"
+msgstr "Слева"
+
+#: inc/woo-items/customizer-woo.php:94
+msgid "Products Breadcrumb Position"
+msgstr "Позиция навигационной цепочки товаров"
+
+#: inc/woo-items/customizer-woo.php:81
+msgid "You can show or hide shop breadcrumb."
+msgstr "Вы можете показать или скрыть навигационную цепочку магазина."
+
+#: inc/woo-items/customizer-woo.php:80
+msgid "Display Shop Breadcrumb"
+msgstr "Отображение навигационной цепочки магазина"
+
+#: inc/woo-items/customizer-woo.php:65
+msgid "You can show or hide shop cart icon."
+msgstr "Вы можете показать или скрыть значок корзины."
+
+#: inc/woo-items/customizer-woo.php:64
+msgid "Display Header Shopping Cart Icon"
+msgstr "Отображение значка корзины в заголовке"
+
+#: inc/woo-items/customizer-woo.php:51
+msgid "WowMart  General Settings"
+msgstr "Общие настройки WowMart"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:104 template-parts/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:87
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:77
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:70
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:49
+msgctxt "post author"
+msgid "by %s"
+msgstr "автор: %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:32
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано в %s"
+
+#: libs/magical-plugin-activation/plugin-recommendations.php:39
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/customizer.php:1088
+msgid "Footer Link Hover color."
+msgstr "Цвет ссылки подвала при наведении."
+
+#: inc/customizer/customizer.php:1071
+msgid "Footer text color."
+msgstr "Цвет текста подвала."
+
+#: inc/customizer/customizer.php:1054
+msgid "Footer background color."
+msgstr "Цвет фона подвала."
+
+#: inc/customizer/customizer.php:1035
+msgid "WowMart Footer Settings"
+msgstr "Настройки подвала WowMart"
+
+#: inc/customizer/customizer.php:1028
+msgid "Footer Top Widget Link hover Color."
+msgstr "Цвет текста виджета верхней части подвала при наведении."
+
+#: inc/customizer/customizer.php:1010
+msgid "Footer Top Widget Text Color."
+msgstr "Цвет текста виджета верхней части подвала."
+
+#: inc/customizer/customizer.php:992
+msgid "Footer Top Widget Title Color."
+msgstr "Цвет названия виджета верхней части подвала."
+
+#: inc/customizer/customizer.php:974
+msgid "Footer top background color."
+msgstr "Цвет фона верхней части подвала."
+
+#: inc/customizer/customizer.php:955
+msgid "You can show or hide footer top section.The section only visible when you will set footer widget. "
+msgstr "Вы можете показать или скрыть верхнюю часть подвала. Этот раздел будет виден только тогда, когда Вы установите виджет подвала. "
+
+#: inc/customizer/customizer.php:954
+msgid "Show Top Footer? "
+msgstr "Показать верхний подвал? "
+
+#: inc/customizer/customizer.php:942 inc/customizer/customizer.php:1037
+msgid "The WowMart footer settings options "
+msgstr "Параметры настройки подвала WowMart "
+
+#: inc/customizer/customizer.php:940
+msgid "WowMart Footer Top Settings"
+msgstr "Настройки верхней части подвала WowMart"
+
+#: inc/customizer/customizer.php:937
+msgid "All WowMart theme footer settings in the panel"
+msgstr "Все настройки подвала темы WowMart на панели"
+
+#: inc/customizer/customizer.php:936
+msgid "WowMart footer settings"
+msgstr "Настройки подвала WowMart"
+
+#: inc/customizer/customizer.php:914
+msgid "Select Page Layout"
+msgstr "Выбор макета страницы"
+
+#: inc/customizer/customizer.php:903
+msgid "Full width Page Container"
+msgstr "Контейнер страницы во всю ширину"
+
+#: inc/customizer/customizer.php:902
+msgid "Standard Page Container"
+msgstr "Стандартный контейнер страницы"
+
+#: inc/customizer/customizer.php:897
+msgid "You can set standard container or full width container for page. "
+msgstr "Вы можете установить стандартный контейнер или во всю ширину страницы. "
+
+#: inc/customizer/customizer.php:896
+msgid "Page Container type"
+msgstr "Тип контейнера страницы"
+
+#: inc/customizer/customizer.php:884
+msgid "The WowMart theme Page options "
+msgstr "Параметры страницы темы WowMart "
+
+#: inc/customizer/customizer.php:882
+msgid "WowMart Page"
+msgstr "Страница WowMart"
+
+#: inc/customizer/customizer.php:874
+msgid "Show Single Posts comment? "
+msgstr "Показать комментарии отдельных записей? "
+
+#: inc/customizer/customizer.php:861
+msgid "Show Single Posts tags? "
+msgstr "Показать теги отдельных записей? "
+
+#: inc/customizer/customizer.php:848
+msgid "Show Single Posts Categories? "
+msgstr "Показывать рубрики отдельных записей? "
+
+#: inc/customizer/customizer.php:835
+msgid "Show Posts Author? "
+msgstr "Показать автора записи? "
+
+#: inc/customizer/customizer.php:822
+msgid "Show Posts Date? "
+msgstr "Показывать дату записи? "
+
+#: inc/customizer/customizer.php:807
+msgid "You can change read more text by this settings"
+msgstr "Вы можете изменить текст читать далее с помощью этих настроек"
+
+#: inc/customizer/customizer.php:806
+msgid "Posts Read More Text"
+msgstr "Текст Читать далее записи"
+
+#: inc/customizer/customizer.php:799 inc/woo-items/woo-extra.php:538
+#: template-parts/content-grid.php:9
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: inc/customizer/customizer.php:795
+msgid "Classic Style"
+msgstr "Классический стиль"
+
+#: inc/customizer/customizer.php:794
+msgid "List Style"
+msgstr "Стиль списка"
+
+#: inc/customizer/customizer.php:793
+msgid "Grid Style"
+msgstr "Стиль сетки"
+
+#: inc/customizer/customizer.php:788
+msgid "Select Blog Style"
+msgstr "Выбрать стиль блога"
+
+#: inc/customizer/customizer.php:776 inc/customizer/customizer.php:922
+#: inc/woo-items/customizer-woo.php:437
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/customizer/customizer.php:775 inc/customizer/customizer.php:921
+#: inc/woo-items/customizer-woo.php:436
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: inc/customizer/customizer.php:774 inc/customizer/customizer.php:920
+#: inc/woo-items/customizer-woo.php:435
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/customizer.php:769 inc/customizer/customizer.php:915
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr "Правая и левая боковые панели отображаются только при наличии виджета боковой панели. "
+
+#: inc/customizer/customizer.php:768
+msgid "Select Blog Layout"
+msgstr "Выбрать макет блога"
+
+#: inc/customizer/customizer.php:757 inc/woo-items/customizer-woo.php:418
+msgid "Full width Container"
+msgstr "Контейнер во всю ширину"
+
+#: inc/customizer/customizer.php:756 inc/woo-items/customizer-woo.php:417
+msgid "Standard Container"
+msgstr "Стандартный контейнер"
+
+#: inc/customizer/customizer.php:751
+msgid "You can set standard container or full width container. "
+msgstr "Вы можете установить стандартный контейнер или во всю ширину. "
+
+#: inc/customizer/customizer.php:750
+msgid "Container type"
+msgstr "Тип контейнера"
+
+#: inc/customizer/customizer.php:738
+msgid "The WowMart theme blog options "
+msgstr "Параметры блога темы WowMart "
+
+#: inc/customizer/customizer.php:736
+msgid "WowMart Blog"
+msgstr "Блог WowMart"
+
+#: inc/customizer/customizer.php:729
+msgid "Theme Link Hover Color"
+msgstr "Цвет при наведении ссылки на тему"
+
+#: inc/customizer/customizer.php:711
+msgid "Theme Link Color"
+msgstr "Цвет ссылки темы"
+
+#: inc/customizer/customizer.php:693
+msgid "Theme Basic Color"
+msgstr "Базовый цвет темы"
+
+#: inc/customizer/customizer.php:676
+msgid "Content Background Color"
+msgstr "Цвет фона содержимого"
+
+#: inc/customizer/customizer.php:659
+msgid "Body Font Color"
+msgstr "Цвет шрифта основной части"
+
+#: inc/customizer/customizer.php:642
+msgid "Header tag Font Color"
+msgstr "Цвет шрифта тега заголовка"
+
+#: inc/customizer/customizer.php:623
+msgid "Title tag background Color"
+msgstr "Цвет фона тега названия"
+
+#: inc/customizer/customizer.php:602
+msgid "Menu dropdown Background Color"
+msgstr "Цвет фона выпадающего меню"
+
+#: inc/customizer/customizer.php:584
+msgid "Menu Background Color"
+msgstr "Цвет фона меню"
+
+#: inc/customizer/customizer.php:566
+msgid "Menu font Color"
+msgstr "Цвет шрифта меню"
+
+#: inc/customizer/customizer.php:548
+msgid "Set menu item font size. Font size set by px"
+msgstr "Установить размер шрифта пункта меню. Размер шрифта устанавливается в px"
+
+#: inc/customizer/customizer.php:547
+msgid "Menu item font size"
+msgstr "Размер шрифта пункта меню"
+
+#: inc/customizer/customizer.php:533
+msgid "Add main menu top bottom padding."
+msgstr "Добавить верхний/нижний внутренний отступ главного меню."
+
+#: inc/customizer/customizer.php:532
+msgid "Menu top bottom padding"
+msgstr "Верхний/нижний внутренний отступ меню"
+
+#: inc/customizer/customizer.php:520
+msgid "Menu right"
+msgstr "Меню справа"
+
+#: inc/customizer/customizer.php:519
+msgid "Menu center"
+msgstr "Меню по центру"
+
+#: inc/customizer/customizer.php:518
+msgid "Menu left"
+msgstr "Меню слева"
+
+#: inc/customizer/customizer.php:513
+msgid "Select Menu Position"
+msgstr "Выбрать позицию меню"
+
+#: inc/customizer/customizer.php:495
+msgid "You can show logo in the header main menu section."
+msgstr "Вы можете показать логотип в разделе главного меню заголовка."
+
+#: inc/customizer/customizer.php:494
+msgid "Show Logo in the Main Menu section? "
+msgstr "Показать логотип в разделе Главное меню? "
+
+#: inc/customizer/customizer.php:479
+msgid "Show Main Menu section? "
+msgstr "Показать раздел главного меню? "
+
+#: inc/customizer/customizer.php:467
+msgid "The WowMart main menu section. You need to add menu from WordPress menu setup for display the menu manu "
+msgstr "Раздел главного меню WowMart. Необходимо добавить меню из меню WordPress, чтобы отобразить его в меню "
+
+#: inc/customizer/customizer.php:465
+msgid "WowMart Main Menu"
+msgstr "Главное меню WowMart"
+
+#: inc/customizer/customizer.php:457
+msgid "Set your header middle section height. Leave empty for auto height."
+msgstr "Установить высоту среднего раздела заголовка. Оставьте пустым для авто высоты."
+
+#: inc/customizer/customizer.php:456
+msgid "Set header middle section height"
+msgstr "Установить высоту среднего раздела заголовка"
+
+#: inc/customizer/customizer.php:442 inc/customizer/customizer.php:480
+msgid "You can show or hide header main menu section."
+msgstr "Вы можете показать или скрыть раздел основного меню заголовка."
+
+#: inc/customizer/customizer.php:441
+msgid "Show Main Header Menu? "
+msgstr "Показать главное меню заголовка? "
+
+#: inc/customizer/customizer.php:427
+msgid "You can show or hide header main section. And can show logo in menu bar"
+msgstr "Вы можете показать или скрыть раздел основного заголовка. И можете показать логотип в панели меню"
+
+#: inc/customizer/customizer.php:426
+msgid "Show Main header? "
+msgstr "Показать главный заголовок? "
+
+#: inc/customizer/customizer.php:414
+msgid "The WowMart Main header "
+msgstr "Главный заголовок WowMart "
+
+#: inc/customizer/customizer.php:412
+msgid "WowMart Main Header"
+msgstr "Главный заголовок WowMart"
+
+#: inc/customizer/customizer.php:405
+msgid "Logo right"
+msgstr "Логотип справа"
+
+#: inc/customizer/customizer.php:404
+msgid "Logo center"
+msgstr "Логотип по центру"
+
+#: inc/customizer/customizer.php:403
+msgid "Logo left"
+msgstr "Логотип слева"
+
+#: inc/customizer/customizer.php:398
+msgid "Select Logo Position"
+msgstr "Выбрать позицию логотипа"
+
+#: inc/customizer/customizer.php:380
+msgid "Set your site tabline font size."
+msgstr "Установить размер шрифта краткого описания сайта."
+
+#: inc/customizer/customizer.php:379
+msgid "Set Site Tagline Font Size"
+msgstr "Установить размер шрифта краткого описания сайта"
+
+#: inc/customizer/customizer.php:364
+msgid "Set your site title font size."
+msgstr "Установить размер шрифта названия сайта."
+
+#: inc/customizer/customizer.php:363
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: inc/customizer/customizer.php:349
+msgid "You can show or hide header tagline background."
+msgstr "Вы можете показать или скрыть фон заголовка."
+
+#: inc/customizer/customizer.php:348
+msgid "Show tagline background? "
+msgstr "Показать фон краткого описания? "
+
+#: inc/customizer/customizer.php:334
+msgid "Set your site logo height. Leave empty for auto height."
+msgstr "Установить высоту логотипа сайта. Оставьте пустым для авто высоты."
+
+#: inc/customizer/customizer.php:333
+msgid "Set Image Logo height"
+msgstr "Установить высоту изображения логотипа"
+
+#: inc/customizer/customizer.php:317
+msgid "Set your site logo Width."
+msgstr "Установить ширину логотипа сайта."
+
+#: inc/customizer/customizer.php:316
+msgid "Set Image Logo Width"
+msgstr "Установить ширину изображения логотипа"
+
+#: inc/customizer/customizer.php:303
+msgid "Auto height only small devices"
+msgstr "Авто высота только для маленьких устройств"
+
+#: inc/customizer/customizer.php:302
+msgid "Auto Height"
+msgstr "Авто высота"
+
+#: inc/customizer/customizer.php:301
+msgid "Fixed Height"
+msgstr "Фиксированная высота"
+
+#: inc/customizer/customizer.php:296
+msgid "Header image height"
+msgstr "Высота изображения заголовка"
+
+#: inc/customizer/customizer.php:277
+msgid "Topbar link hover Color"
+msgstr "Цвет ссылки верхней панели при наведении"
+
+#: inc/customizer/customizer.php:259
+msgid "Topbar text Color"
+msgstr "Цвет текста верхней панели"
+
+#: inc/customizer/customizer.php:241
+msgid "Topbar Background Color"
+msgstr "Цвет фона верхней панели"
+
+#: inc/customizer/customizer.php:223
+msgid "Hide Search"
+msgstr "Скрыть поиск"
+
+#: inc/customizer/customizer.php:222
+msgid "Popup Search"
+msgstr "Поиск во всплывающем окне"
+
+#: inc/customizer/customizer.php:221
+msgid "Simple Search"
+msgstr "Простой поиск"
+
+#: inc/customizer/customizer.php:216
+msgid "You can show two different way or hide topbar search. "
+msgstr "Вы можете показать два разных способа или скрыть поиск на верхней панели. "
+
+#: inc/customizer/customizer.php:215
+msgid "Select header topbar search type"
+msgstr "Выбрать тип поиска на верхней панели заголовка"
+
+#: inc/customizer/customizer.php:200
+msgid "You can show or hide topbar menu. You need to add menu from menu section for display menu."
+msgstr "Вы можете показать или скрыть меню верхней панели. Для отображения меню необходимо добавить меню из раздела меню."
+
+#: inc/customizer/customizer.php:199
+msgid "Show header topbar menu? "
+msgstr "Показать меню верхней панели заголовка? "
+
+#: inc/customizer/customizer.php:186
+msgid "Enter your website welcome text. Leave empty if you don't want the text."
+msgstr "Введите текст приветствия сайта. Оставьте пустым, если текст не нужен."
+
+#: inc/customizer/customizer.php:185
+msgid "Welcome text"
+msgstr "Текст приветствия"
+
+#: inc/customizer/customizer.php:180 template-parts/header/header-top.php:10
+msgid "Welcome to Our Website !"
+msgstr "Добро пожаловать на наш сайт!"
+
+#: inc/customizer/customizer.php:172
+msgid "Show WooCommerce categories dropdown in topbar."
+msgstr "Показывайте выпадающий список категорий WooCommerce в верхней панели."
+
+#: inc/customizer/customizer.php:171
+msgid "Show Shop by Department"
+msgstr "Показать магазин по отделам"
+
+#: inc/customizer/customizer.php:156
+msgid "You can show or hide header topbar."
+msgstr "Вы можете показать или скрыть верхнюю панель заголовка."
+
+#: inc/customizer/customizer.php:155
+msgid "Show header topbar? "
+msgstr "Показать верхнюю панель заголовка? "
+
+#: inc/customizer/customizer.php:143
+msgid "The WowMart topbar options "
+msgstr "Параметры верхней панели WowMart "
+
+#: inc/customizer/customizer.php:141
+msgid "WowMart Top bar"
+msgstr "Верхняя панель WowMart"
+
+#: inc/customizer/customizer.php:134
+msgid "Extra Bold"
+msgstr "Очень жирный"
+
+#: inc/customizer/customizer.php:133
+msgid "Bold"
+msgstr "Жирный"
+
+#: inc/customizer/customizer.php:132
+msgid "Semi Bold"
+msgstr "Полужирный"
+
+#: inc/customizer/customizer.php:131
+msgid "Normal"
+msgstr "Обычный"
+
+#: inc/customizer/customizer.php:126
+msgid "Site header font weight"
+msgstr "Толщина шрифта заголовка сайта"
+
+#: inc/customizer/customizer.php:104
+msgid "Select theme header Font"
+msgstr "Выбрать шрифт заголовка темы"
+
+#: inc/customizer/customizer.php:90
+msgid "Default body line height is 24px"
+msgstr "Высота строки шрифта основной части по умолчанию - 24px"
+
+#: inc/customizer/customizer.php:89
+msgid "Body font line height"
+msgstr "Высота строки шрифта основной части"
+
+#: inc/customizer/customizer.php:75
+msgid "Default body font size is 14px"
+msgstr "Размер шрифта основной части по умолчанию - 14px"
+
+#: inc/customizer/customizer.php:74
+msgid "Body font size"
+msgstr "Размер шрифта основной части"
+
+#: inc/customizer/customizer.php:63 inc/customizer/customizer.php:115
+msgid "Crimson Text"
+msgstr "Crimson Text"
+
+#: inc/customizer/customizer.php:62 inc/customizer/customizer.php:114
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: inc/customizer/customizer.php:61 inc/customizer/customizer.php:113
+msgid "Lato"
+msgstr "Lato"
+
+#: inc/customizer/customizer.php:60 inc/customizer/customizer.php:112
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/customizer/customizer.php:59 inc/customizer/customizer.php:111
+msgid "Roboto"
+msgstr "Roboto"
+
+#: inc/customizer/customizer.php:58 inc/customizer/customizer.php:110
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: inc/customizer/customizer.php:57 inc/customizer/customizer.php:109
+msgid "Poppins"
+msgstr "Poppins"
+
+#: inc/customizer/customizer.php:52
+msgid "Select theme body Font"
+msgstr "Выбрать шрифт основную часть темы"
+
+#: inc/customizer/customizer.php:40
+msgid "You can setup WowMart  theme typography by these options."
+msgstr "Вы можете установить типографику темы WowMart с помощью этих параметров."
+
+#: inc/customizer/customizer.php:38
+msgid "WowMart Theme typography"
+msgstr "Типографика темы WowMart"
+
+#: inc/custom-header.php:68
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: inc/custom-header.php:62
+msgid "Open Menu"
+msgstr "Открыть меню"
+
+#: inc/custom-header.php:57
+msgid "Toggle mobile menu"
+msgstr "Переключение меню для мобильных"
+
+#: inc/custom-header.php:56
+msgid "Mobile Menu"
+msgstr "Меню для мобильных"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:789
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:477
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:703
+msgid "Activate"
+msgstr "Активировать"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:474
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:480
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:704
+msgid "Update"
+msgstr "Обновление"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:484
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:486
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:702
+msgid "Install"
+msgstr "Установка"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:471
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:513
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:697
+msgid "Active"
+msgstr "Активный"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:699
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/woo-items/customizer-woo.php:921
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:428
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/admin-documentation.php:182
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:813
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:317
+#: libs/magical-plugin-activation/class-magical-plugin-activation.php:1001
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:157
+msgid "Add Footer widgets here."
+msgstr "Добавить виджеты подвала здесь."
+
+#: functions.php:155
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: functions.php:146
+msgid "Add widgets here."
+msgstr "Добавить виджеты здесь."
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: functions.php:57
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:35
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема %1$s от %2$s."
+
+#: footer.php:30
+msgid "Powered by WordPress"
+msgstr "На платформе WordPress"
+
+#: footer.php:29
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://profiles.wordpress.org/nalam-1/"
+msgstr "https://profiles.wordpress.org/nalam-1/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Noor Alam"
+msgstr "Noor Alam"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://wpthemespace.com/product/wowmart/"
+msgstr "https://wpthemespace.com/product/wowmart/"

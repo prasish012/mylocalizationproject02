@@ -1,0 +1,337 @@
+# Translation of Themes - The Minimal Blogger in Spanish (Spain)
+# This file is distributed under the same license as the Themes - The Minimal Blogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-03 08:54:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - The Minimal Blogger\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Minimal Blogger is an elegant WordPress block theme for bloggers, writers, and anyone seeking a clean, modern, and responsive design. This free theme offers a minimalist design that's ideal for blogging, news magaines, and personal portfolios, making it a top choice for writers and journalists in various niches like food, fashion, travel, and lifestyle. It's not just beautiful, but also fast and highly search engine optimized (SEO). It supports popular page builders like Elementor, Divi Builder, SiteOrigin, Brizy, Visual Composer, and Beaver Builder, ensuring easy customization for startups, agency firms, and businesses of all sizes. You can easily install WooCommerce for lightweight ecommerce shops. It's mainly made for Gutenberg where you can easily change colors, fonts, activate dark mode and much more. With its mobile friendly templates, The Minimal Blogger is perfect for beginners, offering a customizable sidebar, and easy integration with advertisement banners, Adsense and affiliate links. Whether you're a writer, photographer, game reviewer or newspaper, The Minimal Blogger offers endless possibilities."
+msgstr "The Minimal Blogger es un elegante tema de WordPress en bloque para blogueros, escritores y cualquiera que busque un diseño limpio, moderno y adaptable. Este tema gratuito ofrece un diseño minimalista ideal para blogs, revistas de noticias y portafolios personales, lo que lo convierte en la mejor opción para escritores y periodistas de diversos nichos como alimentación, moda, viajes y estilo de vida. No sólo es bonito, sino también rápido y altamente optimizado para los motores de búsqueda (SEO). Es compatible con constructores de páginas populares como Elementor, Divi Builder, SiteOrigin, Brizy, Visual Composer y Beaver Builder, lo que garantiza una fácil personalización para nuevas empresas, agencias y negocios de todos los tamaños. Puedes instalar fácilmente WooCommerce para tiendas de comercio electrónico ligeras. Está hecho principalmente para Gutenberg, donde puedes cambiar fácilmente los colores, las fuentes, activar el modo oscuro y mucho más. Con sus plantillas aptas para móviles, The Minimal Blogger es perfecto para principiantes, ya que ofrece una barra lateral personalizable y una fácil integración con banners publicitarios, Adsense y enlaces de afiliados. Tanto si eres escritor, fotógrafo, crítico de juegos o periodista, The Minimal Blogger te ofrece infinitas posibilidades."
+
+#. Theme Name of the theme
+#: style.css functions.php:6
+#, gp-priority: high
+msgid "The Minimal Blogger"
+msgstr "The Minimal Blogger"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: styles/turquoise.json
+msgctxt "Style variation name"
+msgid "Turquoise"
+msgstr "Turquesa"
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr "Púrpura"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Azul"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Negro"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact"
+msgstr "Contacto"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About"
+msgstr "Acerca de"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr "404"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En blanco"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contraste"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Font family name"
+msgid "DM Serif Display"
+msgstr "DM Serif Display"
+
+#: theme.json styles/black.json styles/blue.json styles/purple.json
+#: styles/turquoise.json styles/yellow.json
+msgctxt "Font family name"
+msgid "Source Sans Pro"
+msgstr "Source Sans Pro"
+
+#: patterns/two-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Two column"
+msgstr "Todas las entradas del blog: Dos columnas"
+
+#: patterns/two-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Two Column"
+msgstr "Blog: Dos columnas"
+
+#: patterns/three-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Three column"
+msgstr "Todas las entradas del blog: Tres columnas"
+
+#: patterns/three-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Three Column"
+msgstr "Blog: Tres columnas"
+
+#: patterns/single-blog-column.php
+msgctxt "Pattern description"
+msgid "All blog posts: Single column"
+msgstr "Todas las entradas del blog: Columna individual"
+
+#: patterns/single-blog-column.php
+msgctxt "Pattern title"
+msgid "Blog: Single Column"
+msgstr "Blog: Columna individual"
+
+#: patterns/sidebar.php
+msgctxt "Pattern description"
+msgid "Sidebar content"
+msgstr "Contenido de la barra lateral"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar content"
+msgstr "Contenido de la barra lateral"
+
+#: patterns/link-tree.php
+msgctxt "Pattern description"
+msgid "Contact: Link Tree"
+msgstr "Contacto: Árbol de enlaces"
+
+#: patterns/link-tree.php
+msgctxt "Pattern title"
+msgid "Contact: Link Tree"
+msgstr "Contacto: Árbol de enlaces"
+
+#: patterns/instagram-image-feed-section.php
+msgctxt "Pattern description"
+msgid "Instagram Image Feed Section"
+msgstr "Sección del feed de imágenes de Instagram"
+
+#: patterns/instagram-image-feed-section.php
+msgctxt "Pattern title"
+msgid "Instagram Image Feed Section"
+msgstr "Sección del feed de imágenes de Instagram"
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Contenido sin resultados oculto"
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr "Comentarios ocultos"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "404 oculto"
+
+#: patterns/header-image-with-text.php
+msgctxt "Pattern description"
+msgid "Header Image With Text on"
+msgstr "Imagen de cabecera con texto"
+
+#: patterns/header-image-with-text.php
+msgctxt "Pattern title"
+msgid "Header Image With Text"
+msgstr "Imagen de cabecera con texto"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Pie de página por defecto"
+
+#: patterns/contact-page-content.php
+msgctxt "Pattern description"
+msgid "Content Page Content"
+msgstr "Contenido de la página de contenidos"
+
+#: patterns/contact-page-content.php
+msgctxt "Pattern title"
+msgid "Content Page Content"
+msgstr "Contenido de la página de contenidos"
+
+#: patterns/contact-contact-boxes.php
+msgctxt "Pattern description"
+msgid "Contact: 3 Contact Boxes"
+msgstr "Contacto: 3 cajas de contacto"
+
+#: patterns/contact-contact-boxes.php
+msgctxt "Pattern title"
+msgid "Contact: 3 Contact Boxes"
+msgstr "Contacto: 3 cajas de contacto"
+
+#: patterns/author-introduction.php
+msgctxt "Pattern description"
+msgid "Author Introduction"
+msgstr "Introducción del autor"
+
+#: patterns/author-introduction.php
+msgctxt "Pattern title"
+msgid "Author Introduction"
+msgstr "Introducción del autor"
+
+#: patterns/about-stats-grid.php
+msgctxt "Pattern description"
+msgid "Grid: About Stats"
+msgstr "Cuadrícula: Sobre nosotros con estadísticas"
+
+#: patterns/about-stats-grid.php
+msgctxt "Pattern title"
+msgid "Grid: About Stats"
+msgstr "Cuadrícula: Acerca de con estadísticas"
+
+#: patterns/about-page-content.php
+msgctxt "Pattern description"
+msgid "All blog posts: About Page Content"
+msgstr "Todas las entradas del blog: Contenido de la página «Acerca de»"
+
+#: patterns/about-page-content.php
+msgctxt "Pattern title"
+msgid "About Page Content"
+msgstr "Contenido de la página «Acerca de»"
+
+#: patterns/hidden-no-results.php:14
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr "Buscar…"
+
+#: patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con palabras clave diferentes."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "http://superbthemes.com/"
+msgstr "http://superbthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "superbaddons"
+msgstr "superbaddons"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/minimalistix/the-minimal-blogger/"
+msgstr "https://superbthemes.com/minimalistix/the-minimal-blogger/"

@@ -1,0 +1,713 @@
+{
+  "language": "nl",
+  "generated_at": "2025-12-09T08-44-54Z",
+  "version": 1,
+  "reused_from": null,
+  "counts": {
+    "new": 86,
+    "modified": 0,
+    "unchanged": 0,
+    "reused": 0,
+    "fuzzy": 0,
+    "failed": 0,
+    "translated": 85
+  },
+  "rows": [
+    {
+      "msgctxt": "Theme Name",
+      "msgid": "ReviewNews",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme URL/Link",
+      "msgid": "https://afthemes.com/products/reviewnews/",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": "unchanged_like"
+    },
+    {
+      "msgctxt": "Theme Description for WordPress repository/dashboard",
+      "msgid": "ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme Author Name",
+      "msgid": "AF themes",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme Author URL",
+      "msgid": "https://www.afthemes.com/",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": "unchanged_like"
+    },
+    {
+      "msgctxt": "Title on 404 Error Page",
+      "msgid": "Oops! That page can&rsquo;t be found.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Text on 404 Error Page",
+      "msgid": "It looks like nothing was found at this location. Maybe try one of the links below or a search?",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item: Dashboard",
+      "msgid": "Dashboard",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": "unchanged_like"
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item: Customize (Customizer)",
+      "msgid": "Customize",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item/Feature Name: Header Builder",
+      "msgid": "Header Builder",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item/Feature Name: Footer Builder",
+      "msgid": "Footer Builder",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item/Feature Name: Starter Sites",
+      "msgid": "Starter Sites",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item/Feature Name: Elementor Kits",
+      "msgid": "Elementor Kits",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "WordPress Admin Menu Item/Feature Name: Block Patterns",
+      "msgid": "Block Patterns",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Call to Action Button to upgrade to Pro Version",
+      "msgid": "Upgrade to Pro",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Call to Action Button to upgrade to Pro Version (Shorter text)",
+      "msgid": "Upgrade Now",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Admin notice: Templatespare plugin needs update",
+      "msgid": "The Templatespare plugin should be updated to the latest version",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme dashboard feature description",
+      "msgid": "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Admin notice: Blockspare plugin version required. %s is the required version number.",
+      "msgid": "Blockspare plugin version should be more than %s.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme dashboard feature description for Blockspare integration",
+      "msgid": "One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Admin notice: Elespare plugin version required. %s is the required version number.",
+      "msgid": "Elespare plugin version should be more than %s.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Theme dashboard feature description for Elespare integration",
+      "msgid": "One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Confirmation prompt before plugin installation",
+      "msgid": "Are you sure you want to install this plugin?",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button label to install a plugin",
+      "msgid": "Install Now",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button label to activate a plugin",
+      "msgid": "Activate",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Status label: Plugin is activated",
+      "msgid": "Activated",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button/Link to access Starter Sites",
+      "msgid": "Get Starter Sites",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button label: Start setup process",
+      "msgid": "Get Started",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Description for the 'Get Started' action",
+      "msgid": "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Prefix before an author's name (e.g., 'Plugin By [Author]')",
+      "msgid": "By",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button/Link text: View more details",
+      "msgid": "More Details",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Welcome heading in an admin notice",
+      "msgid": "👋 Welcome, and Thank You!",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Welcome message after theme activation. %s is the theme name.",
+      "msgid": "%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Section heading in a setup notice",
+      "msgid": "🚀 Start With One Click",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Description for the one-click starter sites feature",
+      "msgid": "Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n      Setup is simple — no coding required.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button/Link to view all demo sites",
+      "msgid": "View Demos",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link to the theme's admin dashboard page",
+      "msgid": "Theme dashboard",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Section heading in a support notice",
+      "msgid": "🤝 We're Here for You",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Support notice encouraging phrase",
+      "msgid": "Whether you're just starting or customizing your site.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link to theme documentation",
+      "msgid": "Documentation",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link to video tutorials",
+      "msgid": "Video Tutorials",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link to support/helpdesk",
+      "msgid": "Support",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link to WordPress review page to rate the theme",
+      "msgid": "⭐ Rate This Theme",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Error message when user lacks plugin installation permissions",
+      "msgid": "Sorry, you are not allowed to install plugins on this site.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Error message when nonce verification fails (security check)",
+      "msgid": "Error - unable to verify nonce, please try again.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Error message when user lacks plugin activation permissions",
+      "msgid": "Sorry, you are not allowed to activate plugins on this site.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Comments section heading for one comment",
+      "msgid": "One thought on &ldquo;%1$s&rdquo;",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "comments title",
+      "msgid": "%1$s thought on &ldquo;%2$s&rdquo;",
+      "msgid_plural": "%1$s thoughts on &ldquo;%2$s&rdquo;",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "comments title",
+      "msgid": "%1$s thought on &ldquo;%2$s&rdquo;",
+      "msgid_plural": "%1$s thoughts on &ldquo;%2$s&rdquo;",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Message displayed when comments are disabled",
+      "msgid": "Comments are closed.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Copyright line in the footer of a website",
+      "msgid": "%1$s by %2$s.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Name of the WordPress Menu Location (Primary/Main Navigation)",
+      "msgid": "Primary Menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Name of the WordPress Menu Location (Social Icons Navigation)",
+      "msgid": "Social Menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Name of the WordPress Menu Location (Footer Navigation)",
+      "msgid": "Footer Menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Accessibility link text to skip navigation",
+      "msgid": "Skip to content",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Accessibility text for the search icon/button",
+      "msgid": "Open search form",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Instructional text in the Header/Footer Builder",
+      "msgid": "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Tooltip for the button that hides the builder panel",
+      "msgid": "Hide builder panel",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button text to hide the builder panel",
+      "msgid": "Hide Builder",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Tooltip for the device view controls (desktop, tablet, mobile)",
+      "msgid": "Device view controls",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Title of the modal/panel to select a new element for the builder",
+      "msgid": "Choose an Element",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Accessibility text for the button that closes the element choice modal",
+      "msgid": "Close choose element modal",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Customizer panel title for Footer Layout",
+      "msgid": "Footer Layout",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Description for the Header Builder in Customizer",
+      "msgid": "Create dynamic header effortlessly with drag-and-drop builder.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Title for the Header Builder Customizer panel",
+      "msgid": "Header",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Description for the Footer Builder in Customizer",
+      "msgid": "Create dynamic footer effortlessly with drag-and-drop builder.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Title for the Footer Builder Customizer panel",
+      "msgid": "Footer",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Customizer setting label to enable a builder. %s is either 'Header' or 'Footer'.",
+      "msgid": "Enable %s Builder",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button text in the Header/Footer Builder to add a new element",
+      "msgid": "Add Element",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button text in the Header/Footer Builder to remove an element",
+      "msgid": "Remove Element",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Button text in the Header/Footer Builder to open element settings",
+      "msgid": "Configure Element",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Device view selector label: Desktop",
+      "msgid": "Desktop",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Heading for the panel containing an element's settings",
+      "msgid": "Element Settings",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Accessibility text for the button to close the mobile/off-canvas menu",
+      "msgid": "close Off-Canvas Navigation",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Name for Site Title and Logo",
+      "msgid": "Site & Logo",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Label for Site Identity",
+      "msgid": "Site Identity",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Instructional text: change Site Identity via another panel. %s is a link.",
+      "msgid": "You can change Site Identity from %s.",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Name for a Promotion banner or text",
+      "msgid": "Promotion",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Name for the Off-Canvas Toggle button",
+      "msgid": "Off Canvas",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Label for a widget area in the Off-Canvas panel",
+      "msgid": "Off Canvas Widget Area",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Description for the Off Canvas Widget Area setting. %s is a link.",
+      "msgid": "This widget area is used in the mobile off-canvas panel. %s",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link text to manage widgets in the Customizer",
+      "msgid": "Manage widgets",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Name for the Primary Navigation Menu",
+      "msgid": "Primary menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Label for a menu selection dropdown in Customizer",
+      "msgid": "Select Menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Instructional text: change a Menu via the menu panel. %s is a link.",
+      "msgid": "You can change Menu from menu panel. %s",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Link text to manage menus in the Customizer",
+      "msgid": "Manage menu",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "Element/Component Name for the current Date display",
+      "msgid": "Date",
+      "msgid_plural": "",
+      "target_lang": "nl",
+      "status": "new",
+      "issues": ""
+    }
+  ]
+}

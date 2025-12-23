@@ -1,0 +1,706 @@
+# Translation of Themes - Clothing Store Lite in Russian
+# This file is distributed under the same license as the Themes - Clothing Store Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-01 17:58:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Clothing Store Lite\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Clothing Store Lite is a beautifully designed, modern, and fully responsive theme tailored for online boutiques, fashion retailers, apparel brands, and eCommerce shops looking to create a professional digital storefront. Ideal for selling trendy outfits, designer wear, handmade accessories, or clothing collections, this theme offers clean layouts, featured product sections, promotional banners, and customizable homepage designs to showcase products with style and confidence. Built for performance and flexibility, it integrates seamlessly with WooCommerce for secure checkout, product pages, and smooth navigation, while supporting Contact Form 7 for inquiries and Yoast SEO for improved search visibility. With customizable color schemes, typography options, and page layouts, Clothing Store Lite allows you to reflect your brand identity effortlessly. Lightweight, fast-loading, and mobile-friendly, it ensures a seamless shopping experience across desktops, tablets, and smartphones. Perfect for fashion blogs, boutique stores, and clothing eCommerce sites, the theme combines elegance, speed, and simplicity to help you create a high-performing online fashion store with ease."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Clothing Store Lite"
+msgstr "Clothing Store Lite"
+
+#: inc/homepage-setup/whizzie.php:430
+msgid "Support"
+msgstr ""
+
+#: inc/homepage-setup/whizzie.php:419
+msgid "Pricing"
+msgstr ""
+
+#: inc/homepage-setup/whizzie.php:408
+msgid "Features"
+msgstr ""
+
+#: inc/homepage-setup/whizzie.php:397
+msgid "Products"
+msgstr ""
+
+#: inc/homepage-setup/whizzie.php:387
+msgid "Home"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:52
+msgid "FOX - Currency Switcher Professional for WooCommerce"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:45
+msgid "Royal Elementor Addons"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:38
+msgid "Google Language Translator"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:31
+msgid "ShopLentor "
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:24
+msgid "Easy Demo Import for Omega Themes"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:17
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/homepage-setup/tgm/tgm.php:10
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: install status, 2: update status
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:1121
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:934
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:388
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:387
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:386
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:827
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:2533
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:540
+msgid "Success"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:531
+msgid "Installing Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:516
+msgid "Updating Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:501
+msgid "Activating Plugin"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:484
+msgid "No Slug Found"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:338
+#: inc/homepage-setup/homepage-setup-settings.php:34
+msgid "Start Home Page Setup"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:334
+#: inc/homepage-setup/homepage-setup-settings.php:32
+msgid "Setup Home Page"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:329
+#: inc/homepage-setup/homepage-setup-settings.php:27
+#: inc/homepage-setup/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:325
+#: inc/homepage-setup/homepage-setup-settings.php:25
+msgid "Install and Activate Essential Plugins"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:303
+msgid "Upgrade To Pro With Just $40"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:284
+msgid "Support Forum"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:283
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:282
+msgid "Get Premium"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:281
+msgid "Free Documentation"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:216
+msgid "SHOP NOW"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:212
+#: inc/homepage-setup/homepage-setup-contents.php:297
+msgid "Theme Bundle Image"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:205
+msgid "WP Theme Bundle"
+msgstr ""
+
+#: inc/homepage-setup/homepage-setup-contents.php:177
+msgid "Failed to find TGM"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/custom-functions.php:178
+msgid "To the Top"
+msgstr "Наверх"
+
+#: inc/custom-functions.php:166
+msgid "WordPress."
+msgstr "WordPress."
+
+#: inc/custom-functions.php:166
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/custom-functions.php:166
+msgid "Powered by "
+msgstr "На платформе "
+
+#: inc/custom-functions.php:165
+msgid "OMEGA "
+msgstr "OMEGA "
+
+#: inc/custom-functions.php:165
+msgid " By "
+msgstr " От "
+
+#: inc/custom-functions.php:165
+msgid "Clothing Store Lite  "
+msgstr "Clothing Store Lite  "
+
+#: inc/custom-functions.php:165
+msgid "Theme: "
+msgstr "Тема: "
+
+#: inc/custom-functions.php:116
+msgid "Enter Keywords Here"
+msgstr "Введите ключевые слова здесь"
+
+#: inc/custom-functions.php:110
+msgid "Calendar"
+msgstr "Календарь"
+
+#: inc/custom-functions.php:103
+msgid "Clothing Store Lite is a beautifully designed theme tailored for online boutiques, apparel brands, and fashion retailers looking to create a professional digital storefront. This clothing store theme offers a clean, elegant, and fully responsive layout that enhances the shopping experience across all devices. Whether you sell trendy outfits, designer wear, or handmade accessories, Clothing Store Lite provides the perfect foundation to showcase your products with style and confidence."
+msgstr "Clothing Store Lite - это красиво оформленная тема, предназначенная для онлайн-бутиков, брендов одежды и продавцов модной одежды, желающих создать профессиональную цифровую витрину. Эта тема для магазина одежды предлагает чистый, элегантный и полностью адаптивный макет, который повышает удобство покупок на всех устройствах. Продаете ли Вы модные наряды, дизайнерскую одежду или аксессуары ручной работы, Clothing Store Lite обеспечивает идеальную основу для стильной и уверенной витрины Ваших товаров."
+
+#: inc/custom-functions.php:98
+msgid "Footer Image"
+msgstr "Изображение подвала"
+
+#: inc/custom-functions.php:26
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: inc/custom-functions.php:20
+msgid "Close"
+msgstr "Закрыть"
+
+#: functions.php:175
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: functions.php:173
+msgid "Get Started with Clothing Store Lite"
+msgstr "Начало работы с Clothing Store Lite"
+
+#: functions.php:171
+msgid "Before you dive into customization, let’s go through a quick setup process to ensure everything runs smoothly. Click below to start setting up your website in minutes!"
+msgstr "Перед тем как приступить к настройке, давайте пройдем через быстрый процесс установки, чтобы убедиться, что все работает гладко. Нажмите ниже, чтобы начать настройку Вашего сайта за считанные минуты!"
+
+#: functions.php:170
+msgid "Welcome! Thank you for choosing Clothing Store Lite. Let’s Set Up Your Website!"
+msgstr "Добро пожаловать! Спасибо, что выбрали Clothing Store Lite. Давайте настроим Ваш сайт!"
+
+#: functions.php:93
+msgid "https://www.omegathemes.com/products/wp-theme-bundle"
+msgstr "https://www.omegathemes.com/products/wp-theme-bundle"
+
+#: functions.php:90
+msgid "https://layout.omegathemes.com/steps/free-clothing-store-lite/"
+msgstr "https://layout.omegathemes.com/steps/free-clothing-store-lite/"
+
+#: functions.php:87
+msgid "https://layout.omegathemes.com/online-clothing-store/"
+msgstr "https://layout.omegathemes.com/online-clothing-store/"
+
+#: functions.php:84
+msgid "https://wordpress.org/support/theme/clothing-store-lite/reviews/#new-post/"
+msgstr "https://wordpress.org/support/theme/clothing-store-lite/reviews/#new-post/"
+
+#: functions.php:81
+msgid "https://wordpress.org/support/theme/clothing-store-lite/"
+msgstr "https://wordpress.org/support/theme/clothing-store-lite/"
+
+#: functions.php:78
+msgid "https://www.omegathemes.com/products/clothing-store-wordpress-theme"
+msgstr "https://www.omegathemes.com/products/clothing-store-wordpress-theme"
+
+#: functions.php:75
+msgid "https://layout.omegathemes.com/steps/pro-clothing-store-lite/"
+msgstr "https://layout.omegathemes.com/steps/pro-clothing-store-lite/"
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:22
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.omegathemes.com/"
+msgstr "https://www.omegathemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Omega Themes"
+msgstr "Omega Themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.omegathemes.com/products/clothing-store-lite"
+msgstr "https://www.omegathemes.com/products/clothing-store-lite"

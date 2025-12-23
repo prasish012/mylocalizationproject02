@@ -1,0 +1,217 @@
+{
+  "language": "hi",
+  "generated_at": "2025-11-26T08-11-38Z",
+  "version": 1,
+  "reused_from": null,
+  "counts": {
+    "new": 25,
+    "modified": 0,
+    "unchanged": 0,
+    "reused": 0,
+    "fuzzy": 0,
+    "failed": 0,
+    "translated": 25
+  },
+  "rows": [
+    {
+      "msgctxt": "admin menu label",
+      "msgid": "Dashboard",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "theme feature name",
+      "msgid": "Header Builder",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "theme feature name",
+      "msgid": "Footer Builder",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "action button",
+      "msgid": "Save",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "action button",
+      "msgid": "Cancel",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "action button",
+      "msgid": "Install Now",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "action button",
+      "msgid": "Submit",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "action button",
+      "msgid": "Load More",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "post navigation link",
+      "msgid": "Read More",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "post meta label",
+      "msgid": "By",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "time indicator",
+      "msgid": "ago",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "post meta label",
+      "msgid": "Comments",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "form placeholder",
+      "msgid": "Search...",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "form label",
+      "msgid": "Search Form",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "form label",
+      "msgid": "Email Address",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "system notice",
+      "msgid": "Saved successfully.",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "system error",
+      "msgid": "Something went wrong. Please try again.",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "system warning",
+      "msgid": "Are you sure you want to delete this?",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "theme description",
+      "msgid": "ReviewNews is a fast, lightweight, and flexible WordPress theme designed for blogs, news websites, and online magazines.",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "theme feature description",
+      "msgid": "Build your website visually using the live drag-and-drop header and footer builders.",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "user menu",
+      "msgid": "My Account",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "user action",
+      "msgid": "Log Out",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "status label",
+      "msgid": "Live",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "ui action",
+      "msgid": "Select",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    },
+    {
+      "msgctxt": "empty state message",
+      "msgid": "No results found.",
+      "msgid_plural": "",
+      "target_lang": "hi",
+      "status": "new",
+      "issues": ""
+    }
+  ]
+}

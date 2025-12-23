@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-Django
+Django~=4.2
 django-modeltranslation
 requests
 polib
 deep_translator
-=======
-Django~=4.2
-django-modeltranslation
-requests
 psycopg2-binary
 gunicorn
 whitenoise
 Pillow
->>>>>>> f5ec21d1cefd600bf0288d189b4411456f15e1f3

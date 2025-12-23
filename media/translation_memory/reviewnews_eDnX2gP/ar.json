@@ -1,0 +1,719 @@
+{
+  "https://afthemes.com/products/reviewnews-pro/": "https://afthemes.com/products/reviewnews-pro/",
+  "ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": "ReviewNews Pro عبارة عن سمة WordPress ديناميكية وفائقة السرعة ومتعددة الاستخدامات مصممة لمواقع الأخبار والمجلات والمدونات والأعمال والتجارة الإلكترونية في جميع أنحاء العالم. بفضل أداة HEADER & FOOTER BUILDER القوية التي تعمل بسلاسة مع Block Editor وGUTENBERG وELEMENTOR وBRIZY وDIVI وغيرها من أدوات إنشاء الصفحات المشهورة، يمكنك تصميم تخطيطات احترافية بسهولة باستخدام السحب والإفلات - دون الحاجة إلى أي تعليمات برمجية. مزود بأكثر من 100 موقع للمبتدئين، وأكثر من 30 أداة مخصصة، وأنماط كتل متقدمة، وخيارات تخطيط مرنة، ودعم AMP، وتكامل WOOCOMMERCE الكامل، وهو مثالي لكل شيء بدءًا من الصحف عبر الإنترنت ومواقع الشركات أو المنظمات غير الحكومية والبوابات التعليمية أو الثقافية إلى المدونات الشخصية والمحافظ ومجلات نمط الحياة. تم تحسين ReviewNews بالكامل لتحسين محركات البحث، وعناصر الويب الأساسية، والسرعة، والتصميم سريع الاستجابة، مما يضمن التحميل السريع والأداء الممتاز على جميع الأجهزة. تم تصميمه باستخدام إمكانية الوصول إلى WCAG، والامتثال للقانون العام لحماية البيانات (GDPR)، وخفيف الوزن، والرمز النظيف، وهو يوفر استقرارًا على المدى الطويل ونتائج عالية لـ GOOGLE PAGESPEED. متعدد اللغات وجاهز لإعادة التوجيه من اليمين إلى اليسار، مع محتوى تجريبي باللغات الإنجليزية والإسبانية والألمانية والفرنسية واليابانية والصينية والعربية، يعد ReviewNews موضوعًا عالميًا حقًا ومقاومًا للمستقبل مصممًا للمبدعين والناشرين والشركات التي تقدر الأسلوب وقابلية التوسع والأداء في كل سوق. استكشف جميع الميزات على https://afthemes.com/products/reviewnews",
+  "Site Analytics": "تحليلات الموقع",
+  "Ads Settings": "إعدادات الإعلانات",
+  "Master Bundle Plan": "خطة الحزمة الرئيسية",
+  "Security check failed": "فشل فحص الأمان",
+  "You do not have permission to perform this action.": "ليس لديك الإذن للقيام بهذا الإجراء.",
+  "Ads settings saved.": "تم حفظ إعدادات الإعلانات.",
+  "Global Ads Placement": "وضع الإعلانات العالمية",
+  "💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One ad will be shown randomly per page load. Works with HTML, JavaScript, and shortcodes.": "💡 نصيحة: يمكنك تدوير عدة إعلانات عن طريق فصلها بـ <!--next-->. سيتم عرض إعلان واحد بشكل عشوائي لكل تحميل للصفحة. يعمل مع HTML وJavaScript والأكواد القصيرة.",
+  "Header Ad": "إعلان رأس",
+  "Add your HTML, JavaScript, or shortcode to display an ad at the very top of your site (header area).": "أضف HTML أو JavaScript أو الرمز القصير لعرض إعلان في أعلى موقعك (منطقة الرأس).",
+  "Ad before post content. Supports rotating multiple ads using <!--next-->.": "الإعلان قبل نشر المحتوى. يدعم تدوير إعلانات متعددة باستخدام <!--next-->.",
+  "Ad after post content. You can rotate multiple ads with <!--next--> separator.": "الإعلان بعد نشر المحتوى. يمكنك تدوير عدة إعلانات باستخدام الفاصل <!--next-->.",
+  "Before First Paragraph": "قبل الفقرة الأولى",
+  "This ad appears after the first paragraph of single post content. Rotation supported via <!--next-->.": "يظهر هذا الإعلان بعد الفقرة الأولى من محتوى المنشور الواحد. يتم دعم التدوير عبر <!--next-->.",
+  "After Third Paragraph": "بعد الفقرة الثالثة",
+  "Shown after the third paragraph in single post content. Supports rotating ads with <!--next-->.": "تظهر بعد الفقرة الثالثة في محتوى المنشور الواحد. يدعم تدوير الإعلانات باستخدام <!--next-->.",
+  "After Post Content": "بعد نشر المحتوى",
+  "Displayed below post content, before comments or related posts. Rotation via <!--next--> supported.": "يتم عرضه أسفل محتوى المنشور، قبل التعليقات أو المنشورات ذات الصلة. التدوير عبر <!--next--> مدعوم.",
+  "Sidebar Ad": "إعلان الشريط الجانبي",
+  "Shown in sidebar globally. You may use widgets for better control. Supports <!--next--> for rotating ads.": "يظهر في الشريط الجانبي عالميًا. يمكنك استخدام الأدوات للتحكم بشكل أفضل. يدعم <!--next--> للإعلانات الدورية.",
+  "Footer Ad": "إعلان التذييل",
+  "Displayed at the bottom of the site above footer widgets. Rotating ads supported using <!--next-->.": "يتم عرضها في الجزء السفلي من الموقع فوق عناصر واجهة المستخدم للتذييل. يتم دعم الإعلانات الدورية باستخدام <!--next-->.",
+  "Archive / Blog Ads": "أرشيف / إعلانات المدونة",
+  "Before Post List": "قبل قائمة المشاركات",
+  "Shown before posts in blog or archive pages. Use <!--next--> to rotate multiple ads.": "تظهر قبل المشاركات في صفحات المدونة أو الأرشيف. استخدم <!--next--> لتدوير إعلانات متعددة.",
+  "After Post List": "بعد قائمة المشاركات",
+  "Shown after posts in archive or blog listings. Supports ad rotation using <!--next--> tag.": "تظهر بعد المشاركات في الأرشيف أو قوائم المدونة. يدعم عرض الإعلانات بالتناوب باستخدام العلامة <!--next-->.",
+  "Between Posts": "بين المشاركات",
+  "Manually inserted between posts in archive loop using hooks/snippets. Rotate with <!--next--> if needed.": "تم إدراجها يدويًا بين المشاركات في حلقة الأرشيف باستخدام الخطافات/المقتطفات. قم بالتدوير باستخدام <!--next--> إذا لزم الأمر.",
+  "Save Ads Settings": "حفظ إعدادات الإعلانات",
+  "Helpful YouTube Videos": "فيديوهات يوتيوب مفيدة",
+  "Launch Your News Website Quickly": "قم بتشغيل موقع الأخبار الخاص بك بسرعة",
+  "Use our free accessible theme to build a news site without coding.": "استخدم موضوعنا المجاني الذي يمكن الوصول إليه لإنشاء موقع إخباري بدون برمجة.",
+  "Multi-Author Collaboration": "التعاون متعدد المؤلفين",
+  "Learn how to manage multiple authors smoothly with our plugin.": "تعرف على كيفية إدارة مؤلفين متعددين بسلاسة باستخدام مكوننا الإضافي.",
+  "Import Gutenberg Patterns": "استيراد أنماط جوتنبرج",
+  "Easily import templates and patterns for consistent layouts.": "قم باستيراد القوالب والأنماط بسهولة للحصول على تخطيطات متسقة.",
+  "Elementor Tutorial for Beginners": "دروس Elementor للمبتدئين",
+  "Build a professional news site fast with no coding needed.": "أنشئ موقعًا إخباريًا احترافيًا بسرعة دون الحاجة إلى برمجة.",
+  "Multilingual Translation Guide": "دليل الترجمة متعدد اللغات",
+  "Step-by-step guide to translate your site into multiple languages.": "دليل خطوة بخطوة لترجمة موقعك إلى لغات متعددة.",
+  "One-click Import, No Coding Hassle!": "استيراد بنقرة واحدة، لا توجد متاعب في البرمجة!",
+  "The \"Get Started\" action will install/activate the Templatespare  plugin for Starter Sites and Templates.": "سيؤدي إجراء \"البدء\" إلى تثبيت/تنشيط المكون الإضافي Templatespare لمواقع البدء والقوالب.",
+  "Howdy!": "مرحبًا!",
+  "PH_0_TOKEN is now installed and ready to use. We've assembled some links to get you started.": "تم الآن تثبيت PH_0_TOKEN وجاهز للاستخدام. لقد قمنا بتجميع بعض الروابط للبدء.",
+  "%s is now installed and ready to use. We've assembled some links to get you started.": "تم الآن تثبيت %s وجاهز للاستخدام. لقد قمنا بتجميع بعض الروابط للبدء.",
+  "Explore Our Pre-Built Starter Websites!": "استكشف مواقعنا الإلكترونية المعدة مسبقًا!",
+  "Let your imagination soar! Designed with User-Friendly features, incorporating the Latest Trends and SEO-Friendly Markups. We genuinely appreciate you choosing our theme!": "دع خيالك يرتفع! تم تصميمه بميزات سهلة الاستخدام، تتضمن أحدث الاتجاهات وهوامش الربح الملائمة لمحركات البحث (SEO). نحن نقدر حقًا اختيارك لموضوعنا!",
+  "Demos/product": "العروض التوضيحية/المنتج",
+  "Videos": "فيديوهات",
+  "Blog": "مدونة",
+  "PH_1_TOKEN thought on PH_0_TOKEN": "PH_1_TOKEN فكرت في PH_0_TOKEN",
+  "%1$s thought on &ldquo;%2$s&rdquo;": "%1$s فكرت في &ldquo;%2$s&rdquo;",
+  "PH_1_TOKEN thoughts on PH_0_TOKEN": "PH_1_TOKEN أفكار حول PH_0_TOKEN",
+  "%1$s thoughts on &ldquo;%2$s&rdquo;": "%1$s أفكار حول &ldquo;%2$s&rdquo;",
+  "Top Menu": "القائمة العلوية",
+  "You already reacted.": "لقد تفاعلت بالفعل.",
+  "Thanks for reacting!": "شكرا لرد الفعل!",
+  "Error occurred.": "حدث خطأ.",
+  "Load More": "تحميل المزيد",
+  "You can manage header site mode, search and live text from here. PH_0_TOKEN": "يمكنك إدارة وضع موقع الرأس والبحث والنص المباشر من هنا. PH_0_TOKEN",
+  "You can manage header site mode, search and live text from here. %s": "يمكنك إدارة وضع موقع الرأس والبحث والنص المباشر من هنا. %s",
+  "Manage Header": "إدارة الرأس",
+  "Prime News": "أخبار رئيس الوزراء",
+  "Youtube video Section": "قسم فيديوهات اليوتيوب",
+  "Featured Videos": "فيديوهات مميزة",
+  "Express Posts Section": "قسم المشاركات السريعة",
+  "Express Posts 1": "المشاركات السريعة 1",
+  "Express Posts 2": "المشاركات السريعة 2",
+  "Posts Carousel": "المشاركات دائري",
+  "Latest": "أحدث",
+  "Trending": "تتجه",
+  "Popular Now": "شعبية الآن",
+  "Trending Story": "قصة تتجه",
+  "What do you feel about this?": "ما هو شعورك حيال هذا؟",
+  "Instagram": "انستغرام",
+  "Popular News": "أخبار شعبية",
+  "Subscribe To  Our Newsletter": "اشترك في النشرة الإخبارية لدينا",
+  "Header Image": "صورة الرأس",
+  "Site Title/Tagline Color (Dark Mode)": "عنوان الموقع/لون سطر الوصف (الوضع الداكن)",
+  "If the mode switch is in the menu, please test it using the toggle.": "إذا كان مفتاح الوضع موجودًا في القائمة، فيرجى اختباره باستخدام مفتاح التبديل.",
+  "Box Background Color": "لون خلفية المربع",
+  "Primary Color": "اللون الأساسي",
+  "Texts over Secondary Color": "النصوص على اللون الثانوي",
+  "Top Header Section ": "قسم الرأس العلوي",
+  "Background Color": "لون الخلفية",
+  "Texts Color": "لون النصوص",
+  "Primary Navigation Section ": "قسم الملاحة الأساسي",
+  "Menu Item Color": "لون عنصر القائمة",
+  "Badge Background": "خلفية الشارة",
+  "Badge Text Color": "لون نص الشارة",
+  "Watch Online Background": "مشاهدة الخلفية على الانترنت",
+  "Breaking News Background": "خلفية الأخبار العاجلة",
+  "Archive/Widgets Section ": "قسم الأرشيف/الحاجيات",
+  "Post Title": "عنوان المشاركة",
+  "Post Title Over Image": "عنوان المشاركة على الصورة",
+  "Category Color Section ": "قسم لون الفئة",
+  "Category Colors": "ألوان الفئة",
+  "Category PH_0_TOKEN Background": "الفئة PH_0_TOKEN الخلفية",
+  "Category %d Background": "الفئة %d الخلفية",
+  "Category PH_0_TOKEN Texts Color": "الفئة PH_0_TOKEN لون النصوص",
+  "Category %d Texts Color": "الفئة %d لون النصوص",
+  "Theme (Google) Fonts": "خطوط الموضوع (جوجل).",
+  "Site Title Font": "خط عنوان الموقع",
+  "Primary Font": "الخط الأساسي",
+  "Secondary Font": "الخط الثانوي",
+  "Texts Formatting Section": "قسم تنسيق النصوص",
+  "Title Font Weight": "وزن خط العنوان",
+  "Default Value: PH_0_TOKEN": "القيمة الافتراضية: PH_0_TOKEN",
+  "Default Value: %d": "القيمة الافتراضية: %d",
+  "100": "100",
+  "200": "200",
+  "300": "300",
+  "400": "400",
+  "500": "500",
+  "600": "600",
+  "700": "700",
+  "800": "800",
+  "900": "900",
+  "Global Letter Spacing": "تباعد الحروف العالمية",
+  "Title Line height": "ارتفاع خط العنوان",
+  "Default Value: %g": "القيمة الافتراضية: %g",
+  "Global Line height": "ارتفاع الخط العالمي",
+  "Font Size Section": "قسم حجم الخط",
+  "General Font Size": "حجم الخط العام",
+  "Global Section Title Size": "حجم عنوان القسم العالمي",
+  "Big Spotlight Post Title Size": "حجم عنوان مشاركة الأضواء الكبيرة",
+  "Medium Spotlight Post Title Size": "حجم عنوان مشاركة Spotlight متوسط",
+  "General Post Title Size (Grid)": "حجم عنوان المشاركة العام (الشبكة)",
+  "General Post Title Size (List)": "حجم عنوان المشاركة العام (القائمة)",
+  "General Grid Post Title Size": "حجم عنوان مشاركة الشبكة العامة",
+  "Single Page/Posts Title Size": "حجم عنوان الصفحة/المشاركات الواحدة",
+  "Single Page/Posts Paragraph Size": "حجم فقرة الصفحة/المشاركات الواحدة",
+  "MailChimp Section": "قسم ميل تشيمب",
+  "Footer Section": "قسم التذييل",
+  "Credits Background Color": "الاعتمادات لون الخلفية",
+  "Credits Texts Color": "الاعتمادات النصوص اللون",
+  "Select Main Banner Layout": "حدد تخطيط الشعار الرئيسي",
+  "Slider, Trending and Tabs": "شريط التمرير، تتجه وعلامات التبويب",
+  "Slider, Tiles and Tabs": "شريط التمرير والبلاط وعلامات التبويب",
+  "Slider, Tiles and Trending": "المنزلق، والبلاط وتتجه",
+  "Slider and Double Tiles": "المنزلق والبلاط المزدوج",
+  "Slider and Tiles": "المنزلق والبلاط",
+  "Slider and Double Tabs": "شريط التمرير وعلامات التبويب المزدوجة",
+  "Slider and Single Tabs": "شريط التمرير وعلامات التبويب الفردية",
+  "Slider and Double Trending": "المنزلق والاتجاه المزدوج",
+  "Slider and Single Trending": "شريط التمرير والاتجاه الفردي",
+  "2 Columns Carousel": "2 أعمدة دائري",
+  "3 Columns Carousel": "3 أعمدة دائري",
+  "4 Columns Carousel": "4 أعمدة دائري",
+  "Single Slider": "منزلق واحد",
+  "Order 4": "الطلب 4",
+  "Order 5": "الطلب 5",
+  "Order 6": "الطلب 6",
+  "Number of Posts": "عدد المشاركات",
+  "Accepts any postive number.": "يقبل أي رقم إيجابي.",
+  "Trending Section 2": "تتجه القسم 2",
+  "Latest Section": "أحدث القسم",
+  "Popular Section": "القسم الشعبي",
+  "Updates Section": "قسم التحديثات",
+  "Tab 2: Latest Section": "علامة التبويب 2: القسم الأخير",
+  "Tab 2: Popular Section": "علامة التبويب 2: القسم الشعبي",
+  "Tabs 2: Updates Section": "علامات التبويب 2: قسم التحديثات",
+  "Enable Trending Tags": "تمكين العلامات الشائعة",
+  "Number of Flash Posts ": "عدد مشاركات الفلاش",
+  "Youtube Videos": "فيديوهات يوتيوب",
+  "Show Youtube Video": "عرض فيديو يوتيوب",
+  "YouTube Video URL PH_0_TOKEN": "عنوان URL لفيديو YouTube PH_0_TOKEN",
+  "YouTube Video URL %d": "عنوان URL لفيديو YouTube %d",
+  "Add youtube video": "إضافة فيديو يوتيوب",
+  "Express Posts": "المشاركات السريعة",
+  "Show Express Post Section": "إظهار قسم البريد السريع",
+  "Select category to be shown on express post section ": "حدد الفئة التي سيتم عرضها في قسم النشر السريع",
+  "Enable Posts Carousel Section": "تمكين قسم دائري المشاركات",
+  "Theme Header Layout": "تخطيط رأس الموضوع",
+  "Select built-in header layout from theme": "حدد تخطيط الرأس المدمج من السمة",
+  "Side": "جانب",
+  "Side 2": "الجانب 2",
+  "Side 3": "الجانب 3",
+  "Side 4": "الجانب 4",
+  "Centered": "توسيط",
+  "Centered 2": "مركزة 2",
+  "Centered 3": "مركزة 3",
+  "Centered 4": "مركزة 4",
+  "Compressed": "مضغوط",
+  "Compressed 2": "مضغوط 2",
+  "Compressed 3": "مضغوط 3",
+  "Compressed 4": "مضغوط 4",
+  "Show Social Menu": "إظهار القائمة الاجتماعية",
+  "Show Date": "تاريخ العرض",
+  "Menu Border": "حدود القائمة",
+  "Open In New Tab": "فتح في علامة تبويب جديدة",
+  "Show Header Advertisement On": "عرض إعلان الرأس قيد التشغيل",
+  "Select scope to display on header advertisement section": "حدد النطاق لعرضه في قسم إعلان الرأس",
+  "Show Site-wide": "عرض على مستوى الموقع",
+  "Show on Homepage only": "العرض على الصفحة الرئيسية فقط",
+  "Site Layout Mode": "وضع تخطيط الموقع",
+  "Theme Tone": "نغمة الموضوع",
+  "Publish and reload to preview changes": "النشر وإعادة التحميل لمعاينة التغييرات",
+  "BlackNews": "بلاك نيوز",
+  "CelebNews": "أخبار المشاهير",
+  "CentralNews": "سنترال نيوز",
+  "GamerNews": "أخبار اللاعب",
+  "General News": "أخبار عامة",
+  "GlobalNews": "أخبار عالمية",
+  "MoreMag": "المزيد ماج",
+  "NewsCorp": "نيوزكورب",
+  "NewsDay": "نيوزداي",
+  "Newsical": "نيوزيكال",
+  "NewsLight": "ضوء الأخبار",
+  "NewsMore": "أخبارالمزيد",
+  "SideNews": "أخبار جانبية",
+  "Layout Option": "خيار التخطيط",
+  "Boxed": "محاصر",
+  "Wide": "واسع",
+  "Enable Box's Top/Bottom Gaps": "تمكين الفجوات العلوية/السفلية في الصندوق",
+  "Disable built-in SEO meta tags": "تعطيل العلامات الوصفية المضمنة لتحسين محركات البحث",
+  "Recommended if you use an SEO plugin": "يوصى به إذا كنت تستخدم مكونًا إضافيًا لتحسين محركات البحث (SEO).",
+  "Widget Title Style": "نمط عنوان القطعة",
+  "Border Bottom": "أسفل الحدود",
+  "Border Center": "مركز الحدود",
+  "Fill and Border": "ملء والحدود",
+  "Fill": "يملأ",
+  "Custom": "مخصص",
+  "View Count Settings": "عرض إعدادات العدد",
+  "View Count Option": "عرض خيار العد",
+  "Select post view count for single post": "حدد عدد مشاهدات المنشور لمنشور واحد",
+  "Default - Each View": "الافتراضي - كل عرض",
+  "Count On Content Scroll": "الاعتماد على تمرير المحتوى",
+  "For Spotlight Posts": "للمشاركات البارزة",
+  "Show Date and Author": "إظهار التاريخ والمؤلف",
+  "Show Date Only": "عرض التاريخ فقط",
+  "Show Author Only": "إظهار المؤلف فقط",
+  "Hide All": "إخفاء الكل",
+  "For Small Grid": "للشبكة الصغيرة",
+  "For List": "للقائمة",
+  "Author Icon/Gravatar": "أيقونة المؤلف/غرفاتار",
+  "Single Post Date Type": "نوع تاريخ النشر الفردي",
+  "Published": "تم النشر",
+  "Modified": "معدل",
+  "Both": "كلاهما",
+  "Archive Post Date Type": "نوع تاريخ نشر الأرشيف",
+  "Year and Month Format": "تنسيق السنة والشهر",
+  "Month and Day Format": "تنسيق الشهر واليوم",
+  "Year Format": "تنسيق السنة",
+  "Month Format": "تنسيق الشهر",
+  "Day Format": "تنسيق اليوم",
+  "24 Hours Format": "تنسيق 24 ساعة",
+  "12 Hours Format": "تنسيق 12 ساعة",
+  "Single Post Minutes Read Count": "عدد دقائق القراءة للرسالة الواحدة",
+  "Archive Posts Minutes Read Count": "أرشيف المشاركات دقائق القراءة العد",
+  "Number of Words per Minute Read": "عدد الكلمات في الدقيقة المقروءة",
+  "Global Excerpt Length": "طول المقتطف العالمي",
+  "Custom Menu Section": "قسم القائمة المخصصة",
+  "Icon Mode": "وضع الأيقونة",
+  "Ripple": "تموج",
+  "FontAwesome Icon": "أيقونة الخط رائع",
+  "Icon": "رمز",
+  "Featured Image Size": "حجم الصورة المميز",
+  "Large": "كبير",
+  "Medium": "واسطة",
+  "Thumbnail": "صورة مصغرة",
+  "Post Title Option": "خيار عنوان المشاركة",
+  "Boxed - Default": "محاصر - افتراضي",
+  "Enable Reading Progress Bar": "تمكين قراءة شريط التقدم",
+  "Before and After Content": "قبل وبعد المحتوى",
+  "X (Twitter)": "اكس (تويتر)",
+  "LinkedIn": "ينكدين",
+  "Telegram": "برقية",
+  "Pinterest": "بينتريست",
+  "Buffer App": "التطبيق العازلة",
+  "WhatsApp": "واتساب",
+  "Reddit": "رديت",
+  "Line": "خط",
+  "Email": "بريد إلكتروني",
+  "Essential Posts Settings": "إعدادات المشاركات الأساسية",
+  "Show Copy Post Link": "إظهار نسخ مشاركة الرابط",
+  "Show Post Bookmark Option": "إظهار خيار نشر الإشارة المرجعية",
+  "Show Post Print Option": "إظهار خيار ما بعد الطباعة",
+  "Show Post Badge": "إظهار شارة المشاركة",
+  "Show Post Subtitles": "إظهار ترجمات المشاركة",
+  "Show Post Featured Video": "عرض مشاركة الفيديو المميز",
+  "Show Post Source Attribution": "عرض إسناد مصدر المشاركة",
+  "Show Post Sponsor": "عرض راعي المشاركة",
+  "Below Posts Settings": "أسفل إعدادات المشاركات",
+  "Show Reactions under Content": "إظهار التفاعلات ضمن المحتوى",
+  "Reactions Section Title": "عنوان قسم ردود الفعل",
+  "Show Category under Content": "إظهار الفئة ضمن المحتوى",
+  "Show MailChimp Subscription Box": "إظهار صندوق الاشتراك في MailChimp",
+  "Show Author's Posts": "عرض مشاركات المؤلف",
+  "Show Bookmarked (Saved) Posts": "إظهار المشاركات المرجعية (المحفوظة).",
+  "Show Trending Posts List": "عرض قائمة المشاركات الشائعة",
+  "Maximum Number of Related Posts": "الحد الأقصى لعدد المشاركات ذات الصلة",
+  "Grid": "شبكة",
+  "List": "قائمة",
+  "Masonry": "البناء",
+  "Make First Post Full": "جعل المشاركة الأولى كاملة",
+  "Alternate": "البديل",
+  "Tile": "بلاط",
+  "Default With List": "الافتراضي مع القائمة",
+  "Grid Column Layout": "تخطيط عمود الشبكة",
+  "Select column for archive grid": "حدد عمودًا لشبكة الأرشيف",
+  "Two Column": "عمودين",
+  "Three Column": "ثلاثة عمود",
+  "Four Column": "أربعة عمود",
+  "Select Masonry Layout": "حدد تخطيط البناء",
+  "Select masonry layout for archive": "حدد تخطيط البناء للأرشيف",
+  "Select Title Position": "حدد موضع العنوان",
+  "Select full layout for archive": "حدد التخطيط الكامل للأرشيف",
+  "After Image": "بعد الصورة",
+  "Before Image": "قبل الصورة",
+  "Over Image": "فوق الصورة",
+  "Pagination": "ترقيم الصفحات",
+  "Select pagination view for archive": "حدد عرض ترقيم الصفحات للأرشيف",
+  "Ajax Load More": "اياكس تحميل المزيد",
+  "Infinite Scroll": "التمرير اللانهائي",
+  "Mailchimp Subscriptions": "اشتراكات ميل تشيمب",
+  "Shortcode": "الرمز القصير",
+  "Visible In:": "مرئي في:",
+  "Front page only": "الصفحة الأولى فقط",
+  "All pages": "جميع الصفحات",
+  "The {PH_0_TOKEN} is used for current PH_0_TOKEN": "يتم استخدام {PH_0_TOKEN} لـ PH_0_TOKEN الحالي",
+  "The {year} is used for current year": "يتم استخدام {year} لـ year الحالي",
+  "Hide Theme Credits": "إخفاء اعتمادات الموضوع",
+  "Close Off Canvas Navigation": "قم بإغلاق التنقل في اللوحة القماشية",
+  "Author's Other Posts": "مشاركات المؤلف الأخرى",
+  "Your Saved Posts": "مشاركاتك المحفوظة",
+  "Toggle light or dark mode": "تبديل الوضع الفاتح أو المظلم",
+  "Post Analytics": "تحليلات ما بعد",
+  "Refresh analytics": "تحديث التحليلات",
+  "Refresh Analytics": "تحديث التحليلات",
+  "Engagement": "ارتباط",
+  "Views:": "المشاهدات:",
+  "Comments:": "تعليقات:",
+  "Content": "محتوى",
+  "Word Count:": "عدد الكلمات:",
+  "Read Time:": "وقت القراءة:",
+  "min": "دقيقة",
+  "Reactions (Chart)": "ردود الفعل (الرسم البياني)",
+  "Reactions chart": "مخطط ردود الفعل",
+  "Reactions Stats": "إحصائيات ردود الفعل",
+  "Total": "المجموع",
+  "Links Breakdown (Chart)": "تقسيم الروابط (مخطط)",
+  "Links chart": "مخطط الروابط",
+  "Links Stats": "إحصائيات الروابط",
+  "Internal": "داخلي",
+  "External": "خارجي",
+  "Nofollow": "نوفولو",
+  "Target Blank": "الهدف فارغ",
+  "No Text": "لا يوجد نص",
+  "Shortest Link Text:": "أقصر نص الرابط:",
+  "No link text found": "لم يتم العثور على نص الرابط",
+  "Longest Link Text:": "أطول نص رابط:",
+  "Examples Without Anchor Text (external):": "أمثلة بدون نص مرساة (خارجي):",
+  "Top External Domains (Chart)": "أهم النطاقات الخارجية (الرسم البياني)",
+  "Top domains chart": "مخطط أعلى النطاقات",
+  "Most Linked External Sites": "المواقع الخارجية الأكثر ارتباطًا",
+  "No external domains found.": "لم يتم العثور على مجالات خارجية.",
+  "Explore Shortcuts": "استكشاف الاختصارات",
+  "View Author Archive": "عرض أرشيف المؤلف",
+  "View Publish Day Archive": "عرض أرشيف يوم النشر",
+  "Invalid post ID.": "معرف المشاركة غير صالح.",
+  "Unauthorized.": "غير مصرح به.",
+  "Nonce verification failed.": "فشل التحقق مرة واحدة.",
+  "Post not found.": "لم يتم العثور على آخر.",
+  "Post Badges": "شارات المشاركة",
+  "Post Badge": "شارة المشاركة",
+  "Search Badges": "شارات البحث",
+  "All Badges": "جميع الشارات",
+  "Parent Badge": "شارة الوالدين",
+  "Parent Badge:": "شارة الوالدين:",
+  "Edit Badge": "تعديل الشارة",
+  "Update Badge": "تحديث الشارة",
+  "Add New Badge": "إضافة شارة جديدة",
+  "New Badge Name": "اسم الشارة الجديدة",
+  "Badges": "شارات",
+  "Post Subtitle": "نشر العنوان الفرعي",
+  "Featured Video": "فيديو مميز",
+  "Source Attribution": "إسناد المصدر",
+  "Sponsorship Settings": "إعدادات الرعاية",
+  "Displayed below the post title.": "يظهر أسفل عنوان المشاركة.",
+  "Featured Video URL": "عنوان URL للفيديو المميز",
+  "Paste YouTube, Vimeo, or Facebook link.": "الصق رابط YouTube أو Vimeo أو Facebook.",
+  "Source Name": "اسم المصدر",
+  "Source URL": "عنوان URL المصدر",
+  "Mark as Sponsored": "وضع علامة كدعائية",
+  "Sponsor Name": "اسم الراعي",
+  "Sponsor URL": "عنوان URL للراعي",
+  "View posts with badge: PH_0_TOKEN": "عرض المشاركات ذات الشارة: PH_0_TOKEN",
+  "View posts with badge: %s": "عرض المشاركات ذات الشارة: %s",
+  "Source:": "مصدر:",
+  "Visit source: PH_0_TOKEN": "قم بزيارة المصدر: PH_0_TOKEN",
+  "Visit source: %s": "قم بزيارة المصدر: %s",
+  "Sponsored by:": "برعاية:",
+  "Visit sponsor: PH_0_TOKEN": "زيارة الراعي: PH_0_TOKEN",
+  "Visit sponsor: %s": "زيارة الراعي: %s",
+  "Author Support & Donation": "دعم المؤلف والتبرع",
+  "Donation Link": "رابط التبرع",
+  "Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi).": "أدخل عنوان URL للتبرع أو الدعم الخاص بك (على سبيل المثال، PayPal.me، BuyMeACoffee، Ko-fi).",
+  "Donation Button Text": "نص زر التبرع",
+  "Custom text for the donation button (e.g., \"Buy me a coffee\", \"Support Author\").": "نص مخصص لزر التبرع (على سبيل المثال، \"اشتري لي قهوة\"، \"ادعم المؤلف\").",
+  "Category Color 4": "فئة اللون 4",
+  "Category Color 5": "فئة اللون 5",
+  "Category Color 6": "فئة اللون 6",
+  "Category Color 7": "فئة اللون 7",
+  "list": "قائمة",
+  "Default with list": "الافتراضي مع القائمة",
+  "Two column": "عمودين",
+  "Three column": "ثلاثة عمود",
+  "Four column": "أربعة عمود",
+  "Title before image": "العنوان قبل الصورة",
+  "Image before title": "الصورة قبل العنوان",
+  "Title over Image": "العنوان فوق الصورة",
+  "Archive Alignment": "محاذاة الأرشيف",
+  "Select alignment for list archive layout": "حدد المحاذاة لتخطيط أرشيف القائمة",
+  "Select alignment for grid archive layout": "حدد المحاذاة لتخطيط أرشيف الشبكة",
+  "Select grid column": "حدد عمود الشبكة",
+  "Select column layout for grid archive layout": "حدد تخطيط العمود لتخطيط أرشيف الشبكة",
+  "Select masonry layout": "حدد تخطيط البناء",
+  "Select layout for masonry archive layout": "حدد تخطيطًا لتخطيط أرشيف البناء",
+  "Select full layout": "حدد التخطيط الكامل",
+  "Select layout for full archive layout": "حدد التخطيط لتخطيط الأرشيف الكامل",
+  "Select grid layout": "حدد تخطيط الشبكة",
+  "MailChimp for WordPress": "ميل تشيمب لووردبريس",
+  "📊 Site Analytics": "📊تحليلات الموقع",
+  "Refresh Stats": "تحديث الإحصائيات",
+  "Analytics tabs": "علامات تبويب التحليلات",
+  "Overview": "ملخص",
+  "Appearance": "مظهر",
+  "Authors & Links": "المؤلفون والروابط",
+  "Charts": "الرسوم البيانية",
+  "Posts Breakdown": "توزيع المشاركات",
+  "Comments Breakdown": "انهيار التعليقات",
+  "Reactions Breakdown": "انهيار ردود الفعل",
+  "Link Stats Breakdown": "انهيار احصائيات الارتباط",
+  "Top Authors by Views": "أفضل المؤلفين حسب المشاهدات",
+  "Top Views per Posts": "أعلى المشاهدات لكل المشاركات",
+  "Top Categories by Post Count": "أهم الفئات حسب عدد المشاركات",
+  "Top Tags": "أعلى العلامات",
+  "Content Overview": "نظرة عامة على المحتوى",
+  "Published Posts": "المشاركات المنشورة",
+  "Drafts": "المسودات",
+  "Pending Posts": "المشاركات المعلقة",
+  "Private Posts": "المشاركات الخاصة",
+  "Trashed Posts": "المشاركات المحذوفة",
+  "Revisions": "المراجعات",
+  "Pages": "الصفحات",
+  "Media Items": "عناصر الوسائط",
+  "Tags": "العلامات",
+  "Custom Post Types": "أنواع المشاركات المخصصة",
+  "Custom Taxonomies": "التصنيفات المخصصة",
+  "Engagement & Performance": "المشاركة والأداء",
+  "Approved Comments": "التعليقات المعتمدة",
+  "Total Views": "إجمالي المشاهدات",
+  "Total Reactions": "مجموع ردود الفعل",
+  "Avg Words / Post (approx)": "متوسط ​​الكلمات / المشاركة (تقريبًا)",
+  "Avg Read Time (mins)": "متوسط ​​وقت القراءة (بالدقائق)",
+  "Appearance & Structure": "المظهر والهيكل",
+  "Menus": "القوائم",
+  "Widget Areas": "مناطق القطعة",
+  "Active Theme": "موضوع نشط",
+  "Inactive Themes": "المواضيع غير النشطة",
+  "Total Plugins": "إجمالي الإضافات",
+  "Active Plugins": "المكونات الإضافية النشطة",
+  "Inactive Plugins": "الإضافات غير النشطة",
+  "Site Language": "لغة الموقع",
+  "Time Format": "تنسيق الوقت",
+  "Timezone": "المنطقة الزمنية",
+  "Permalink Structure": "هيكل الرابط الثابت",
+  "Top Authors & Link Stats": "كبار المؤلفين وإحصائيات الارتباط",
+  "Top Linked External Domains": "أهم المجالات الخارجية المرتبطة",
+  "views": "وجهات النظر",
+  "No author view data.": "لا توجد بيانات عرض المؤلف.",
+  "PH_0_TOKEN comment": "تعليق PH_0_TOKEN",
+  "%s comment": "تعليق %s",
+  "PH_0_TOKEN comments": "PH_0_TOKEN تعليقات",
+  "%s comments": "%s تعليقات",
+  "PH_0_TOKEN view": "عرض PH_0_TOKEN",
+  "%s view": "عرض %s",
+  "PH_0_TOKEN views": "PH_0_TOKEN من المشاهدات",
+  "%s views": "%s من المشاهدات",
+  "Save this post": "احفظ هذه المشاركة",
+  "Please log in to bookmark this post.": "الرجاء تسجيل الدخول لوضع إشارة مرجعية على هذا المنصب.",
+  "Print this page": "اطبع هذه الصفحة",
+  "Love": "حب",
+  "Funny": "مضحك",
+  "Wow": "رائع",
+  "Sad": "حزين",
+  "Angry": "غاضب",
+  "Post Reactions": "ردود الفعل بعد",
+  "Support Author": "دعم المؤلف",
+  "N/A": "لا يوجد",
+  "Site Stats": "إحصائيات الموقع",
+  "PH_0_TOKEN total views": "PH_0_TOKEN إجمالي المشاهدات",
+  "%s total views": "%s إجمالي المشاهدات",
+  "Most read: PH_0_TOKEN": "الأكثر قراءة: PH_0_TOKEN",
+  "Most read: %s": "الأكثر قراءة: %s",
+  "PH_0_TOKEN comments made": "PH_0_TOKEN التعليقات التي تم إجراؤها",
+  "%s comments made": "%s التعليقات التي تم إجراؤها",
+  "Readers mostly feel: PH_0_TOKEN": "يشعر القراء في الغالب بما يلي: PH_0_TOKEN",
+  "Readers mostly feel: %s": "يشعر القراء في الغالب بما يلي: %s",
+  "Top writer: PH_0_TOKEN": "أفضل كاتب: PH_0_TOKEN",
+  "Top writer: %s": "أفضل كاتب: %s",
+  "See all site stats": "الاطلاع على جميع إحصائيات الموقع",
+  "Post Stats": "احصائيات المشاركة",
+  "%d views": "%d من المشاهدات",
+  "%d comments": "%d تعليقات",
+  "Mostly: PH_0_TOKEN": "في الغالب: PH_0_TOKEN",
+  "Mostly: %s": "في الغالب: %s",
+  "Edit Post": "تحرير المشاركة",
+  "ReviewNews Options": "مراجعة خيارات الأخبار",
+  "Front-page Banner": "لافتة الصفحة الأولى",
+  "Featured": "مميز",
+  "Watch Video": "شاهد الفيديو",
+  "Latest News": "آخر الأخبار",
+  "Central News": "الأخبار المركزية",
+  "More News": "المزيد من الأخبار",
+  "Watch": "يشاهد",
+  "Watch Videos": "شاهد الفيديوهات",
+  "Watch Online": "مشاهدة اون لاين",
+  "Global News": "الأخبار العالمية",
+  "Related News": "أخبار ذات صلة",
+  "Archive": "أرشيف",
+  "Opinion": "رأي",
+  "Top News": "أهم الأخبار",
+  "Hot News": "أخبار ساخنة",
+  " (Last Updated: ": "(آخر تحديث:",
+  "Theme License": "ترخيص الموضوع",
+  "Enter your theme license key.": "أدخل مفتاح ترخيص السمة الخاصة بك.",
+  "License Key": "مفتاح الترخيص",
+  "License Action": "إجراء الترخيص",
+  "Deactivate License": "إلغاء تنشيط الترخيص",
+  "Activate License": "تفعيل الترخيص",
+  "License status is unknown.": "حالة الترخيص غير معروفة.",
+  "Renew?": "تجديد؟",
+  "unlimited": "غير محدود",
+  "License key is active.": "مفتاح الترخيص نشط.",
+  "Expires PH_0_TOKEN.": "تنتهي صلاحيته في PH_0_TOKEN.",
+  "Expires %s.": "تنتهي صلاحيته في %s.",
+  "You have PH_0_TOKEN / PH_1_TOKEN sites activated.": "لديك PH_0_TOKEN / PH_1_TOKEN من المواقع النشطة.",
+  "You have %1$s / %2$s sites activated.": "لديك %1$s / %2$s من المواقع النشطة.",
+  "License key expired PH_0_TOKEN.": "انتهت صلاحية مفتاح الترخيص PH_0_TOKEN.",
+  "License key expired %s.": "انتهت صلاحية مفتاح الترخيص %s.",
+  "License key has expired.": "انتهت صلاحية مفتاح الترخيص.",
+  "License keys do not match.": "مفاتيح الترخيص غير متطابقة.",
+  "License is inactive.": "الترخيص غير نشط.",
+  "License key is disabled.": "تم تعطيل مفتاح الترخيص.",
+  "Site is inactive.": "الموقع غير نشط.",
+  "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update.": "سيؤدي تحديث هذا المظهر إلى فقدان أي تخصيصات قمت بإجرائها. \"إلغاء\" للتوقف، و\"موافق\" للتحديث.",
+  "PH_3_TOKENPH_4_TOKEN PH_5_TOKENPH_2_TOKEN is available. PH_0_TOKENCheck out what's newPH_9_TOKEN or PH_1_TOKENupdate nowPH_9_TOKEN.": "PH_3_TOKENPH_4_TOKEN PH_5_TOKENPH_2_TOKEN متاح. PH_0_TOKENاطلع على الجديدPH_9_TOKEN أو PH_1_TOKENقم بالتحديث الآنPH_9_TOKEN.",
+  "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>.": "<strong>%1$s %2$s</strong> متاح. <a href=\"%3$s\" class=\"thickbox\" title=\"%4s\">اطلع على الجديد</a> أو <a href=\"%5$s\"%6$s>قم بالتحديث الآن</a>.",
+  "TikTok": "تيك توك",
+  "Linkedin": "ينكدين",
+  "VK": "VK",
+  "AFT Express Posts Grid": "AFT شبكة المشاركات السريعة",
+  "Number of posts": "عدد المشاركات",
+  "AFT Popular News": "أخبار شعبية AFT",
+  "Displays posts carousel from selected category.": "يعرض دائري المشاركات من الفئة المحددة.",
+  "AFT Posts Carousel": "AFT المشاركات دائري",
+  "Displays tabbed posts lists from selected settings.": "يعرض قوائم المشاركات المبوبة من الإعدادات المحددة.",
+  "AFT Posts Tabs": "علامات تبويب مشاركات AFT",
+  "Yes": "نعم",
+  "No": "لا",
+  "Settings for all tabs": "الإعدادات لجميع علامات التبويب",
+  "Number of posts per tab": "عدد المشاركات لكل علامة تبويب",
+  "AFT Trending News (By Tag)": "أخبار AFT الرائجة (حسب العلامة)",
+  "AFT Trending News (By View)": "أخبار AFT الرائجة (حسب العرض)",
+  "Displays youtube video slider.": "يعرض شريط تمرير فيديو يوتيوب.",
+  "AFT YouTube Video": "فيديو يوتيوب AFT",
+  "YouTube Videos:": "فيديوهات يوتيوب:",
+  "Header Widget 1": "القطعة رأس 1",
+  "Add widgets for header section.": "إضافة الحاجيات لقسم الرأس.",
+  "Header Widget 2": "القطعة رأس 2",
+  "Header Widget 3": "القطعة رأس 3",
+  "Banner Ad Section": "قسم الإعلانات",
+  "Above Site Header Section": "أعلى قسم رأس الموقع",
+  "Add widgets for above site header section.": "أضف عناصر واجهة المستخدم لقسم رأس الموقع أعلاه.",
+  "Below Site Header Section": "أسفل قسم رأس الموقع",
+  "Add widgets for below site header section.": "أضف عناصر واجهة المستخدم لقسم رأس الموقع أدناه.",
+  "Above Main Banner Section": "اعلى قسم البانر الرئيسى",
+  "Add widgets for above main banner section.": "أضف عناصر واجهة المستخدم لقسم الشعار الرئيسي أعلاه.",
+  "Below Main Banner Section": "أسفل قسم البانر الرئيسي",
+  "Add widgets for below main banner section.": "أضف عناصر واجهة المستخدم لقسم الشعار الرئيسي أدناه.",
+  "Below Featured Section": "أسفل القسم المميز",
+  "Add widgets for below featured section.": "إضافة الحاجيات للقسم المميز أدناه.",
+  "Above Site Footer Section": "أعلى قسم تذييل الموقع",
+  "Add widgets for above site footer section.": "أضف عناصر واجهة المستخدم لقسم تذييل الموقع أعلاه.",
+  "Below Site Footer Section": "أسفل قسم تذييل الموقع",
+  "Add widgets for below site footer section.": "أضف عناصر واجهة المستخدم لقسم تذييل الموقع أدناه.",
+  "Above Single Post Title Section": "أعلى قسم عنوان المشاركة الواحدة",
+  "Add widgets for single above post title.": "أضف عناصر واجهة مستخدم لعنوان المنشور الفردي أعلاه.",
+  "Below Single Post Title Section": "أسفل قسم عنوان المشاركة الواحدة",
+  "Add widgets for single below single post title .": "أضف عناصر واجهة مستخدم لعنوان منشور واحد أسفل عنوان المشاركة الفردية.",
+  "Above Single Featured Image Section": "أعلى قسم الصور المميزة",
+  "Add widgets for above featured image.": "إضافة الحاجيات للصورة المميزة أعلاه.",
+  "Below Single Featured Image Section": "أسفل قسم الصور المميزة المفردة",
+  "Add widgets for below featured image .": "إضافة الحاجيات للصورة المميزة أدناه.",
+  "Above Single Post Content Section": "أعلى قسم محتوى المنشور الواحد",
+  "Add widgets for single posts= content.": "إضافة عناصر واجهة مستخدم للمشاركات الفردية= المحتوى.",
+  "Below Single Post Content Section": "أسفل قسم محتوى المشاركة الفردية",
+  "Add widgets for single post content.": "إضافة عناصر واجهة المستخدم لمحتوى منشور واحد.",
+  "PH_0_TOKEN item": "PH_0_TOKEN عنصر",
+  "%d item": "%d عنصر",
+  "PH_0_TOKEN items": "PH_0_TOKEN من العناصر",
+  "%d items": "%d من العناصر",
+  "Welcome! Thank you for choosing PH_0_TOKEN. To fully take advantage of the best our theme can offer please make sure you visit theme details page.": "مرحباً! شكرًا لك على اختيار PH_0_TOKEN. للاستفادة الكاملة من أفضل ما يمكن أن يقدمه موضوعنا، يرجى التأكد من زيارة صفحة تفاصيل الموضوع.",
+  "Welcome! Thank you for choosing %1$s. To fully take advantage of the best our theme can offer please make sure you visit theme details page.": "مرحباً! شكرًا لك على اختيار %1$s. للاستفادة الكاملة من أفضل ما يمكن أن يقدمه موضوعنا، يرجى التأكد من زيارة صفحة تفاصيل الموضوع.",
+  "Get started with PH_0_TOKEN": "ابدأ باستخدام PH_0_TOKEN",
+  "Get started with %1$s": "ابدأ باستخدام %1$s",
+  "PH_0_TOKEN() method does not exist.": "طريقة PH_0_TOKEN() غير موجودة.",
+  "%s() method does not exist.": "طريقة %s() غير موجودة.",
+  "Manage Plugins": "إدارة المكونات الإضافية",
+  "Product Features": "ميزات المنتج",
+  "Premium": "غالي",
+  "Howdy PH_0_TOKEN, we would like to thank you for installing and activating PH_1_TOKEN theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with PH_1_TOKEN. Once again, Thanks for using our theme!": "مرحبًا PH_0_TOKEN، نود أن نشكرك على تثبيت وتنشيط سمة PH_1_TOKEN لموقعك الثمين. جميع الميزات التي يوفرها القالب جاهزة الآن للاستخدام؛ لقد جمعنا هنا كافة التفاصيل الأساسية والروابط المفيدة لك ولتجربتك الأفضل مع PH_1_TOKEN. مرة أخرى، شكرا لاستخدام موضوعنا!",
+  "Howdy %1$s, we would like to thank you for installing and activating %2$s theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with %2$s. Once again, Thanks for using our theme!": "مرحبًا %1$s، نود أن نشكرك على تثبيت وتنشيط سمة %2$s لموقعك الثمين. جميع الميزات التي يوفرها القالب جاهزة الآن للاستخدام؛ لقد جمعنا هنا كافة التفاصيل الأساسية والروابط المفيدة لك ولتجربتك الأفضل مع %2$s. مرة أخرى، شكرا لاستخدام موضوعنا!",
+  "Getting Started": "ابدء",
+  "Demo Content": "المحتوى التجريبي",
+  "Theme Details": "تفاصيل الموضوع",
+  "View Demo": "عرض تجريبي",
+  "View Documentation": "عرض الوثائق",
+  "Theme Documentation": "توثيق الموضوع",
+  "To achieve custom home page other than blog listing, you need to create and set static front page.": "لتحقيق صفحة رئيسية مخصصة بخلاف قائمة المدونات، تحتاج إلى إنشاء وتعيين صفحة رئيسية ثابتة.",
+  "Theme uses Customizer API for theme options. Using the Customizer you can easily customize different aspects of the theme.": "يستخدم المظهر Customizer API لخيارات السمة. باستخدام أداة التخصيص، يمكنك بسهولة تخصيص جوانب مختلفة من السمة.",
+  "Widgets": "الحاجيات",
+  "Theme uses Wedgets API for widget options. Using the Widgets you can easily customize different aspects of the theme.": "يستخدم المظهر Wedgets API لخيارات القطعة. باستخدام الأدوات، يمكنك بسهولة تخصيص جوانب مختلفة من السمة.",
+  "To import sample demo content, PH_0_TOKEN plugin should be installed and activated. After plugin is activated, visit AF Companion Dashboard from admin menu.": "لاستيراد نموذج محتوى تجريبي، يجب تثبيت المكون الإضافي PH_0_TOKEN وتنشيطه. بعد تنشيط البرنامج المساعد، قم بزيارة لوحة تحكم AF Companion من قائمة المسؤول.",
+  "To import sample demo content, %1$s plugin should be installed and activated. After plugin is activated, visit AF Companion Dashboard from admin menu.": "لاستيراد نموذج محتوى تجريبي، يجب تثبيت المكون الإضافي %1$s وتنشيطه. بعد تنشيط البرنامج المساعد، قم بزيارة لوحة تحكم AF Companion من قائمة المسؤول.",
+  "Theme Preview": "معاينة الموضوع",
+  "You can check out the theme demos for reference to find out what you can achieve using the theme and how it can be customized.": "يمكنك الاطلاع على العروض التوضيحية للموضوع كمرجع لمعرفة ما يمكنك تحقيقه باستخدام السمة وكيف يمكن تخصيصها.",
+  "Contact Support": "اتصل بالدعم",
+  "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme.": "هل لديك سؤال حول دعم السمة أو وجدت خطأً أو حصلت على بعض التعليقات؟ أفضل مكان لطرح استفسارك هو منتدى الدعم المخصص للموضوع.",
+  "Child Theme": "موضوع الطفل",
+  "For advanced theme customization, it is recommended to use child theme rather than modifying the theme file itself. Using this approach, you wont lose the customization after theme update.": "لتخصيص السمة المتقدمة، يوصى باستخدام السمة الفرعية بدلاً من تعديل ملف السمة نفسه. باستخدام هذا الأسلوب، لن تفقد التخصيص بعد تحديث السمة.",
+  "Learn More": "يتعلم أكثر",
+  "Theme supports some helpful WordPress plugins to enhance your site. But, please enable only those plugins which you need in your site. For example, enable WooCommerce only if you are using e-commerce.": "يدعم المظهر بعض مكونات WordPress الإضافية المفيدة لتحسين موقعك. ولكن، يرجى تمكين تلك المكونات الإضافية التي تحتاجها في موقعك فقط. على سبيل المثال، قم بتمكين WooCommerce فقط إذا كنت تستخدم التجارة الإلكترونية.",
+  "To import demo content for this theme, PH_0_TOKEN plugin is needed. Please make sure plugin is installed and activated. After plugin is activated, you will see AF Companion Dashboard from admin menu.": "لاستيراد محتوى تجريبي لهذا الموضوع، يلزم وجود مكون إضافي PH_0_TOKEN. يرجى التأكد من تثبيت البرنامج المساعد وتفعيله. بعد تنشيط البرنامج المساعد، سترى لوحة تحكم AF Companion من قائمة المسؤول.",
+  "To import demo content for this theme, %1$s plugin is needed. Please make sure plugin is installed and activated. After plugin is activated, you will see AF Companion Dashboard from admin menu.": "لاستيراد محتوى تجريبي لهذا الموضوع، يلزم وجود مكون إضافي %1$s. يرجى التأكد من تثبيت البرنامج المساعد وتفعيله. بعد تنشيط البرنامج المساعد، سترى لوحة تحكم AF Companion من قائمة المسؤول.",
+  "AF Companion": "رفيق AF",
+  "If you want more advanced features then you can upgrade to the premium version of the theme.": "إذا كنت تريد المزيد من الميزات المتقدمة، فيمكنك الترقية إلى الإصدار المميز من السمة.",
+  "This theme requires the following plugin: PH_0_TOKEN.": "يتطلب هذا المظهر المكوّن الإضافي التالي: PH_0_TOKEN.",
+  "This theme requires the following plugin: %1$s.": "يتطلب هذا المظهر المكوّن الإضافي التالي: %1$s.",
+  "This theme requires the following plugins: PH_0_TOKEN.": "يتطلب هذا المظهر المكونات الإضافية التالية: PH_0_TOKEN.",
+  "This theme requires the following plugins: %1$s.": "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s.",
+  "This theme recommends the following plugin: PH_0_TOKEN.": "يوصي هذا المظهر بالمكون الإضافي التالي: PH_0_TOKEN.",
+  "This theme recommends the following plugin: %1$s.": "يوصي هذا المظهر بالمكون الإضافي التالي: %1$s.",
+  "This theme recommends the following plugins: PH_0_TOKEN.": "يوصي هذا المظهر بالمكونات الإضافية التالية: PH_0_TOKEN.",
+  "This theme recommends the following plugins: %1$s.": "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s.",
+  "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: PH_0_TOKEN.": "يجب تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق مع هذا المظهر: PH_0_TOKEN.",
+  "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": "يجب تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق مع هذا المظهر: %1$s.",
+  "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: PH_0_TOKEN.": "يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من التوافق مع هذا المظهر: PH_0_TOKEN.",
+  "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.": "يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من التوافق مع هذا المظهر: %1$s.",
+  "There is an update available for: PH_0_TOKEN.": "يتوفر تحديث لـ: PH_0_TOKEN.",
+  "There is an update available for: %1$s.": "يتوفر تحديث لـ: %1$s.",
+  "There are updates available for the following plugins: PH_0_TOKEN.": "هناك تحديثات متاحة للمكونات الإضافية التالية: PH_0_TOKEN.",
+  "There are updates available for the following plugins: %1$s.": "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s.",
+  "The following required plugin is currently inactive: PH_0_TOKEN.": "المكون الإضافي المطلوب التالي غير نشط حاليًا: PH_0_TOKEN.",
+  "The following required plugin is currently inactive: %1$s.": "المكون الإضافي المطلوب التالي غير نشط حاليًا: %1$s.",
+  "The following required plugins are currently inactive: PH_0_TOKEN.": "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: PH_0_TOKEN.",
+  "The following required plugins are currently inactive: %1$s.": "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s.",
+  "The following recommended plugin is currently inactive: PH_0_TOKEN.": "المكون الإضافي الموصى به غير نشط حاليًا: PH_0_TOKEN.",
+  "The following recommended plugin is currently inactive: %1$s.": "المكون الإضافي الموصى به غير نشط حاليًا: %1$s.",
+  "The following recommended plugins are currently inactive: PH_0_TOKEN.": "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: PH_0_TOKEN.",
+  "The following recommended plugins are currently inactive: %1$s.": "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s.",
+  "Begin installing plugin": "البدء في تثبيت البرنامج المساعد",
+  "Begin installing plugins": "البدء في تثبيت المكونات الإضافية",
+  "Begin updating plugin": "البدء في تحديث البرنامج المساعد",
+  "Begin updating plugins": "البدء في تحديث المكونات الإضافية",
+  "Begin activating plugin": "البدء في تفعيل البرنامج المساعد",
+  "Begin activating plugins": "البدء في تفعيل المكونات الإضافية",
+  "The following plugin was activated successfully:": "تم تفعيل الإضافة التالية بنجاح:",
+  "The following plugins were activated successfully:": "تم تفعيل الإضافات التالية بنجاح:",
+  "All PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN": "الكل PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN",
+  "All <span class=\"count\">(%s)</span>": "الكل <span class=\"count\">(%s)</span>",
+  "To Install PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN": "لتثبيت PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN",
+  "To Install <span class=\"count\">(%s)</span>": "لتثبيت <span class=\"count\">(%s)</span>",
+  "Update Available PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN": "التحديث متاح PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN",
+  "Update Available <span class=\"count\">(%s)</span>": "التحديث متاح <span class=\"count\">(%s)</span>",
+  "To Activate PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN": "لتنشيط PH_0_TOKEN(PH_2_TOKEN)PH_1_TOKEN",
+  "To Activate <span class=\"count\">(%s)</span>": "لتنشيط <span class=\"count\">(%s)</span>",
+  "Embedded video content": "محتوى الفيديو المضمن",
+  "Analytics": "التحليلات",
+  "Page Builder Gutenberg Blocks & Patterns": "كتل وأنماط منشئ الصفحة جوتنبرج",
+  "Add pages effortlessly with expertly crafted Gutenberg patterns and blocks for blogs, magazines, newspapers, and agency sites using the Blockspare plugin!": "أضف صفحات بسهولة باستخدام أنماط وكتل Gutenberg المصممة بخبرة للمدونات والمجلات والصحف ومواقع الوكالات باستخدام البرنامج الإضافي Blockspare!",
+  "Page Builder Elementor Widgets": "عناصر واجهة مستخدم منشئ الصفحة",
+  "Add pages effortlessly with expertly crafted Elementor widgets for blogs, magazines, newspapers, and agency sites using the Elespare plugin!": "أضف صفحات بسهولة باستخدام عناصر واجهة المستخدم Elementor المصممة بخبرة للمدونات والمجلات والصحف ومواقع الوكالات باستخدام البرنامج الإضافي Elespare!",
+  "We would like to thank you for installing and activating [theme] theme for your precious site. All of the features provided by the theme are now ready to use; Here, we have gathered all of the essential details and helpful links for you and your better experience with [theme]. Once again, Thanks for using our theme!": "نود أن نشكرك على تثبيت وتفعيل السمة [theme] لموقعك الثمين. جميع الميزات التي يوفرها القالب جاهزة الآن للاستخدام؛ لقد قمنا هنا بجمع كل التفاصيل الأساسية والروابط المفيدة لك ولتجربتك الأفضل مع [theme]. مرة أخرى، شكرا لاستخدام موضوعنا!",
+  "Demo Sites": "المواقع التجريبية",
+  "Elespare (Elementor)": "إليسبار (عنصر)",
+  "A stunning assortment of WordPress post widgets. It allows you to display your posts in many formats such as grid, list, tile, full, express, and so on.": "مجموعة مذهلة من أدوات منشورات WordPress. يسمح لك بعرض منشوراتك بالعديد من التنسيقات مثل الشبكة والقائمة والبلاط والكامل والصريح وما إلى ذلك.",
+  "Blockspare Pro": "بلوكسبير برو",
+  "Beautiful Page Building Gutenberg Blocks for WordPress": "كتل بناء صفحة جميلة من Gutenberg لـ WordPress",
+  "Magic Content Box Block": "كتلة صندوق المحتوى السحري",
+  "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you have always desired..": "نقوم ببناء سلسلة جميلة من كتل Gutenberg لقسم الصفحات لمحتوى WordPress لمساعدتك في إنشاء موقع الويب الذي طالما رغبت فيه بسرعة.",
+  "Latest Posts Block for WordPress (Gutenberg)": "منع أحدث المشاركات لـ WordPress (جوتنبرج)",
+  "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design, and tile layouts of your posts.": "مجموعة جميلة من أحدث منشورات كتل Gutenberg لـ WordPress، والتي تساعدك على تصميم شبكة المنشورات، وقائمة المنشورات، وتخطيط المنشورات الكاملة، وتصميم المنشورات السريعة المتقدمة، وتخطيطات البلاط لمشاركاتك.",
+  "Team and Testimonial Block for WordPress (Gutenberg)": "الفريق وكتلة الشهادات لـ WordPress (جوتنبرج)",
+  "With the Team and Testimonial Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting team, members, review, rating, etc, sections. There is no need to code anything.": "باستخدام الفريق وكتلة الشهادات لـ Gutenberg، يمكنك بسرعة إنشاء فريق وأعضاء ومراجعة وتقييم وما إلى ذلك، بشكل سريع وسريع الاستجابة وعالي التحويل. ليست هناك حاجة لترميز أي شيء.",
+  "Pricing Table Block for WordPress (Gutenberg)": "كتلة جدول التسعير لـ WordPress (جوتنبرج)",
+  "With the Pricing Table Block for Gutenberg, you can quickly create a beautiful, responsive, and high-converting pricing table. There is no need to code anything.": "باستخدام قالب جدول التسعير لـ Gutenberg، يمكنك بسرعة إنشاء جدول تسعير جميل وسريع الاستجابة وعالي التحويل. ليست هناك حاجة لترميز أي شيء.",
+  "3CX Free Live Chat": "3CX الدردشة الحية المجانية",
+  "Visit": "يزور",
+  "We have built a new live chat solution called 3cx startup! this will give you completely free live chat, voice capability plus a team communication system!": "لقد قمنا ببناء حل جديد للدردشة المباشرة يسمى 3cx Startup! سيمنحك هذا دردشة حية مجانية تمامًا وقدرة صوتية بالإضافة إلى نظام اتصال جماعي!",
+  "Get ready-to-use Starter Sites instantly and build modern websites in minutes.": "احصل على مواقع Starter جاهزة للاستخدام على الفور وقم بإنشاء مواقع ويب حديثة في دقائق.",
+  "It has 3 different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": "يحتوي على 3 عناصر واجهة مستخدم مختلفة لمؤلف المنشور والمؤلف الانتقائي حسب المعرف والمؤلف المخصص. كما يوفر أيضًا رموزًا قصيرة لملف تعريف المؤلف.",
+  "A free WordPress Plugin which facilitates with the functionality to submit Posts from frontend with or without logging in with various configurable options.": "مكون إضافي مجاني لـ WordPress يسهل وظيفة إرسال المنشورات من الواجهة الأمامية مع أو بدون تسجيل الدخول باستخدام خيارات متنوعة قابلة للتكوين.",
+  "This plugin helps you grow your Mailchimp lists and write better newsletters through various methods. You can create good looking opt-in forms or integrate with any existing form on your site, like your comment, contact or checkout form.": "يساعدك هذا البرنامج المساعد على تطوير قوائم Mailchimp الخاصة بك وكتابة رسائل إخبارية أفضل من خلال طرق مختلفة. يمكنك إنشاء نماذج اشتراك جيدة المظهر أو التكامل مع أي نموذج موجود على موقعك، مثل نموذج التعليق أو جهة الاتصال أو الخروج.",
+  "Get Started with Beautiful Starter Templates.": "ابدأ باستخدام قوالب البداية الجميلة.",
+  "Use templatespare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "استخدم templatespare لاستيراد المحتوى التجريبي المباشر والأدوات والإعدادات بسرعة. يوفر هذا البرنامج المساعد تخطيطًا أساسيًا لإنشاء موقع الويب الخاص بك وتسريع عملية التطوير.",
+  "Use blockspare to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "استخدم blockpare لاستيراد المحتوى التجريبي المباشر والأدوات والإعدادات بسرعة. يوفر هذا البرنامج المساعد تخطيطًا أساسيًا لإنشاء موقع الويب الخاص بك وتسريع عملية التطوير.",
+  "Premium Plugins": "الإضافات المميزة",
+  "Buy Now": "اشتري الآن",
+  "Create Your Dream Website in Minutes!": "قم بإنشاء موقع أحلامك في دقائق!",
+  "No coding needed. One-click import of expert-made starter sites with customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start now with Templatespare Plugin!": "لا حاجة للترميز. استيراد مواقع البداية التي أنشأها الخبراء بنقرة واحدة باستخدام أدوات التخصيص والأدوات ومجموعات قوالب Elementor وأنماط Gutenberg. ابدأ الآن باستخدام المكون الإضافي Templatespare!",
+  "Preview": "معاينة"
+}

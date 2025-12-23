@@ -1,0 +1,74 @@
+# Translation of Themes - NewsBlogy in Russian
+# This file is distributed under the same license as the Themes - NewsBlogy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-04-11 15:04:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - NewsBlogy\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogy is a fast, clean, Best Responsive News Magazine WordPress theme. NewsBlogy is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. With its modern and clean design, NewsBlogy offers a visually appealing layout that is easy to navigate, making it ideal for delivering content to your readers. This theme comes equipped with a range of customizable options, custom widgets, and color schemes, allowing you to tailor your website to your specific needs and branding. It also supports various post formats, making it easy to present a variety of content types, from articles and videos to images and galleries. NewsBlogy is optimized for speed and SEO, ensuring that your website loads quickly and ranks well in search engine results. Its responsive design ensures that your content looks great on all devices, whether it's a desktop computer, tablet, or smartphone. NewsBlogy demos https://preview.desertthemes.com/newsmunch/"
+msgstr "NewsBlogy — это быстрая, чистая и лучшая адаптивная тема WordPress для журналов новостей. NewsBlogy подходит для динамичных новостей, газет, журналов, издателей, блогов, редакторов, онлайн- и игровых журналов, новостных порталов, личных блогов, газет, издательских или обзорных сайтов и любого творческого веб-сайта. Благодаря современному и чистому дизайну NewsBlogy предлагает визуально привлекательный макет, в котором легко ориентироваться, что делает его идеальным для доставки контента вашим читателям. Эта тема оснащена рядом настраиваемых параметров, пользовательских виджетов и цветовых схем, что позволяет адаптировать ваш веб-сайт к вашим конкретным потребностям и брендингу. Он также поддерживает различные форматы сообщений, что позволяет легко представлять различные типы контента: от статей и видео до изображений и галерей. NewsBlogy оптимизирован по скорости и SEO, что гарантирует быструю загрузку вашего веб-сайта и его высокие позиции в результатах поисковых систем. Его адаптивный дизайн гарантирует, что ваш контент будет отлично выглядеть на всех устройствах, будь то настольный компьютер, планшет или смартфон. Демонстрации NewsBlogy https://preview.desertthemes.com/newsmunch/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsBlogy"
+msgstr "NewsBlogy"
+
+#: template-parts/site-header.php:18 template-parts/site-header.php:94
+msgid "data-bg-image"
+msgstr "data-bg-image"
+
+#: template-parts/site-header.php:17 template-parts/site-header.php:94
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: template-parts/section-slider.php:16
+msgid "3 dt-col-md-6"
+msgstr "3 dt-col-md-6"
+
+#: template-parts/section-slider.php:16
+msgid "12 dt-col-lg-12"
+msgstr "12 dt-col-lg-12"
+
+#: template-parts/section-slider.php:10
+msgid "9"
+msgstr "9"
+
+#: template-parts/section-slider.php:10
+msgid "12"
+msgstr "12"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:91
+msgid "By"
+msgstr "От"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/newsblogy-free/"
+msgstr "https://desertthemes.com/themes/newsblogy-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"

@@ -1,0 +1,5682 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-30 08:02:49+0000\n"
+"PO-Revision-Date: 2025-10-30 08:02:49+0000\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+#: admin-dashboard/admin_dashboard.php:103
+#: admin-dashboard/admin_dashboard.php:104
+msgid "ReviewNews Pro"
+msgstr "ReviewNews Pro"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/reviewnews-pro/"
+msgstr "https://afthemes.com/products/reviewnews-pro/"
+
+#. Description of the theme
+msgid ""
+"ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress "
+"theme made for News, Magazine, Blog, Business, and eCommerce websites across"
+" the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly "
+"with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular "
+"page builders, you can design PROFESSIONAL LAYOUTS easily using drag and "
+"drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS,"
+" ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL "
+"WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers,"
+" corporate or NGO sites, and educational or cultural portals to personal "
+"blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized "
+"for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST "
+"LOADING and excellent performance on all devices. Built with WCAG "
+"ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-"
+"term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY,"
+" with demo content in English, Spanish, German, French, Japanese, Chinese, "
+"and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for "
+"creators, publishers, and businesses who value STYLE, SCALABILITY, and "
+"PERFORMANCE across every market. Explore all features at "
+"https://afthemes.com/products/reviewnews"
+msgstr ""
+"Ang ReviewNews Pro ay isang pabago-bago, ultra-mabilis, at lubos na maraming"
+" nalalaman na tema ng WordPress na ginawa para sa balita, magazine, blog, "
+"negosyo, at eCommerce na mga website sa buong mundo. Sa pamamagitan ng "
+"malakas na tagabuo ng header at footer na gumagana nang walang putol sa "
+"block editor, Gutenberg, Elementor, Brizy, Divi, at iba pang mga tanyag na "
+"tagabuo ng pahina, maaari kang magdisenyo ng mga propesyonal na layout na "
+"madaling gamit ang pag -drag at pagbagsak - walang kinakailangang pag "
+"-coding. Naka -pack na may 100+ starter site, 30+ pasadyang mga widget, "
+"advanced block pattern, nababaluktot na mga pagpipilian sa layout, suporta "
+"ng AMP, at buong pagsasama ng WooCommerce, perpekto ito para sa lahat mula "
+"sa mga online na pahayagan, mga site ng corporate o NGO, at mga portal ng "
+"pang -edukasyon o pangkultura hanggang sa mga personal na blog, portfolios, "
+"at mga magazine ng pamumuhay. Ang ReviewNews ay ganap na na -optimize para "
+"sa SEO, Core Web Vitals, bilis, at tumutugon na disenyo, tinitiyak ang "
+"mabilis na paglo -load at mahusay na pagganap sa lahat ng mga aparato. "
+"Itinayo gamit ang pag-access sa WCAG, pagsunod sa GDPR, at magaan, malinis "
+"na code, nag-aalok ito ng pangmatagalang katatagan at mataas na mga marka ng"
+" Google PahinaSpeed. Handa na ang multilingual at RTL, na may nilalaman ng "
+"demo sa Ingles, Espanyol, Aleman, Pranses, Hapon, Tsino, at Arabe, ang "
+"ReviewNews ay isang tunay na pandaigdigan, temang patunay na dinisenyo para "
+"sa mga tagalikha, publisher, at mga negosyo na pinahahalagahan ang estilo, "
+"scalability, at pagganap sa bawat merkado. Galugarin ang lahat ng mga tampok"
+" sa https://afthemes.com/products/reviewnews"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "Mga tema ng AF"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Ang pahinang iyon ay maaaring &rsquo; t mahanap."
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"Mukhang walang natagpuan sa lokasyong ito. Siguro subukan ang isa sa mga "
+"link sa ibaba o isang paghahanap?"
+
+#: admin-dashboard/admin_dashboard.php:116
+#: admin-dashboard/admin_dashboard.php:117
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin-dashboard/admin_dashboard.php:127
+#: admin-dashboard/admin_dashboard.php:128 inc/template-functions.php:2176
+msgid "Site Analytics"
+msgstr "Site Analytics"
+
+#: admin-dashboard/admin_dashboard.php:136
+#: admin-dashboard/admin_dashboard.php:137
+#: admin-dashboard/admin_dashboard.php:366 inc/template-functions.php:2181
+#: admin-dashboard/src/admin-top-menu.js:126
+msgid "Ads Settings"
+msgstr "Mga setting ng ad"
+
+#: admin-dashboard/admin_dashboard.php:146
+#: admin-dashboard/admin_dashboard.php:147 lib/info/info.php:74
+msgid "Customize"
+msgstr "Ipasadya"
+
+#: admin-dashboard/admin_dashboard.php:156
+#: admin-dashboard/admin_dashboard.php:157
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: inc/template-functions.php:2191 admin-dashboard/src/admin-top-menu.js:133
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Builder"
+msgstr "Header builder"
+
+#: admin-dashboard/admin_dashboard.php:165
+#: admin-dashboard/admin_dashboard.php:166
+#: inc/customizer/builder/class-header-footer-builder.php:45
+#: inc/template-functions.php:2201 admin-dashboard/src/admin-top-menu.js:147
+#: admin-dashboard/src/components/json/home-content.js:25
+msgid "Footer Builder"
+msgstr "Tagabuo ng Footer"
+
+#: admin-dashboard/admin_dashboard.php:179
+#: admin-dashboard/admin_dashboard.php:180 inc/template-functions.php:2186
+msgid "Starter Sites"
+msgstr "Mga site ng starter"
+
+#: admin-dashboard/admin_dashboard.php:189
+#: admin-dashboard/admin_dashboard.php:190
+msgid "Block Patterns"
+msgstr "I -block ang mga pattern"
+
+#: admin-dashboard/admin_dashboard.php:199
+#: admin-dashboard/admin_dashboard.php:200
+msgid "Elementor Kits"
+msgstr "Elementor Kits"
+
+#: admin-dashboard/admin_dashboard.php:211
+#: admin-dashboard/admin_dashboard.php:212 lib/info/info.php:25
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "Suporta"
+
+#: admin-dashboard/admin_dashboard.php:221
+#: admin-dashboard/admin_dashboard.php:222
+msgid "Master Bundle Plan"
+msgstr "Plano ng Master Bundle"
+
+#: admin-dashboard/admin_dashboard.php:234
+msgid "Security check failed"
+msgstr "Nabigo ang Security Check"
+
+#: admin-dashboard/admin_dashboard.php:238
+msgid "You do not have permission to perform this action."
+msgstr "Wala kang pahintulot upang maisagawa ang pagkilos na ito."
+
+#: admin-dashboard/admin_dashboard.php:280
+msgid "Ads settings saved."
+msgstr "Nai -save ang mga setting ng ad."
+
+#: admin-dashboard/admin_dashboard.php:373
+msgid "Global Ads Placement"
+msgstr "Paglalagay ng Global Ads"
+
+#: admin-dashboard/admin_dashboard.php:376
+msgid ""
+"💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One "
+"ad will be shown randomly per page load. Works with HTML, JavaScript, and "
+"shortcodes."
+msgstr ""
+"💡 Tip: Maaari mong paikutin ang maraming mga ad sa pamamagitan ng "
+"paghihiwalay sa kanila ng <!-Susunod->. Ang isang ad ay ipapakita nang "
+"random sa bawat pag -load ng pahina. Gumagana sa HTML, JavaScript, at mga "
+"shortcode."
+
+#: admin-dashboard/admin_dashboard.php:380
+msgid "Header Ad"
+msgstr "Header ad"
+
+#: admin-dashboard/admin_dashboard.php:383
+msgid ""
+"Add your HTML, JavaScript, or shortcode to display an ad at the very top of "
+"your site (header area)."
+msgstr ""
+"Idagdag ang iyong HTML, JavaScript, o shortcode upang ipakita ang isang ad "
+"sa pinakadulo ng iyong site (header area)."
+
+#: admin-dashboard/admin_dashboard.php:388
+#: inc/customizer/theme-options.php:1757
+msgid "Before Content"
+msgstr "Bago nilalaman"
+
+#: admin-dashboard/admin_dashboard.php:391
+msgid ""
+"Ad before post content. Supports rotating multiple ads using <!--next-->."
+msgstr ""
+"Ad bago mag -post ng nilalaman. Sinusuportahan ang pag-ikot ng maraming mga "
+"ad gamit ang <!-Susunod->."
+
+#: admin-dashboard/admin_dashboard.php:396
+#: inc/customizer/theme-options.php:1758
+msgid "After Content"
+msgstr "Pagkatapos ng nilalaman"
+
+#: admin-dashboard/admin_dashboard.php:399
+msgid ""
+"Ad after post content. You can rotate multiple ads with <!--next--> "
+"separator."
+msgstr ""
+"Ad pagkatapos ng nilalaman ng post. Maaari mong paikutin ang maraming mga ad"
+" na may <!-Susunod-> Separator."
+
+#: admin-dashboard/admin_dashboard.php:404
+msgid "Before First Paragraph"
+msgstr "Bago ang unang talata"
+
+#: admin-dashboard/admin_dashboard.php:407
+msgid ""
+"This ad appears after the first paragraph of single post content. Rotation "
+"supported via <!--next-->."
+msgstr ""
+"Ang ad na ito ay lilitaw pagkatapos ng unang talata ng solong nilalaman ng "
+"post. Ang pag-ikot ay suportado sa pamamagitan ng <!-Susunod->."
+
+#: admin-dashboard/admin_dashboard.php:412
+msgid "After Third Paragraph"
+msgstr "Pagkatapos ng ikatlong talata"
+
+#: admin-dashboard/admin_dashboard.php:415
+msgid ""
+"Shown after the third paragraph in single post content. Supports rotating "
+"ads with <!--next-->."
+msgstr ""
+"Ipinakita pagkatapos ng ikatlong talata sa iisang nilalaman ng post. "
+"Sinusuportahan ang umiikot na mga ad na may <!-Susunod->."
+
+#: admin-dashboard/admin_dashboard.php:420
+msgid "After Post Content"
+msgstr "Pagkatapos ng nilalaman ng pag -post"
+
+#: admin-dashboard/admin_dashboard.php:423
+msgid ""
+"Displayed below post content, before comments or related posts. Rotation via"
+" <!--next--> supported."
+msgstr ""
+"Ipinakita sa ibaba ng nilalaman ng post, bago ang mga komento o mga kaugnay "
+"na post. Pag-ikot sa pamamagitan ng <!-Susunod-> suportado."
+
+#: admin-dashboard/admin_dashboard.php:428
+msgid "Sidebar Ad"
+msgstr "Sidebar ad"
+
+#: admin-dashboard/admin_dashboard.php:431
+msgid ""
+"Shown in sidebar globally. You may use widgets for better control. Supports "
+"<!--next--> for rotating ads."
+msgstr ""
+"Ipinakita sa sidebar sa buong mundo. Maaari kang gumamit ng mga widget para "
+"sa mas mahusay na kontrol. Sinusuportahan ang <!-Susunod-> para sa umiikot "
+"na mga ad."
+
+#: admin-dashboard/admin_dashboard.php:436
+msgid "Footer Ad"
+msgstr "Footer ad"
+
+#: admin-dashboard/admin_dashboard.php:439
+msgid ""
+"Displayed at the bottom of the site above footer widgets. Rotating ads "
+"supported using <!--next-->."
+msgstr ""
+"Ipinapakita sa ilalim ng site sa itaas ng mga widget ng footer. Ang pag-ikot"
+" ng mga ad na suportado gamit ang <!-Susunod->."
+
+#: admin-dashboard/admin_dashboard.php:444
+msgid "Archive / Blog Ads"
+msgstr "Mga ad sa Archive / Blog"
+
+#: admin-dashboard/admin_dashboard.php:447
+msgid "Before Post List"
+msgstr "Bago ang listahan ng post"
+
+#: admin-dashboard/admin_dashboard.php:450
+msgid ""
+"Shown before posts in blog or archive pages. Use <!--next--> to rotate "
+"multiple ads."
+msgstr ""
+"Ipinakita bago ang mga post sa mga pahina ng blog o archive. Gumamit ng "
+"<!-Susunod-> upang paikutin ang maraming mga ad."
+
+#: admin-dashboard/admin_dashboard.php:455
+msgid "After Post List"
+msgstr "Pagkatapos ng listahan ng post"
+
+#: admin-dashboard/admin_dashboard.php:458
+msgid ""
+"Shown after posts in archive or blog listings. Supports ad rotation using <!"
+"--next--> tag."
+msgstr ""
+"Ipinakita pagkatapos ng mga post sa mga listahan ng archive o blog. "
+"Sinusuportahan ang pag-ikot ng ad gamit ang <!-Susunod-> tag."
+
+#: admin-dashboard/admin_dashboard.php:463
+msgid "Between Posts"
+msgstr "Sa pagitan ng mga post"
+
+#: admin-dashboard/admin_dashboard.php:466
+msgid ""
+"Manually inserted between posts in archive loop using hooks/snippets. Rotate"
+" with <!--next--> if needed."
+msgstr ""
+"Manu -manong nakapasok sa pagitan ng mga post sa archive loop gamit ang mga "
+"kawit/snippet. Paikutin kasama ang <!-Susunod-> kung kinakailangan."
+
+#: admin-dashboard/admin_dashboard.php:471
+msgid "Save Ads Settings"
+msgstr "I -save ang Mga Setting ng Ads"
+
+#: admin-dashboard/admin_dashboard.php:476
+msgid "Helpful YouTube Videos"
+msgstr "Nakatutulong na mga video sa YouTube"
+
+#: admin-dashboard/admin_dashboard.php:481
+msgid "Launch Your News Website Quickly"
+msgstr "Mabilis na ilunsad ang iyong website ng balita"
+
+#: admin-dashboard/admin_dashboard.php:482
+msgid "Use our free accessible theme to build a news site without coding."
+msgstr ""
+"Gamitin ang aming libreng naa -access na tema upang makabuo ng isang site ng"
+" balita nang walang pag -cod."
+
+#: admin-dashboard/admin_dashboard.php:489
+msgid "Multi-Author Collaboration"
+msgstr "Pakikipagtulungan ng maraming may-akda"
+
+#: admin-dashboard/admin_dashboard.php:490
+msgid "Learn how to manage multiple authors smoothly with our plugin."
+msgstr ""
+"Alamin kung paano pamahalaan nang maayos ang maraming mga may -akda sa aming"
+" plugin."
+
+#: admin-dashboard/admin_dashboard.php:497
+msgid "Import Gutenberg Patterns"
+msgstr "Mag -import ng mga pattern ng Gutenberg"
+
+#: admin-dashboard/admin_dashboard.php:498
+msgid "Easily import templates and patterns for consistent layouts."
+msgstr ""
+"Madaling mag -import ng mga template at pattern para sa pare -pareho ang mga"
+" layout."
+
+#: admin-dashboard/admin_dashboard.php:505
+msgid "Elementor Tutorial for Beginners"
+msgstr "Elementor tutorial para sa mga nagsisimula"
+
+#: admin-dashboard/admin_dashboard.php:506
+msgid "Build a professional news site fast with no coding needed."
+msgstr ""
+"Bumuo ng isang propesyonal na site ng balita nang mabilis na walang "
+"kinakailangang coding."
+
+#: admin-dashboard/admin_dashboard.php:513
+msgid "Multilingual Translation Guide"
+msgstr "Gabay sa Pagsasalin ng Multilingual"
+
+#: admin-dashboard/admin_dashboard.php:514
+msgid "Step-by-step guide to translate your site into multiple languages."
+msgstr ""
+"Hakbang-hakbang na gabay upang isalin ang iyong site sa maraming wika."
+
+#: admin-dashboard/admin_dashboard.php:570
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr ""
+"Ang plugin ng TemplatePare ay dapat na mai -update sa pinakabagong bersyon"
+
+#: admin-dashboard/admin_dashboard.php:573
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+"Mag -import ng isang starter site, i -personalize, at mabuhay ito sa 3 "
+"madaling hakbang!"
+
+#: admin-dashboard/admin_dashboard.php:639
+msgid "Blockspare plugin version should be more than %s."
+msgstr ""
+"Ang bersyon ng Plugin ng BlockSpare ay dapat na higit pa sa Ph_0_Token."
+
+#: admin-dashboard/admin_dashboard.php:644
+#: admin-dashboard/admin_dashboard.php:714
+msgid "One-click Import, No Coding Hassle!"
+msgstr "One-click ang pag-import, walang gulo ng coding!"
+
+#: admin-dashboard/admin_dashboard.php:713
+msgid "Elespare plugin version should be more than %s."
+msgstr "Ang bersyon ng plugin ng ELPARE ay dapat na higit pa sa %s."
+
+#: admin-dashboard/admin_dashboard.php:790
+msgid "Are you sure you want to install this plugin?"
+msgstr "Sigurado ka bang nais mong i -install ang plugin na ito?"
+
+#: admin-dashboard/admin_dashboard.php:791
+#: admin-dashboard/rest-api/api-request.php:26
+msgid "Install Now"
+msgstr "I -install ngayon"
+
+#: admin-dashboard/admin_dashboard.php:792
+#: admin-dashboard/rest-api/api-request.php:70
+#: lib/tgm/class-tgm-plugin-activation.php:2736
+msgid "Activate"
+msgstr "Buhayin"
+
+#: admin-dashboard/admin_dashboard.php:793
+#: admin-dashboard/rest-api/api-request.php:66
+msgid "Activated"
+msgstr "Aktibo"
+
+#: admin-dashboard/admin_dashboard.php:896
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:106
+msgid "Get Starter Sites"
+msgstr "Kumuha ng mga site ng starter"
+
+#: admin-dashboard/admin_dashboard.php:901
+#: admin-dashboard/rest-api/class-admin-notice.php:110
+#: admin-dashboard/src/components/blockspare.demo.js:27
+#: admin-dashboard/src/components/elespare-demo.js:29
+#: admin-dashboard/src/components/templatespare-demo.js:56
+msgid "Get Started"
+msgstr "Magsimula"
+
+#: admin-dashboard/admin_dashboard.php:902
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"Ang aksyon na \"Magsimula\" ay mai -install/buhayin ang mga plugin ng "
+"TemplatePare at Blockspare para sa mga site ng starter at template."
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "Ni"
+
+#: admin-dashboard/rest-api/api-request.php:114
+msgid "More Details"
+msgstr "Higit pang mga detalye"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:111
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare  plugin "
+"for Starter Sites and Templates."
+msgstr ""
+"Ang aksyon na \"Magsimula\" ay mai -install/buhayin ang plugin ng "
+"TemplatePare para sa mga site ng starter at template."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:125
+msgid "Howdy!"
+msgstr "Howdy!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:127
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr ""
+"Ang PH_0_Token ay naka -install na ngayon at handa nang gamitin. Nagtipon "
+"kami ng ilang mga link upang makapagsimula ka."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:161
+msgid "Explore Our Pre-Built Starter Websites!"
+msgstr "Galugarin ang aming mga pre-built starter website!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:162
+msgid ""
+"Let your imagination soar! Designed with User-Friendly features, "
+"incorporating the Latest Trends and SEO-Friendly Markups. We genuinely "
+"appreciate you choosing our theme!"
+msgstr ""
+"Hayaang lumubog ang iyong imahinasyon! Dinisenyo gamit ang mga tampok na "
+"user-friendly, na isinasama ang pinakabagong mga uso at mga markup na SEO-"
+"friendly. Tunay na pinahahalagahan namin ang pagpili ng aming tema!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:166
+msgid "Demos/product"
+msgstr "Mga demo/produkto"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:168
+msgid "Theme dashboard"
+msgstr "Dashboard ng tema"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:192
+#: admin-dashboard/src/components/json/dashboard-content.js:14
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "Dokumentasyon"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:193 lib/info/info.php:56
+#: lib/info/info.php:119
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr ""
+"Mangyaring suriin ang aming buong dokumentasyon para sa detalyadong "
+"impormasyon sa kung paano i -setup at ipasadya ang tema."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:194
+msgid "Docs"
+msgstr "Mga doc"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:195
+msgid "Videos"
+msgstr "Mga video"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:196
+msgid "Blog"
+msgstr "Blog"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197 lib/info/info.php:46
+#: admin-dashboard/src/components/json/dashboard-content.js:18
+msgid "Rate This Theme"
+msgstr "I -rate ang temang ito"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:9
+#: admin-dashboard/rest-api/class-ajaxcall.php:136
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+"Paumanhin, hindi ka pinapayagan na mag -install ng mga plugin sa site na "
+"ito."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:16
+#: admin-dashboard/rest-api/class-ajaxcall.php:76
+#: admin-dashboard/rest-api/class-ajaxcall.php:143
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Error - Hindi ma -verify ang nonce, mangyaring subukang muli."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:69
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+"Paumanhin, hindi ka pinapayagan na buhayin ang mga plugin sa site na ito."
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Isang naisip sa ph_0_Token"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "PH_1_Token Naisip sa PH_0_Token"
+msgstr[1] "%1$s SLACTS SA &ldquo;%2$s&rdquo;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Ang mga komento ay sarado."
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:176 inc/customizer/builder/builder-structure.php:413
+msgid "%1$s by %2$s."
+msgstr "PH_0_TOKen ni Ph_1_Token."
+
+#: functions.php:153 inc/class-amp-compatible.php:154
+#: inc/customizer/builder/builder-structure.php:249
+#: inc/hooks/hook-header-section.php:159
+msgid "Primary Menu"
+msgstr "Pangunahing menu"
+
+#: functions.php:154
+msgid "Top Menu"
+msgstr "Nangungunang menu"
+
+#: functions.php:155 inc/customizer/builder/options.php:264
+#: inc/customizer/builder/options.php:269
+#: inc/customizer/builder/options.php:394
+#: inc/customizer/builder/options.php:399
+msgid "Social Menu"
+msgstr "Menu ng Panlipunan"
+
+#: functions.php:156
+msgid "Footer Menu"
+msgstr "Menu ng footer"
+
+#: functions.php:601
+msgid "You already reacted."
+msgstr "Nag -reaksyon ka na."
+
+#: functions.php:602
+msgid "Thanks for reacting!"
+msgstr "Salamat sa pag -reaksyon!"
+
+#: functions.php:603
+msgid "Error occurred."
+msgstr "Naganap ang error."
+
+#: header.php:55
+msgid "Skip to content"
+msgstr "Laktawan sa Nilalaman"
+
+#: inc/ajax-loadmore-functions.php:21
+msgid "Load More"
+msgstr "Mag -load pa"
+
+#: inc/class-amp-compatible.php:192 inc/class-amp-compatible.php:196
+#: inc/hooks/hook-header-section.php:192
+msgid "Open search form"
+msgstr "Buksan ang Form ng Paghahanap"
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"I -click ang setting ng PH_0_Tokenph_1_Token sa bawat elemento upang "
+"ipasadya ang mga setting nito."
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr "Itago ang panel ng tagabuo"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr "Itago ang tagabuo"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr "Mga kontrol sa view ng aparato"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr "Pumili ng isang elemento"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr "Isara ang Element Modal"
+
+#: inc/customizer/builder/class-header-footer-builder.php:82
+msgid "Footer Layout"
+msgstr "Layout ng footer"
+
+#: inc/customizer/builder/class-header-footer-builder.php:95
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr ""
+"Lumikha ng dynamic na header nang walang kahirap-hirap sa tagabuo ng drag-"
+"and-drop."
+
+#: inc/customizer/builder/class-header-footer-builder.php:96
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr ""
+"Lumikha ng dynamic na footer nang walang kahirap-hirap sa tagabuo ng drag-"
+"and-drop."
+
+#: inc/customizer/builder/class-header-footer-builder.php:99
+#: inc/customizer/theme-options.php:3102
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/builder/class-header-footer-builder.php:115
+msgid "Enable %s Builder"
+msgstr "Paganahin ang %s Tagabuo"
+
+#: inc/customizer/builder/class-header-footer-builder.php:278
+msgid "Add Element"
+msgstr "Magdagdag ng elemento"
+
+#: inc/customizer/builder/class-header-footer-builder.php:279
+msgid "Remove Element"
+msgstr "Alisin ang elemento"
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Configure Element"
+msgstr "I -configure ang elemento"
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Element Settings"
+msgstr "Mga setting ng elemento"
+
+#: inc/customizer/builder/header-builder-structure.php:188
+#: inc/hooks/blocks/block-header-layout-default-2.php:100
+#: inc/hooks/blocks/block-header-layout-default-3.php:99
+#: inc/hooks/blocks/block-header-layout-default-4.php:92
+#: inc/hooks/blocks/block-header-layout-default.php:89
+#: inc/hooks/hook-header-section.php:119
+msgid "close Off-Canvas Navigation"
+msgstr "Isara ang pag-navigate sa canvas"
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:467
+msgid "Site & Logo"
+msgstr "Site at Logo"
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:473
+#: inc/customizer/builder/options.php:479
+msgid "Site Identity"
+msgstr "Pagkakakilanlan ng Site"
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:478
+msgid "You can change Site Identity from %s."
+msgstr "Maaari mong baguhin ang pagkakakilanlan ng site mula sa Ph_0_Token."
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:487
+#: inc/customizer/builder/options.php:492
+msgid "Promotion"
+msgstr "Promosyon"
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:505
+#: inc/widgets/widgets-register-sidebars.php:82
+msgid "Off Canvas"
+msgstr "Off canvas"
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:510
+msgid "Off Canvas Widget Area"
+msgstr "Off na lugar ng widget ng canvas"
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:515
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr ""
+"Ang lugar ng widget na ito ay ginagamit sa mobile off-canvas panel. "
+"PH_0_Token"
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:295
+#: inc/customizer/builder/options.php:313
+#: inc/customizer/builder/options.php:331
+#: inc/customizer/builder/options.php:427
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:461
+#: inc/customizer/builder/options.php:516
+msgid "Manage widgets"
+msgstr "Pamahalaan ang mga widget"
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:524
+msgid "Primary menu"
+msgstr "Pangunahing menu"
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:350
+#: inc/customizer/builder/options.php:529
+#: inc/customizer/builder/options.php:550
+#: inc/customizer/builder/options.php:646
+msgid "Select Menu"
+msgstr "Piliin ang menu"
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:276
+#: inc/customizer/builder/options.php:357
+#: inc/customizer/builder/options.php:406
+#: inc/customizer/builder/options.php:536
+#: inc/customizer/builder/options.php:557
+msgid "You can change Menu from menu panel. %s"
+msgstr "Maaari mong baguhin ang menu mula sa panel ng menu. PH_0_Token"
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:277
+#: inc/customizer/builder/options.php:358
+#: inc/customizer/builder/options.php:407
+#: inc/customizer/builder/options.php:537
+#: inc/customizer/builder/options.php:558
+msgid "Manage menu"
+msgstr "Pamahalaan ang menu"
+
+#: inc/customizer/builder/options.php:167
+#: inc/customizer/builder/options.php:621
+msgid "Date"
+msgstr "Petsa"
+
+#: inc/customizer/builder/options.php:172
+#: inc/customizer/builder/options.php:626
+msgid "Choose date format"
+msgstr "Piliin ang Format ng Petsa"
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:179
+msgid ""
+"You can change date from general settings (Settings > General > Date "
+"Format). %s"
+msgstr ""
+"Maaari mong baguhin ang petsa mula sa Pangkalahatang Mga Setting (Mga "
+"Setting> Pangkalahatan> Format ng Petsa). PH_0_Token"
+
+#: inc/customizer/builder/options.php:180
+msgid "Manage Date"
+msgstr "Pamahalaan ang petsa"
+
+#: inc/customizer/builder/options.php:186
+#: inc/customizer/builder/options.php:545
+msgid "Top Navigation"
+msgstr "Nangungunang nabigasyon"
+
+#: inc/customizer/builder/options.php:206
+#: inc/customizer/builder/options.php:211
+#: inc/customizer/builder/options.php:567
+#: inc/customizer/builder/options.php:572
+msgid "Site Mode"
+msgstr "Mode ng site"
+
+#: inc/customizer/builder/options.php:220
+#: inc/customizer/builder/options.php:366
+msgid "Custom HTML"
+msgstr "Pasadyang html"
+
+#: inc/customizer/builder/options.php:225
+#: inc/customizer/builder/options.php:371
+msgid "HTML Content"
+msgstr "Nilalaman ng html"
+
+#: inc/customizer/builder/options.php:234
+#: inc/customizer/builder/options.php:600
+msgid "Search"
+msgstr "Maghanap"
+
+#: inc/customizer/builder/options.php:239
+#: inc/customizer/builder/options.php:605
+msgid "Searc Form"
+msgstr "Form ng paghahanap"
+
+#: inc/customizer/builder/options.php:248
+#: inc/customizer/builder/options.php:584
+msgid "Custom Link"
+msgstr "Pasadyang link"
+
+#: inc/customizer/builder/options.php:253
+#: inc/customizer/builder/options.php:589
+msgid "Custom link"
+msgstr "Pasadyang link"
+
+#: inc/customizer/builder/options.php:256
+#: inc/customizer/builder/options.php:592
+msgid "live"
+msgstr "Live"
+
+#: inc/customizer/builder/options.php:283
+#: inc/customizer/builder/options.php:416
+msgid "Widget 1"
+msgstr "Widget 1"
+
+#: inc/customizer/builder/options.php:288
+#: inc/customizer/builder/options.php:306
+#: inc/customizer/builder/options.php:324
+#: inc/customizer/builder/options.php:421
+#: inc/customizer/builder/options.php:438
+#: inc/customizer/builder/options.php:455
+msgid "Select Widget"
+msgstr "Piliin ang Widget"
+
+#: inc/customizer/builder/options.php:294
+#: inc/customizer/builder/options.php:312
+#: inc/customizer/builder/options.php:330
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:443
+#: inc/customizer/builder/options.php:460
+msgid "Add widget to display . %s"
+msgstr "Magdagdag ng widget upang ipakita. PH_0_Token"
+
+#: inc/customizer/builder/options.php:301
+#: inc/customizer/builder/options.php:433
+msgid "Widget 2"
+msgstr "Widget 2"
+
+#: inc/customizer/builder/options.php:319
+#: inc/customizer/builder/options.php:450
+msgid "Widget 3"
+msgstr "Widget 3"
+
+#: inc/customizer/builder/options.php:345
+msgid "Navigation"
+msgstr "Nabigasyon"
+
+#: inc/customizer/builder/options.php:381
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/builder/options.php:482
+#: inc/customizer/builder/options.php:497
+#: inc/customizer/builder/options.php:519
+#: inc/customizer/builder/options.php:540
+#: inc/customizer/builder/options.php:561
+#: inc/customizer/builder/options.php:577
+#: inc/customizer/builder/options.php:594
+#: inc/customizer/builder/options.php:615
+#: inc/customizer/builder/options.php:632
+msgid "Beta"
+msgstr "Beta"
+
+#. translators: %s is a link to manage header
+#: inc/customizer/builder/options.php:610
+msgid "You can manage header site mode, search and live text from here. %s"
+msgstr ""
+"Maaari mong pamahalaan ang mode ng site ng header, maghanap at live na "
+"teksto mula rito. PH_0_Token"
+
+#: inc/customizer/builder/options.php:611
+msgid "Manage Header"
+msgstr "Pamahalaan ang header"
+
+#: inc/customizer/builder/options.php:651
+msgid "No menu assigned"
+msgstr "Walang itinalagang menu"
+
+#: inc/customizer/customizer-control.php:192
+msgid "-- Select --"
+msgstr "-Piliin-"
+
+#: inc/customizer/customizer-default.php:53 inc/template-functions.php:2395
+#: inc/template-functions.php:2438 inc/template-functions.php:2477
+msgid "Subscribe"
+msgstr "Mag -subscribe"
+
+#: inc/customizer/customizer-default.php:68
+#: inc/customizer/frontpage-options.php:2047
+msgid "Popular Tags"
+msgstr "Mga sikat na tag"
+
+#: inc/customizer/customizer-default.php:75
+#: inc/customizer/frontpage-options.php:2111 inc/template-functions.php:2319
+#: inc/template-functions.php:2348 inc/template-functions.php:2392
+#: inc/template-functions.php:2413 inc/template-functions.php:2437
+#: inc/template-functions.php:2460 inc/template-functions.php:2478
+#: inc/template-functions.php:2499 inc/template-functions.php:2543
+#: inc/template-functions.php:2567
+msgid "Breaking News"
+msgstr "Breaking News"
+
+#: inc/customizer/customizer-default.php:80
+#: inc/customizer/customizer-default.php:85
+msgid "Prime News"
+msgstr "Punong Balita"
+
+#: inc/customizer/customizer-default.php:86
+#: inc/customizer/customizer-default.php:371
+msgid "Related Stories"
+msgstr "Mga kaugnay na kwento"
+
+#: inc/customizer/customizer-default.php:93
+msgid "Youtube video Section"
+msgstr "Seksyon ng video sa YouTube"
+
+#: inc/customizer/customizer-default.php:95
+msgid "Featured Videos"
+msgstr "Itinatampok na mga video"
+
+#: inc/customizer/customizer-default.php:102
+msgid "Express Posts Section"
+msgstr "Ipahayag ang seksyon ng mga post"
+
+#: inc/customizer/customizer-default.php:104
+msgid "Express Posts 1"
+msgstr "Ipahayag ang mga post 1"
+
+#: inc/customizer/customizer-default.php:105
+msgid "Express Posts 2"
+msgstr "Ipahayag ang mga post 2"
+
+#: inc/customizer/customizer-default.php:111
+msgid "Posts List Section"
+msgstr "Seksyon ng listahan ng mga post"
+
+#: inc/customizer/customizer-default.php:113 inc/template-functions.php:2298
+#: inc/template-functions.php:2358 inc/template-functions.php:2513
+msgid "General"
+msgstr "Pangkalahatan"
+
+#: inc/customizer/customizer-default.php:115
+#: inc/customizer/customizer-default.php:180 inc/template-functions.php:2299
+#: inc/template-functions.php:2359 inc/widgets/widget-posts-tabs.php:51
+#: inc/widgets/widget-posts-tabs.php:120 inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widgets-common-functions.php:115
+#: lib/tgm/class-tgm-plugin-activation.php:2733
+msgid "Update"
+msgstr "I -update"
+
+#: inc/customizer/customizer-default.php:117
+#: inc/customizer/customizer-default.php:185 inc/template-functions.php:2300
+#: inc/template-functions.php:2360 inc/template-functions.php:2515
+msgid "More"
+msgstr "Higit pa"
+
+#: inc/customizer/customizer-default.php:122
+#: inc/customizer/frontpage-options.php:2747
+msgid "Posts Carousel"
+msgstr "Nag -post ng Carousel"
+
+#: inc/customizer/customizer-default.php:138
+msgid "Main News"
+msgstr "Pangunahing balita"
+
+#: inc/customizer/customizer-default.php:143
+#: inc/customizer/customizer-default.php:170 inc/template-functions.php:2569
+#: inc/widgets/widget-posts-tabs.php:45 inc/widgets/widget-posts-tabs.php:112
+#: inc/widgets/widget-posts-tabs.php:113
+msgid "Latest"
+msgstr "Pinakabagong"
+
+#: inc/customizer/customizer-default.php:144
+#: inc/customizer/customizer-default.php:160 inc/template-functions.php:2509
+#: inc/template-functions.php:2568 inc/widgets/widget-posts-tabs.php:48
+#: inc/widgets/widget-posts-tabs.php:116 inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widgets-common-functions.php:102
+msgid "Popular"
+msgstr "Tanyag"
+
+#: inc/customizer/customizer-default.php:145 inc/template-functions.php:2570
+msgid "Trending"
+msgstr "Trending"
+
+#: inc/customizer/customizer-default.php:148
+#: inc/customizer/customizer-default.php:211
+#: inc/customizer/customizer-default.php:340 inc/template-functions.php:2397
+msgid "Trending Now"
+msgstr "Trending ngayon"
+
+#: inc/customizer/customizer-default.php:154
+msgid "Popular Now"
+msgstr "Popular ngayon"
+
+#: inc/customizer/customizer-default.php:165 inc/template-functions.php:2292
+#: inc/template-functions.php:2588
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer/customizer-default.php:175
+#: inc/customizer/theme-options.php:2907
+msgid "Top"
+msgstr "Tuktok"
+
+#: inc/customizer/customizer-default.php:206
+#: inc/customizer/customizer-default.php:224 inc/template-functions.php:2396
+msgid "Editor's Picks"
+msgstr "Mga pick ng editor"
+
+#: inc/customizer/customizer-default.php:227
+msgid "Trending Story"
+msgstr "Trending Story"
+
+#: inc/customizer/customizer-default.php:232
+#: inc/customizer/frontpage-options.php:2243
+msgid "Featured Posts"
+msgstr "Mga tampok na post"
+
+#: inc/customizer/customizer-default.php:239
+msgid "Featured Categories"
+msgstr "Itinatampok na mga kategorya"
+
+#: inc/customizer/customizer-default.php:240
+msgid "Featured Pages"
+msgstr "Mga tampok na pahina"
+
+#: inc/customizer/customizer-default.php:241
+msgid "Custom Options"
+msgstr "Pasadyang mga pagpipilian"
+
+#: inc/customizer/customizer-default.php:244
+msgid "Post list Section Title %d"
+msgstr "Pamagat ng Seksyon ng Listahan ng Listahan ng Ph_0_Token"
+
+#: inc/customizer/customizer-default.php:250
+msgid "View More"
+msgstr "Tingnan pa"
+
+#: inc/customizer/customizer-default.php:273
+msgid "Read More"
+msgstr "Magbasa pa"
+
+#: inc/customizer/customizer-default.php:335
+msgid "What do you feel about this?"
+msgstr "Ano ang nararamdaman mo tungkol dito?"
+
+#: inc/customizer/customizer-default.php:351
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "Kumonekta sa amin"
+
+#: inc/customizer/customizer-default.php:357
+#: inc/widgets/widget-author-info.php:170
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/customizer-default.php:363 inc/template-functions.php:2321
+#: inc/template-functions.php:2486 inc/template-functions.php:2532
+msgid "Popular News"
+msgstr "Tanyag na balita"
+
+#: inc/customizer/customizer-default.php:380
+msgid "Subscribe To  Our Newsletter"
+msgstr "Mag -subscribe sa aming newsletter"
+
+#: inc/customizer/customizer-default.php:389
+#: inc/customizer/theme-options.php:2921
+msgid "You May Have Missed"
+msgstr "Baka napalampas mo"
+
+#: inc/customizer/customizer-default.php:393
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr "Copyright at Kopyahin; {year} Nakalaan ang lahat ng mga karapatan."
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr "Kulay ng background ng katawan"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr "Laki ng pamagat ng site"
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr "Mataas na pamagat ng site at tagline"
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr "Pamagat ng Site/Kulay ng Tagline"
+
+#: inc/customizer/customizer.php:154
+msgid "Header Image"
+msgstr "Imahe ng header"
+
+#: inc/customizer/customizer.php:175
+msgid "Header Image Mode"
+msgstr "Mode ng imahe ng header"
+
+#: inc/customizer/customizer.php:176
+msgid "Image visibility may vary as per the mode"
+msgstr ""
+"Ang kakayahang makita ang imahe ay maaaring mag -iba tulad ng bawat mode"
+
+#: inc/customizer/customizer.php:180
+msgid "Above Site Title"
+msgstr "Sa itaas ng pamagat ng site"
+
+#: inc/customizer/customizer.php:181
+msgid "Set as Background"
+msgstr "Itakda bilang background"
+
+#: inc/customizer/customizer.php:182
+msgid "Show Full Image (Background)"
+msgstr "Ipakita ang buong imahe (background)"
+
+#: inc/customizer/customizer.php:201
+msgid "Disable Image Tint/Overlay"
+msgstr "Huwag paganahin ang imahe ng tint/overlay"
+
+#: inc/customizer/font-color-options.php:25
+msgid "Site Title/Tagline Color (Dark Mode)"
+msgstr "Pamagat ng Site/Kulay ng Tagline (Madilim na Mode)"
+
+#: inc/customizer/font-color-options.php:47
+msgid "Site Color Mode"
+msgstr "Mode ng kulay ng site"
+
+#: inc/customizer/font-color-options.php:48
+msgid "If the mode switch is in the menu, please test it using the toggle."
+msgstr ""
+"Kung ang switch ng mode ay nasa menu, mangyaring subukan ito gamit ang "
+"toggle."
+
+#: inc/customizer/font-color-options.php:52
+msgid "Light"
+msgstr "Magaan"
+
+#: inc/customizer/font-color-options.php:53
+msgid "Dark"
+msgstr "Madilim"
+
+#: inc/customizer/font-color-options.php:72
+msgid "Primary Color Section "
+msgstr "Pangunahing seksyon ng kulay"
+
+#: inc/customizer/font-color-options.php:94
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr ""
+"Kulay ng background ng katawan (madilim na mode) ay ilalapat para sa mode na"
+" ito."
+
+#: inc/customizer/font-color-options.php:118
+msgid "Body Background Color (Dark Mode)"
+msgstr "Kulay ng background ng katawan (madilim na mode)"
+
+#: inc/customizer/font-color-options.php:142
+#: inc/customizer/font-color-options.php:169
+msgid "Box Background Color"
+msgstr "Kulay ng background ng kahon"
+
+#: inc/customizer/font-color-options.php:198
+#: inc/customizer/font-color-options.php:222
+msgid "Primary Color"
+msgstr "Pangunahing Kulay"
+
+#: inc/customizer/font-color-options.php:244
+msgid "Secondary Color Section "
+msgstr "Pangalawang Seksyon ng Kulay"
+
+#: inc/customizer/font-color-options.php:269
+msgid "Secondary Color"
+msgstr "Pangalawang kulay"
+
+#: inc/customizer/font-color-options.php:294
+msgid "Texts over Secondary Color"
+msgstr "Mga teksto sa ibabaw ng pangalawang kulay"
+
+#: inc/customizer/font-color-options.php:317
+msgid "Top Header Section "
+msgstr "Nangungunang seksyon ng header"
+
+#: inc/customizer/font-color-options.php:341
+#: inc/customizer/font-color-options.php:414
+#: inc/customizer/font-color-options.php:1219
+#: inc/customizer/font-color-options.php:1300
+msgid "Background Color"
+msgstr "Kulay ng background"
+
+#: inc/customizer/font-color-options.php:365
+#: inc/customizer/font-color-options.php:1247
+#: inc/customizer/font-color-options.php:1324
+msgid "Texts Color"
+msgstr "Kulay ng mga teksto"
+
+#: inc/customizer/font-color-options.php:390
+msgid "Primary Navigation Section "
+msgstr "Pangunahing seksyon ng nabigasyon"
+
+#: inc/customizer/font-color-options.php:438
+msgid "Menu Item Color"
+msgstr "Kulay ng item ng menu"
+
+#: inc/customizer/font-color-options.php:462
+msgid "Badge Background"
+msgstr "Background ng badge"
+
+#: inc/customizer/font-color-options.php:486
+msgid "Badge Text Color"
+msgstr "Kulay ng teksto ng badge"
+
+#: inc/customizer/font-color-options.php:511
+msgid "Watch Online Background"
+msgstr "Panoorin ang online na background"
+
+#: inc/customizer/font-color-options.php:536
+msgid "Breaking News Background"
+msgstr "Paglabag sa background ng balita"
+
+#: inc/customizer/font-color-options.php:559
+msgid "Archive/Widgets Section "
+msgstr "Seksyon ng Archive/Widget"
+
+#: inc/customizer/font-color-options.php:582
+#: inc/customizer/font-color-options.php:606
+msgid "Post Title"
+msgstr "POST Pamagat"
+
+#: inc/customizer/font-color-options.php:630
+msgid "Post Title Over Image"
+msgstr "Mag -post ng pamagat sa imahe"
+
+#: inc/customizer/font-color-options.php:656
+msgid "Category Color Section "
+msgstr "Seksyon ng kulay ng kategorya"
+
+#: inc/customizer/font-color-options.php:668
+msgid "Category Colors"
+msgstr "Mga Kulay ng kategorya"
+
+#: inc/customizer/font-color-options.php:692
+msgid "Category %d Background"
+msgstr "Kategorya Ph_0_Token background"
+
+#: inc/customizer/font-color-options.php:715
+msgid "Category %d Texts Color"
+msgstr "Kategorya Ph_0_Token Kulay ng Mga Teksto"
+
+#: inc/customizer/font-color-options.php:730
+msgid "Fonts & Typography"
+msgstr "Mga font at typography"
+
+#: inc/customizer/font-color-options.php:753
+msgid "Font Family Section"
+msgstr "Seksyon ng Pamilya ng Font"
+
+#: inc/customizer/font-color-options.php:776
+msgid "Fonts Source"
+msgstr "Pinagmulan ng mga font"
+
+#: inc/customizer/font-color-options.php:780
+msgid "Theme (Google) Fonts"
+msgstr "Tema (Google) font"
+
+#: inc/customizer/font-color-options.php:781
+msgid "System Fonts"
+msgstr "Mga font ng system"
+
+#: inc/customizer/font-color-options.php:801
+msgid "Site Title Font"
+msgstr "Pamagat ng Pamagat ng Site"
+
+#: inc/customizer/font-color-options.php:823
+msgid "Primary Font"
+msgstr "Pangunahing font"
+
+#: inc/customizer/font-color-options.php:845
+msgid "Secondary Font"
+msgstr "Pangalawang font"
+
+#: inc/customizer/font-color-options.php:869
+msgid "Texts Formatting Section"
+msgstr "Seksyon ng Pag -format ng Mga Teksto"
+
+#: inc/customizer/font-color-options.php:891
+msgid "Title Font Weight"
+msgstr "Pamagat na timbang ng font"
+
+#: inc/customizer/font-color-options.php:892
+#: inc/customizer/font-color-options.php:923
+#: inc/customizer/font-color-options.php:1005
+#: inc/customizer/font-color-options.php:1026
+#: inc/customizer/font-color-options.php:1047
+#: inc/customizer/font-color-options.php:1067
+#: inc/customizer/font-color-options.php:1088
+#: inc/customizer/font-color-options.php:1109
+#: inc/customizer/font-color-options.php:1129
+#: inc/customizer/font-color-options.php:1152
+#: inc/customizer/font-color-options.php:1173
+msgid "Default Value: %d"
+msgstr "Halaga ng Default: Ph_0_Token"
+
+#: inc/customizer/font-color-options.php:896
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/font-color-options.php:897
+msgid "200"
+msgstr "200"
+
+#: inc/customizer/font-color-options.php:898
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/font-color-options.php:899
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/font-color-options.php:900
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/font-color-options.php:901
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/font-color-options.php:902
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/font-color-options.php:903
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/font-color-options.php:904
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/font-color-options.php:922
+msgid "Global Letter Spacing"
+msgstr "Global letter spacing"
+
+#: inc/customizer/font-color-options.php:942
+msgid "Title Line height"
+msgstr "Taas ang Pamagat ng Pamagat"
+
+#: inc/customizer/font-color-options.php:943
+#: inc/customizer/font-color-options.php:963
+msgid "Default Value: %g"
+msgstr "Halaga ng Default: Ph_0_Token"
+
+#: inc/customizer/font-color-options.php:962
+msgid "Global Line height"
+msgstr "Taas ng pandaigdigang linya"
+
+#: inc/customizer/font-color-options.php:984
+msgid "Font Size Section"
+msgstr "Seksyon ng laki ng font"
+
+#: inc/customizer/font-color-options.php:1004
+msgid "General Font Size"
+msgstr "Pangkalahatang laki ng font"
+
+#: inc/customizer/font-color-options.php:1025
+msgid "Global Section Title Size"
+msgstr "Laki ng pamagat ng pandaigdigang seksyon"
+
+#: inc/customizer/font-color-options.php:1046
+msgid "Big Spotlight Post Title Size"
+msgstr "Ang laki ng pamagat ng Big Spotlight Post"
+
+#: inc/customizer/font-color-options.php:1066
+msgid "Medium Spotlight Post Title Size"
+msgstr "Laki ng Pamagat ng Pamagat ng Pamagat ng Spotlight"
+
+#: inc/customizer/font-color-options.php:1087
+msgid "General Post Title Size (Grid)"
+msgstr "Pangkalahatang laki ng pamagat ng post (grid)"
+
+#: inc/customizer/font-color-options.php:1108
+msgid "General Post Title Size (List)"
+msgstr "Pangkalahatang Laki ng Pamagat ng Post (Listahan)"
+
+#: inc/customizer/font-color-options.php:1128
+msgid "General Grid Post Title Size"
+msgstr "Pangkalahatang laki ng pamagat ng grid"
+
+#: inc/customizer/font-color-options.php:1151
+msgid "Single Page/Posts Title Size"
+msgstr "Single na laki ng Pahina/Post ng Pamagat"
+
+#: inc/customizer/font-color-options.php:1172
+msgid "Single Page/Posts Paragraph Size"
+msgstr "Single Page/Post Laki ng talata"
+
+#: inc/customizer/font-color-options.php:1193
+msgid "MailChimp Section"
+msgstr "Seksyon ng Mailchimp"
+
+#: inc/customizer/font-color-options.php:1277
+msgid "Footer Section"
+msgstr "Seksyon ng Footer"
+
+#: inc/customizer/font-color-options.php:1348
+msgid "Credits Background Color"
+msgstr "Kulay ng background ng kredito"
+
+#: inc/customizer/font-color-options.php:1371
+msgid "Credits Texts Color"
+msgstr "Kulay ng Mga Teksto ng Kredito"
+
+#: inc/customizer/frontpage-options.php:23
+#: admin-dashboard/src/components/json/home-content.js:45
+msgid "Main Banner Options"
+msgstr "Pangunahing mga pagpipilian sa banner"
+
+#: inc/customizer/frontpage-options.php:38
+msgid "Main Banner"
+msgstr "Pangunahing banner"
+
+#: inc/customizer/frontpage-options.php:59
+msgid "Enable Main Banner Section"
+msgstr "Paganahin ang pangunahing seksyon ng banner"
+
+#: inc/customizer/frontpage-options.php:84
+msgid "Main Banner Background Image"
+msgstr "Pangunahing imahe sa background ng banner"
+
+#: inc/customizer/frontpage-options.php:85
+#: inc/customizer/theme-options.php:340 inc/customizer/theme-options.php:3141
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Inirerekumendang laki ng %1$s PX X %2$s PX"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select Main Banner Layout"
+msgstr "Piliin ang pangunahing layout ng banner"
+
+#: inc/customizer/frontpage-options.php:115
+msgid "Slider, Trending and Tabs"
+msgstr "Slider, trending at mga tab"
+
+#: inc/customizer/frontpage-options.php:116
+msgid "Slider, Tiles and Tabs"
+msgstr "Slider, tile at tab"
+
+#: inc/customizer/frontpage-options.php:117
+msgid "Slider, Tiles and Trending"
+msgstr "Slider, tile at trending"
+
+#: inc/customizer/frontpage-options.php:118
+msgid "Slider and Double Tiles"
+msgstr "Slider at dobleng tile"
+
+#: inc/customizer/frontpage-options.php:119
+msgid "Slider and Tiles"
+msgstr "Slider at tile"
+
+#: inc/customizer/frontpage-options.php:120
+msgid "Slider and Double Tabs"
+msgstr "Slider at dobleng mga tab"
+
+#: inc/customizer/frontpage-options.php:121
+msgid "Slider and Single Tabs"
+msgstr "Slider at solong mga tab"
+
+#: inc/customizer/frontpage-options.php:122
+msgid "Slider and Double Trending"
+msgstr "Slider at Double Trending"
+
+#: inc/customizer/frontpage-options.php:123
+msgid "Slider and Single Trending"
+msgstr "Slider at solong trending"
+
+#: inc/customizer/frontpage-options.php:124
+msgid "2 Columns Carousel"
+msgstr "2 mga haligi carousel"
+
+#: inc/customizer/frontpage-options.php:125
+msgid "3 Columns Carousel"
+msgstr "3 Mga Haligi Carousel"
+
+#: inc/customizer/frontpage-options.php:126
+msgid "4 Columns Carousel"
+msgstr "4 na mga haligi carousel"
+
+#: inc/customizer/frontpage-options.php:127
+msgid "Single Slider"
+msgstr "Solong slider"
+
+#: inc/customizer/frontpage-options.php:148
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/frontpage-options.php:205
+msgid "Select Main Banner Order"
+msgstr "Piliin ang pangunahing order ng banner"
+
+#: inc/customizer/frontpage-options.php:152
+#: inc/customizer/frontpage-options.php:183
+#: inc/customizer/frontpage-options.php:209
+msgid "Order 1"
+msgstr "Order 1"
+
+#: inc/customizer/frontpage-options.php:153
+#: inc/customizer/frontpage-options.php:184
+#: inc/customizer/frontpage-options.php:210
+msgid "Order 2"
+msgstr "Order 2"
+
+#: inc/customizer/frontpage-options.php:154
+#: inc/customizer/frontpage-options.php:211
+msgid "Order 3"
+msgstr "Order 3"
+
+#: inc/customizer/frontpage-options.php:155
+#: inc/customizer/frontpage-options.php:212
+msgid "Order 4"
+msgstr "Order 4"
+
+#: inc/customizer/frontpage-options.php:156
+msgid "Order 5"
+msgstr "Order 5"
+
+#: inc/customizer/frontpage-options.php:157
+msgid "Order 6"
+msgstr "Order 6"
+
+#: inc/customizer/frontpage-options.php:238
+msgid "Main News Section "
+msgstr "Pangunahing seksyon ng balita"
+
+#: inc/customizer/frontpage-options.php:257
+#: inc/customizer/frontpage-options.php:430
+#: inc/customizer/frontpage-options.php:593
+#: inc/customizer/frontpage-options.php:755
+#: inc/customizer/frontpage-options.php:921
+#: inc/customizer/frontpage-options.php:1090
+#: inc/customizer/frontpage-options.php:1255
+#: inc/customizer/frontpage-options.php:1420
+#: inc/customizer/frontpage-options.php:1587
+#: inc/customizer/frontpage-options.php:1752
+#: inc/customizer/frontpage-options.php:1917
+#: inc/customizer/frontpage-options.php:2095
+#: inc/customizer/frontpage-options.php:2159
+#: inc/customizer/frontpage-options.php:2286
+#: inc/customizer/frontpage-options.php:2399
+#: inc/customizer/frontpage-options.php:2519
+#: inc/customizer/frontpage-options.php:2787
+msgid "Section Title "
+msgstr "Pamagat ng Seksyon"
+
+#: inc/customizer/frontpage-options.php:283
+#: inc/customizer/frontpage-options.php:460
+#: inc/customizer/frontpage-options.php:623
+#: inc/customizer/frontpage-options.php:786
+#: inc/customizer/frontpage-options.php:952
+#: inc/customizer/frontpage-options.php:1120
+#: inc/customizer/frontpage-options.php:1284
+#: inc/customizer/frontpage-options.php:1449
+#: inc/customizer/frontpage-options.php:1617
+#: inc/customizer/frontpage-options.php:1781
+#: inc/customizer/frontpage-options.php:1946
+#: inc/widgets/widget-popular-posts.php:117
+msgid "Filter Posts By"
+msgstr "Mga Post ng Filter ni"
+
+#: inc/customizer/frontpage-options.php:287
+#: inc/customizer/frontpage-options.php:464
+#: inc/customizer/frontpage-options.php:627
+#: inc/customizer/frontpage-options.php:790
+#: inc/customizer/frontpage-options.php:956
+#: inc/customizer/frontpage-options.php:1124
+#: inc/customizer/frontpage-options.php:1288
+#: inc/customizer/frontpage-options.php:1453
+#: inc/customizer/frontpage-options.php:1621
+#: inc/customizer/frontpage-options.php:1785
+#: inc/customizer/frontpage-options.php:1950
+#: inc/customizer/frontpage-options.php:2546
+#: inc/customizer/frontpage-options.php:2615
+#: inc/customizer/frontpage-options.php:2727
+msgid "Category"
+msgstr "Kategorya"
+
+#: inc/customizer/frontpage-options.php:288
+#: inc/customizer/frontpage-options.php:465
+#: inc/customizer/frontpage-options.php:628
+#: inc/customizer/frontpage-options.php:791
+#: inc/customizer/frontpage-options.php:957
+#: inc/customizer/frontpage-options.php:1125
+#: inc/customizer/frontpage-options.php:1289
+#: inc/customizer/frontpage-options.php:1454
+#: inc/customizer/frontpage-options.php:1622
+#: inc/customizer/frontpage-options.php:1786
+#: inc/customizer/frontpage-options.php:1951
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/customizer/frontpage-options.php:289
+#: inc/customizer/frontpage-options.php:466
+#: inc/customizer/frontpage-options.php:629
+#: inc/customizer/frontpage-options.php:792
+#: inc/customizer/frontpage-options.php:958
+#: inc/customizer/frontpage-options.php:1126
+#: inc/customizer/frontpage-options.php:1290
+#: inc/customizer/frontpage-options.php:1455
+#: inc/customizer/frontpage-options.php:1623
+#: inc/customizer/frontpage-options.php:1787
+#: inc/customizer/frontpage-options.php:1952
+#: inc/customizer/theme-options.php:945
+msgid "Comment Count"
+msgstr "Bilang ng Komento"
+
+#: inc/customizer/frontpage-options.php:290
+#: inc/customizer/frontpage-options.php:467
+#: inc/customizer/frontpage-options.php:630
+#: inc/customizer/frontpage-options.php:793
+#: inc/customizer/frontpage-options.php:959
+#: inc/customizer/frontpage-options.php:1127
+#: inc/customizer/frontpage-options.php:1291
+#: inc/customizer/frontpage-options.php:1456
+#: inc/customizer/frontpage-options.php:1624
+#: inc/customizer/frontpage-options.php:1788
+#: inc/customizer/frontpage-options.php:1953
+#: inc/customizer/theme-options.php:982
+msgid "View Count"
+msgstr "Tingnan ang Bilang"
+
+#: inc/customizer/frontpage-options.php:313
+#: inc/widgets/widget-express-posts-list.php:137
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:140
+msgid "Select Category"
+msgstr "Piliin ang kategorya"
+
+#: inc/customizer/frontpage-options.php:314
+msgid "Select category to be shown on main slider section"
+msgstr "Piliin ang kategorya na maipakita sa seksyon ng Main Slider"
+
+#: inc/customizer/frontpage-options.php:346
+#: inc/customizer/frontpage-options.php:530
+#: inc/customizer/frontpage-options.php:693
+#: inc/customizer/frontpage-options.php:858
+#: inc/customizer/frontpage-options.php:1024
+#: inc/customizer/frontpage-options.php:1191
+#: inc/customizer/frontpage-options.php:1356
+#: inc/customizer/frontpage-options.php:1521
+#: inc/customizer/frontpage-options.php:1688
+#: inc/customizer/frontpage-options.php:1853
+#: inc/customizer/frontpage-options.php:2018
+#: inc/widgets/widget-trending-posts-by-tag.php:121
+msgid "Select Tag"
+msgstr "Piliin ang tag"
+
+#: inc/customizer/frontpage-options.php:347
+msgid "Select tag to be shown on main slider section"
+msgstr "Piliin ang tag na maipakita sa seksyon ng Main Slider"
+
+#: inc/customizer/frontpage-options.php:375
+#: inc/customizer/frontpage-options.php:2337
+#: inc/customizer/frontpage-options.php:2837
+#: inc/customizer/theme-options.php:2983
+msgid "Number of Posts"
+msgstr "Bilang ng mga post"
+
+#: inc/customizer/frontpage-options.php:376
+msgid "Accepts any postive number."
+msgstr "Tumatanggap ng anumang postive number."
+
+#: inc/customizer/frontpage-options.php:404
+msgid "Editor's Picks Section"
+msgstr "Seksyon ng pick ng editor"
+
+#: inc/customizer/frontpage-options.php:496
+#: inc/customizer/frontpage-options.php:659
+#: inc/customizer/frontpage-options.php:823
+#: inc/customizer/frontpage-options.php:989
+#: inc/customizer/frontpage-options.php:1157
+#: inc/customizer/frontpage-options.php:1322
+#: inc/customizer/frontpage-options.php:1487
+#: inc/customizer/frontpage-options.php:1654
+#: inc/customizer/frontpage-options.php:1819
+#: inc/customizer/frontpage-options.php:1984
+#: inc/widgets/widget-express-posts-grid.php:127
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "Piliin"
+
+#: inc/customizer/frontpage-options.php:567
+#: inc/customizer/frontpage-options.php:729
+msgid "Trending Section"
+msgstr "Seksyon ng Trending"
+
+#: inc/customizer/frontpage-options.php:895
+msgid "Trending Section 2"
+msgstr "Trending Seksyon 2"
+
+#: inc/customizer/frontpage-options.php:1063
+msgid "Latest Section"
+msgstr "Pinakabagong seksyon"
+
+#: inc/customizer/frontpage-options.php:1228
+msgid "Popular Section"
+msgstr "Sikat na seksyon"
+
+#: inc/customizer/frontpage-options.php:1393
+msgid "Updates Section"
+msgstr "Seksyon ng mga update"
+
+#: inc/customizer/frontpage-options.php:1560
+msgid "Tab 2: Latest Section"
+msgstr "Tab 2: Pinakabagong seksyon"
+
+#: inc/customizer/frontpage-options.php:1725
+msgid "Tab 2: Popular Section"
+msgstr "Tab 2: Sikat na Seksyon"
+
+#: inc/customizer/frontpage-options.php:1890
+msgid "Tabs 2: Updates Section"
+msgstr "Mga Tab 2: Seksyon ng Mga Update"
+
+#: inc/customizer/frontpage-options.php:2076
+msgid "Enable Trending Tags"
+msgstr "Paganahin ang mga tag ng trending"
+
+#: inc/customizer/frontpage-options.php:2140
+msgid "Enable Flash News"
+msgstr "Paganahin ang balita ng flash"
+
+#: inc/customizer/frontpage-options.php:2184
+msgid "Flash Posts Category"
+msgstr "Kategorya ng mga post ng flash"
+
+#: inc/customizer/frontpage-options.php:2185
+msgid "Select category to be shown on trending posts "
+msgstr "Piliin ang kategorya na maipakita sa mga post ng trending"
+
+#: inc/customizer/frontpage-options.php:2209
+msgid "Number of Flash Posts "
+msgstr "Bilang ng mga post ng flash"
+
+#: inc/customizer/frontpage-options.php:2228
+msgid "Front-page Options"
+msgstr "Mga pagpipilian sa harap na pahina"
+
+#: inc/customizer/frontpage-options.php:2266
+msgid "Enable Featured Post Section"
+msgstr "Paganahin ang itinampok na seksyon ng post"
+
+#: inc/customizer/frontpage-options.php:2312
+#: inc/customizer/frontpage-options.php:2812
+msgid "Select "
+msgstr "Piliin"
+
+#: inc/customizer/frontpage-options.php:2313
+#: inc/customizer/frontpage-options.php:2728
+#: inc/customizer/frontpage-options.php:2813
+msgid "Select category to be shown on featured section "
+msgstr "Piliin ang kategorya na maipakita sa itinatampok na seksyon"
+
+#: inc/customizer/frontpage-options.php:2352
+msgid "Youtube Videos"
+msgstr "Mga video sa YouTube"
+
+#: inc/customizer/frontpage-options.php:2381
+msgid "Show Youtube Video"
+msgstr "Ipakita ang video sa YouTube"
+
+#: inc/customizer/frontpage-options.php:2425
+msgid "YouTube Video URL %d"
+msgstr "YouTube Video URL %d"
+
+#: inc/customizer/frontpage-options.php:2426
+msgid "Add youtube video"
+msgstr "Magdagdag ng video sa YouTube"
+
+#: inc/customizer/frontpage-options.php:2449
+msgid "Express Posts"
+msgstr "Ipahayag ang mga post"
+
+#: inc/customizer/frontpage-options.php:2478
+msgid "Show Express Post Section"
+msgstr "Ipakita ang seksyon ng Express Post"
+
+#: inc/customizer/frontpage-options.php:2500
+msgid "Section 1"
+msgstr "Seksyon 1"
+
+#: inc/customizer/frontpage-options.php:2547
+#: inc/customizer/frontpage-options.php:2616
+msgid "Select category to be shown on express post section "
+msgstr "Piliin ang kategorya na maipakita sa seksyon ng Express Post"
+
+#: inc/customizer/frontpage-options.php:2570
+msgid "Section 2"
+msgstr "Seksyon 2"
+
+#: inc/customizer/frontpage-options.php:2592
+#: inc/customizer/frontpage-options.php:2702
+msgid "Section Title"
+msgstr "Pamagat ng Seksyon"
+
+#: inc/customizer/frontpage-options.php:2637
+msgid "Posts List"
+msgstr "Listahan ng mga post"
+
+#: inc/customizer/frontpage-options.php:2657
+msgid "Enable Post List Section"
+msgstr "Paganahin ang seksyon ng listahan ng post"
+
+#: inc/customizer/frontpage-options.php:2681
+msgid "Section %d"
+msgstr "Seksyon Ph_0_Token"
+
+#: inc/customizer/frontpage-options.php:2767
+msgid "Enable Posts Carousel Section"
+msgstr "Paganahin ang seksyon ng Carousel"
+
+#: inc/customizer/frontpage-options.php:2851
+msgid "Front-page Layout Settings"
+msgstr "Mga setting ng layout ng pahina sa harap"
+
+#: inc/customizer/frontpage-options.php:2873
+msgid "Front-page Content Display"
+msgstr "Ang pagpapakita ng nilalaman ng front-page"
+
+#: inc/customizer/frontpage-options.php:2874
+msgid "Select frontpage content display"
+msgstr "Piliin ang Display ng Nilalaman ng FrontPage"
+
+#: inc/customizer/frontpage-options.php:2878
+msgid "Front-page Widgets"
+msgstr "Mga widget sa harap-pahina"
+
+#: inc/customizer/frontpage-options.php:2879
+msgid "Page Contents & Front-page Widgets"
+msgstr "Mga nilalaman ng pahina at mga widget sa harap-pahina"
+
+#: inc/customizer/frontpage-options.php:2899
+msgid "Front-page Content Alignment"
+msgstr "Pag-align ng Nilalaman ng Nilalaman sa harap"
+
+#: inc/customizer/frontpage-options.php:2900
+msgid "Select frontpage content alignment"
+msgstr "Piliin ang Pag -align ng Nilalaman ng FrontPage"
+
+#: inc/customizer/frontpage-options.php:2904
+msgid "Home Content - Home Sidebar"
+msgstr "Nilalaman ng bahay - sidebar sa bahay"
+
+#: inc/customizer/frontpage-options.php:2905
+msgid "Home Sidebar - Home Content"
+msgstr "Home Sidebar - Nilalaman sa Bahay"
+
+#: inc/customizer/frontpage-options.php:2906
+msgid "Only Home Content"
+msgstr "Nilalaman lamang sa bahay"
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr "Mga pagpipilian sa header"
+
+#: inc/customizer/theme-options.php:47
+msgid "Header Settings"
+msgstr "Mga setting ng header"
+
+#: inc/customizer/theme-options.php:68
+msgid "Theme Header Layout"
+msgstr "Layout ng header ng tema"
+
+#: inc/customizer/theme-options.php:69
+msgid "Select built-in header layout from theme"
+msgstr "Piliin ang built-in na layout ng header mula sa tema"
+
+#: inc/customizer/theme-options.php:73
+msgid "Side"
+msgstr "Gilid"
+
+#: inc/customizer/theme-options.php:74
+msgid "Side 2"
+msgstr "Gilid 2"
+
+#: inc/customizer/theme-options.php:75
+msgid "Side 3"
+msgstr "Gilid 3"
+
+#: inc/customizer/theme-options.php:76
+msgid "Side 4"
+msgstr "Gilid 4"
+
+#: inc/customizer/theme-options.php:77
+msgid "Centered"
+msgstr "Nakasentro"
+
+#: inc/customizer/theme-options.php:78
+msgid "Centered 2"
+msgstr "Nakasentro sa 2"
+
+#: inc/customizer/theme-options.php:79
+msgid "Centered 3"
+msgstr "Nakasentro sa 3"
+
+#: inc/customizer/theme-options.php:80
+msgid "Centered 4"
+msgstr "Nakasentro sa 4"
+
+#: inc/customizer/theme-options.php:81
+msgid "Compressed"
+msgstr "Compress"
+
+#: inc/customizer/theme-options.php:82
+msgid "Compressed 2"
+msgstr "Compress 2"
+
+#: inc/customizer/theme-options.php:83
+msgid "Compressed 3"
+msgstr "Compress 3"
+
+#: inc/customizer/theme-options.php:84
+msgid "Compressed 4"
+msgstr "Compress 4"
+
+#: inc/customizer/theme-options.php:105
+msgid "Site Mode Switch"
+msgstr "Switch ng mode ng site"
+
+#: inc/customizer/theme-options.php:110
+msgid "Enable"
+msgstr "Paganahin"
+
+#: inc/customizer/theme-options.php:111 inc/customizer/theme-options.php:726
+#: inc/customizer/theme-options.php:754 inc/customizer/theme-options.php:781
+msgid "Disable"
+msgstr "Huwag paganahin"
+
+#: inc/customizer/theme-options.php:130
+msgid "Disable Sticky Header"
+msgstr "Huwag paganahin ang malagkit na header"
+
+#: inc/customizer/theme-options.php:134
+msgid "Sticky header works only with builder at bottom."
+msgstr "Ang malagkit na header ay gumagana lamang sa tagabuo sa ibaba."
+
+#: inc/customizer/theme-options.php:152
+msgid "Top Header Section"
+msgstr "Nangungunang seksyon ng header"
+
+#: inc/customizer/theme-options.php:176
+msgid "Show Top Header"
+msgstr "Ipakita ang tuktok na header"
+
+#: inc/customizer/theme-options.php:203
+msgid "Show Social Menu"
+msgstr "Ipakita ang Social Menu"
+
+#: inc/customizer/theme-options.php:230
+msgid "Show Date"
+msgstr "Petsa ng palabas"
+
+#: inc/customizer/theme-options.php:258
+msgid "Menu Border"
+msgstr "Border ng Menu"
+
+#: inc/customizer/theme-options.php:262 inc/customizer/theme-options.php:874
+#: inc/customizer/theme-options.php:949 inc/customizer/theme-options.php:986
+#: inc/customizer/theme-options.php:1256 inc/customizer/theme-options.php:1281
+msgid "Show"
+msgstr "Ipakita"
+
+#: inc/customizer/theme-options.php:263 inc/customizer/theme-options.php:875
+#: inc/customizer/theme-options.php:950 inc/customizer/theme-options.php:987
+#: inc/customizer/theme-options.php:1257 inc/customizer/theme-options.php:1282
+msgid "Hide"
+msgstr "Itago"
+
+#: inc/customizer/theme-options.php:277 inc/customizer/theme-options.php:298
+msgid "Header Advertisement"
+msgstr "Advertising ng header"
+
+#: inc/customizer/theme-options.php:339
+msgid "Header Section Advertisement"
+msgstr "Advertising ng seksyon ng header"
+
+#: inc/customizer/theme-options.php:365
+msgid "URL Link"
+msgstr "Link ng URL"
+
+#: inc/customizer/theme-options.php:384
+msgid "Open In New Tab"
+msgstr "Buksan sa bagong tab"
+
+#: inc/customizer/theme-options.php:405
+msgid "Show Header Advertisement On"
+msgstr "Ipakita ang header ad sa"
+
+#: inc/customizer/theme-options.php:406
+msgid "Select scope to display on header advertisement section"
+msgstr "Piliin ang Saklaw upang ipakita sa seksyon ng advertising ng header"
+
+#: inc/customizer/theme-options.php:410
+msgid "Show Site-wide"
+msgstr "Ipakita ang buong site"
+
+#: inc/customizer/theme-options.php:411
+msgid "Show on Homepage only"
+msgstr "Ipakita lamang sa homepage"
+
+#: inc/customizer/theme-options.php:423 lib/info/info.php:71
+#: admin-dashboard/src/components/json/home-content.js:92
+msgid "Theme Options"
+msgstr "Mga pagpipilian sa tema"
+
+#: inc/customizer/theme-options.php:441
+msgid "Site Layout Mode"
+msgstr "Mode ng layout ng site"
+
+#: inc/customizer/theme-options.php:463
+msgid "Theme Tone"
+msgstr "Tono ng tema"
+
+#: inc/customizer/theme-options.php:464
+msgid "Publish and reload to preview changes"
+msgstr "I -publish at i -reload sa mga pagbabago sa preview"
+
+#: inc/customizer/theme-options.php:468 inc/customizer/theme-options.php:587
+#: inc/customizer/theme-options.php:1636 inc/customizer/theme-options.php:2680
+#: inc/customizer/theme-options.php:2845 inc/hooks/hook-meta.php:80
+#: inc/hooks/hook-meta.php:297 inc/hooks/hook-meta.php:486
+msgid "Default"
+msgstr "Default"
+
+#: inc/customizer/theme-options.php:469
+msgid "BlackNews"
+msgstr "Blacknews"
+
+#: inc/customizer/theme-options.php:470
+msgid "CelebNews"
+msgstr "Celebnews"
+
+#: inc/customizer/theme-options.php:471
+msgid "CentralNews"
+msgstr "CentralNews"
+
+#: inc/customizer/theme-options.php:472
+msgid "GamerNews"
+msgstr "Gamernews"
+
+#: inc/customizer/theme-options.php:473 inc/template-functions.php:2329
+#: inc/template-functions.php:2423 inc/template-functions.php:2447
+#: inc/template-functions.php:2487 inc/template-functions.php:2533
+#: inc/template-functions.php:2553 inc/template-functions.php:2576
+#: inc/template-functions.php:2595
+msgid "General News"
+msgstr "Pangkalahatang Balita"
+
+#: inc/customizer/theme-options.php:474
+msgid "GlobalNews"
+msgstr "GlobalNews"
+
+#: inc/customizer/theme-options.php:475
+msgid "MoreMag"
+msgstr "Higit pang Mag"
+
+#: inc/customizer/theme-options.php:476
+msgid "NewsCorp"
+msgstr "Newscorp"
+
+#: inc/customizer/theme-options.php:477
+msgid "NewsDay"
+msgstr "Newsday"
+
+#: inc/customizer/theme-options.php:478
+msgid "Newsical"
+msgstr "Balita"
+
+#: inc/customizer/theme-options.php:479
+msgid "NewsLight"
+msgstr "Newslight"
+
+#: inc/customizer/theme-options.php:480 inc/customizer/theme-options.php:481
+msgid "NewsMore"
+msgstr "Newsmore"
+
+#: inc/customizer/theme-options.php:482
+msgid "SideNews"
+msgstr "Sidenews"
+
+#: inc/customizer/theme-options.php:502
+msgid "Layout Option"
+msgstr "Pagpipilian sa Layout"
+
+#: inc/customizer/theme-options.php:506
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/theme-options.php:507
+msgid "Wide"
+msgstr "Malawak"
+
+#: inc/customizer/theme-options.php:526
+msgid "Enable Box's Top/Bottom Gaps"
+msgstr "Paganahin ang tuktok/ilalim na gaps ng Box"
+
+#: inc/customizer/theme-options.php:541
+msgid "Breadcrumb Options"
+msgstr "Mga Pagpipilian sa Breadcrumb"
+
+#: inc/customizer/theme-options.php:562
+msgid "Show breadcrumbs"
+msgstr "Ipakita ang mga tinapay"
+
+#: inc/customizer/theme-options.php:582
+msgid "Select Breadcrumbs"
+msgstr "Piliin ang mga tinapay na tinapay"
+
+#: inc/customizer/theme-options.php:583
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr ""
+"Mangyaring tiyakin na pinagana mo ang mga tinapay na tinapay ng plugin bago "
+"pumili maliban sa default"
+
+#: inc/customizer/theme-options.php:588
+msgid "Yoast SEO"
+msgstr "Yoast seo"
+
+#: inc/customizer/theme-options.php:589
+msgid "Rank Math"
+msgstr "Ranggo ng matematika"
+
+#: inc/customizer/theme-options.php:590
+msgid "NavXT"
+msgstr "Navxt"
+
+#: inc/customizer/theme-options.php:609
+msgid "Global Settings"
+msgstr "Mga pandaigdigang setting"
+
+#: inc/customizer/theme-options.php:630
+msgid "Enable Preloader"
+msgstr "Paganahin ang preloader"
+
+#: inc/customizer/theme-options.php:650
+msgid "Disable Emoji Script"
+msgstr "Huwag paganahin ang script ng emoji"
+
+#: inc/customizer/theme-options.php:651
+msgid "GDPR friendly & better performance"
+msgstr "GDPR Friendly at Better Performance"
+
+#: inc/customizer/theme-options.php:672
+msgid "Disable built-in SEO meta tags"
+msgstr "Huwag paganahin ang mga built-in na SEO meta tags"
+
+#: inc/customizer/theme-options.php:673
+msgid "Recommended if you use an SEO plugin"
+msgstr "Inirerekumenda kung gumagamit ka ng isang plugin ng SEO"
+
+#: inc/customizer/theme-options.php:695
+msgid "Global Content Alignment"
+msgstr "Pag -align ng Global Nilalaman"
+
+#: inc/customizer/theme-options.php:699
+msgid "Content - Primary sidebar"
+msgstr "Nilalaman - Pangunahing sidebar"
+
+#: inc/customizer/theme-options.php:700
+msgid "Primary sidebar - Content"
+msgstr "Pangunahing sidebar - Nilalaman"
+
+#: inc/customizer/theme-options.php:701
+msgid "Full width content"
+msgstr "Buong nilalaman ng lapad"
+
+#: inc/customizer/theme-options.php:720
+msgid "Also Show Content Image in Archive"
+msgstr "Ipakita rin ang imahe ng nilalaman sa Archive"
+
+#: inc/customizer/theme-options.php:721
+msgid "If there is no Post Featured image set"
+msgstr "Kung walang set na itinatampok na set ng imahe"
+
+#: inc/customizer/theme-options.php:725 inc/customizer/theme-options.php:753
+#: inc/customizer/theme-options.php:780
+msgid "Enable "
+msgstr "Paganahin"
+
+#: inc/customizer/theme-options.php:748
+msgid "Image Lazy Loading"
+msgstr "Ang tamad na pag -load ng imahe"
+
+#: inc/customizer/theme-options.php:749
+msgid "Set for better performance"
+msgstr "Itakda para sa mas mahusay na pagganap"
+
+#: inc/customizer/theme-options.php:775
+msgid "Image Async Decoding"
+msgstr "Imahe ng pag -decode ng imahe"
+
+#: inc/customizer/theme-options.php:776
+msgid "Set to enhance rendering speed"
+msgstr "Itakda upang mapahusay ang bilis ng pag -render"
+
+#: inc/customizer/theme-options.php:803
+msgid "Widget Title Style"
+msgstr "Estilo ng Pamagat ng Widget"
+
+#: inc/customizer/theme-options.php:807
+msgid "Border Bottom"
+msgstr "Hangganan sa ilalim"
+
+#: inc/customizer/theme-options.php:808
+msgid "Border Center"
+msgstr "Border Center"
+
+#: inc/customizer/theme-options.php:809
+msgid "Fill and Border"
+msgstr "Punan at hangganan"
+
+#: inc/customizer/theme-options.php:810
+msgid "Fill"
+msgstr "Punan"
+
+#: inc/customizer/theme-options.php:811 inc/customizer/theme-options.php:838
+#: inc/customizer/theme-options.php:1131 inc/customizer/theme-options.php:1735
+#: inc/customizer/theme-options.php:2794 inc/template-functions.php:2009
+#: inc/template-functions.php:2091
+msgid "None"
+msgstr "Wala"
+
+#: inc/customizer/theme-options.php:832
+msgid "Scroll to Top Position"
+msgstr "Mag -scroll sa tuktok na posisyon"
+
+#: inc/customizer/theme-options.php:836 inc/customizer/theme-options.php:2653
+#: inc/hooks/hook-meta.php:292 inc/hooks/hook-meta.php:481
+msgid "Right"
+msgstr "Tama"
+
+#: inc/customizer/theme-options.php:837 inc/customizer/theme-options.php:2652
+#: inc/hooks/hook-meta.php:291 inc/hooks/hook-meta.php:480
+msgid "Left"
+msgstr "Kaliwa"
+
+#: inc/customizer/theme-options.php:850
+msgid "Categories Settings"
+msgstr "Mga setting ng kategorya"
+
+#: inc/customizer/theme-options.php:870
+msgid "Post Categories"
+msgstr "Mag -post ng mga kategorya"
+
+#: inc/customizer/theme-options.php:896
+msgid "Categories to be displayed"
+msgstr "Mga kategorya na ipapakita"
+
+#: inc/customizer/theme-options.php:900
+msgid "Show All"
+msgstr "Ipakita ang lahat"
+
+#: inc/customizer/theme-options.php:901
+msgid "Top One Category"
+msgstr "Nangungunang isang kategorya"
+
+#: inc/customizer/theme-options.php:902
+msgid "Custom"
+msgstr "Pasadya"
+
+#: inc/customizer/theme-options.php:923
+msgid "Number of Categories"
+msgstr "Bilang ng mga kategorya"
+
+#: inc/customizer/theme-options.php:961
+msgid "View Count Settings"
+msgstr "Tingnan ang Mga Setting ng Bilang"
+
+#: inc/customizer/theme-options.php:1007
+msgid "View Count Option"
+msgstr "Tingnan ang Bilang ng Pagbibilang"
+
+#: inc/customizer/theme-options.php:1008
+msgid "Select post view count for single post"
+msgstr "Piliin ang bilang ng post view para sa solong post"
+
+#: inc/customizer/theme-options.php:1012
+msgid "Default - Each View"
+msgstr "Default - bawat view"
+
+#: inc/customizer/theme-options.php:1013
+msgid "Count On Content Scroll"
+msgstr "Bilangin sa scroll scroll"
+
+#: inc/customizer/theme-options.php:1025
+msgid "Author and Date Settings"
+msgstr "Mga Setting ng May -akda at Petsa"
+
+#: inc/customizer/theme-options.php:1046
+msgid "For Spotlight Posts"
+msgstr "Para sa mga post ng spotlight"
+
+#: inc/customizer/theme-options.php:1050 inc/customizer/theme-options.php:1077
+#: inc/customizer/theme-options.php:1103
+msgid "Show Date and Author"
+msgstr "Ipakita ang petsa at may -akda"
+
+#: inc/customizer/theme-options.php:1051 inc/customizer/theme-options.php:1078
+#: inc/customizer/theme-options.php:1104
+msgid "Show Date Only"
+msgstr "Ipakita lamang ang petsa"
+
+#: inc/customizer/theme-options.php:1052 inc/customizer/theme-options.php:1079
+#: inc/customizer/theme-options.php:1105
+msgid "Show Author Only"
+msgstr "Ipakita lamang ang may -akda"
+
+#: inc/customizer/theme-options.php:1053 inc/customizer/theme-options.php:1080
+#: inc/customizer/theme-options.php:1106
+msgid "Hide All"
+msgstr "Itago lahat"
+
+#: inc/customizer/theme-options.php:1073
+msgid "For Small Grid"
+msgstr "Para sa maliit na grid"
+
+#: inc/customizer/theme-options.php:1099
+msgid "For List"
+msgstr "Para sa listahan"
+
+#: inc/customizer/theme-options.php:1125
+msgid "Author Icon/Gravatar"
+msgstr "Icon ng may -akda/gravatar"
+
+#: inc/customizer/theme-options.php:1129
+msgid "Show Gravatar"
+msgstr "Ipakita ang Gravatar"
+
+#: inc/customizer/theme-options.php:1130
+msgid "Show Icon"
+msgstr "Ipakita ang icon"
+
+#: inc/customizer/theme-options.php:1152
+msgid "Single Post Date Type"
+msgstr "Solong uri ng petsa ng post"
+
+#: inc/customizer/theme-options.php:1156 inc/customizer/theme-options.php:1182
+msgid "Published"
+msgstr "Nai -publish"
+
+#: inc/customizer/theme-options.php:1157 inc/customizer/theme-options.php:1183
+msgid "Modified"
+msgstr "Binago"
+
+#: inc/customizer/theme-options.php:1158 inc/customizer/theme-options.php:1184
+msgid "Both"
+msgstr "Pareho"
+
+#: inc/customizer/theme-options.php:1178
+msgid "Archive Post Date Type"
+msgstr "Uri ng Petsa ng Post ng Archive"
+
+#: inc/customizer/theme-options.php:1203 inc/template-analytics.php:472
+msgid "Date Format"
+msgstr "Format ng petsa"
+
+#: inc/customizer/theme-options.php:1207
+msgid "WordPress Default Date Format"
+msgstr "Format ng default na petsa ng WordPress"
+
+#: inc/customizer/theme-options.php:1208
+msgid "Ago Date Format"
+msgstr "Nakaraan format ng petsa"
+
+#: inc/customizer/theme-options.php:1209
+msgid "Year and Month Format"
+msgstr "Format ng Taon at Buwan"
+
+#: inc/customizer/theme-options.php:1210
+msgid "Month and Day Format"
+msgstr "Format ng Buwan at Araw"
+
+#: inc/customizer/theme-options.php:1211
+msgid "Year Format"
+msgstr "Format ng taon"
+
+#: inc/customizer/theme-options.php:1212
+msgid "Month Format"
+msgstr "Format ng buwan"
+
+#: inc/customizer/theme-options.php:1213
+msgid "Day Format"
+msgstr "Format ng araw"
+
+#: inc/customizer/theme-options.php:1214
+msgid "24 Hours Format"
+msgstr "24 na format na format"
+
+#: inc/customizer/theme-options.php:1215
+msgid "12 Hours Format"
+msgstr "12 oras na format"
+
+#: inc/customizer/theme-options.php:1231
+msgid "Minutes Read Count"
+msgstr "Mga minuto na nabasa ang bilang"
+
+#: inc/customizer/theme-options.php:1252
+msgid "Single Post Minutes Read Count"
+msgstr "Single Post Minuto Read Count"
+
+#: inc/customizer/theme-options.php:1277
+msgid "Archive Posts Minutes Read Count"
+msgstr "Ang mga post ng Archive ay nagbasa ng bilang"
+
+#: inc/customizer/theme-options.php:1303
+msgid "Number of Words per Minute Read"
+msgstr "Bilang ng mga salita bawat minuto basahin"
+
+#: inc/customizer/theme-options.php:1316
+msgid "Excerpt Settings"
+msgstr "Mga setting ng sipi"
+
+#: inc/customizer/theme-options.php:1337
+msgid "Global Excerpt Length"
+msgstr "Haba ng Pandaigdigang Sipi"
+
+#: inc/customizer/theme-options.php:1358
+msgid "Global Excerpt Read More"
+msgstr "Global sipi Magbasa nang higit pa"
+
+#: inc/customizer/theme-options.php:1381
+msgid "Custom Menu Section"
+msgstr "Seksyon ng pasadyang menu"
+
+#: inc/customizer/theme-options.php:1401
+msgid "Enable Custom Menu Section"
+msgstr "Paganahin ang seksyon ng pasadyang menu"
+
+#: inc/customizer/theme-options.php:1422
+msgid "Icon Mode"
+msgstr "Mode ng icon"
+
+#: inc/customizer/theme-options.php:1426
+msgid "Ripple"
+msgstr "Ripple"
+
+#: inc/customizer/theme-options.php:1427
+msgid "FontAwesome Icon"
+msgstr "Fontawesome icon"
+
+#: inc/customizer/theme-options.php:1448
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/customizer/theme-options.php:1475 inc/customizer/theme-options.php:2514
+#: inc/customizer/theme-options.php:3038
+#: inc/widgets/widget-author-info.php:164
+#: inc/widgets/widget-express-posts-grid.php:126
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-popular-posts.php:116
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-posts-tabs.php:113 inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widget-trending-posts-by-tag.php:120
+#: inc/widgets/widget-trending-posts-by-view.php:116
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr "Pamagat"
+
+#: inc/customizer/theme-options.php:1496
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/theme-options.php:1511
+msgid "Single Post"
+msgstr "Solong post"
+
+#: inc/customizer/theme-options.php:1531
+msgid "Show Featured Image"
+msgstr "Ipakita ang itinampok na imahe"
+
+#: inc/customizer/theme-options.php:1552
+msgid "Featured Image Size"
+msgstr "Itinatampok na laki ng imahe"
+
+#: inc/customizer/theme-options.php:1556 inc/customizer/theme-options.php:1612
+#: inc/customizer/theme-options.php:2605 inc/hooks/hook-meta.php:286
+#: inc/hooks/hook-meta.php:474
+msgid "Full"
+msgstr "Puno"
+
+#: inc/customizer/theme-options.php:1557
+msgid "Large"
+msgstr "Malaki"
+
+#: inc/customizer/theme-options.php:1558
+msgid "Medium"
+msgstr "Katamtaman"
+
+#: inc/customizer/theme-options.php:1559
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/customizer/theme-options.php:1579
+msgid "Featured Image Width"
+msgstr "Itinatampok na lapad ng imahe"
+
+#: inc/customizer/theme-options.php:1583
+msgid "Full - Default"
+msgstr "Buong - Default"
+
+#: inc/customizer/theme-options.php:1584
+msgid "Original"
+msgstr "Orihinal"
+
+#: inc/customizer/theme-options.php:1607
+msgid "Post Title Option"
+msgstr "Pagpipilian sa Pamagat ng Pag -post"
+
+#: inc/customizer/theme-options.php:1611
+msgid "Boxed - Default"
+msgstr "Boxed - Default"
+
+#: inc/customizer/theme-options.php:1632
+msgid "Single Content Mode"
+msgstr "Solong mode ng nilalaman"
+
+#: inc/customizer/theme-options.php:1637 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr "Maluwang"
+
+#: inc/customizer/theme-options.php:1656
+msgid "Enable Reading Progress Bar"
+msgstr "Paganahin ang Pagbasa ng Pag -unlad ng Bar"
+
+#: inc/customizer/theme-options.php:1709
+msgid "Social Share Options"
+msgstr "Mga pagpipilian sa pagbabahagi ng lipunan"
+
+#: inc/customizer/theme-options.php:1729
+msgid "Defined Links"
+msgstr "Tinukoy na mga link"
+
+#: inc/customizer/theme-options.php:1733
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/customizer/theme-options.php:1734
+msgid "JetPack"
+msgstr "Jetpack"
+
+#: inc/customizer/theme-options.php:1752
+msgid "Position"
+msgstr "Posisyon"
+
+#: inc/customizer/theme-options.php:1756
+msgid "Before and After Content"
+msgstr "Bago at pagkatapos ng nilalaman"
+
+#: inc/customizer/theme-options.php:1780
+#: inc/widgets/widget-author-info.php:169
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/theme-options.php:1808
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: inc/customizer/theme-options.php:1835
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/theme-options.php:1862
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/customizer/theme-options.php:1889
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/theme-options.php:1916
+msgid "Buffer App"
+msgstr "Buffer app"
+
+#: inc/customizer/theme-options.php:1944
+msgid "WhatsApp"
+msgstr "Whatsapp"
+
+#: inc/customizer/theme-options.php:1971
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer/theme-options.php:1998
+msgid "Line"
+msgstr "Linya"
+
+#: inc/customizer/theme-options.php:2025
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer/theme-options.php:2055
+msgid "Essential Posts Settings"
+msgstr "Mahahalagang Mga Setting ng Mga Post"
+
+#: inc/customizer/theme-options.php:2076
+msgid "Show Copy Post Link"
+msgstr "Ipakita ang link ng post ng kopya"
+
+#: inc/customizer/theme-options.php:2104
+msgid "Show Post Bookmark Option"
+msgstr "Ipakita ang pagpipilian sa Bookmark ng Post"
+
+#: inc/customizer/theme-options.php:2133
+msgid "Show Post Print Option"
+msgstr "Ipakita ang pagpipilian sa pag -print ng post"
+
+#: inc/customizer/theme-options.php:2160
+msgid "Show Post Badge"
+msgstr "Ipakita ang post badge"
+
+#: inc/customizer/theme-options.php:2180
+msgid "Show Post Subtitles"
+msgstr "Ipakita ang mga subtitle sa post"
+
+#: inc/customizer/theme-options.php:2200
+msgid "Show Post Featured Video"
+msgstr "Ipakita ang itinampok na video"
+
+#: inc/customizer/theme-options.php:2220
+msgid "Show Post Source Attribution"
+msgstr "Ipakita ang pag -aangkin ng mapagkukunan ng post"
+
+#: inc/customizer/theme-options.php:2240
+msgid "Show Post Sponsor"
+msgstr "Ipakita ang Post Sponsor"
+
+#: inc/customizer/theme-options.php:2262
+msgid "Below Posts Settings"
+msgstr "Sa ibaba ng mga setting ng post"
+
+#: inc/customizer/theme-options.php:2283
+msgid "Show Reactions under Content"
+msgstr "Ipakita ang mga reaksyon sa ilalim ng nilalaman"
+
+#: inc/customizer/theme-options.php:2305
+msgid "Reactions Section Title"
+msgstr "Pamagat ng Seksyon ng Reaksyon"
+
+#: inc/customizer/theme-options.php:2327
+msgid "Show Author Bio under Content"
+msgstr "Ipakita ang may -akda bio sa ilalim ng nilalaman"
+
+#: inc/customizer/theme-options.php:2348
+msgid "Show Tags under Content"
+msgstr "Ipakita ang mga tag sa ilalim ng nilalaman"
+
+#: inc/customizer/theme-options.php:2369
+msgid "Show Category under Content"
+msgstr "Ipakita ang kategorya sa ilalim ng nilalaman"
+
+#: inc/customizer/theme-options.php:2392
+msgid "Show MailChimp Subscription Box"
+msgstr "Ipakita ang kahon ng subscription sa MailChimp"
+
+#: inc/customizer/theme-options.php:2412
+msgid "Show Author's Posts"
+msgstr "Ipakita ang mga post ng may -akda"
+
+#: inc/customizer/theme-options.php:2431
+msgid "Show Bookmarked (Saved) Posts"
+msgstr "Ipakita ang mga nai -bookmark (nai -save) na mga post"
+
+#: inc/customizer/theme-options.php:2451
+msgid "Show Trending Posts List"
+msgstr "Ipakita ang listahan ng mga trending post"
+
+#: inc/customizer/theme-options.php:2473
+msgid "Related Posts Settings"
+msgstr "Mga Kaugnay na Mga Setting ng Mga Post"
+
+#: inc/customizer/theme-options.php:2494
+msgid "Enable Related Posts"
+msgstr "Paganahin ang mga kaugnay na post"
+
+#: inc/customizer/theme-options.php:2536
+msgid "Maximum Number of Related Posts"
+msgstr "Pinakamataas na bilang ng mga kaugnay na mga post"
+
+#: inc/customizer/theme-options.php:2556
+msgid "Archive Settings"
+msgstr "Mga setting ng archive"
+
+#: inc/customizer/theme-options.php:2577
+msgid "Disable Main Banner on Blog"
+msgstr "Huwag paganahin ang pangunahing banner sa blog"
+
+#: inc/customizer/theme-options.php:2598 inc/hooks/hook-meta.php:330
+#: inc/hooks/hook-meta.php:468
+msgid "Archive layout"
+msgstr "Layout ng Archive"
+
+#: inc/customizer/theme-options.php:2599 inc/hooks/hook-meta.php:336
+#: inc/hooks/hook-meta.php:517
+msgid "Select layout for archive"
+msgstr "Piliin ang Layout para sa Archive"
+
+#: inc/customizer/theme-options.php:2603 inc/hooks/hook-meta.php:285
+#: inc/hooks/hook-meta.php:473
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customizer/theme-options.php:2604
+msgid "List"
+msgstr "Ilista"
+
+#: inc/customizer/theme-options.php:2606 inc/hooks/hook-meta.php:287
+#: inc/hooks/hook-meta.php:475
+msgid "Masonry"
+msgstr "Pagmamason"
+
+#: inc/customizer/theme-options.php:2625
+msgid "Make First Post Full"
+msgstr "Gawing buong post ang unang post"
+
+#: inc/customizer/theme-options.php:2647 inc/customizer/theme-options.php:2675
+msgid "Image Alignment"
+msgstr "Pag -align ng imahe"
+
+#: inc/customizer/theme-options.php:2648 inc/customizer/theme-options.php:2676
+msgid "Select image alignment for archive"
+msgstr "Piliin ang Pag -align ng Imahe para sa Archive"
+
+#: inc/customizer/theme-options.php:2654 inc/customizer/theme-options.php:2681
+#: inc/hooks/hook-meta.php:293 inc/hooks/hook-meta.php:298
+#: inc/hooks/hook-meta.php:482 inc/hooks/hook-meta.php:487
+msgid "Alternate"
+msgstr "Kahalili"
+
+#: inc/customizer/theme-options.php:2682 inc/hooks/hook-meta.php:299
+#: inc/hooks/hook-meta.php:488
+msgid "Tile"
+msgstr "Tile"
+
+#: inc/customizer/theme-options.php:2683
+msgid "Default With List"
+msgstr "Default na may listahan"
+
+#: inc/customizer/theme-options.php:2704
+msgid "Grid Column Layout"
+msgstr "Layout ng haligi ng grid"
+
+#: inc/customizer/theme-options.php:2705
+msgid "Select column for archive grid"
+msgstr "Piliin ang Haligi para sa Archive Grid"
+
+#: inc/customizer/theme-options.php:2709 inc/customizer/theme-options.php:2737
+msgid "Two Column"
+msgstr "Dalawang haligi"
+
+#: inc/customizer/theme-options.php:2710 inc/customizer/theme-options.php:2738
+msgid "Three Column"
+msgstr "Tatlong haligi"
+
+#: inc/customizer/theme-options.php:2711 inc/customizer/theme-options.php:2739
+msgid "Four Column"
+msgstr "Apat na haligi"
+
+#: inc/customizer/theme-options.php:2732
+msgid "Select Masonry Layout"
+msgstr "Piliin ang Layout ng Masonry"
+
+#: inc/customizer/theme-options.php:2733
+msgid "Select masonry layout for archive"
+msgstr "Piliin ang Layout ng Masonry para sa Archive"
+
+#: inc/customizer/theme-options.php:2759
+msgid "Select Title Position"
+msgstr "Piliin ang posisyon ng pamagat"
+
+#: inc/customizer/theme-options.php:2760
+msgid "Select full layout for archive"
+msgstr "Piliin ang buong layout para sa archive"
+
+#: inc/customizer/theme-options.php:2764
+msgid "After Image"
+msgstr "Pagkatapos ng imahe"
+
+#: inc/customizer/theme-options.php:2765
+msgid "Before Image"
+msgstr "Bago ang imahe"
+
+#: inc/customizer/theme-options.php:2766
+msgid "Over Image"
+msgstr "Over Image"
+
+#: inc/customizer/theme-options.php:2787
+msgid "Content View"
+msgstr "View ng nilalaman"
+
+#: inc/customizer/theme-options.php:2788
+msgid "Select content view for archive"
+msgstr "Piliin ang View ng Nilalaman para sa Archive"
+
+#: inc/customizer/theme-options.php:2792
+msgid "Post Excerpt"
+msgstr "Mag -post ng sipi"
+
+#: inc/customizer/theme-options.php:2793
+msgid "Full Content"
+msgstr "Buong nilalaman"
+
+#: inc/customizer/theme-options.php:2815
+msgid "Search Results"
+msgstr "Mga resulta sa paghahanap"
+
+#: inc/customizer/theme-options.php:2816
+msgid "Select search results for archive"
+msgstr "Piliin ang mga resulta ng paghahanap para sa archive"
+
+#: inc/customizer/theme-options.php:2820
+msgid "All (Pages, Posts, etc)"
+msgstr "Lahat (mga pahina, post, atbp)"
+
+#: inc/customizer/theme-options.php:2821
+msgid "Posts"
+msgstr "Mga post"
+
+#: inc/customizer/theme-options.php:2840
+msgid "Pagination"
+msgstr "Pagination"
+
+#: inc/customizer/theme-options.php:2841
+msgid "Select pagination view for archive"
+msgstr "Piliin ang view ng pagination para sa archive"
+
+#: inc/customizer/theme-options.php:2846
+msgid "Ajax Load More"
+msgstr "Ajax Mag -load pa"
+
+#: inc/customizer/theme-options.php:2847
+msgid "Infinite Scroll"
+msgstr "Walang -hanggan scroll"
+
+#: inc/customizer/theme-options.php:2861
+msgid "Sidebar Settings"
+msgstr "Mga setting ng sidebar"
+
+#: inc/customizer/theme-options.php:2882
+msgid "Make Sidebar Sticky"
+msgstr "Gumawa ng sidebar malagkit"
+
+#: inc/customizer/theme-options.php:2903
+msgid "Sidebar Sticky Position"
+msgstr "Sidebar Sticky Position"
+
+#: inc/customizer/theme-options.php:2908
+msgid "Bottom"
+msgstr "Ilalim"
+
+#: inc/customizer/theme-options.php:2940 inc/customizer/theme-options.php:3018
+msgid "Show Above Footer"
+msgstr "Ipakita sa itaas ng footer"
+
+#: inc/customizer/theme-options.php:2960
+msgid "Posts Section Title"
+msgstr "Pamagat ng Seksyon ng Seksyon"
+
+#: inc/customizer/theme-options.php:2998
+msgid "Mailchimp Subscriptions"
+msgstr "Mga subscription sa Mailchimp"
+
+#: inc/customizer/theme-options.php:3060
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/theme-options.php:3083
+msgid "Visible In:"
+msgstr "Nakikita sa:"
+
+#: inc/customizer/theme-options.php:3088
+msgid "Front page only"
+msgstr "Pahina lamang sa harap"
+
+#: inc/customizer/theme-options.php:3089
+msgid "All pages"
+msgstr "Lahat ng mga pahina"
+
+#: inc/customizer/theme-options.php:3140
+msgid "Footer Background Image"
+msgstr "Larawan ng background ng footer"
+
+#: inc/customizer/theme-options.php:3167
+msgid "Copyright Text"
+msgstr "Teksto ng copyright"
+
+#: inc/customizer/theme-options.php:3168
+msgid "The {year} is used for current year"
+msgstr "Ang {pH_0_TOKEN} ay ginagamit para sa kasalukuyang ph_0_Token"
+
+#: inc/customizer/theme-options.php:3189
+msgid "Hide footer Menu Section"
+msgstr "Itago ang seksyon ng menu ng footer"
+
+#: inc/customizer/theme-options.php:3211
+msgid "Hide Theme Credits"
+msgstr "Itago ang mga kredito ng tema"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: inc/hooks/blocks/block-archive-list.php:20
+#: inc/hooks/blocks/block-archive-masonry.php:21
+#: template-parts/content-page.php:27 template-parts/content.php:86
+msgid "Pages:"
+msgstr "Mga pahina:"
+
+#: inc/hooks/blocks/block-header-layout-centered-2.php:112
+#: inc/hooks/blocks/block-header-layout-centered-3.php:112
+#: inc/hooks/blocks/block-header-layout-centered-4.php:114
+#: inc/hooks/blocks/block-header-layout-centered.php:95
+msgid "Close Off Canvas Navigation"
+msgstr "Isara ang pag -navigate ng canvas"
+
+#: inc/hooks/blocks/block-header-layout-compressed-2.php:48
+#: inc/hooks/blocks/block-header-layout-compressed-3.php:49
+#: inc/hooks/blocks/block-header-layout-compressed-4.php:49
+#: inc/hooks/blocks/block-header-layout-compressed.php:49
+msgid "Open Off-Canvas Navigation"
+msgstr "Buksan ang pag-navigate sa canvas"
+
+#: inc/hooks/blocks/block-post-author.php:14
+msgid "Author's Other Posts"
+msgstr "Iba pang mga post ng may -akda"
+
+#: inc/hooks/blocks/block-post-bookmarked.php:21
+msgid "Your Saved Posts"
+msgstr "Ang iyong nai -save na mga post"
+
+#: inc/hooks/hook-header-section.php:258 inc/hooks/hook-header-section.php:281
+msgid "Toggle light or dark mode"
+msgstr "I -toggle ang ilaw o madilim na mode"
+
+#: inc/hooks/hook-header-section.php:260 inc/hooks/hook-header-section.php:283
+msgid "Light/Dark Button"
+msgstr "Ilaw/madilim na pindutan"
+
+#: inc/hooks/hook-meta-analytics.php:55
+msgid "Post Analytics"
+msgstr "Mag -post ng analytics"
+
+#: inc/hooks/hook-meta-analytics.php:491
+msgid "Refresh analytics"
+msgstr "I -refresh ang analytics"
+
+#: inc/hooks/hook-meta-analytics.php:492
+msgid "Refresh Analytics"
+msgstr "I -refresh ang analytics"
+
+#: inc/hooks/hook-meta-analytics.php:499 inc/template-analytics.php:339
+msgid "Engagement"
+msgstr "Pakikipag -ugnayan"
+
+#: inc/hooks/hook-meta-analytics.php:500
+msgid "Views:"
+msgstr "Views:"
+
+#: inc/hooks/hook-meta-analytics.php:501
+msgid "Comments:"
+msgstr "Mga Komento:"
+
+#: inc/hooks/hook-meta-analytics.php:505 inc/template-analytics.php:338
+msgid "Content"
+msgstr "Nilalaman"
+
+#: inc/hooks/hook-meta-analytics.php:506
+msgid "Word Count:"
+msgstr "Bilang ng salita:"
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "Read Time:"
+msgstr "Basahin ang Oras:"
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "min"
+msgstr "min"
+
+#: inc/hooks/hook-meta-analytics.php:512
+msgid "Reactions (Chart)"
+msgstr "Mga reaksyon (tsart)"
+
+#: inc/hooks/hook-meta-analytics.php:513
+msgid "Reactions chart"
+msgstr "Tsart ng reaksyon"
+
+#: inc/hooks/hook-meta-analytics.php:517
+msgid "Reactions Stats"
+msgstr "Mga stats ng reaksyon"
+
+#: inc/hooks/hook-meta-analytics.php:536 inc/hooks/hook-meta-analytics.php:550
+msgid "Total"
+msgstr "Kabuuan"
+
+#: inc/hooks/hook-meta-analytics.php:543
+msgid "Links Breakdown (Chart)"
+msgstr "Mga Link Breakdown (Chart)"
+
+#: inc/hooks/hook-meta-analytics.php:544
+msgid "Links chart"
+msgstr "Tsart ng mga link"
+
+#: inc/hooks/hook-meta-analytics.php:548
+msgid "Links Stats"
+msgstr "Mga Link Stats"
+
+#: inc/hooks/hook-meta-analytics.php:551
+msgid "Internal"
+msgstr "Panloob"
+
+#: inc/hooks/hook-meta-analytics.php:552
+msgid "External"
+msgstr "Panlabas"
+
+#: inc/hooks/hook-meta-analytics.php:553
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: inc/hooks/hook-meta-analytics.php:554
+msgid "Target Blank"
+msgstr "Target na blangko"
+
+#: inc/hooks/hook-meta-analytics.php:555
+msgid "No Text"
+msgstr "Walang teksto"
+
+#: inc/hooks/hook-meta-analytics.php:558
+msgid "Shortest Link Text:"
+msgstr "Pinakamaikling text ng link:"
+
+#: inc/hooks/hook-meta-analytics.php:558 inc/hooks/hook-meta-analytics.php:559
+msgid "No link text found"
+msgstr "Walang nahanap na text na link"
+
+#: inc/hooks/hook-meta-analytics.php:559
+msgid "Longest Link Text:"
+msgstr "Pinakamahabang teksto ng link:"
+
+#: inc/hooks/hook-meta-analytics.php:562
+msgid "Examples Without Anchor Text (external):"
+msgstr "Mga halimbawa na walang teksto ng angkla (panlabas):"
+
+#: inc/hooks/hook-meta-analytics.php:575
+msgid "Top External Domains (Chart)"
+msgstr "Nangungunang panlabas na domain (tsart)"
+
+#: inc/hooks/hook-meta-analytics.php:576
+msgid "Top domains chart"
+msgstr "Nangungunang tsart ng domain"
+
+#: inc/hooks/hook-meta-analytics.php:580
+msgid "Most Linked External Sites"
+msgstr "Karamihan sa mga naka -link na panlabas na site"
+
+#: inc/hooks/hook-meta-analytics.php:585 inc/template-analytics.php:505
+msgid "No external domains found."
+msgstr "Walang nahanap na panlabas na mga domain."
+
+#: inc/hooks/hook-meta-analytics.php:591
+msgid "Explore Shortcuts"
+msgstr "Galugarin ang mga shortcut"
+
+#: inc/hooks/hook-meta-analytics.php:592
+msgid "View Author Archive"
+msgstr "Tingnan ang Archive ng May -akda"
+
+#: inc/hooks/hook-meta-analytics.php:593
+msgid "View Publish Day Archive"
+msgstr "Tingnan ang Archive ng Araw ng Pag -publish"
+
+#: inc/hooks/hook-meta-analytics.php:606
+msgid "Invalid post ID."
+msgstr "Di -wastong post ID."
+
+#: inc/hooks/hook-meta-analytics.php:608
+msgid "Unauthorized."
+msgstr "Hindi awtorisado."
+
+#: inc/hooks/hook-meta-analytics.php:612
+msgid "Nonce verification failed."
+msgstr "Nabigo ang pag -verify ng nonce."
+
+#: inc/hooks/hook-meta-analytics.php:616
+msgid "Post not found."
+msgstr "Hindi natagpuan ang post."
+
+#: inc/hooks/hook-meta-extra.php:15
+msgctxt "taxonomy general name"
+msgid "Post Badges"
+msgstr "Mag -post ng mga badge"
+
+#: inc/hooks/hook-meta-extra.php:16
+msgctxt "taxonomy singular name"
+msgid "Post Badge"
+msgstr "Mag -post ng badge"
+
+#: inc/hooks/hook-meta-extra.php:17
+msgid "Search Badges"
+msgstr "Maghanap ng mga badge"
+
+#: inc/hooks/hook-meta-extra.php:18
+msgid "All Badges"
+msgstr "Lahat ng mga badge"
+
+#: inc/hooks/hook-meta-extra.php:19
+msgid "Parent Badge"
+msgstr "Magulang badge"
+
+#: inc/hooks/hook-meta-extra.php:20
+msgid "Parent Badge:"
+msgstr "Magulang badge:"
+
+#: inc/hooks/hook-meta-extra.php:21
+msgid "Edit Badge"
+msgstr "I -edit ang badge"
+
+#: inc/hooks/hook-meta-extra.php:22
+msgid "Update Badge"
+msgstr "I -update ang Badge"
+
+#: inc/hooks/hook-meta-extra.php:23
+msgid "Add New Badge"
+msgstr "Magdagdag ng bagong badge"
+
+#: inc/hooks/hook-meta-extra.php:24
+msgid "New Badge Name"
+msgstr "Bagong pangalan ng badge"
+
+#: inc/hooks/hook-meta-extra.php:25
+msgid "Badges"
+msgstr "Mga badge"
+
+#: inc/hooks/hook-meta-extra.php:65 inc/hooks/hook-meta-extra.php:75
+msgid "Post Subtitle"
+msgstr "Mag -post ng subtitle"
+
+#: inc/hooks/hook-meta-extra.php:66
+msgid "Featured Video"
+msgstr "Itinatampok na video"
+
+#: inc/hooks/hook-meta-extra.php:67
+msgid "Source Attribution"
+msgstr "Pinagmulan ng mapagkukunan"
+
+#: inc/hooks/hook-meta-extra.php:68
+msgid "Sponsorship Settings"
+msgstr "Mga Setting ng Sponsorship"
+
+#: inc/hooks/hook-meta-extra.php:77
+msgid "Displayed below the post title."
+msgstr "Ipinakita sa ibaba ng pamagat ng post."
+
+#: inc/hooks/hook-meta-extra.php:83
+msgid "Featured Video URL"
+msgstr "Itinatampok na url ng video"
+
+#: inc/hooks/hook-meta-extra.php:85
+msgid "Paste YouTube, Vimeo, or Facebook link."
+msgstr "I -paste ang YouTube, Vimeo, o link sa Facebook."
+
+#: inc/hooks/hook-meta-extra.php:92
+msgid "Source Name"
+msgstr "Pangalan ng Pinagmulan"
+
+#: inc/hooks/hook-meta-extra.php:94
+msgid "Source URL"
+msgstr "Pinagmulan ng URL"
+
+#: inc/hooks/hook-meta-extra.php:104
+msgid "Mark as Sponsored"
+msgstr "Mark bilang sponsor"
+
+#: inc/hooks/hook-meta-extra.php:105
+msgid "Sponsor Name"
+msgstr "Pangalan ng Sponsor"
+
+#: inc/hooks/hook-meta-extra.php:107
+msgid "Sponsor URL"
+msgstr "Sponsor URL"
+
+#: inc/hooks/hook-meta-extra.php:158
+msgid "View posts with badge: %s"
+msgstr "Tingnan ang mga post na may badge: %s"
+
+#: inc/hooks/hook-meta-extra.php:178
+msgid "Source:"
+msgstr "Pinagmulan:"
+
+#: inc/hooks/hook-meta-extra.php:180
+msgid "Visit source: %s"
+msgstr "Bisitahin ang Pinagmulan: Ph_0_Token"
+
+#: inc/hooks/hook-meta-extra.php:203
+msgid "Sponsored by:"
+msgstr "Sponsored ni:"
+
+#: inc/hooks/hook-meta-extra.php:205
+msgid "Visit sponsor: %s"
+msgstr "Bisitahin ang Sponsor: Ph_0_Token"
+
+#: inc/hooks/hook-meta-extra.php:362
+msgid "Author Support & Donation"
+msgstr "Suporta at Donasyon ng may -akda"
+
+#: inc/hooks/hook-meta-extra.php:365
+msgid "Donation Link"
+msgstr "Link ng donasyon"
+
+#: inc/hooks/hook-meta-extra.php:368
+msgid ""
+"Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi)."
+msgstr ""
+"Ipasok ang iyong donasyon o suportahan ang URL (hal., PayPal.me, "
+"buymeacoffee, ko-fi)."
+
+#: inc/hooks/hook-meta-extra.php:372
+msgid "Donation Button Text"
+msgstr "Teksto ng pindutan ng donasyon"
+
+#: inc/hooks/hook-meta-extra.php:375
+msgid ""
+"Custom text for the donation button (e.g., \"Buy me a coffee\", \"Support "
+"Author\")."
+msgstr ""
+"Pasadyang teksto para sa pindutan ng donasyon (hal., \"Bilhin mo ako ng "
+"kape\", \"Suporta ng May -akda\")."
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "Mga pagpipilian sa layout"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "Mga pagpipilian sa nilalaman"
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr "Itakda bilang pandaigdigang layout"
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr ""
+"Mangyaring pumunta sa Customize> Mga Pagpipilian sa Tema para sa solong "
+"post/pahina."
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr "Mga pagpipilian sa sidebar"
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr "Nilalaman - Pangunahing sidebar"
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr "Pangunahing sidebar - Nilalaman"
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr "Walang sidebar"
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr ""
+"Mangyaring pumunta sa Customize> Mga pagpipilian sa harap na pahina para sa "
+"homepage."
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:227
+msgid "Category Color 1"
+msgstr "Kulay ng kategorya 1"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:228
+msgid "Category Color 2"
+msgstr "Kulay ng kategorya 2"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:229
+msgid "Category Color 3"
+msgstr "Kulay ng kategorya 3"
+
+#: inc/hooks/hook-meta.php:187 inc/hooks/hook-meta.php:230
+msgid "Category Color 4"
+msgstr "Kulay ng kategorya 4"
+
+#: inc/hooks/hook-meta.php:188 inc/hooks/hook-meta.php:231
+msgid "Category Color 5"
+msgstr "Kulay ng kategorya 5"
+
+#: inc/hooks/hook-meta.php:189 inc/hooks/hook-meta.php:232
+msgid "Category Color 6"
+msgstr "Kulay ng kategorya 6"
+
+#: inc/hooks/hook-meta.php:190 inc/hooks/hook-meta.php:233
+msgid "Category Color 7"
+msgstr "Kulay ng kategorya 7"
+
+#: inc/hooks/hook-meta.php:195 inc/hooks/hook-meta.php:223
+msgid "Color Class"
+msgstr "Kulay ng Kulay"
+
+#: inc/hooks/hook-meta.php:201 inc/hooks/hook-meta.php:242
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+"Piliin ang Klase ng Kulay ng kategorya. Maaari kang magtakda ng naaangkop na"
+" kulay ng mga kategorya sa seksyon ng \"Mga kategorya\" ng tema ng "
+"customizer."
+
+#: inc/hooks/hook-meta.php:284 inc/hooks/hook-meta.php:472
+msgid "list"
+msgstr "Ilista"
+
+#: inc/hooks/hook-meta.php:300 inc/hooks/hook-meta.php:489
+msgid "Default with list"
+msgstr "Default na may listahan"
+
+#: inc/hooks/hook-meta.php:304 inc/hooks/hook-meta.php:311
+#: inc/hooks/hook-meta.php:493 inc/hooks/hook-meta.php:500
+msgid "Two column"
+msgstr "Dalawang haligi"
+
+#: inc/hooks/hook-meta.php:305 inc/hooks/hook-meta.php:310
+#: inc/hooks/hook-meta.php:494 inc/hooks/hook-meta.php:499
+msgid "Three column"
+msgstr "Tatlong haligi"
+
+#: inc/hooks/hook-meta.php:306 inc/hooks/hook-meta.php:312
+#: inc/hooks/hook-meta.php:495 inc/hooks/hook-meta.php:501
+msgid "Four column"
+msgstr "Apat na haligi"
+
+#: inc/hooks/hook-meta.php:316 inc/hooks/hook-meta.php:505
+msgid "Title before image"
+msgstr "Pamagat bago ang imahe"
+
+#: inc/hooks/hook-meta.php:317 inc/hooks/hook-meta.php:506
+msgid "Image before title"
+msgstr "Larawan bago ang pamagat"
+
+#: inc/hooks/hook-meta.php:318 inc/hooks/hook-meta.php:507
+msgid "Title over Image"
+msgstr "Pamagat sa paglipas ng imahe"
+
+#: inc/hooks/hook-meta.php:341 inc/hooks/hook-meta.php:353
+#: inc/hooks/hook-meta.php:523 inc/hooks/hook-meta.php:537
+msgid "Archive Alignment"
+msgstr "Pag -align ng archive"
+
+#: inc/hooks/hook-meta.php:347 inc/hooks/hook-meta.php:530
+msgid "Select alignment for list archive layout"
+msgstr "Piliin ang Pag -align para sa Listahan ng Archive ng Listahan"
+
+#: inc/hooks/hook-meta.php:359 inc/hooks/hook-meta.php:544
+msgid "Select alignment for grid archive layout"
+msgstr "Piliin ang pagkakahanay para sa layout ng archive ng grid"
+
+#: inc/hooks/hook-meta.php:365
+msgid "Select grid column"
+msgstr "Piliin ang haligi ng Grid"
+
+#: inc/hooks/hook-meta.php:371 inc/hooks/hook-meta.php:558
+msgid "Select column layout for grid archive layout"
+msgstr "Piliin ang layout ng haligi para sa layout ng archive ng grid"
+
+#: inc/hooks/hook-meta.php:377 inc/hooks/hook-meta.php:564
+msgid "Select masonry layout"
+msgstr "Piliin ang Layout ng Masonry"
+
+#: inc/hooks/hook-meta.php:383 inc/hooks/hook-meta.php:572
+msgid "Select layout for masonry archive layout"
+msgstr "Piliin ang layout para sa layout ng archive ng pagmamason"
+
+#: inc/hooks/hook-meta.php:389 inc/hooks/hook-meta.php:578
+msgid "Select full layout"
+msgstr "Piliin ang buong layout"
+
+#: inc/hooks/hook-meta.php:395 inc/hooks/hook-meta.php:586
+msgid "Select layout for full archive layout"
+msgstr "Piliin ang layout para sa buong layout ng archive"
+
+#: inc/hooks/hook-meta.php:550
+msgid "Select grid layout"
+msgstr "Piliin ang layout ng grid"
+
+#: inc/hooks/hook-tgm.php:20
+msgid "Elespare"
+msgstr "ELESPARE"
+
+#: inc/hooks/hook-tgm.php:25
+msgid "Blockspare"
+msgstr "Blockspare"
+
+#: inc/hooks/hook-tgm.php:30
+msgid "Templatespare"
+msgstr "TemplatePare"
+
+#: inc/hooks/hook-tgm.php:35
+msgid "WP Post Author"
+msgstr "May -akda ng WP Post"
+
+#: inc/hooks/hook-tgm.php:40
+msgid "MailChimp for WordPress"
+msgstr "MailChimp para sa WordPress"
+
+#: inc/hooks/hook-tgm.php:45
+msgid "Free Live Chat using 3CX"
+msgstr "Libreng live chat gamit ang 3CX"
+
+#: inc/template-analytics.php:327
+msgid "📊 Site Analytics"
+msgstr "📊 Site Analytics"
+
+#: inc/template-analytics.php:330
+msgid "Refresh Stats"
+msgstr "I -refresh ang mga istatistika"
+
+#: inc/template-analytics.php:336
+msgid "Analytics tabs"
+msgstr "Mga tab na Analytics"
+
+#: inc/template-analytics.php:337
+msgid "Overview"
+msgstr "Pangkalahatang -ideya"
+
+#: inc/template-analytics.php:340
+msgid "Appearance"
+msgstr "Hitsura"
+
+#: inc/template-analytics.php:341
+msgid "Authors & Links"
+msgstr "Mga May -akda at Link"
+
+#: inc/template-analytics.php:347
+msgid "Charts"
+msgstr "Mga tsart"
+
+#: inc/template-analytics.php:350
+msgid "Posts Breakdown"
+msgstr "Mga Breakdown ng Post"
+
+#: inc/template-analytics.php:353
+msgid "Comments Breakdown"
+msgstr "Mga Komento Breakdown"
+
+#: inc/template-analytics.php:356
+msgid "Reactions Breakdown"
+msgstr "Breakdown ng reaksyon"
+
+#: inc/template-analytics.php:359
+msgid "Link Stats Breakdown"
+msgstr "Link Stats Breakdown"
+
+#: inc/template-analytics.php:362 inc/template-analytics.php:508
+msgid "Top Authors by Views"
+msgstr "Nangungunang may -akda ayon sa mga tanawin"
+
+#: inc/template-analytics.php:365
+msgid "Top Views per Posts"
+msgstr "Nangungunang tanawin bawat post"
+
+#: inc/template-analytics.php:369
+msgid "Top Categories by Post Count"
+msgstr "Nangungunang mga kategorya sa pamamagitan ng post count"
+
+#: inc/template-analytics.php:372
+msgid "Top Tags"
+msgstr "Nangungunang mga tag"
+
+#: inc/template-analytics.php:380
+msgid "Content Overview"
+msgstr "Pangkalahatang -ideya ng Nilalaman"
+
+#: inc/template-analytics.php:383
+msgid "Published Posts"
+msgstr "Nai -publish na mga post"
+
+#: inc/template-analytics.php:386
+msgid "Drafts"
+msgstr "Draft"
+
+#: inc/template-analytics.php:389
+msgid "Pending Posts"
+msgstr "Nakabinbin na mga post"
+
+#: inc/template-analytics.php:392
+msgid "Private Posts"
+msgstr "Pribadong mga post"
+
+#: inc/template-analytics.php:395
+msgid "Trashed Posts"
+msgstr "Mga basurahan na post"
+
+#: inc/template-analytics.php:398
+msgid "Revisions"
+msgstr "Mga pagbabago"
+
+#: inc/template-analytics.php:401
+msgid "Pages"
+msgstr "Mga pahina"
+
+#: inc/template-analytics.php:404
+msgid "Media Items"
+msgstr "Mga item sa media"
+
+#: inc/template-analytics.php:407
+msgid "Categories"
+msgstr "Mga kategorya"
+
+#: inc/template-analytics.php:410
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/template-analytics.php:413
+msgid "Custom Post Types"
+msgstr "Pasadyang mga uri ng post"
+
+#: inc/template-analytics.php:416
+msgid "Custom Taxonomies"
+msgstr "Pasadyang mga taxonomies"
+
+#: inc/template-analytics.php:423
+msgid "Engagement & Performance"
+msgstr "Pakikipag -ugnayan at Pagganap"
+
+#: inc/template-analytics.php:426
+msgid "Approved Comments"
+msgstr "Inaprubahang komento"
+
+#: inc/template-analytics.php:429
+msgid "Total Views"
+msgstr "Kabuuang mga view"
+
+#: inc/template-analytics.php:432
+msgid "Total Reactions"
+msgstr "Kabuuang reaksyon"
+
+#: inc/template-analytics.php:435
+msgid "Avg Words / Post (approx)"
+msgstr "Avg mga salita / post (tinatayang)"
+
+#: inc/template-analytics.php:438
+msgid "Avg Read Time (mins)"
+msgstr "AVG Read Time (MINS)"
+
+#: inc/template-analytics.php:445
+msgid "Appearance & Structure"
+msgstr "Hitsura at istraktura"
+
+#: inc/template-analytics.php:448
+msgid "Menus"
+msgstr "Mga menu"
+
+#: inc/template-analytics.php:451
+msgid "Widget Areas"
+msgstr "Mga lugar ng widget"
+
+#: inc/template-analytics.php:454
+msgid "Active Theme"
+msgstr "Aktibong tema"
+
+#: inc/template-analytics.php:457
+msgid "Inactive Themes"
+msgstr "Hindi aktibo na mga tema"
+
+#: inc/template-analytics.php:460
+msgid "Total Plugins"
+msgstr "Kabuuang mga plugin"
+
+#: inc/template-analytics.php:463
+msgid "Active Plugins"
+msgstr "Mga Aktibong Plugins"
+
+#: inc/template-analytics.php:466
+msgid "Inactive Plugins"
+msgstr "Hindi aktibo na mga plugin"
+
+#: inc/template-analytics.php:469
+msgid "Site Language"
+msgstr "Wika ng site"
+
+#: inc/template-analytics.php:475
+msgid "Time Format"
+msgstr "Format ng oras"
+
+#: inc/template-analytics.php:478
+msgid "Timezone"
+msgstr "Timezone"
+
+#: inc/template-analytics.php:481
+msgid "Permalink Structure"
+msgstr "Istraktura ng permalink"
+
+#: inc/template-analytics.php:488
+msgid "Top Authors & Link Stats"
+msgstr "Nangungunang mga may -akda at mag -link ng mga istatistika"
+
+#: inc/template-analytics.php:497
+msgid "Top Linked External Domains"
+msgstr "Nangungunang naka -link na panlabas na domain"
+
+#: inc/template-analytics.php:512
+msgid "views"
+msgstr "tanawin"
+
+#: inc/template-analytics.php:516
+msgid "No author view data."
+msgstr "Walang data ng view ng may -akda."
+
+#: inc/template-functions.php:745 inc/template-functions.php:747
+msgid "Read more about %s"
+msgstr "Magbasa nang higit pa tungkol sa %s"
+
+#: inc/template-functions.php:782
+msgid "Previous"
+msgstr "Nakaraan"
+
+#: inc/template-functions.php:783
+msgid "Next"
+msgstr "Susunod"
+
+#: inc/template-functions.php:908 inc/template-functions.php:2126
+msgid "%s min read"
+msgstr "%s MIN Basahin"
+
+#: inc/template-functions.php:1039
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "PH_0_Token Komento"
+msgstr[1] "Ph_0_Token Mga Komento"
+
+#: inc/template-functions.php:1051
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s VIEW"
+msgstr[1] "Ph_0_Token Views"
+
+#: inc/template-functions.php:1187 inc/template-functions.php:1398
+msgid "Copy link to clipboard"
+msgstr "Kopyahin ang link sa clipboard"
+
+#: inc/template-functions.php:1187 inc/template-functions.php:1398
+msgid "Link copied to clipboard!"
+msgstr "Link na kinopya sa clipboard!"
+
+#: inc/template-functions.php:1190 inc/template-functions.php:1400
+msgid "Save this post"
+msgstr "I -save ang post na ito"
+
+#: inc/template-functions.php:1190 inc/template-functions.php:1400
+msgid "Please log in to bookmark this post."
+msgstr "Mangyaring mag -log in upang mai -bookmark ang post na ito."
+
+#: inc/template-functions.php:1193 inc/template-functions.php:1401
+msgid "Print this page"
+msgstr "I -print ang pahinang ito"
+
+#: inc/template-functions.php:1470
+msgid "%s views"
+msgstr "Ph_0_Token Views"
+
+#: inc/template-functions.php:1574
+msgid "Love"
+msgstr "Pag -ibig"
+
+#: inc/template-functions.php:1575
+msgid "Funny"
+msgstr "Nakakatawa"
+
+#: inc/template-functions.php:1576
+msgid "Wow"
+msgstr "Wow"
+
+#: inc/template-functions.php:1577
+msgid "Sad"
+msgstr "Malungkot"
+
+#: inc/template-functions.php:1578
+msgid "Angry"
+msgstr "Galit"
+
+#: inc/template-functions.php:1589
+msgid "Post Reactions"
+msgstr "Mag -post ng mga reaksyon"
+
+#: inc/template-functions.php:1793
+msgid "Support Author"
+msgstr "Suporta ng may -akda"
+
+#: inc/template-functions.php:1809
+msgid "About the Author"
+msgstr "Tungkol sa may -akda"
+
+#: inc/template-functions.php:1844
+msgid "Visit Website"
+msgstr "Bisitahin ang website"
+
+#: inc/template-functions.php:1850
+msgid "View All Posts"
+msgstr "Tingnan ang lahat ng mga post"
+
+#: inc/template-functions.php:1901
+msgid "Your name"
+msgstr "Ang pangalan mo"
+
+#: inc/template-functions.php:1909
+msgid "Your email"
+msgstr "Ang iyong email"
+
+#: inc/template-functions.php:1917
+msgid "Your website"
+msgstr "Ang iyong website"
+
+#: inc/template-functions.php:1925
+msgid "Leave a comment"
+msgstr "Mag -iwan ng komento"
+
+#: inc/template-functions.php:2017
+msgid "N/A"
+msgstr "N/a"
+
+#: inc/template-functions.php:2026
+msgid "Site Stats"
+msgstr "Site Stats"
+
+#: inc/template-functions.php:2033
+msgid "%s total views"
+msgstr "Ph_0_Token Kabuuang Mga Pananaw"
+
+#: inc/template-functions.php:2040
+msgid "Most read: %s"
+msgstr "Karamihan sa Mga Basahin: %s"
+
+#: inc/template-functions.php:2047
+msgid "%s comments made"
+msgstr "PH_0_Token na ginawa"
+
+#: inc/template-functions.php:2054
+msgid "Readers mostly feel: %s"
+msgstr "Karamihan sa mga mambabasa ay naramdaman: %s"
+
+#: inc/template-functions.php:2061
+msgid "Top writer: %s"
+msgstr "Nangungunang manunulat: %s"
+
+#: inc/template-functions.php:2068
+msgid "See all site stats"
+msgstr "Tingnan ang lahat ng mga stats sa site"
+
+#: inc/template-functions.php:2101
+msgid "Post Stats"
+msgstr "Mag -post ng mga istatistika"
+
+#: inc/template-functions.php:2108
+msgid "%d views"
+msgstr "Ph_0_Token Views"
+
+#: inc/template-functions.php:2114
+msgid "%d comments"
+msgstr "Ph_0_Token Mga Komento"
+
+#: inc/template-functions.php:2120
+msgid "Mostly: %s"
+msgstr "Karamihan: %s"
+
+#: inc/template-functions.php:2132
+msgid "Edit Post"
+msgstr "I -edit ang post"
+
+#: inc/template-functions.php:2159 inc/template-functions.php:2167
+#: admin-dashboard/src/admin-top-menu.js:103
+msgid "ReviewNews Options"
+msgstr "Mga pagpipilian sa ReviewNews"
+
+#: inc/template-functions.php:2196 admin-dashboard/src/admin-top-menu.js:140
+msgid "Front-page Banner"
+msgstr "Front-Page Banner"
+
+#: inc/template-functions.php:2296 inc/template-functions.php:2356
+msgid "Featured"
+msgstr "Itinampok"
+
+#: inc/template-functions.php:2320 inc/template-functions.php:2461
+#: inc/template-functions.php:2523 inc/template-functions.php:2565
+msgid "Watch Video"
+msgstr "Panoorin ang video"
+
+#: inc/template-functions.php:2322
+msgid "Latest News"
+msgstr "Pinakabagong balita"
+
+#: inc/template-functions.php:2327 inc/template-functions.php:2421
+#: inc/template-functions.php:2445 inc/template-functions.php:2466
+#: inc/template-functions.php:2484 inc/template-functions.php:2511
+#: inc/template-functions.php:2530 inc/template-functions.php:2551
+#: inc/template-functions.php:2574 inc/template-functions.php:2593
+msgid "Featured News"
+msgstr "Itinatampok na balita"
+
+#: inc/template-functions.php:2330
+msgid "Central News"
+msgstr "Central News"
+
+#: inc/template-functions.php:2331 inc/template-functions.php:2425
+#: inc/template-functions.php:2449 inc/template-functions.php:2488
+#: inc/template-functions.php:2534 inc/template-functions.php:2555
+#: inc/template-functions.php:2578 inc/template-functions.php:2597
+msgid "More News"
+msgstr "Marami pang balita"
+
+#: inc/template-functions.php:2349 inc/template-functions.php:2500
+#: inc/template-functions.php:2546
+msgid "Watch"
+msgstr "Panoorin"
+
+#: inc/template-functions.php:2379
+msgid "Watch Videos"
+msgstr "Panoorin ang mga video"
+
+#: inc/template-functions.php:2414
+msgid "Watch Online"
+msgstr "Panoorin ang online"
+
+#: inc/template-functions.php:2424 inc/template-functions.php:2448
+#: inc/template-functions.php:2554
+msgid "Global News"
+msgstr "Global News"
+
+#: inc/template-functions.php:2467 inc/template-functions.php:2489
+msgid "Related News"
+msgstr "Kaugnay na balita"
+
+#: inc/template-functions.php:2508
+#: lib/tgm/class-tgm-plugin-activation.php:2286
+msgid "Recommended"
+msgstr "Inirerekumenda"
+
+#: inc/template-functions.php:2510
+msgid "Archive"
+msgstr "Archive"
+
+#: inc/template-functions.php:2514
+msgid "Opinion"
+msgstr "Opinyon"
+
+#: inc/template-functions.php:2577
+msgid "Top News"
+msgstr "Nangungunang balita"
+
+#: inc/template-functions.php:2596
+msgid "Hot News"
+msgstr "Mainit na balita"
+
+#: inc/template-tags.php:146 inc/template-tags.php:227
+msgid " (Last Updated: %s) "
+msgstr "(Huling na -update: %s)"
+
+#: inc/template-tags.php:264
+msgid "ago"
+msgstr "nakaraan"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:290 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "I -edit ang PH_0_Tokenph_2_Tokenph_1_Token"
+
+#: inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr "Lisensya ng Tema"
+
+#: inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr "Ipasok ang iyong key ng lisensya sa tema."
+
+#: inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr "Susi ng lisensya"
+
+#: inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr "Pagkilos ng lisensya"
+
+#: inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr "Lisensya ng Deactivate"
+
+#: inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr "Buhayin ang lisensya"
+
+#: inc/updater/theme-updater.php:35 inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr "Hindi alam ang katayuan ng lisensya."
+
+#: inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr "Renew?"
+
+#: inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr "walang limitasyong"
+
+#: inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr "Ang key key ay aktibo."
+
+#: inc/updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr "Nag -expire ng ph_0_token."
+
+#: inc/updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Mayroon kang Ph_0_Token / %2$s na mga site na aktibo."
+
+#: inc/updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr "Nag -expire ang Lisensya ng Lisensya Ph_0_Token."
+
+#: inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr "Nag -expire na ang Lisensya ng Lisensya."
+
+#: inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr "Ang mga susi ng lisensya ay hindi tumutugma."
+
+#: inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr "Hindi aktibo ang lisensya."
+
+#: inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr "Hindi pinagana ang susi ng lisensya."
+
+#: inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr "Ang site ay hindi aktibo."
+
+#: inc/updater/theme-updater.php:48
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Ang pag -update ng temang ito ay mawawalan ng anumang mga pagpapasadya na "
+"iyong nagawa. 'Kanselahin' upang ihinto, 'ok' upang i -update."
+
+#: inc/updater/theme-updater.php:49
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\""
+" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update "
+"now</a>."
+msgstr ""
+"Ang <strong>%1$s %2$s</strong> ay magagamit. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">CHECK OUT kung ano ang newph_9_Token o <a "
+"href=\"%5$s\"%6$s>UPDATE NGAYON</a>."
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "Nagpapakita ng impormasyon ng may -akda."
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFT Author Info"
+msgstr "Aft impormasyon ng may -akda"
+
+#: inc/widgets/widget-author-info.php:164
+msgid "About Author"
+msgstr "Tungkol sa may -akda"
+
+#: inc/widgets/widget-author-info.php:166
+msgid "Profile image"
+msgstr "Imahe ng profile"
+
+#: inc/widgets/widget-author-info.php:167
+msgid "Name"
+msgstr "Pangalan"
+
+#: inc/widgets/widget-author-info.php:168
+msgid "Descriptions"
+msgstr "Mga paglalarawan"
+
+#: inc/widgets/widget-author-info.php:171
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-author-info.php:172
+msgid "TikTok"
+msgstr "Tiktok"
+
+#: inc/widgets/widget-author-info.php:173
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-author-info.php:174
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-author-info.php:175
+msgid "VK"
+msgstr "VK"
+
+#: inc/widgets/widget-express-posts-grid.php:25
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "Nagpapakita ng mga post ng Express mula sa mga napiling kategorya."
+
+#: inc/widgets/widget-express-posts-grid.php:29
+msgid "AFT Express Posts Grid"
+msgstr "Aft Express Post Grid"
+
+#: inc/widgets/widget-express-posts-grid.php:128
+#: inc/widgets/widget-express-posts-list.php:138
+#: inc/widgets/widget-popular-posts.php:118
+#: inc/widgets/widget-posts-carousel.php:110
+#: inc/widgets/widget-posts-double-column.php:145
+#: inc/widgets/widget-posts-grid.php:116 inc/widgets/widget-posts-list.php:119
+#: inc/widgets/widget-posts-single-column.php:119
+#: inc/widgets/widget-posts-slider.php:114
+#: inc/widgets/widget-trending-posts-by-tag.php:122
+#: inc/widgets/widget-trending-posts-by-view.php:117
+#: inc/widgets/widget-trending-posts.php:141
+msgid "Number of posts"
+msgstr "Bilang ng mga post"
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFT Express Posts List"
+msgstr "Listahan ng Mga Post ng Express"
+
+#: inc/widgets/widget-popular-posts.php:30
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts-by-tag.php:30
+#: inc/widgets/widget-trending-posts-by-view.php:30
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "Nagpapakita ng grid mula sa mga napiling kategorya."
+
+#: inc/widgets/widget-popular-posts.php:34
+msgid "AFT Popular News"
+msgstr "Aft tanyag na balita"
+
+#: inc/widgets/widget-posts-carousel.php:20
+msgid "Displays posts carousel from selected category."
+msgstr "Nagpapakita ng mga post carousel mula sa napiling kategorya."
+
+#: inc/widgets/widget-posts-carousel.php:24
+msgid "AFT Posts Carousel"
+msgstr "Aft post carousel"
+
+#: inc/widgets/widget-posts-carousel.php:109
+#: inc/widgets/widget-posts-slider.php:113
+#: inc/widgets/widget-posts-tabs.php:114 inc/widgets/widget-posts-tabs.php:118
+#: inc/widgets/widget-posts-tabs.php:122
+msgid "Select category"
+msgstr "Piliin ang kategorya"
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFT Post Double Columns"
+msgstr "Aft post double haligi"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "Piliin ang kategorya 1"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "Piliin ang kategorya 2"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFT Post Grid"
+msgstr "Aft post grid"
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFT Post List"
+msgstr "Aft List List"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr ""
+"Nagpapakita ng mga post ng solong haligi mula sa mga napiling kategorya."
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFT Post Single Column"
+msgstr "Aft post solong haligi"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "Nagpapakita ng mga post slider mula sa napiling kategorya."
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFT Posts Slider"
+msgstr "Aft post slider"
+
+#: inc/widgets/widget-posts-tabs.php:21
+msgid "Displays tabbed posts lists from selected settings."
+msgstr ""
+"Ipinapakita ang mga naka -tab na mga listahan ng mga post mula sa mga "
+"napiling mga setting."
+
+#: inc/widgets/widget-posts-tabs.php:26
+msgid "AFT Posts Tabs"
+msgstr "AFT POST TABS"
+
+#: inc/widgets/widget-posts-tabs.php:97 inc/widgets/widget-posts-tabs.php:103
+msgid "Yes"
+msgstr "Oo"
+
+#: inc/widgets/widget-posts-tabs.php:98 inc/widgets/widget-posts-tabs.php:104
+msgid "No"
+msgstr "Hindi"
+
+#: inc/widgets/widget-posts-tabs.php:124
+msgid "Settings for all tabs"
+msgstr "Mga setting para sa lahat ng mga tab"
+
+#: inc/widgets/widget-posts-tabs.php:126
+msgid "Number of posts per tab"
+msgstr "Bilang ng mga post bawat tab"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr ""
+"Nagpapakita ng mga listahan ng mga contact sa lipunan mula sa mga napiling "
+"mga setting."
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFT Social Contacts"
+msgstr "Aft mga contact sa lipunan"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr ""
+"Ang menu ng lipunan ay hindi nakatakda. Kailangan mong lumikha ng menu at "
+"italaga ito sa menu ng lipunan sa mga setting ng menu."
+
+#: inc/widgets/widget-trending-posts-by-tag.php:34
+msgid "AFT Trending News (By Tag)"
+msgstr "Aft trending news (sa pamamagitan ng tag)"
+
+#: inc/widgets/widget-trending-posts-by-view.php:34
+msgid "AFT Trending News (By View)"
+msgstr "Aft trending news (sa pamamagitan ng view)"
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFT Trending News"
+msgstr "Aft trending news"
+
+#: inc/widgets/widget-youtube-video.php:21
+msgid "Displays youtube video slider."
+msgstr "Nagpapakita ng YouTube Video Slider."
+
+#: inc/widgets/widget-youtube-video.php:25
+msgid "AFT YouTube Video"
+msgstr "Aft video sa YouTube"
+
+#: inc/widgets/widget-youtube-video.php:173
+msgid "YouTube Videos:"
+msgstr "Mga video sa YouTube:"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "Mag -upload"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "Piliin ang imahe"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "Pumili ng imahe"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-common-functions.php:89
+msgid "Recent"
+msgstr "Kamakailan lamang"
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Main Sidebar"
+msgstr "Pangunahing sidebar"
+
+#: inc/widgets/widgets-register-sidebars.php:15
+msgid "Add widgets for main sidebar."
+msgstr "Magdagdag ng mga widget para sa pangunahing sidebar."
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Header Widget 1"
+msgstr "Header widget 1"
+
+#: inc/widgets/widgets-register-sidebars.php:25
+#: inc/widgets/widgets-register-sidebars.php:34
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Add widgets for header section."
+msgstr "Magdagdag ng mga widget para sa seksyon ng header."
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Header Widget 2"
+msgstr "Header widget 2"
+
+#: inc/widgets/widgets-register-sidebars.php:40
+msgid "Header Widget 3"
+msgstr "Header widget 3"
+
+#: inc/widgets/widgets-register-sidebars.php:51
+msgid "Front-page Content Section"
+msgstr "Seksyon ng Nilalaman ng Nilalaman ng Pahina"
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Add widgets to front-page contents section."
+msgstr ""
+"Magdagdag ng mga widget sa seksyon ng mga nilalaman sa harap ng pahina."
+
+#: inc/widgets/widgets-register-sidebars.php:61
+msgid "Front-page Sidebar Section"
+msgstr "Seksyon ng sidebar sa harap-pahina"
+
+#: inc/widgets/widgets-register-sidebars.php:63
+msgid "Add widgets to front-page sidebar section."
+msgstr "Magdagdag ng mga widget sa seksyon ng sidebar sa harap-pahina."
+
+#: inc/widgets/widgets-register-sidebars.php:71
+msgid "Banner Ad Section"
+msgstr "Seksyon ng Banner Ad"
+
+#: inc/widgets/widgets-register-sidebars.php:73
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "Magdagdag ng mga widget para sa FrontPage Banner Section Advertising."
+
+#: inc/widgets/widgets-register-sidebars.php:84
+msgid "Add widgets for off-canvas section."
+msgstr "Magdagdag ng mga widget para sa seksyon ng off-canvas."
+
+#: inc/widgets/widgets-register-sidebars.php:92
+msgid "Above Site Header Section"
+msgstr "Sa itaas ng seksyon ng header ng site"
+
+#: inc/widgets/widgets-register-sidebars.php:94
+msgid "Add widgets for above site header section."
+msgstr "Magdagdag ng mga widget para sa itaas na seksyon ng header ng site."
+
+#: inc/widgets/widgets-register-sidebars.php:102
+msgid "Below Site Header Section"
+msgstr "Sa ibaba ng seksyon ng header ng site"
+
+#: inc/widgets/widgets-register-sidebars.php:104
+msgid "Add widgets for below site header section."
+msgstr "Magdagdag ng mga widget para sa ibaba ng seksyon ng header ng site."
+
+#: inc/widgets/widgets-register-sidebars.php:112
+msgid "Above Main Banner Section"
+msgstr "Sa itaas ng pangunahing seksyon ng banner"
+
+#: inc/widgets/widgets-register-sidebars.php:114
+msgid "Add widgets for above main banner section."
+msgstr ""
+"Magdagdag ng mga widget para sa itaas na pangunahing seksyon ng banner."
+
+#: inc/widgets/widgets-register-sidebars.php:122
+msgid "Below Main Banner Section"
+msgstr "Sa ibaba ng pangunahing seksyon ng banner"
+
+#: inc/widgets/widgets-register-sidebars.php:124
+msgid "Add widgets for below main banner section."
+msgstr ""
+"Magdagdag ng mga widget para sa ibaba ng pangunahing seksyon ng banner."
+
+#: inc/widgets/widgets-register-sidebars.php:132
+msgid "Below Featured Section"
+msgstr "Sa ibaba ng tampok na seksyon"
+
+#: inc/widgets/widgets-register-sidebars.php:134
+msgid "Add widgets for below featured section."
+msgstr "Magdagdag ng mga widget para sa ibaba na tampok na seksyon."
+
+#: inc/widgets/widgets-register-sidebars.php:142
+msgid "Above Site Footer Section"
+msgstr "Sa itaas ng seksyon ng footer ng site"
+
+#: inc/widgets/widgets-register-sidebars.php:144
+msgid "Add widgets for above site footer section."
+msgstr "Magdagdag ng mga widget para sa itaas na seksyon ng footer ng site."
+
+#: inc/widgets/widgets-register-sidebars.php:153
+msgid "Footer Widget 1"
+msgstr "Footer widget 1"
+
+#: inc/widgets/widgets-register-sidebars.php:155
+msgid "Displays items on footer first column."
+msgstr "Nagpapakita ng mga item sa unang haligi ng footer."
+
+#: inc/widgets/widgets-register-sidebars.php:164
+msgid "Footer Widget 2"
+msgstr "Footer widget 2"
+
+#: inc/widgets/widgets-register-sidebars.php:166
+msgid "Displays items on footer second column."
+msgstr "Nagpapakita ng mga item sa pangalawang haligi ng footer."
+
+#: inc/widgets/widgets-register-sidebars.php:174
+msgid "Footer Widget 3"
+msgstr "Footer widget 3"
+
+#: inc/widgets/widgets-register-sidebars.php:176
+msgid "Displays items on footer third column."
+msgstr "Nagpapakita ng mga item sa ikatlong haligi ng footer."
+
+#: inc/widgets/widgets-register-sidebars.php:184
+msgid "Below Site Footer Section"
+msgstr "Sa ibaba ng seksyon ng footer ng site"
+
+#: inc/widgets/widgets-register-sidebars.php:186
+msgid "Add widgets for below site footer section."
+msgstr "Magdagdag ng mga widget para sa ibaba ng seksyon ng footer ng site."
+
+#: inc/widgets/widgets-register-sidebars.php:195
+msgid "Above Single Post Title Section"
+msgstr "Sa itaas ng seksyon ng pamagat ng solong post"
+
+#: inc/widgets/widgets-register-sidebars.php:197
+msgid "Add widgets for single above post title."
+msgstr "Magdagdag ng mga widget para sa solong pamagat ng post sa itaas."
+
+#: inc/widgets/widgets-register-sidebars.php:205
+msgid "Below Single Post Title Section"
+msgstr "Sa ibaba ng seksyon ng pamagat ng solong post"
+
+#: inc/widgets/widgets-register-sidebars.php:207
+msgid "Add widgets for single below single post title ."
+msgstr ""
+"Magdagdag ng mga widget para sa solong ibaba ng solong pamagat ng post."
+
+#: inc/widgets/widgets-register-sidebars.php:215
+msgid "Above Single Featured Image Section"
+msgstr "Sa itaas ng solong itinatampok na seksyon ng imahe"
+
+#: inc/widgets/widgets-register-sidebars.php:217
+msgid "Add widgets for above featured image."
+msgstr "Magdagdag ng mga widget para sa itaas na tampok na imahe."
+
+#: inc/widgets/widgets-register-sidebars.php:225
+msgid "Below Single Featured Image Section"
+msgstr "Sa ibaba ng solong itinatampok na seksyon ng imahe"
+
+#: inc/widgets/widgets-register-sidebars.php:227
+msgid "Add widgets for below featured image ."
+msgstr "Magdagdag ng mga widget para sa ibaba na itinampok na imahe."
+
+#: inc/widgets/widgets-register-sidebars.php:235
+msgid "Above Single Post Content Section"
+msgstr "Sa itaas ng solong seksyon ng nilalaman ng post"
+
+#: inc/widgets/widgets-register-sidebars.php:237
+msgid "Add widgets for single posts= content."
+msgstr "Magdagdag ng mga widget para sa mga solong post = nilalaman."
+
+#: inc/widgets/widgets-register-sidebars.php:245
+msgid "Below Single Post Content Section"
+msgstr "Sa ibaba ng seksyon ng solong nilalaman ng post"
+
+#: inc/widgets/widgets-register-sidebars.php:247
+msgid "Add widgets for single post content."
+msgstr "Magdagdag ng mga widget para sa solong nilalaman ng post."
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "Tingnan ang iyong shopping cart"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "PH_0_Token Item"
+msgstr[1] "%d ITEMS"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "Mag -browse:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Mga tinapay na tinapay"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "Home"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 Hindi Natagpuan"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "Mga Archive"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "Mga resulta sa paghahanap para sa: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "Pahina Ph_0_Token"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "Pahina ng Komento Ph_0_Token"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "Linggo Ph_0_Token"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "G: i a"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/info/class.info.php:126
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme details page."
+msgstr ""
+"Maligayang pagdating! Salamat sa pagpili ng PH_0_Token. Upang lubos na "
+"samantalahin ang pinakamahusay na maaaring mag -alok ng aming tema "
+"mangyaring tiyaking bisitahin mo ang pahina ng Mga Detalye ng Tema."
+
+#: lib/info/class.info.php:126
+msgid "Get started with %1$s"
+msgstr "Magsimula sa Ph_0_Token"
+
+#: lib/info/class.info.php:126 lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Tanggalin ang paunawang ito"
+
+#: lib/info/class.info.php:232
+msgid "%s() method does not exist."
+msgstr "Ang pamamaraan ng ph_0_Token () ay hindi umiiral."
+
+#: lib/info/class.info.php:341 lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr "Pamahalaan ang mga plugin"
+
+#: lib/info/class.info.php:410
+msgid "Product Features"
+msgstr "Mga Tampok ng Produkto"
+
+#: lib/info/class.info.php:411
+msgid "Free"
+msgstr "Libre"
+
+#: lib/info/class.info.php:412
+msgid "Premium"
+msgstr "Premium"
+
+#: lib/info/info.php:20
+msgid ""
+"Howdy %1$s, we would like to thank you for installing and activating %2$s "
+"theme for your precious site. All of the features provided by the theme are "
+"now ready to use; Here, we have gathered all of the essential details and "
+"helpful links for you and your better experience with %2$s. Once again, "
+"Thanks for using our theme!"
+msgstr ""
+"Howdy Ph_0_Token, nais naming pasalamatan ka sa pag -install at pag "
+"-activate ng tema ng ph_1_Token para sa iyong mahalagang site. Ang lahat ng "
+"mga tampok na ibinigay ng tema ay handa nang gamitin; Dito, natipon namin "
+"ang lahat ng mga mahahalagang detalye at kapaki -pakinabang na mga link para"
+" sa iyo at sa iyong mas mahusay na karanasan sa PH_1_Token. Muli, salamat sa"
+" paggamit ng aming tema!"
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr "Pagsisimula"
+
+#: lib/info/info.php:26 admin-dashboard/src/components/main.js:62
+msgid "Useful Plugins"
+msgstr "Mga kapaki -pakinabang na plugin"
+
+#: lib/info/info.php:27 lib/info/info.php:87 lib/info/info.php:90
+msgid "Demo Content"
+msgstr "Nilalaman ng demo"
+
+#: lib/info/info.php:34
+#: admin-dashboard/src/components/json/dashboard-content.js:6
+msgid "Theme Details"
+msgstr "Mga detalye ng tema"
+
+#: lib/info/info.php:38 lib/info/info.php:98
+msgid "View Demo"
+msgstr "Tingnan ang Demo"
+
+#: lib/info/info.php:42 lib/info/info.php:57 lib/info/info.php:120
+msgid "View Documentation"
+msgstr "Tingnan ang dokumentasyon"
+
+#: lib/info/info.php:54 lib/info/info.php:117
+msgid "Theme Documentation"
+msgstr "Dokumentasyon ng tema"
+
+#: lib/info/info.php:63 lib/info/info.php:66
+#: admin-dashboard/src/components/json/home-content.js:65
+msgid "Static Front Page"
+msgstr "Static na pahina ng harap"
+
+#: lib/info/info.php:65
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+"Upang makamit ang pasadyang home page maliban sa listahan ng blog, kailangan"
+" mong lumikha at magtakda ng static na harap na pahina."
+
+#: lib/info/info.php:73
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+"Gumagamit ang tema ng Customizer API para sa mga pagpipilian sa tema. Gamit "
+"ang customizer madali mong ipasadya ang iba't ibang mga aspeto ng tema."
+
+#: lib/info/info.php:79 lib/info/info.php:82
+msgid "Widgets"
+msgstr "Mga widget"
+
+#: lib/info/info.php:81
+msgid ""
+"Theme uses Wedgets API for widget options. Using the Widgets you can easily "
+"customize different aspects of the theme."
+msgstr ""
+"Gumagamit ang tema ng mga wedget API para sa mga pagpipilian sa widget. "
+"Gamit ang mga widget madali mong ipasadya ang iba't ibang mga aspeto ng "
+"tema."
+
+#: lib/info/info.php:89
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and "
+"activated. After plugin is activated, visit AF Companion Dashboard from "
+"admin menu."
+msgstr ""
+"Upang mag -import ng nilalaman ng sample na demo, dapat na mai -install at "
+"ma -aktibo ang PH_Token plugin. Matapos ma -aktibo ang plugin, bisitahin ang"
+" AF Companion Dashboard mula sa menu ng Admin."
+
+#: lib/info/info.php:95
+msgid "Theme Preview"
+msgstr "Preview ng tema"
+
+#: lib/info/info.php:97
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+"Maaari mong suriin ang mga demo ng tema para sa sanggunian upang malaman "
+"kung ano ang maaari mong makamit gamit ang tema at kung paano ito "
+"maipapasadya."
+
+#: lib/info/info.php:108 lib/info/info.php:111
+msgid "Contact Support"
+msgstr "Makipag -ugnay sa suporta"
+
+#: lib/info/info.php:110
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme."
+msgstr ""
+"Mayroon bang tanong na suporta sa tema o natagpuan ang bug o nakakuha ng "
+"ilang mga puna? Pinakamahusay na lugar upang tanungin ang iyong query ay ang"
+" nakatuon na forum ng suporta para sa tema."
+
+#: lib/info/info.php:126
+msgid "Child Theme"
+msgstr "Tema ng Bata"
+
+#: lib/info/info.php:128
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+"Para sa advanced na pagpapasadya ng tema, inirerekomenda na gamitin ang tema"
+" ng bata sa halip na baguhin ang tema ng file mismo. Gamit ang pamamaraang "
+"ito, hindi mo mawawala ang pagpapasadya pagkatapos ng pag -update ng tema."
+
+#: lib/info/info.php:129
+msgid "Learn More"
+msgstr "Matuto nang higit pa"
+
+#: lib/info/info.php:138
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+"Sinusuportahan ng tema ang ilang mga kapaki -pakinabang na plugin ng "
+"WordPress upang mapahusay ang iyong site. Ngunit, mangyaring paganahin "
+"lamang ang mga plugin na kailangan mo sa iyong site. Halimbawa, paganahin "
+"ang WooCommerce lamang kung gumagamit ka ng e-commerce."
+
+#: lib/info/info.php:143
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see AF Companion Dashboard from admin menu."
+msgstr ""
+"Upang mag -import ng nilalaman ng demo para sa temang ito, kinakailangan ang"
+" PH_0_Token plugin. Mangyaring tiyaking naka -install at isinaaktibo ang "
+"plugin. Matapos maisaaktibo ang plugin, makikita mo ang AF Companion "
+"Dashboard mula sa menu ng admin."
+
+#: lib/info/info.php:143
+msgid "AF Companion"
+msgstr "Kasamang AF"
+
+#: lib/info/info.php:191
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+"Kung nais mo ng mas advanced na mga tampok pagkatapos maaari kang mag "
+"-upgrade sa premium na bersyon ng tema."
+
+#: lib/info/info.php:192
+msgid "Upgrade Now"
+msgstr "Mag -upgrade ngayon"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "I -install ang mga kinakailangang plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "I -install ang mga plugin"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Pag -install ng Plugin: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Pag -update ng plugin: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "May mali sa plugin API."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ang temang ito ay nangangailangan ng sumusunod na plugin: %1$s."
+msgstr[1] ""
+"Ang temang ito ay nangangailangan ng mga sumusunod na plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Inirerekomenda ng temang ito ang sumusunod na plugin: %1$s."
+msgstr[1] "Inirerekomenda ng temang ito ang mga sumusunod na plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Ang sumusunod na plugin ay kailangang mai -update sa pinakabagong bersyon "
+"upang matiyak ang maximum na pagiging tugma sa temang ito: %1$s."
+msgstr[1] ""
+"Ang mga sumusunod na plugin ay kailangang mai -update sa kanilang "
+"pinakabagong bersyon upang matiyak ang maximum na pagiging tugma sa temang "
+"ito: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Mayroong isang pag -update na magagamit para sa: %1$s."
+msgstr[1] "May mga update na magagamit para sa mga sumusunod na plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Ang sumusunod na kinakailangang plugin ay kasalukuyang hindi aktibo: %1$s."
+msgstr[1] ""
+"Ang mga sumusunod na kinakailangang plugin ay kasalukuyang hindi aktibo: "
+"%1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Ang sumusunod na inirekumendang plugin ay kasalukuyang hindi aktibo: %1$s."
+msgstr[1] ""
+"Ang mga sumusunod na inirekumendang plugin ay kasalukuyang hindi aktibo: "
+"%1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Simulan ang pag -install ng plugin"
+msgstr[1] "Simulan ang pag -install ng mga plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Simulan ang pag -update ng plugin"
+msgstr[1] "Simulan ang pag -update ng mga plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Simulan ang pag -activate ng plugin"
+msgstr[1] "Simulan ang pag -activate ng mga plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Bumalik sa mga kinakailangang installer ng plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:830
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+#: lib/tgm/class-tgm-plugin-activation.php:3590
+msgid "Return to the Dashboard"
+msgstr "Bumalik sa dashboard"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3169
+msgid "Plugin activated successfully."
+msgstr "Matagumpay na na -aktibo ang plugin."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2962
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Ang sumusunod na plugin ay matagumpay na naaktibo:"
+msgstr[1] "Ang mga sumusunod na plugin ay matagumpay na naaktibo:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Walang pagkilos na ginawa. Ang plugin Ph_0_Token ay aktibo na."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Hindi na -aktibo ang plugin. Ang isang mas mataas na bersyon ng Ph_0_Token "
+"ay kinakailangan para sa temang ito. Mangyaring i -update ang plugin."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+"Ang lahat ng mga plugin na naka -install at matagumpay na naaktibo. "
+"PH_0_Token"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Mayroong isa o higit pang kinakailangan o inirerekumendang mga plugin upang "
+"mai -install, i -update o maisaaktibo."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Mangyaring makipag -ugnay sa administrator ng site na ito para sa tulong."
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Ang plugin na ito ay kailangang mai -update upang maging katugma sa iyong "
+"tema."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Kailangan ng pag -update"
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Ang remote na pakete ng plugin ay hindi naglalaman ng isang folder na may "
+"nais na slug at ang pangalan ay hindi gumana."
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Mangyaring makipag -ugnay sa tagabigay ng plugin at hilingin sa kanila na i "
+"-package ang kanilang plugin ayon sa mga alituntunin ng WordPress."
+
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Ang remote na pakete ng plugin ay binubuo ng higit sa isang file, ngunit ang"
+" mga file ay hindi nakabalot sa isang folder."
+
+#: lib/tgm/class-tgm-plugin-activation.php:1131
+#: lib/tgm/class-tgm-plugin-activation.php:2958
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "at"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1992
+msgid "TGMPA v%s"
+msgstr "TGMPA V%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2283
+msgid "Required"
+msgstr "Kinakailangan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2302
+msgid "WordPress Repository"
+msgstr "Repositoryo ng WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2305
+msgid "External Source"
+msgstr "Panlabas na mapagkukunan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2308
+msgid "Pre-Packaged"
+msgstr "Pre-package"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2325
+msgid "Not Installed"
+msgstr "Hindi naka -install"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2329
+msgid "Installed But Not Activated"
+msgstr "Naka -install ngunit hindi aktibo"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2331
+msgid "Active"
+msgstr "Aktibo"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2337
+msgid "Required Update not Available"
+msgstr "Kinakailangang pag -update hindi magagamit"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2340
+msgid "Requires Update"
+msgstr "Nangangailangan ng pag -update"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2343
+msgid "Update recommended"
+msgstr "I -update ang inirerekomenda"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2352
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2398
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Lahat ng ph_0_token (%s) </span>"
+msgstr[1] "Lahat ng ph_0_token (%s) </span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2402
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Upang mai -install ang ph_0_token (ph_2_token) ph_1_Token"
+msgstr[1] "Upang mai -install ang ph_0_token (ph_2_token) ph_1_Token"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mag -update Magagamit na Ph_0_Token (%s) </span>"
+msgstr[1] "Mag -update Magagamit na Ph_0_Token (%s) </span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2410
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Upang maisaaktibo ang <span class=\"count\"> (%s) </span>"
+msgstr[1] "Upang maisaaktibo ang <span class=\"count\"> (%s) </span>"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2492
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "hindi kilala"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2500
+msgid "Installed version:"
+msgstr "Naka -install na bersyon:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2508
+msgid "Minimum required version:"
+msgstr "Minimum na kinakailangang bersyon:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2520
+msgid "Available version:"
+msgstr "Magagamit na bersyon:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+msgid "No plugins to install, update or activate."
+msgstr "Walang mga plugin upang mai -install, i -update o buhayin."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2557
+msgid "Plugin"
+msgstr "Plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2558
+msgid "Source"
+msgstr "Pinagmulan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2559
+msgid "Type"
+msgstr "I -type"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2563
+msgid "Version"
+msgstr "Bersyon"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2564
+msgid "Status"
+msgstr "Katayuan"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2613
+msgid "Install %2$s"
+msgstr "I -install ang PH_0_Token"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2618
+msgid "Update %2$s"
+msgstr "I -update ang PH_0_Token"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2624
+msgid "Activate %2$s"
+msgstr "I -aktibo ang %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2694
+msgid "Upgrade message from the plugin author:"
+msgstr "I -upgrade ang mensahe mula sa may -akda ng plugin:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2727
+msgid "Install"
+msgstr "I -install"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2767
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Walang mga plugin na napili upang mai -install. Walang pagkilos na ginawa."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2769
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Walang mga plugin na napili upang mai -update. Walang pagkilos na ginawa."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be installed at this time."
+msgstr "Walang magagamit na mga plugin upang mai -install sa oras na ito."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2812
+msgid "No plugins are available to be updated at this time."
+msgstr "Walang magagamit na mga plugin upang mai -update sa oras na ito."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2918
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Walang napiling mga plugin upang maisaaktibo. Walang pagkilos na ginawa."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be activated at this time."
+msgstr "Walang magagamit na mga plugin upang maisaaktibo sa oras na ito."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr "Nabigo ang pag -activate ng plugin."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3508
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Pag -update ng plugin Ph_0_Token (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3511
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"May naganap na error habang nag -install ng pH_2_Token: "
+"PH_1_Tokenph_3_Tokenph_0_Token."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3513
+msgid "The installation of %1$s failed."
+msgstr "Nabigo ang pag -install ng Ph_0_Token."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr ""
+"Nagsisimula ang proseso ng pag -install at pag -activate. Ang prosesong ito "
+"ay maaaring tumagal ng ilang sandali sa ilang mga host, kaya mangyaring "
+"maging mapagpasensya."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3519
+#: lib/tgm/class-tgm-plugin-activation.php:3527
+msgid "%1$s done."
+msgstr "PH_0_Token Tapos na."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "All installations and activations have been completed."
+msgstr "Ang lahat ng mga pag -install at pag -activate ay nakumpleto."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3522
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+"Pag -install at pag -activate ng plugin ph_0_token (ph_1_Token/ph_2_Token)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3525
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Nagsisimula ang proseso ng pag -install. Ang prosesong ito ay maaaring "
+"tumagal ng ilang sandali sa ilang mga host, kaya mangyaring maging "
+"mapagpasensya."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3528
+msgid "All installations have been completed."
+msgstr "Nakumpleto na ang lahat ng mga pag -install."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3530
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Pag -install ng Plugin Ph_0_Token (%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "Blangko canvas"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Buong lapad ng tagabuo"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Mga resulta sa paghahanap para sa: %s"
+
+#: single.php:65
+msgid "Embedded video content"
+msgstr "Naka -embed na nilalaman ng video"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Walang nahanap"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Handa nang mai -publish ang iyong unang post? <a href=\"%1$s\">GET nagsimula"
+" dito ito_2_Token."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Paumanhin, ngunit walang tumugma sa iyong mga term sa paghahanap. Mangyaring"
+" subukang muli sa ilang iba't ibang mga keyword."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Tila maaari naming &rsquo; t mahanap kung ano ang hinahanap mo. Marahil ay "
+"makakatulong ang paghahanap."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:21
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Magpatuloy sa pagbabasa<span class=\"screen-reader-text\"> \"%s\" </span>"
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:72
+msgid "Previous: %s"
+msgstr "Nakaraan: %s"
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:77
+msgid "Next: %s"
+msgstr "Susunod: %s"
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:81
+msgid "Post navigation"
+msgstr "Mag -post ng nabigasyon"
+
+#: admin-dashboard/src/admin-top-menu.js:116
+msgid "Analytics"
+msgstr "Analytics"
+
+#: admin-dashboard/src/components/blockspare.demo.js:32
+msgid "Update Blockspare Pro"
+msgstr "I -update ang BlockSpare Pro"
+
+#: admin-dashboard/src/components/blockspare.demo.js:34
+msgid "Update Blockspare"
+msgstr "I -update ang blockspare"
+
+#: admin-dashboard/src/components/blockspare.demo.js:48
+msgid "Page Builder Gutenberg Blocks & Patterns"
+msgstr "Pahina ng Tagabuo ng Gutenberg Mga bloke at pattern"
+
+#: admin-dashboard/src/components/blockspare.demo.js:51
+msgid ""
+"Add pages effortlessly with expertly crafted Gutenberg patterns and blocks "
+"for blogs, magazines, newspapers, and agency sites using the Blockspare "
+"plugin!"
+msgstr ""
+"Magdagdag ng mga pahina nang walang kahirap -hirap sa mga dalubhasang ginawa"
+" ng mga pattern ng gutenberg at mga bloke para sa mga blog, magasin, "
+"pahayagan, at mga site ng ahensya gamit ang blockspare plugin!"
+
+#: admin-dashboard/src/components/dashboard-content.js:42
+msgid "Hello "
+msgstr "Kumusta"
+
+#: admin-dashboard/src/components/dashboard-content.js:45
+msgid "Welcome to "
+msgstr "Maligayang pagdating sa"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Update Elespare Pro"
+msgstr "I -update ang ELPARE PRO"
+
+#: admin-dashboard/src/components/elespare-demo.js:36
+msgid "Update Elespare"
+msgstr "I -update ang ELESPARE"
+
+#: admin-dashboard/src/components/elespare-demo.js:50
+msgid "Page Builder Elementor Widgets"
+msgstr "Mga Widget ng Elementor ng Pahina"
+
+#: admin-dashboard/src/components/elespare-demo.js:53
+msgid ""
+"Add pages effortlessly with expertly crafted Elementor widgets for blogs, "
+"magazines, newspapers, and agency sites using the Elespare plugin!"
+msgstr ""
+"Magdagdag ng mga pahina nang walang kahirap -hirap sa mga dalubhasang "
+"crafted elementor widget para sa mga blog, magazine, pahayagan, at mga site "
+"ng ahensya gamit ang plugin ng ELSPARE!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"We would like to thank you for installing and activating [theme] theme for "
+"your precious site. All of the features provided by the theme are now ready "
+"to use; Here, we have gathered all of the essential details and helpful "
+"links for you and your better experience with [theme]. Once again, Thanks "
+"for using our theme!"
+msgstr ""
+"Nais naming pasalamatan ka sa pag -install at pag -activate ng [tema] na "
+"tema para sa iyong mahalagang site. Ang lahat ng mga tampok na ibinigay ng "
+"tema ay handa nang gamitin; Dito, natipon namin ang lahat ng mga "
+"mahahalagang detalye at kapaki -pakinabang na mga link para sa iyo at sa "
+"iyong mas mahusay na karanasan sa [tema]. Muli, salamat sa paggamit ng aming"
+" tema!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:10
+msgid "View Demos"
+msgstr "Tingnan ang mga demo"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:23
+msgid "Need Help?"
+msgstr "Kailangan mo ng tulong?"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:25
+msgid "Demo Sites"
+msgstr "Mga site ng demo"
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr ""
+"Itakda ang uri ng header ng tema, itakda ang mga kulay, puwang, pagkakahanay"
+" at marami pa."
+
+#: admin-dashboard/src/components/json/home-content.js:15
+msgid "Banner Advertisement"
+msgstr "BANNER ADVERTISEMENT"
+
+#: admin-dashboard/src/components/json/home-content.js:16
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr ""
+"Madali mong mailagay ang iyong mga promosyonal na banner sa loob ng seksyon "
+"ng iyong header."
+
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "Itakda ang uri ng footer, bilang ng mga haligi, spacing at kulay."
+
+#: admin-dashboard/src/components/json/home-content.js:35
+msgid "Color Options"
+msgstr "Mga pagpipilian sa kulay"
+
+#: admin-dashboard/src/components/json/home-content.js:36
+msgid "Change the color setting provide with the Theme."
+msgstr "Baguhin ang setting ng kulay na nagbibigay ng tema."
+
+#: admin-dashboard/src/components/json/home-content.js:46
+msgid "Selecting different categories can be done for different section."
+msgstr ""
+"Ang pagpili ng iba't ibang mga kategorya ay maaaring gawin para sa iba't "
+"ibang seksyon."
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Front-page Option"
+msgstr "Pagpipilian sa harap-pahina"
+
+#: admin-dashboard/src/components/json/home-content.js:56
+msgid ""
+"Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr ""
+"Ang layout ng harap na pahina na may tanyag na tag, paglabag sa balita, "
+"maaaring itakda ang tampok na balita."
+
+#: admin-dashboard/src/components/json/home-content.js:66
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr ""
+"Itakda ang homepage bilang isang static na pahina upang lumikha ng sariling "
+"homepage gamit ang mga widget."
+
+#: admin-dashboard/src/components/json/home-content.js:75
+msgid "Widgets Area"
+msgstr "Lugar ng mga widget"
+
+#: admin-dashboard/src/components/json/home-content.js:76
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr ""
+"Ang mga widget ay maaaring maidagdag sa lahat ng seksyon na ibinibigay ng "
+"tema."
+
+#: admin-dashboard/src/components/json/home-content.js:85
+msgid "Archive Options"
+msgstr "Mga pagpipilian sa archive"
+
+#: admin-dashboard/src/components/json/home-content.js:86
+msgid "Customize the blog layout desgin."
+msgstr "Ipasadya ang Desgin ng Layout ng Blog."
+
+#: admin-dashboard/src/components/json/home-content.js:93
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr ""
+"Itakda ang pandaigdigang layout, breadcrumb, sidebar, solong post, maaaring "
+"napalampas mo at marami pa."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:4
+msgid "Elespare (Elementor)"
+msgstr "ELPARE (Elementor)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:6
+msgid ""
+"A stunning assortment of WordPress post widgets. It allows you to display "
+"your posts in many formats such as grid, list, tile, full, express, and so "
+"on."
+msgstr ""
+"Isang nakamamanghang assortment ng WordPress Post Widget. Pinapayagan ka "
+"nitong ipakita ang iyong mga post sa maraming mga format tulad ng grid, "
+"listahan, tile, buo, ipahayag, at iba pa."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:10
+msgid "Blockspare Pro"
+msgstr "Blockspare Pro"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:12
+msgid "Beautiful Page Building Gutenberg Blocks for WordPress"
+msgstr ""
+"Magagandang pahina ng pagbuo ng mga bloke ng Gutenberg para sa WordPress"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:16
+msgid "Magic Content Box Block"
+msgstr "Magic Content Box Block"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:18
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you have always desired.."
+msgstr ""
+"Nagtatayo kami ng isang magandang serye ng seksyon ng pahina ng mga bloke ng"
+" Gutenberg para sa nilalaman ng WordPress upang matulungan kang mabilis na "
+"lumikha ng website na lagi mong ninanais.."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:22
+msgid "Latest Posts Block for WordPress (Gutenberg)"
+msgstr "Pinakabagong Mga Post Block Para sa WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:24
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design, and tile layouts of your posts."
+msgstr ""
+"Ang isang magandang koleksyon ng mga pinakabagong mga post na mga bloke ng "
+"Gutenberg para sa WordPress, na tumutulong sa iyo na magdisenyo ng mga post "
+"ng grid, listahan ng mga post, buong layout ng mga post, advanced na disenyo"
+" ng mga post na disenyo, at mga layout ng tile ng iyong mga post."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:28
+msgid "Team and Testimonial Block for WordPress (Gutenberg)"
+msgstr "Koponan at Testimonial Block para sa WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:30
+msgid ""
+"With the Team and Testimonial Block for Gutenberg, you can quickly create a "
+"beautiful, responsive, and high-converting team, members, review, rating, "
+"etc, sections. There is no need to code anything."
+msgstr ""
+"Gamit ang koponan at testimonial block para sa Gutenberg, maaari kang "
+"mabilis na lumikha ng isang maganda, tumutugon, at mataas na pag-convert ng "
+"koponan, mga miyembro, pagsusuri, rating, atbp, mga seksyon. Hindi na "
+"kailangang mag -code ng anuman."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:34
+msgid "Pricing Table Block for WordPress (Gutenberg)"
+msgstr "Presyo ng Table Block para sa WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:36
+msgid ""
+"With the Pricing Table Block for Gutenberg, you can quickly create a "
+"beautiful, responsive, and high-converting pricing table. There is no need "
+"to code anything."
+msgstr ""
+"Gamit ang bloke ng talahanayan ng pagpepresyo para sa Gutenberg, maaari kang"
+" mabilis na lumikha ng isang maganda, tumutugon, at mataas na pag-convert ng"
+" talahanayan ng pagpepresyo. Hindi na kailangang mag -code ng anuman."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "Tingnan"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"Mayroon bang tanong na suporta sa tema o natagpuan ang bug o nakakuha ng "
+"ilang mga puna? Pinakamahusay na lugar upang tanungin ang iyong query ay ang"
+" nakatuon na forum ng suporta para sa tema.."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "Mga tutorial sa video"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr ""
+"Panoorin ang mga video para sa isang madaling pag -aaral sa pagpapasadya ng "
+"tema."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:22
+msgid "3CX Free Live Chat"
+msgstr "3CX libreng live chat"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:24
+msgid "Visit"
+msgstr "Bisitahin"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:26
+msgid ""
+"We have built a new live chat solution called 3cx startup! this will give "
+"you completely free live chat, voice capability plus a team communication "
+"system!"
+msgstr ""
+"Nagtayo kami ng isang bagong live na solusyon sa chat na tinatawag na 3CX "
+"Startup! Bibigyan ka nito ng ganap na libreng live na chat, kakayahan ng "
+"boses kasama ang isang sistema ng komunikasyon ng koponan!"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:5
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"Gumamit ng kasamang AF upang mag -import ng live na nilalaman ng demo, mga "
+"widget, at mga setting nang mabilis. Nagbibigay ang plugin na ito ng "
+"pangunahing layout upang mabuo ang iyong website at mapabilis ang proseso ng"
+" pag -unlad."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:9
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr ""
+"Maaari kang magdisenyo ng mga kumplikadong layout para sa iyong website sa "
+"loob lamang ng ilang minuto kasama ang aming madaling iakma at mapag "
+"-imbento na mga bloke."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:13
+msgid ""
+"Get ready-to-use Starter Sites instantly and build modern websites in "
+"minutes."
+msgstr ""
+"Maghanda na mag-starter ng mga site agad at bumuo ng mga modernong website "
+"sa ilang minuto."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:17
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"Disenyo Perpektong Blog, Balita, o Magazine Website Ang ELLESTARE ay isang "
+"simple ngunit epektibong plugin ng WordPress na nagbibigay -daan sa iyo na "
+"gumamit ng elementor upang lumikha ng kamangha -manghang header, footer at "
+"mga nilalaman ng mga website na may lubos na mga pagpipilian sa pagpapasadya"
+" nang libre."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:21
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"Isang magandang koleksyon ng mga pinakabagong mga post na mga bloke ng "
+"Gutenberg para sa WordPress, na tumutulong sa iyo upang magdisenyo ng mga "
+"post ng grid, listahan ng mga post, buong layout ng mga post, advanced na "
+"mga post na disenyo ng mga post at mga layout ng tile ng iyong mga post."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:25
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"Nagtatayo kami ng isang magandang serye ng seksyon ng pahina ng mga bloke ng"
+" Gutenberg para sa nilalaman ng WordPress upang matulungan kang mabilis na "
+"lumikha ng website na lagi mong ninanais."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:29
+msgid ""
+"It has 3 different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"Mayroon itong 3 magkakaibang mga widget para sa may -akda ng Post, pumipili "
+"ng may -akda ng ID at pasadyang may -akda. Nagbibigay din ito ng mga "
+"shortcode para sa profile ng may -akda."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:33
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"Nag -aalok ang libreng plugin ng isang libreng live na solusyon sa chat para"
+" sa iyong mga bisita sa website na makipag -ugnay sa iyo sa pamamagitan ng "
+"live chat o isang live na tawag - lahat nang libre! Makisali sa iyong mga "
+"customer at dagdagan ang mga benta."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:37
+msgid ""
+"A free WordPress Plugin which facilitates with the functionality to submit "
+"Posts from frontend with or without logging in with various configurable "
+"options."
+msgstr ""
+"Ang isang libreng plugin ng WordPress na nagpapadali sa pag -andar upang "
+"magsumite ng mga post mula sa Frontend na may o walang pag -log in na may "
+"iba't ibang mga pagpipilian na mai -configure."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:41
+msgid ""
+"This plugin helps you grow your Mailchimp lists and write better newsletters"
+" through various methods. You can create good looking opt-in forms or "
+"integrate with any existing form on your site, like your comment, contact or"
+" checkout form."
+msgstr ""
+"Ang plugin na ito ay tumutulong sa iyo na palaguin ang iyong mga listahan ng"
+" MailChimp at magsulat ng mas mahusay na mga newsletter sa pamamagitan ng "
+"iba't ibang mga pamamaraan. Maaari kang lumikha ng mahusay na naghahanap ng "
+"mga form na opt-in o pagsamahin sa anumang umiiral na form sa iyong site, "
+"tulad ng iyong komento, contact o form ng pag-checkout."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:48
+#: admin-dashboard/src/components/json/useful-plugins-content.js:53
+msgid "Get Started with Beautiful Starter Templates."
+msgstr "Magsimula sa magagandang mga template ng starter."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:49
+msgid ""
+"Use templatespare to import live demo content, widgets, and settings "
+"swiftly. This plugin gives fundamental layout to build your website and "
+"accelerate the development process."
+msgstr ""
+"Gumamit ng TemplatePare upang mag -import ng live na nilalaman ng demo, mga "
+"widget, at mga setting nang mabilis. Nagbibigay ang plugin na ito ng "
+"pangunahing layout upang mabuo ang iyong website at mapabilis ang proseso ng"
+" pag -unlad."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:54
+msgid ""
+"Use blockspare to import live demo content, widgets, and settings swiftly. "
+"This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"Gumamit ng blockspare upang mag -import ng live na nilalaman ng demo, mga "
+"widget, at mga setting nang mabilis. Nagbibigay ang plugin na ito ng "
+"pangunahing layout upang mabuo ang iyong website at mapabilis ang proseso ng"
+" pag -unlad."
+
+#: admin-dashboard/src/components/main.js:54
+msgid "Get started"
+msgstr "Magsimula"
+
+#: admin-dashboard/src/components/main.js:69
+msgid "Premium Plugins"
+msgstr "Mga Premium na Plugin"
+
+#: admin-dashboard/src/components/main.js:77
+msgid "Change Log"
+msgstr "Baguhin ang log"
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr "Pumunta sa pagpipilian"
+
+#: admin-dashboard/src/components/nav-content/premium-plugins.js:24
+msgid "Buy Now"
+msgstr "Bilhin ngayon"
+
+#: admin-dashboard/src/components/templatespare-demo.js:60
+msgid "Update Templatespare"
+msgstr "I -update ang TemplatePare"
+
+#: admin-dashboard/src/components/templatespare-demo.js:75
+msgid "Create Your Dream Website in Minutes!"
+msgstr "Lumikha ng iyong pangarap na website sa ilang minuto!"
+
+#: admin-dashboard/src/components/templatespare-demo.js:79
+msgid ""
+"No coding needed. One-click import of expert-made starter sites with "
+"customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start "
+"now with Templatespare Plugin!"
+msgstr ""
+"Walang kinakailangang coding. Ang isang pag-click sa pag-import ng mga "
+"dalubhasang starter site na may customizer, widget, elementor template kit, "
+"at mga pattern ng gutenberg. Magsimula ngayon sa TemplatePare plugin!"
+
+#: admin-dashboard/src/components/templatespare-demo.js:225
+msgid "Preview"
+msgstr "Preview"
+
+#: admin-dashboard/src/components/templatespare-demo.js:232
+msgid "All Themes Plan"
+msgstr "Lahat ng mga tema ay plano"

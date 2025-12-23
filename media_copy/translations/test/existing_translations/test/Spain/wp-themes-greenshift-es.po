@@ -1,0 +1,1593 @@
+# Translation of Themes - Greenshift in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Greenshift package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-01 15:48:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Greenshift\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "GreenShift is theme for FSE with maximum perfomance and flexibility. The best companion theme for Greenshift plugin, page and animation builder. It has more than 12 query loop templates, a lot of predefined Post and Page layouts, support for dark mode, header and footer patterns, style switcher, library of block styles and section patterns, dark color scheme, font selector. Theme doesn't use jquery dependencies and has conditional assets to get 100 web vitals score even without cache plugins. GreenShift can be used also to make super fast and clean Woocommerce shops. It has improved style loading for Woocommerce, better inputs, very clean design for shop pages and improved layouts for woocommerce blocks."
+msgstr "GreenShift es un tema para FSE con el máximo rendimiento y flexibilidad. El mejor tema compañero para el plugin Greenshift, constructor de páginas y animaciones. Tiene más de 12 plantillas de bucle de consulta, un montón de diseños predefinidos de entrada y página, soporte para modo oscuro, patrones de cabecera y pie de página, conmutador de estilos, biblioteca de estilos de bloque y patrones de sección, esquema de colores oscuros, selector de fuentes. El tema no utiliza dependencias de jquery y tiene activos condicionales para obtener una puntuación de 100 web vitals incluso sin plugins de caché. GreenShift también se puede utilizar para crear tiendas Woocommerce superrápidas y limpias. Tiene una carga de estilos mejorada para WooCommerce, mejores entradas, un diseño muy limpio para las páginas de la tienda y diseños mejorados para los bloques de WooCommerce."
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:17
+#, gp-priority: high
+msgid "Greenshift"
+msgstr "Greenshift"
+
+#: build/index.js:1
+msgid "Sticky Header Logo"
+msgstr "Logotipo fijo en la cabecera"
+
+#: build/index.js:1
+msgid "Add Mobile logo"
+msgstr "Añadir logotipo móvil"
+
+#: build/index.js:1
+msgid "Logo for mobile devices"
+msgstr "Logotipo para dispositivos móviles"
+
+#: build/index.js:1
+msgid "Mobile Logo"
+msgstr "Logotipo para móviles"
+
+#: build/settings.js:1
+msgid "Disable Quantity Customization"
+msgstr "Desactivar personalización de cantidad"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid xLarge"
+msgstr "Fluido xgrande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid Large"
+msgstr "Fluido grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Big"
+msgstr "Estática - grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Medium"
+msgstr "Estática - media"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Small"
+msgstr "Estática - pequeña"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Search Results"
+msgstr "Resultados de búsqueda de productos"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr "Archivo de producto"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr "Producto individual"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Lienzo en blanco"
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:40
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s reseña para %2$s"
+msgstr[1] "%1$s reseñas para %2$s"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Negro"
+
+#: inc/admin_menu/welcome-page.php:1033
+msgid "All about FSE workflow"
+msgstr "Todo acerca del flujo de trabajo de FSE"
+
+#: patterns/query-grid-excerpt.php
+msgctxt "Pattern title"
+msgid "Grid of posts with excerpt"
+msgstr "Cuadrícula de entradas con extracto"
+
+#: patterns/hero-main-light.php
+msgctxt "Pattern title"
+msgid "Hero block for Homepage Light"
+msgstr "Bloque a pantalla completa para página de inicio claro"
+
+#: patterns/header-withbutton.php
+msgctxt "Pattern title"
+msgid "Header with left menu and button"
+msgstr "Cabecera con menú a la izquierda y botón"
+
+#: patterns/header-simple.php
+msgctxt "Pattern title"
+msgid "Simple Header"
+msgstr "Cabecera simple"
+
+#: patterns/header-defaultblack.php
+msgctxt "Pattern title"
+msgid "Header Black"
+msgstr "Cabecera en negro"
+
+#: patterns/general-ratings-light.php
+msgctxt "Pattern title"
+msgid "Ratings block Light"
+msgstr "Bloque de valoraciones claro"
+
+#: patterns/general-pricing-light.php
+msgctxt "Pattern title"
+msgid "Pricing table Light"
+msgstr "Tabla de precios clara"
+
+#: patterns/general-features-list-light.php
+msgctxt "Pattern title"
+msgid "Features list block Light"
+msgstr "Bloque de lista de características claro"
+
+#: patterns/general-features-light.php
+msgctxt "Pattern title"
+msgid "Features block Homepage Light"
+msgstr "Bloque de características de página de inicio claro"
+
+#: patterns/general-faq-light.php
+msgctxt "Pattern title"
+msgid "FAQ block Light"
+msgstr "Bloque FAQ claro"
+
+#: patterns/general-banner2-light.php
+msgctxt "Pattern title"
+msgid "Banner block 2 light"
+msgstr "Bloque 2 de banner claro"
+
+#: patterns/general-banner-light.php
+msgctxt "Pattern title"
+msgid "Banner Light"
+msgstr "Banner claro"
+
+#: patterns/footer-white.php
+msgctxt "Pattern title"
+msgid "Simple footer with white background"
+msgstr "Pie de página simple con fondo blanco"
+
+#: patterns/footer-default-mega.php
+msgctxt "Pattern title"
+msgid "Default Mega Footer"
+msgstr "Mega pie de página por defecto"
+
+#: patterns/footer-central.php
+msgctxt "Pattern title"
+msgid "Central Footer with banner"
+msgstr "Pie de página central con banner"
+
+#: inc/block-styles.php:347
+msgid "Soft Border radius"
+msgstr "Radio del borde suave"
+
+#: inc/block-styles.php:214
+msgid "Rounded grey"
+msgstr "Gris redondeado"
+
+#: inc/block-styles.php:69
+msgid "System dark"
+msgstr "Sistema oscuro"
+
+#: inc/block-styles.php:61
+msgid "System light"
+msgstr "Sistema claro"
+
+#: inc/admin_menu/welcome-page.php:1043
+msgid "Visit our Video Center"
+msgstr "Visita nuestro centro de vídeos"
+
+#: inc/admin_menu/welcome-page.php:1023
+msgid "Get started with Learning Center"
+msgstr "Primeros pasos con el centro de aprendizaje"
+
+#: inc/admin_menu/welcome-page.php:1000
+msgid "Theme Configuration"
+msgstr "Configuración del tema"
+
+#: inc/admin_menu/welcome-page.php:998
+msgid "Thank you for installing theme and Greenshift plugin"
+msgstr "Gracias por instalar el tema y el plugin Greenshift"
+
+#: inc/admin_menu/welcome-page.php:994
+msgid "Block Theme for WordPress"
+msgstr "Tema de bloques para WordPress"
+
+#: inc/admin_menu/welcome-page.php:990
+msgid "Welcome to Greenshift"
+msgstr "Bienvenido a Greenshift"
+
+#: inc/admin_menu/settings.php:267
+msgid "Search Product template"
+msgstr "Plantilla de búsqueda de producto"
+
+#: inc/admin_menu/settings.php:263
+msgid "Shop archive template"
+msgstr "Plantilla de archivo de tienda"
+
+#: inc/admin_menu/settings.php:259
+msgid "Single Product template"
+msgstr "Plantilla de producto individual"
+
+#: inc/admin_menu/settings.php:253
+msgid "Post Archive template"
+msgstr "Plantilla de archivo de entradas"
+
+#: inc/admin_menu/settings.php:249
+msgid "Single post template"
+msgstr "Plantilla de entrada individual"
+
+#: inc/admin_menu/settings.php:245
+msgid "Extra Template Settings"
+msgstr "Ajustes adicionales de plantilla"
+
+#: inc/admin_menu/settings.php:241
+msgid "Create Extra pages"
+msgstr "Crear páginas adicionales"
+
+#: inc/admin_menu/settings.php:237
+msgid "Footer pattern"
+msgstr "Patrón de pie de página"
+
+#: inc/admin_menu/settings.php:233
+msgid "Header pattern"
+msgstr "Patrón de cabecera"
+
+#: inc/admin_menu/settings.php:229
+msgid "Homepage Settings"
+msgstr "Ajustes de página de inicio"
+
+#: inc/admin_menu/settings.php:225
+msgid "Brand Settings"
+msgstr "Ajustes de la marca"
+
+#: inc/admin_menu/settings.php:75 inc/admin_menu/settings.php:76
+#: inc/admin_menu/settings.php:219
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/admin_menu/settings.php:30 inc/admin_menu/welcome-page.php:1005
+msgid "Install Core Greenshift plugin"
+msgstr "Instala el plugin Core Greenshift"
+
+#: inc/admin_menu/settings.php:28 inc/admin_menu/welcome-page.php:1003
+msgid "To get Full Power of this theme, please, install Greenshift Companion plugin"
+msgstr "Para obtener toda la potencia de este tema, por favor, instala el plugin Greenshift Companion"
+
+#: inc/admin_menu/onboard/singleproduct.php:289
+msgid "Single with 2 column gallery"
+msgstr "Individual con galería de 2 columnas"
+
+#: inc/admin_menu/onboard/singleproduct.php:283
+msgid "Single Improved"
+msgstr "Individual mejorado"
+
+#: inc/admin_menu/onboard/singleproduct.php:267
+msgid "Your single product displays"
+msgstr "Tu producto individual muestra"
+
+#: inc/admin_menu/onboard/singleproduct.php:250
+msgid "Selecting single product template will overwrite your existing template. You can edit elements in"
+msgstr "Al seleccionar la plantilla de producto individual se sobreescribirá tu plantilla existente. Puedes editar los elementos en"
+
+#: inc/admin_menu/onboard/single.php:276
+msgid "Single with negative margin"
+msgstr "Individual con margen negativo"
+
+#: inc/admin_menu/onboard/single.php:270
+msgid "Single with Cover block"
+msgstr "Individual con bloque de portada"
+
+#: inc/admin_menu/onboard/single.php:265
+#: inc/admin_menu/onboard/singleproduct.php:278
+msgid "Single Default"
+msgstr "Individual por defecto"
+
+#: inc/admin_menu/onboard/single.php:261
+#: inc/admin_menu/onboard/singleproduct.php:274
+msgid "Current single"
+msgstr "Individual actual"
+
+#: inc/admin_menu/onboard/single.php:254
+msgid "Your single displays"
+msgstr "Tus pantallas individuales"
+
+#: inc/admin_menu/onboard/single.php:248
+msgid "Selecting single page template will overwrite your existing template. You can edit elements in"
+msgstr "Al seleccionar la plantilla de página individual se sobreescribirá tu plantilla existente. Puedes editar los elementos en"
+
+#: inc/admin_menu/onboard/searchproduct.php:257
+msgid "Improved Search page"
+msgstr "Página de búsqueda mejorada"
+
+#: inc/admin_menu/onboard/searchproduct.php:252
+msgid "Search Default"
+msgstr "Búsqueda por defecto"
+
+#: inc/admin_menu/onboard/searchproduct.php:248
+msgid "Current Search template"
+msgstr "Plantilla de búsqueda actual"
+
+#: inc/admin_menu/onboard/searchproduct.php:223
+msgid "Selecting Search product template will overwrite your existing template. You can edit elements in"
+msgstr "Al seleccionar la plantilla de búsqueda de producto se sobreescribirá tu plantilla existente. Puedes editar los elementos en"
+
+#: inc/admin_menu/onboard/pages.php:455
+msgid "Wishlist requires Query addon"
+msgstr "La lista de deseos necesita la extensión Query"
+
+#: inc/admin_menu/onboard/pages.php:452
+msgid "Wishlist page"
+msgstr "Página de lista de deseos"
+
+#: inc/admin_menu/onboard/pages.php:447
+msgid "Product Comparison requires Woocommerce addon"
+msgstr "La comparación de productos requiere la extensión de WooCommerce"
+
+#: inc/admin_menu/onboard/pages.php:444
+msgid "Product Comparison Results Page"
+msgstr "Página de resultados de la comparación de productos"
+
+#: inc/admin_menu/onboard/pages.php:437
+msgid "Team page"
+msgstr "Página del equipo"
+
+#: inc/admin_menu/onboard/pages.php:430
+msgid "Price page"
+msgstr "Página de precios"
+
+#: inc/admin_menu/onboard/pages.php:416
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: inc/admin_menu/onboard/pages.php:407
+msgid "Select if you want to create extra pages"
+msgstr "Seleccionar si quieres crear páginas adicionales"
+
+#: inc/admin_menu/onboard/home.php:261
+msgid "Edit Home Page"
+msgstr "Editar página de inicio"
+
+#: inc/admin_menu/onboard/home.php:260
+msgid "Create New Home Page"
+msgstr "Crear nueva página de inicio"
+
+#: inc/admin_menu/onboard/home.php:252
+msgid "Select a page"
+msgstr "Selecciona una página"
+
+#: inc/admin_menu/onboard/home.php:245
+msgid "A custom page and template library"
+msgstr "Una biblioteca de páginas y plantillas personalizadas"
+
+#: inc/admin_menu/onboard/home.php:239
+msgid "You can edit template later in"
+msgstr "Puedes editar la plantilla más tarde en"
+
+#: inc/admin_menu/onboard/home.php:239
+msgid "Homepage Template"
+msgstr "Plantilla de página de inicio"
+
+#: inc/admin_menu/onboard/home.php:231
+msgid "Your homepage displays"
+msgstr "Tu página de inicio muestra"
+
+#: inc/admin_menu/onboard/home.php:224
+msgid "Select How you want to show your Home page. You can change this later"
+msgstr "Selecciona cómo quieres mostrar tu página de inicio. Puedes cambiar esto más tarde"
+
+#: inc/admin_menu/onboard/home.php:200
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/admin_menu/onboard/header.php:297
+msgid "Header Simple"
+msgstr "Cabecera simple"
+
+#: inc/admin_menu/onboard/header.php:289
+msgid "Header With Button"
+msgstr "Cabecera con botón"
+
+#: inc/admin_menu/onboard/header.php:281
+msgid "Dark header"
+msgstr "Cabecera oscura"
+
+#: inc/admin_menu/onboard/header.php:273
+msgid "Header With two zones"
+msgstr "Cabecera con dos zonas"
+
+#: inc/admin_menu/onboard/header.php:265
+msgid "Header With search icon"
+msgstr "Cabecera con icono de búsqueda"
+
+#: inc/admin_menu/onboard/header.php:257
+msgid "Header Centered"
+msgstr "Cabecera centrada"
+
+#: inc/admin_menu/onboard/header.php:250
+msgid "Header Default"
+msgstr "Cabecera por defecto"
+
+#: inc/admin_menu/onboard/header.php:246
+msgid "Current Header"
+msgstr "Cabecera actual"
+
+#: inc/admin_menu/onboard/header.php:239
+msgid "Your header displays"
+msgstr "Tu cabecera muestra"
+
+#: inc/admin_menu/onboard/header.php:234
+msgid "Selecting header will overwrite your header template. Hover on title to preview it. You can edit header elements in"
+msgstr "Al seleccionar la cabecera se sobrescribirá tu plantilla de cabecera. Pasa el cursor por encima del título para previsualizarla. Puedes editar los elementos de la cabecera en"
+
+#: inc/admin_menu/onboard/footer.php:276
+msgid "Mega Footer"
+msgstr "Mega pie de página"
+
+#: inc/admin_menu/onboard/footer.php:268
+msgid "Footer with transparent background"
+msgstr "Pie de página con fondo transparente"
+
+#: inc/admin_menu/onboard/footer.php:260
+msgid "Footer Simple"
+msgstr "Pie de página simple"
+
+#: inc/admin_menu/onboard/footer.php:252
+msgid "Footer 5 Column"
+msgstr "Pie de página con 5 columnas"
+
+#: inc/admin_menu/onboard/footer.php:244
+msgid "Footer with banner"
+msgstr "Pie de página con banner"
+
+#: inc/admin_menu/onboard/footer.php:237
+msgid "Footer Default"
+msgstr "Pie de página por defecto"
+
+#: inc/admin_menu/onboard/footer.php:233
+msgid "Current Footer"
+msgstr "Pie de página actual"
+
+#: inc/admin_menu/onboard/footer.php:226
+msgid "Your footer displays"
+msgstr "Tu pie de página muestra"
+
+#: inc/admin_menu/onboard/footer.php:221
+msgid "Attention. Selecting footer will overwrite your footer template. Hover on title to preview it. You can edit footer elements in"
+msgstr "Atención. Al seleccionar el pie de página se sobrescribirá tu plantilla de pie de página. Pasa el cursor sobre el título para previsualizarlo. Puedes editar los elementos del pie de página en"
+
+#: inc/admin_menu/onboard/brand.php:153
+msgid "Site Icon"
+msgstr "Icono del sitio"
+
+#: inc/admin_menu/onboard/brand.php:107
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: inc/admin_menu/onboard/brand.php:101
+msgid "Add description for site"
+msgstr "Añadir descripción al sitio"
+
+#: inc/admin_menu/onboard/brand.php:97
+msgid "Site Description"
+msgstr "Descripción del sitio"
+
+#: inc/admin_menu/onboard/brand.php:91
+msgid "Add name for site"
+msgstr "Añadir nombre al sitio"
+
+#: inc/admin_menu/onboard/brand.php:87
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: inc/admin_menu/onboard/brand.php:71
+msgid "You can add unlimited extra colors and configure additional global elements in"
+msgstr "Puedes añadir colores adicionales ilimitados y configurar elementos globales adicionales en"
+
+#: inc/admin_menu/onboard/archiveproduct.php:260
+msgid "Improved Shop page"
+msgstr "Página de la tienda mejorada"
+
+#: inc/admin_menu/onboard/archiveproduct.php:255
+msgid "Shop Default"
+msgstr "Tienda por defecto"
+
+#: inc/admin_menu/onboard/archiveproduct.php:244
+#: inc/admin_menu/onboard/searchproduct.php:241
+msgid "Your archive shop displays"
+msgstr "El archivo de tu tienda muestra"
+
+#: inc/admin_menu/onboard/archiveproduct.php:238
+#: inc/admin_menu/onboard/searchproduct.php:235
+#: inc/admin_menu/onboard/singleproduct.php:262
+msgid "Buy Woocommerce plan (includes Woo and Query addon)"
+msgstr "Comprar el plan Woocommerce (incluye las extensiones Woo y Query)"
+
+#: inc/admin_menu/onboard/archiveproduct.php:237
+#: inc/admin_menu/onboard/searchproduct.php:234
+#: inc/admin_menu/onboard/singleproduct.php:261
+msgid "Check your Addons"
+msgstr "Comprueba tus extensiones"
+
+#: inc/admin_menu/onboard/archiveproduct.php:236
+#: inc/admin_menu/onboard/searchproduct.php:233
+#: inc/admin_menu/onboard/singleproduct.php:260
+msgid "This option requires to have Greenshift Query and Woocommerce addon"
+msgstr "Esta opción requiere tener Greenshift Query y la extensión Woocommerce"
+
+#: inc/admin_menu/onboard/archiveproduct.php:226
+msgid "Selecting archive product template will overwrite your existing template. You can edit elements in"
+msgstr "Al seleccionar la plantilla de producto de archivo se sobrescribirá tu plantilla existente. Puedes editar elementos en"
+
+#: inc/admin_menu/onboard/archive.php:340
+#: inc/admin_menu/onboard/archiveproduct.php:319
+#: inc/admin_menu/onboard/brand.php:198 inc/admin_menu/onboard/footer.php:333
+#: inc/admin_menu/onboard/header.php:352 inc/admin_menu/onboard/home.php:315
+#: inc/admin_menu/onboard/pages.php:465
+#: inc/admin_menu/onboard/searchproduct.php:316
+#: inc/admin_menu/onboard/single.php:331
+#: inc/admin_menu/onboard/singleproduct.php:344
+msgid "Save and Continue"
+msgstr "Guardar y continuar"
+
+#: inc/admin_menu/onboard/archive.php:337
+#: inc/admin_menu/onboard/archiveproduct.php:316
+#: inc/admin_menu/onboard/brand.php:197 inc/admin_menu/onboard/footer.php:330
+#: inc/admin_menu/onboard/header.php:351 inc/admin_menu/onboard/home.php:312
+#: inc/admin_menu/onboard/pages.php:462
+#: inc/admin_menu/onboard/searchproduct.php:313
+#: inc/admin_menu/onboard/single.php:330
+#: inc/admin_menu/onboard/singleproduct.php:343
+msgid "Save"
+msgstr "Guardar"
+
+#: inc/admin_menu/onboard/archive.php:282
+msgid "Cover on image"
+msgstr "Portada en la imagen"
+
+#: inc/admin_menu/onboard/archive.php:277
+msgid "Grid with Shadow"
+msgstr "Cuadrícula con sombra"
+
+#: inc/admin_menu/onboard/archive.php:271
+msgid "Blog List"
+msgstr "Listado del blog"
+
+#: inc/admin_menu/onboard/archive.php:265
+msgid "Simple Grid"
+msgstr "Cuadrícula simple"
+
+#: inc/admin_menu/onboard/archive.php:260
+msgid "Archive Default"
+msgstr "Archivo por defecto"
+
+#: inc/admin_menu/onboard/archive.php:256
+#: inc/admin_menu/onboard/archiveproduct.php:251
+msgid "Current archive"
+msgstr "Archivo actual"
+
+#: inc/admin_menu/onboard/archive.php:249
+msgid "Your archive displays"
+msgstr "Tu archivo muestra"
+
+#: inc/admin_menu/onboard/archive.php:243
+msgid "Selecting Archive template will overwrite your existing template. You can edit elements in"
+msgstr "Al seleccionar la plantilla de archivo se sobrescribirá tu plantilla existente. Puedes editar elementos en"
+
+#: inc/admin_menu/onboard.php:46
+msgid "Create Extra Pages"
+msgstr "Crear páginas adicionales"
+
+#: inc/admin_menu/onboard.php:43
+msgid "Select Search Product template"
+msgstr "Selecciona plantilla de búsqueda de producto"
+
+#: inc/admin_menu/onboard.php:40
+msgid "Select archive Product template"
+msgstr "Selecciona plantilla de producto de archivo"
+
+#: inc/admin_menu/onboard.php:37
+msgid "Select Single Product template"
+msgstr "Selecciona plantilla de producto individual"
+
+#: inc/admin_menu/onboard.php:34
+msgid "Select Archive template"
+msgstr "Selecciona plantilla de archivo"
+
+#: inc/admin_menu/onboard.php:31
+msgid "Select Single Post template"
+msgstr "Selecciona plantilla de entrada individual"
+
+#: inc/admin_menu/onboard.php:28
+msgid "Select Footer Pattern"
+msgstr "Selecciona patrón de pie de página"
+
+#: inc/admin_menu/onboard.php:25
+msgid "Select Header Pattern"
+msgstr "Selecciona patrón de cabecera"
+
+#: inc/admin_menu/onboard.php:22
+msgid "HomePage settings"
+msgstr "Ajustes de la página de inicio"
+
+#: inc/admin_menu/onboard.php:19
+msgid "Brand settings"
+msgstr "Ajustes de la marca"
+
+#: build/index.js:1
+msgid "Clear Media"
+msgstr "Vaciar los medios"
+
+#: build/index.js:1
+msgid "Add Sticky image"
+msgstr "Añadir imagen fija"
+
+#: build/index.js:1
+msgid "Logo for sticky header"
+msgstr "Logo para la cabecera fija"
+
+#: build/index.js:1
+msgid "Mobile Menu Arrow color"
+msgstr "Color de flecha del menú móvil"
+
+#: build/index.js:1
+msgid "Mobile Menu Arrow Background"
+msgstr "Fondo de flecha del menú móvil"
+
+#: build/index.js:1
+msgid "Mobile Menu text color"
+msgstr "Color del texto del menú móvil"
+
+#: build/index.js:1
+msgid "Mobile Menu Background color"
+msgstr "Color de fondo del menú móvil"
+
+#: build/index.js:1
+msgid "Menu Item Padding Horizontal"
+msgstr "Relleno horizontal del elemento de menú"
+
+#: build/index.js:1
+msgid "Menu Item Padding Vertical"
+msgstr "Relleno vertical del elemento de menú"
+
+#: build/index.js:1
+msgid "Sub menu Hover Background color"
+msgstr "Color de fondo al pasar el cursor por el submenú"
+
+#: build/index.js:1
+msgid "Sub menu Hover color"
+msgstr "Color del submenú al pasar el cursor"
+
+#: build/index.js:1
+msgid "Hover Background color"
+msgstr "Color del fondo al pasar el cursor"
+
+#: build/index.js:1
+msgid "Hover color"
+msgstr "Color al pasar el cursor"
+
+#: build/index.js:1
+msgid "Disable Hover Inline?"
+msgstr "¿Desactivar la línea al pasar por encima?"
+
+#: build/index.js:1
+msgid "GreenShift Extra Settings"
+msgstr "Ajustes extra de GreenShift"
+
+#: build/settings.js:1
+msgid "Disable Cart Customization"
+msgstr "Desactivar personalización del carrito"
+
+#: build/settings.js:1
+msgid "Disable Checkout Customization"
+msgstr "Desactivar la personalización del pago"
+
+#: build/settings.js:1
+msgid "Woocommerce Options"
+msgstr "Opciones de WooCommerce"
+
+#: build/settings.js:1
+msgid "Enable Back to Top button"
+msgstr "Activar el botón «Volver arriba»"
+
+#: build/settings.js:1
+msgid "Enable Progress bar on posts"
+msgstr "Activar la barra de progreso en las entradas"
+
+#: build/settings.js:1
+msgid "Save changes to database"
+msgstr "Guardar los cambios en la base de datos"
+
+#: inc/admin_menu/onboard/pages.php:423
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: inc/admin_menu/onboard/archive.php:244
+#: inc/admin_menu/onboard/archiveproduct.php:227
+#: inc/admin_menu/onboard/footer.php:222 inc/admin_menu/onboard/header.php:235
+#: inc/admin_menu/onboard/home.php:239
+#: inc/admin_menu/onboard/searchproduct.php:224
+#: inc/admin_menu/onboard/single.php:249
+#: inc/admin_menu/onboard/singleproduct.php:251
+msgid "Site Editor"
+msgstr "Editor del sitio"
+
+#: styles/mona.json
+msgctxt "Style variation name"
+msgid "Mona Variable Font"
+msgstr "Mona fuente variable"
+
+#: build/index.js:1
+msgid "Logo height for sticky header"
+msgstr "Altura del logotipo para la cabecera fija"
+
+#: patterns/general-features.php
+msgctxt "Pattern title"
+msgid "Colored Features block"
+msgstr "Bloque de características de color"
+
+#: patterns/general-features-main.php
+msgctxt "Pattern title"
+msgid "Features block Homepage"
+msgstr "Página de inicio, bloque de características"
+
+#: inc/block-styles.php:93
+msgid "Blur background"
+msgstr "Desenfoque del fondo"
+
+#: inc/block-styles.php:86
+msgid "Full background"
+msgstr "Fondo completo"
+
+#: build/index.js:1
+msgid "Sticky only on scroll Up?"
+msgstr "¿Fijo solo al hacer scroll hacia arriba?"
+
+#: build/index.js:1
+msgid "Ajax loading?"
+msgstr "¿Carga Ajax?"
+
+#: build/index.js:1
+msgid "Show Reusable template as Menu item"
+msgstr "Mostrar plantilla reutilizable como elemento del menú"
+
+#: build/index.js:1
+msgid "Mobile Menu bottom area template"
+msgstr "Plantilla del área inferior del menú móvil"
+
+#: build/index.js:1
+msgid "Mobile Menu top area template"
+msgstr "Plantilla del área superior del menú móvil"
+
+#: build/index.js:1
+msgid "This works only on frontend side"
+msgstr "Esto solo funciona en la portada"
+
+#: build/index.js:1
+msgid "Inherit background from template?"
+msgstr "¿Heredar el fondo de la plantilla?"
+
+#: build/index.js:1
+msgid "Create sub item for template"
+msgstr "Crear subelemento para plantilla"
+
+#: build/index.js:1
+msgid "Ajax loading trigger"
+msgstr "Activador de carga Ajax"
+
+#: build/index.js:1
+msgid "Make sure that you added inner Menu link in sub item with the same Reusable template"
+msgstr "Asegúrate de que has añadido el enlace Menú interno en el subelemento con la misma plantilla reutilizable"
+
+#: build/index.js:1
+msgid "Menu image gap"
+msgstr "Hueco de imagen del menú"
+
+#: build/index.js:1
+msgid "You can add image into menu label by clicking on arrow in toolbar, then select Inline Image"
+msgstr "Puedes añadir una imagen a la etiqueta del menú haciendo clic en la flecha de la barra de herramientas y seleccionando «Imagen integrada»."
+
+#: build/index.js:1
+msgid "Bottom Margin"
+msgstr "Margen inferior"
+
+#: build/index.js:1
+msgid "Submenu Padding"
+msgstr "Relleno del submenú"
+
+#: build/index.js:1
+msgid "Submenu Width"
+msgstr "Ancho del submenú"
+
+#: build/index.js:1
+msgid "Full width menu"
+msgstr "Menú de ancho completo"
+
+#: build/index.js:1
+msgid "Columned menu from right"
+msgstr "Menú en columnas desde la derecha"
+
+#: build/index.js:1
+msgid "Columned menu"
+msgstr "Menú con columnas"
+
+#: build/index.js:1
+msgid "Select menu type"
+msgstr "Selecciona el tipo de menú"
+
+#: build/index.js:1
+msgid "Use Megamenu for sub items"
+msgstr "Utilizar Mega menú para subelementos"
+
+#: build/index.js:1
+msgid "GreenShift Menu Settings"
+msgstr "Ajustes de menú de GreenShift"
+
+#: build/index.js:1
+msgid "Select Reusable template"
+msgstr "Seleccionar plantilla reutilizable"
+
+#: inc/block-styles.php:251
+msgid "Header search"
+msgstr "Búsqueda de cabecera"
+
+#: build/index.js:1
+msgid "Disable shadow?"
+msgstr "¿Desactivar la sombra?"
+
+#: build/index.js:1
+msgid "Replace Text color when header is sticked?"
+msgstr "¿Reemplazar el color del texto cuando la cabecera es fija?"
+
+#: build/index.js:1
+msgid "Replace Background when header is sticked?"
+msgstr "¿Reemplazar el fondo cuando la cabecera es fija?"
+
+#: styles/poppins.json
+msgctxt "Style variation name"
+msgid "Poppins Green"
+msgstr "Poppins verde"
+
+#: styles/lora.json
+msgctxt "Style variation name"
+msgid "Lora Elegant"
+msgstr "Lora elegante"
+
+#: styles/blackgrotesk.json
+msgctxt "Style variation name"
+msgid "Black Content Grotesk"
+msgstr "Contenido negro grotesk"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Title area"
+msgstr "Área del título de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Title area"
+msgstr "Área del título de entrada"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without title"
+msgstr "Página sin título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Cart"
+msgstr "Carrito"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Rainbow creative"
+msgstr "Arcoiris creativo"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color seven"
+msgstr "Multicolor siete"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color six"
+msgstr "Multicolor seis"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color five"
+msgstr "Multicolor cinco"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color four"
+msgstr "Multicolor cuatro"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color third"
+msgstr "Multicolor tres"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color second"
+msgstr "Multicolor dos"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Button background"
+msgstr "Fondo del botón"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Text Gradient"
+msgstr "Degradado del texto"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to secondary"
+msgstr "Diagonal de principal a secundario"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Input text"
+msgstr "Texto de campos"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Input background"
+msgstr "Fondo de campos"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Borders, Dividers"
+msgstr "Bordes, separadores"
+
+#: styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Color name"
+msgid "Price color (for woocommerce)"
+msgstr "Color del precio (para woocommerce)"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Light Grey (for Meta text)"
+msgstr "Gris claro (para texto meta)"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Tag color"
+msgstr "Color de la etiqueta"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Accented Light Background"
+msgstr "Fondo claro acentuado"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Attention Color"
+msgstr "Color de atención"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Text over button"
+msgstr "Texto botón al pasar"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Secondary Button"
+msgstr "Botón secundario"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Text over primary"
+msgstr "Texto principal al pasar"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Contrast color (content background)"
+msgstr "Color de contraste (fondo del contenido)"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Base color (content text)"
+msgstr "Color base (texto de contenido)"
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Primary Theme Font"
+msgstr "Fuente principal del tema"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Colossus"
+msgstr "Fluido - Colossus"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Boss"
+msgstr "Fluido - Boss"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Gigantic"
+msgstr "Fluid - Gigante"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Huge"
+msgstr "Fluid - Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Subheading"
+msgstr "Static - Subencabezado"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Mini"
+msgstr "Static - Mini"
+
+#: build/index.js:1
+msgid "Hide on mobile"
+msgstr "Ocultar en móviles"
+
+#: build/index.js:1
+msgid "Hide on tablet"
+msgstr "Ocultar en tabletas"
+
+#: build/index.js:1
+msgid "Hide on desktop"
+msgstr "Ocultar en equipos de escritorio"
+
+#: build/index.js:1
+msgid "Sticky to Head on scroll?"
+msgstr "¿Pegado a la cabeza al desplazarse?"
+
+#: build/index.js:1
+msgid "Transparent Header?"
+msgstr "¿Cabecera transparente?"
+
+#: patterns/query-titlelist.php
+msgctxt "Pattern title"
+msgid "Text Title lists"
+msgstr "Texto títulos de listas"
+
+#: patterns/query-simple-list.php
+msgctxt "Pattern title"
+msgid "Simple item list"
+msgstr "Lista simple de elementos"
+
+#: patterns/query-shadowgrid.php
+msgctxt "Pattern title"
+msgid "Grid of posts with shadow"
+msgstr "Cuadrícula de entradas con sombra"
+
+#: patterns/query-listgrid.php
+msgctxt "Pattern title"
+msgid "List of 3 grid items"
+msgstr "Lista de 3 elementos de la cuadrícula"
+
+#: patterns/query-listbig.php
+msgctxt "Pattern title"
+msgid "List with big images"
+msgstr "Lista con imágenes grandes"
+
+#: patterns/query-grid.php
+msgctxt "Pattern title"
+msgid "Grid of posts in three columns"
+msgstr "Cuadrícula de entradas en tres columnas"
+
+#: patterns/query-cover-grid.php
+msgctxt "Pattern title"
+msgid "Grid with cover images"
+msgstr "Cuadrícula con imágenes de portada"
+
+#: patterns/query-cover-featured.php
+msgctxt "Pattern title"
+msgid "Featured section with cover images"
+msgstr "Sección destacada con imágenes de portada"
+
+#: patterns/parts-titlepost-cover.php
+msgctxt "Pattern title"
+msgid "Post title area with Cover image"
+msgstr "Área de título de la entrada con imagen de portada"
+
+#: patterns/parts-titlepost-bg.php
+msgctxt "Pattern title"
+msgid "Post title area with Background"
+msgstr "Área de título de entrada con fondo"
+
+#: patterns/parts-titlepage-bg.php patterns/parts-titlepage.php
+#: patterns/parts-titlepost.php
+msgctxt "Pattern title"
+msgid "Post title area"
+msgstr "Área del título de la entrada"
+
+#: patterns/parts-related.php
+msgctxt "Pattern title"
+msgid "Related posts"
+msgstr "Entradas relacionadas"
+
+#: patterns/parts-noresults.php
+msgctxt "Pattern title"
+msgid "No results text"
+msgstr "Texto de «No hay resultados»"
+
+#: patterns/parts-indextext.php
+msgctxt "Pattern title"
+msgid "Index page"
+msgstr "Página de índice"
+
+#: patterns/parts-index.php
+msgctxt "Pattern title"
+msgid "Index page with featured section"
+msgstr "Página de índice con sección destacada"
+
+#: patterns/parts-error.php
+msgctxt "Pattern title"
+msgid "404 page"
+msgstr "Página 404"
+
+#: patterns/parts-commentquery.php
+msgctxt "Pattern title"
+msgid "Comment Query"
+msgstr "Consulta de comentarios"
+
+#: patterns/hero-two.php
+msgctxt "Pattern title"
+msgid "Hero block with two columns"
+msgstr "Sección a pantalla completa con dos columnas"
+
+#: patterns/hero-main.php
+msgctxt "Pattern title"
+msgid "Hero block for Homepage"
+msgstr "Sección a pantalla completa para la página de inicio"
+
+#: patterns/header-twozones.php
+msgctxt "Pattern title"
+msgid "Header with zones"
+msgstr "Cabecera con zonas"
+
+#: patterns/header-searchicon.php
+msgctxt "Pattern title"
+msgid "Header with search icon"
+msgstr "Cabecera con icono de búsqueda"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Cabecera por defecto"
+
+#: patterns/header-centered.php
+msgctxt "Pattern title"
+msgid "Header centered with social icons"
+msgstr "Cabecera centrada con iconos sociales"
+
+#: patterns/general-ratings.php
+msgctxt "Pattern title"
+msgid "Ratings block"
+msgstr "Bloque de valoraciones"
+
+#: patterns/general-pricing.php
+msgctxt "Pattern title"
+msgid "Pricing table"
+msgstr "Tabla de precios"
+
+#: patterns/general-features-list.php
+msgctxt "Pattern title"
+msgid "Features list block"
+msgstr "Bloque de «Lista de características»"
+
+#: patterns/general-faq.php
+msgctxt "Pattern title"
+msgid "FAQ block"
+msgstr "Bloque FAQ"
+
+#: patterns/general-banner.php
+msgctxt "Pattern title"
+msgid "Banner block"
+msgstr "Bloque banner"
+
+#: patterns/footer-simple.php
+msgctxt "Pattern title"
+msgid "Simple footer with social icons"
+msgstr "Pie de página sencillo con iconos sociales"
+
+#: patterns/footer-mega.php
+msgctxt "Pattern title"
+msgid "Mega menu in 5 columns"
+msgstr "Mega menú en 5 columnas"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Pie de página por defecto"
+
+#: woocommerce/single-product-reviews.php:199
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Solo pueden dejar una reseña los usuarios conectados que hayan comprado este producto."
+
+#: woocommerce/single-product-reviews.php:192
+msgid "Your Review"
+msgstr "Tu valoración"
+
+#: woocommerce/single-product-reviews.php:186
+msgid "Very Poor"
+msgstr "Muy pobre"
+
+#: woocommerce/single-product-reviews.php:185
+msgid "Not that bad"
+msgstr "No está mal"
+
+#: woocommerce/single-product-reviews.php:184
+msgid "Average"
+msgstr "Normal"
+
+#: woocommerce/single-product-reviews.php:183
+msgid "Good"
+msgstr "Bueno"
+
+#: woocommerce/single-product-reviews.php:182
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: woocommerce/single-product-reviews.php:181
+msgid "Rate&hellip;"
+msgstr "Valorar&hellip;"
+
+#: woocommerce/single-product-reviews.php:180
+msgid "Your Rating"
+msgstr "Tu valoración"
+
+#: woocommerce/single-product-reviews.php:164
+msgid "You must be %1$s%2$s%3$s logged in %4$s to post a review."
+msgstr "Debes estar %1$s%2$s%3$s conectado %4$s para publicar una valoración."
+
+#: woocommerce/single-product-reviews.php:158
+msgid "Submit"
+msgstr "Enviar"
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: woocommerce/single-product-reviews.php:153
+msgid "Name"
+msgstr "Nombre"
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Sé el primero en valorar &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Add a review"
+msgstr "Añade una reseña"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "There are no reviews yet."
+msgstr "No hay reseñas todavía."
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Write a review"
+msgstr "Escribe una valoración"
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Rated %s out of 5"
+msgstr "Valorado en %s de 5"
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Rated %s out of"
+msgstr "Valorado en %s de 5"
+
+#: woocommerce/single-product-reviews.php:52
+msgid "out of"
+msgstr "de"
+
+#: woocommerce/single-product-reviews.php:45
+msgid "User Reviews"
+msgstr "Reseñas de usuarios"
+
+#: patterns/parts-noresults.php:10
+msgid "No results matching your criteria"
+msgstr "No hay resultados que coincidan con tus criterios"
+
+#: patterns/parts-noresults.php:9
+msgid "Add text or blocks that will display when the query returns no results."
+msgstr "Añadir texto o bloques que se mostrarán cuando la consulta no devuelva ningún resultado."
+
+#: patterns/parts-indextext.php:153
+msgid "Check all posts"
+msgstr "Comprobar todas las entradas"
+
+#: patterns/parts-indextext.php:14
+msgid "Find our latest news, tutorials, knowledge database case studies and videos"
+msgstr "Encuentra nuestras últimas noticias, tutoriales, casos prácticos y vídeos de la base de conocimientos"
+
+#: patterns/parts-indextext.php:10
+msgid "The latest items"
+msgstr "Los últimos artículos"
+
+#: patterns/parts-index.php:11
+msgid "Check latest"
+msgstr "Comprueba los últimos"
+
+#: patterns/parts-error.php:15
+msgid "Oops, the page you are looking for does not exist or is no longer available. Everything is still awesome. Just use the search form to find your way."
+msgstr "¡Vaya!, la página que buscas no existe o ya no está disponible. Todo sigue bien. Utiliza el formulario de búsqueda para encontrar lo que necesitas."
+
+#: patterns/parts-error.php:11
+msgid "Not found, error 404"
+msgstr "No encontrado, error 404"
+
+#: patterns/hero-two.php:27
+msgid "Sample Image"
+msgstr "Imagen de muestra"
+
+#: inc/woocommerce/functions.php:275
+msgid "Product Review"
+msgstr "Valoración del producto"
+
+#: inc/woocommerce/functions.php:223
+msgid "Pros and Cons"
+msgstr "Pros y contras"
+
+#: inc/woocommerce/functions.php:210 inc/woocommerce/functions.php:241
+#: inc/woocommerce/functions.php:290
+msgid "- CONS:"
+msgstr "- CONS:"
+
+#: inc/woocommerce/functions.php:202 inc/woocommerce/functions.php:237
+#: inc/woocommerce/functions.php:287
+msgid "+ PROS:"
+msgstr "+ PROS:"
+
+#: inc/woocommerce/functions.php:161
+msgid "CONS:"
+msgstr "CONS:"
+
+#: inc/woocommerce/functions.php:161
+msgid "PROS:"
+msgstr "PROS:"
+
+#: inc/block-styles.php:325 inc/block-styles.php:332 inc/block-styles.php:339
+msgid "Hide on mobile and tablets"
+msgstr "Ocultar en móviles y tabletas"
+
+#: inc/block-styles.php:318
+msgid "Theme search with round corners"
+msgstr "Búsqueda del tema con esquinas redondeadas"
+
+#: inc/block-styles.php:311
+msgid "Theme search style"
+msgstr "Estilo de la búsqueda del tema"
+
+#: inc/block-styles.php:304
+msgid "Mega menu Open on left"
+msgstr "Mega menú abrir a la izquierda"
+
+#: inc/block-styles.php:297
+msgid "Mega columned menu"
+msgstr "Mega menú con columnas"
+
+#: inc/block-styles.php:276 inc/block-styles.php:290
+msgid "Show three lines"
+msgstr "Mostrar tres líneas"
+
+#: inc/block-styles.php:269 inc/block-styles.php:283
+msgid "Show two lines"
+msgstr "Mostrar dos líneas"
+
+#: inc/block-styles.php:261
+msgid "Rounded border box"
+msgstr "Caja con borde redondeado"
+
+#: inc/block-styles.php:257
+msgid "Creative overlay"
+msgstr "Superposición creativa"
+
+#: inc/block-styles.php:243
+msgid "Floating search bar on click"
+msgstr "Barra de búsqueda flotante al hacer clic"
+
+#: inc/block-styles.php:228 inc/block-styles.php:235
+msgid "Inline List"
+msgstr "Lista integrada"
+
+#: inc/block-styles.php:221
+msgid "Underline on hover"
+msgstr "Subrayar al pasar el cursor"
+
+#: inc/block-styles.php:207
+msgid "Rounded border"
+msgstr "Borde redondeado"
+
+#: inc/block-styles.php:200
+msgid "Colored tags"
+msgstr "Etiquetas de colores"
+
+#: inc/block-styles.php:180 inc/block-styles.php:189
+msgid "Gradient mask"
+msgstr "Máscara de degradado"
+
+#: inc/block-styles.php:170
+msgid "Shadow radius"
+msgstr "Radio de sombra"
+
+#: inc/block-styles.php:162
+msgid "Half negative offset"
+msgstr "Desplazamiento medio negativo"
+
+#: inc/block-styles.php:144
+msgid "Shadow on hover"
+msgstr "Sombra al pasar el cursor"
+
+#: inc/block-styles.php:136 inc/block-styles.php:154
+msgid "No Margin"
+msgstr "Sin márgenes"
+
+#: inc/block-styles.php:127
+msgid "Primary 3d Button"
+msgstr "Botón 3d principal"
+
+#: inc/block-styles.php:119
+msgid "Secondary Color Button"
+msgstr "Botón de color secundario"
+
+#: inc/block-styles.php:111
+msgid "Primary Color Button"
+msgstr "Botón de color principal"
+
+#: inc/block-styles.php:103
+msgid "Accent Button"
+msgstr "Acento de botón"
+
+#: inc/block-styles.php:78
+msgid "Unstyled view"
+msgstr "Vista sin estilo"
+
+#: inc/block-styles.php:52
+msgid "3d Button dark"
+msgstr "Botón 3d oscuro"
+
+#: inc/block-styles.php:44
+msgid "3d Button light"
+msgstr "Botón 3d claro"
+
+#: inc/block-styles.php:36
+msgid "Secondary button"
+msgstr "Botón secundario"
+
+#: inc/block-styles.php:28
+msgid "Sliding Gradient"
+msgstr "Desgradado deslizante"
+
+#: inc/block-patterns.php:42
+msgid "Greenshift Query"
+msgstr "Greenshift consulta"
+
+#: inc/block-patterns.php:38
+msgid "Greenshift Parts"
+msgstr "Greenshift partes"
+
+#: inc/block-patterns.php:34
+msgid "Greenshift Hero Headers"
+msgstr "Greenshift cabeceras hero"
+
+#: inc/block-patterns.php:30
+msgid "Greenshift Header"
+msgstr "Cabecera de Greenshift"
+
+#: inc/block-patterns.php:26
+msgid "Greenshift General"
+msgstr "Greenshift general"
+
+#: inc/block-patterns.php:22
+msgid "Greenshift Footer"
+msgstr "Pie de página de Greenshift"
+
+#: build/settings.js:1
+msgid "Dynamic Options"
+msgstr "Opciones dinámicas"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://theme.greenshiftwp.com/"
+msgstr "https://theme.greenshiftwp.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Wpsoul"
+msgstr "Wpsoul"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://greenshiftwp.com/"
+msgstr "https://greenshiftwp.com/"

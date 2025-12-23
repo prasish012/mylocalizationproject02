@@ -1,0 +1,3089 @@
+# Translation of Themes - Virtue in Polish
+# This file is distributed under the same license as the Themes - Virtue package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-13 08:33:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Virtue\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "The Virtue is a classic theme, built before the Gutenberg block editor was created. While some support has been added for the block editor it's a WordPress legacy theme. The theme is extremely versatile with tons of options, easy to customize and loaded with great features. The clean, modern design is built with html5 and css3 and uses the powerful responsive framework from Bootstrap to be a fully responsive and mobile friendly. Virtue has support for wide and fullwidth blocks. It's fully e-commerce (Woocommerce) ready with all the tools you need to design an awesome online store. The versatile design is perfect for any business, online store, portfolio, or personal site. We built Virtue with a powerful options panel where you can set things like your home layout, sliders, custom fonts, and completely customize your look without writing any CSS. You are going to love how easy it is to create using this theme."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Virtue"
+msgstr "Virtue"
+
+#. translators: %1$s: Product name. %2$s: Product price
+#: woocommerce/single-product/add-to-cart/grouped.php:80
+msgid "Buy one of %1$s for %2$s"
+msgstr ""
+
+#. translators: %1$s: Product name. %2$s: Sale price. %3$s: Regular price
+#: woocommerce/single-product/add-to-cart/grouped.php:72
+msgid "Buy one of %1$s on sale for %2$s, original price was %3$s"
+msgstr ""
+
+#: lib/widgets.php:425
+msgid "X formerly Twitter:"
+msgstr ""
+
+#: lib/authorbox.php:35
+msgid "on X formerly Twitter"
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:25
+msgid "Activate Virtue Toolkit"
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:22
+msgid "Install Virtue Toolkit"
+msgstr ""
+
+#: lib/scripts.php:60
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: lib/scripts.php:59
+msgid "This field is required."
+msgstr ""
+
+#: lib/scripts.php:44
+msgid "The Image could not be loaded."
+msgstr ""
+
+#: lib/scripts.php:43
+msgid "of"
+msgstr ""
+
+#: lib/scripts.php:42
+msgid "Loading..."
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:48
+msgid "Dismiss this notice."
+msgstr "Ukryj komunikat."
+
+#: themeoptions/options.php:505
+msgid "If you are using a video on the home page place video embed code here."
+msgstr ""
+
+#. translators: %s: <strong> <a>
+#: lib/kadence-toolkit-plugin.php:102
+msgid "We have a %1$snew plugin%2$s to extend and enhance the Block editor for your site. To take full advantage of the Virtue Theme please install the %3$sKadence Blocks%4$s, this adds extra editor blocks settings and features."
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:82
+msgid "Activate Kadence Blocks"
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:79
+msgid "Install Kadence Blocks"
+msgstr ""
+
+#: themeoptions/options.php:1735
+msgid "No sidebar"
+msgstr "Brak panelu bocznego"
+
+#: themeoptions/options.php:1734
+msgid "Yes sidebar"
+msgstr "Tak panel boczny"
+
+#: themeoptions/options.php:1732
+msgid "Default Page Template - Sidebar Default"
+msgstr ""
+
+#: themeoptions/options.php:1721
+msgid "Single Page Content Width Default"
+msgstr ""
+
+#: themeoptions/options.php:1715
+msgid "Turn off to hide page titles by default"
+msgstr ""
+
+#: themeoptions/options.php:1714
+msgid "Show page title by default"
+msgstr ""
+
+#: themeoptions/options.php:1704
+msgid "Paragraph bottom spacing"
+msgstr ""
+
+#: lib/metaboxes.php:312 lib/metaboxes.php:345
+msgid "Hide"
+msgstr "Ukryj"
+
+#: lib/metaboxes.php:311 lib/metaboxes.php:344
+msgid "Show"
+msgstr "Pokaż"
+
+#: lib/metaboxes.php:310 lib/metaboxes.php:343
+msgid "Site Default"
+msgstr "Domyślny dla witryny"
+
+#: lib/metaboxes.php:306 lib/metaboxes.php:339
+msgid "Show Page Title"
+msgstr "Pokaż tytuł strony"
+
+#: lib/metaboxes.php:301 lib/metaboxes.php:334 themeoptions/options.php:1723
+msgid "Contained"
+msgstr ""
+
+#: lib/metaboxes.php:295 lib/metaboxes.php:328
+msgid "Page Content Width"
+msgstr "Szerokość treści strony"
+
+#: lib/metaboxes.php:267 lib/metaboxes.php:318
+msgid "Page Options"
+msgstr "Opcje strony"
+
+#: lib/kadence-toolkit-plugin.php:63 lib/kadence-toolkit-plugin.php:119
+msgid "Authorization failed. Please refresh the page and try again."
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:105
+msgid "Skip"
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:47 lib/kadence-toolkit-plugin.php:104
+msgid "Installed"
+msgstr "Zainstalowano"
+
+#: lib/kadence-toolkit-plugin.php:47 lib/kadence-toolkit-plugin.php:104
+msgid "Installing..."
+msgstr "Instalowanie..."
+
+#: lib/kadence-toolkit-plugin.php:47 lib/kadence-toolkit-plugin.php:104
+msgid "Activated"
+msgstr "Włączono"
+
+#: lib/kadence-toolkit-plugin.php:47 lib/kadence-toolkit-plugin.php:104
+msgid "Activating..."
+msgstr "Włączanie..."
+
+#. translators: %s: <strong>
+#: lib/kadence-toolkit-plugin.php:45
+msgid "To take full advantage of the Virtue Theme please install the %1$sVirtue Toolkit%2$s, this adds extra settings and features."
+msgstr ""
+
+#: lib/kadence-toolkit-plugin.php:44 lib/kadence-toolkit-plugin.php:101
+msgid "Thanks for choosing the Virtue Theme"
+msgstr ""
+
+#: lib/init.php:58
+msgid "Black"
+msgstr "Czarny"
+
+#: lib/init.php:53
+msgid "Very dark gray"
+msgstr "Bardzo ciemny szary"
+
+#: lib/init.php:48
+msgid "White"
+msgstr "Biały"
+
+#: lib/init.php:43
+msgid "Very light gray"
+msgstr "Bardzo jasnoszary"
+
+#: lib/init.php:38
+msgid "Lighter Primary Color"
+msgstr ""
+
+#: lib/metaboxes.php:214
+msgid "16"
+msgstr "16"
+
+#: lib/metaboxes.php:213
+msgid "15"
+msgstr "15"
+
+#: lib/metaboxes.php:212
+msgid "14"
+msgstr "14"
+
+#: lib/metaboxes.php:211
+msgid "13"
+msgstr "13"
+
+#: lib/metaboxes.php:210
+msgid "12"
+msgstr "12"
+
+#: lib/metaboxes.php:209
+msgid "11"
+msgstr "11"
+
+#: lib/metaboxes.php:208
+msgid "10"
+msgstr "10"
+
+#: lib/metaboxes.php:207
+msgid "9"
+msgstr "9"
+
+#: lib/metaboxes.php:206
+msgid "8"
+msgstr "8"
+
+#: lib/metaboxes.php:205
+msgid "7"
+msgstr "7"
+
+#: lib/metaboxes.php:204
+msgid "6"
+msgstr "6"
+
+#: lib/metaboxes.php:203
+msgid "5"
+msgstr "5"
+
+#: lib/metaboxes.php:202
+msgid "4"
+msgstr "4"
+
+#: lib/metaboxes.php:201
+msgid "3"
+msgstr "3"
+
+#: lib/metaboxes.php:200
+msgid "2"
+msgstr "2"
+
+#. translators: %d: Response Number
+#: templates/comments.php:14
+msgid "%d Response"
+msgid_plural "%d Responses"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/class-tgm-plugin-activation.php:2896
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do włączenia. Nie podjęto działania."
+
+#: lib/class-tgm-plugin-activation.php:2747
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do aktualizacji. Nie podjęto działania."
+
+#: lib/class-tgm-plugin-activation.php:2745
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nie wybrano żadnej wtyczki do zainstalowania. Nie podjęto działania."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2602
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2596
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2591
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: lib/class-tgm-plugin-activation.php:2521
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do zainstalowania, aktualizacji lub włączenia."
+
+#. translators: 1: install status, 2: update status
+#: lib/class-tgm-plugin-activation.php:2330
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: lib/class-tgm-plugin-activation.php:1970
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/class-tgm-plugin-activation.php:384
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Co najmniej jedna z wymaganych lub zalecanych wtyczek wymaga zainstalowania, aktualizacji lub włączenia."
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Aktualizowanie wtyczki: %s"
+
+#: themeoptions/options.php:983
+msgid "Enable woocommerce hover zoom for product gallery? (must be woocommerce 3.0+)"
+msgstr ""
+
+#: themeoptions/options.php:977
+msgid "Enable woocommerce slider for product gallery? (must be woocommerce 3.0+)"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:87
+msgid "Awaiting product image"
+msgstr "Oczekiwanie na obrazek produktu"
+
+#: themeoptions/options.php:1971
+msgid "For best performance add your own API for google maps."
+msgstr ""
+
+#: themeoptions/options.php:1970
+msgid "Google Map API"
+msgstr "Klucz API Google Map"
+
+#: themeoptions/options.php:1965
+msgid "Theme Google Maps"
+msgstr "Motyw Google Maps"
+
+#: themeoptions/options.php:1957
+msgid "Lightbox On"
+msgstr ""
+
+#: themeoptions/options.php:1956
+msgid "Lightbox Off"
+msgstr ""
+
+#: themeoptions/options.php:1589
+msgid "*NOTE: Make sure Virtue/Pinnacle Toolkit plugin is activated* <br>Go to Apperance > Theme Options > Menu settings for all menu settings"
+msgstr ""
+
+#: themeoptions/options.php:1405
+msgid "*NOTE: Make sure Virtue/Pinnacle Toolkit plugin is activated* <br>Go to Apperance > Theme Options > Typography settings for all Typography settings"
+msgstr ""
+
+#: themeoptions/options.php:817
+msgid "*NOTE: Make sure Virtue/Pinnacle Toolkit plugin is activated* <br>Go to Apperance > Theme Options > Home Layout for all home layout settings"
+msgstr ""
+
+#: themeoptions/options.php:410
+msgid "*NOTE: Make sure Virtue/Pinnacle Toolkit plugin is activated* <br>Go to Apperance > Theme Options > Home Slider for all Home slider settings"
+msgstr ""
+
+#: themeoptions/options.php:1800
+msgid "Choose to show or hide portfolio type under title."
+msgstr "Wybierz, aby pokazać albo ukryć typ elementu portfolio pod tytułem"
+
+#: themeoptions/options.php:1799
+msgid "Show Types under Title"
+msgstr ""
+
+#: themeoptions/options.php:1790
+msgid "Choose how many columns for portfolio type pages"
+msgstr ""
+
+#: themeoptions/options.php:1789
+msgid "Portfolio Type - Post Columns"
+msgstr ""
+
+#: themeoptions/options.php:1783
+msgid "Portfolio Type Page Defaults"
+msgstr ""
+
+#: themeoptions/options.php:1768
+msgid "Portfolio Post"
+msgstr "Wpis portfolio"
+
+#: themeoptions/options.php:1699
+msgid "Page and Post Comment Settings"
+msgstr ""
+
+#: themeoptions/framework.php:2738
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: woocommerce/loop/rating.php:31
+msgid "not rated"
+msgstr "nie oceniony"
+
+#: themeoptions/options.php:1999
+msgid "Import and Export your Theme Options from text or URL."
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr "Wstaw poniżej zawartość pliku kopii i kliknij Import aby załadować opcję."
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid "Import from File"
+msgstr "Importuj z pliku"
+
+#: themeoptions/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr "Wciśnij klawisz Enter, aby rozwinąć"
+
+#: themeoptions/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr "Wciśnij klawisz enter, aby rozwinąć"
+
+#: themeoptions/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr "Pomoc"
+
+#: themeoptions/inc/extensions/customizer/inc/customizer_panel.php:138
+#: themeoptions/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr "Powrót"
+
+#. translators: %s is the site/panel title in the Customizer
+#: themeoptions/inc/extensions/customizer/inc/customizer_panel.php:114
+#: themeoptions/inc/extensions/customizer/inc/customizer_panel.php:142
+msgid "You are customizing %s"
+msgstr "Personalizujesz %s"
+
+#: themeoptions/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr "Wciśnij return lub enter, aby otworzyć panel"
+
+#: themeoptions/inc/class.redux_filesystem.php:50
+#: themeoptions/inc/class.redux_filesystem.php:289
+msgid "We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: themeoptions/inc/class.redux_filesystem.php:50
+#: themeoptions/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr ""
+
+#: themeoptions/inc/class.redux_cdn.php:112
+msgid "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: themeoptions/inc/class.redux_cdn.php:76
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: themeoptions/inc/class.redux_cdn.php:76
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: themeoptions/inc/class.redux_cdn.php:74
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr ""
+
+#. translators: %1$s: plugin name
+#: lib/kadence-toolkit-plugin.php:164
+msgid "This theme recommends the following plugins, they add extra features to the theme options and content controls: %1$s. enjoy:)"
+msgid_plural "This theme recommends the following plugins, they add extra features to the theme options and content controls: %1$s. enjoy:)"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. Template Name of the theme
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#. Template Name of the theme
+msgid "Portfolio Grid"
+msgstr ""
+
+#. Template Name of the theme
+#: lib/metaboxes.php:302 lib/metaboxes.php:335 themeoptions/options.php:1724
+msgid "Fullwidth"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Feature"
+msgstr "Właściwość"
+
+#. Template Name of the theme
+msgid "Feature - Sidebar"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blog"
+msgstr "Blog"
+
+#: woocommerce/single-product.php:29
+msgid "Shop"
+msgstr "Sklep"
+
+#: woocommerce/single-product.php:27 woocommerce/single-product.php:29
+msgid "Back to"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:28
+msgid "This product is currently out of stock and unavailable."
+msgstr "Tego produktu nie ma na stanie i nie jest dostępny."
+
+#: woocommerce/single-product/add-to-cart/variable.php:40
+msgid "Clear selection"
+msgstr "Wyczyść zaznaczenie"
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr "Promocja!"
+
+#: themeoptions/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "Rozwiń"
+
+#: themeoptions/templates/panel/footer.tpl.php:67
+#: themeoptions/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr "Przetwarzanie…"
+
+#: themeoptions/templates/panel/footer.tpl.php:62
+#: themeoptions/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr "Resetuj wszystko"
+
+#: themeoptions/templates/panel/footer.tpl.php:61
+#: themeoptions/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr "Resetuj sekcję"
+
+#: themeoptions/templates/panel/footer.tpl.php:57
+#: themeoptions/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: themeoptions/options.php:61
+msgid "Thank you for using the Virtue Theme by <a href=\"https://www.kadencewp.com/\" target=\"_blank\">Kadence WP</a>."
+msgstr ""
+
+#: themeoptions/options.php:36 themeoptions/options.php:37
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: themeoptions/options.php:1990
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: themeoptions/options.php:1989
+msgid "Custom CSS"
+msgstr "Własny CSS"
+
+#: themeoptions/options.php:1983
+msgid "Custom CSS Box"
+msgstr "Blok własnego kodu CSS"
+
+#: themeoptions/options.php:1982
+msgid "Advanced Settings"
+msgstr "Ustawienia zaawansowane"
+
+#: themeoptions/options.php:1959
+msgid "Turn Off Theme Lightbox?"
+msgstr ""
+
+#: themeoptions/options.php:1951
+msgid "Theme Lightbox"
+msgstr ""
+
+#: themeoptions/options.php:1944
+msgid "Disable this if using a plugin to customize galleries, for example jetpack tiled gallery."
+msgstr ""
+
+#: themeoptions/options.php:1943
+msgid "Enable Virtue Galleries to override Wordpress"
+msgstr ""
+
+#: themeoptions/options.php:1937
+msgid "Wordpress Galleries"
+msgstr "Garlerie Wordpress"
+
+#: themeoptions/options.php:1931
+msgid "Extra Sidebar"
+msgstr "Dodatkowy panel boczny"
+
+#: themeoptions/options.php:1930
+msgid "Type new sidebar name into textbox"
+msgstr ""
+
+#: themeoptions/options.php:1929
+msgid "Create Custom Sidebars"
+msgstr ""
+
+#: themeoptions/options.php:1923
+msgid "Create Sidebars"
+msgstr ""
+
+#: themeoptions/options.php:1916
+msgid "Write your own copyright text here. You can use the following shortcodes in your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+
+#: themeoptions/options.php:1915
+msgid "Footer Copyright Text"
+msgstr "Tekst noty prawnej w stopce"
+
+#: themeoptions/options.php:1908
+msgid "Sets the email for the contact page email form."
+msgstr ""
+
+#: themeoptions/options.php:1907
+msgid "Contact Form Email"
+msgstr "Formularz kontaktowy e-mail"
+
+#: themeoptions/options.php:1900
+msgid "Choose to show or hide image border for images added in pages or posts"
+msgstr ""
+
+#: themeoptions/options.php:1899
+msgid "Hide Image Border"
+msgstr "Ukryj obramowania obrazka"
+
+#: themeoptions/options.php:1892 themeoptions/options.php:1893
+msgid "Misc Settings"
+msgstr "Różne ustawienia"
+
+#: themeoptions/options.php:1880
+msgid "Choose to show full post or post excerpt."
+msgstr "Wybierz do pokazania pełny wpis lub zajawkę wpisu."
+
+#: themeoptions/options.php:1879
+msgid "Blog Archive"
+msgstr "Archiwum Bloga"
+
+#: themeoptions/options.php:1873
+msgid "Blog Category/Archive Defaults"
+msgstr ""
+
+#: themeoptions/options.php:1864
+msgid "Blog Post Bottom Carousel Default"
+msgstr ""
+
+#: themeoptions/options.php:1856
+msgid "Yes, Show"
+msgstr "Tak, pokaż"
+
+#: themeoptions/options.php:1856 themeoptions/options.php:1865
+msgid "No, Do not Show"
+msgstr "Nie, nie pokazuj"
+
+#: themeoptions/options.php:1855
+msgid "Blog Post Author Box Default"
+msgstr ""
+
+#: themeoptions/options.php:1848
+msgid "Choose to show or hide author icon under post title."
+msgstr ""
+
+#: themeoptions/options.php:1847
+msgid "Show Author Icon with posts?"
+msgstr ""
+
+#: themeoptions/options.php:1840
+msgid "Choose to show or hide previous and next post links in the footer of a single post."
+msgstr ""
+
+#: themeoptions/options.php:1839
+msgid "Show Previous and Next posts links?"
+msgstr ""
+
+#: themeoptions/options.php:1830
+msgid "Blog Post Head Content Default"
+msgstr ""
+
+#: themeoptions/options.php:1824
+msgid "Replace theme default feature image for posts without a featured image"
+msgstr ""
+
+#: themeoptions/options.php:1823
+msgid "Default post summary feature Image"
+msgstr ""
+
+#: themeoptions/options.php:1813
+msgid "Blog Post Summary Default"
+msgstr ""
+
+#: themeoptions/options.php:1807
+msgid "Blog Post Defaults"
+msgstr ""
+
+#: themeoptions/options.php:1745
+msgid "Choose to show or hide comments closed alert below posts."
+msgstr ""
+
+#: themeoptions/options.php:1744
+msgid "Show Comments Closed Text?"
+msgstr ""
+
+#: themeoptions/options.php:1761
+msgid "Turn on to allow comments on Portfolio posts"
+msgstr ""
+
+#: themeoptions/options.php:1760
+msgid "Allow Comments on Portfolio Posts"
+msgstr ""
+
+#: themeoptions/options.php:1777
+msgid "This sets the link in every single portfolio page. *note: You still have to set the page template to portfolio."
+msgstr ""
+
+#: themeoptions/options.php:1776
+msgid "All Projects Portfolio Page"
+msgstr "Strona Portfolio wszystkich projektów"
+
+#: themeoptions/options.php:1753
+msgid "Turn on to allow comments on pages"
+msgstr ""
+
+#: themeoptions/options.php:1752
+msgid "Allow Comments on Pages"
+msgstr ""
+
+#: themeoptions/options.php:1698
+msgid "Page/Post Settings"
+msgstr "Ustawienia strony/wpisu"
+
+#: themeoptions/options.php:1683
+msgid "Choose Size and Style for Mobile Menu"
+msgstr ""
+
+#: themeoptions/options.php:1668
+msgid "Mobile Menu Font"
+msgstr "Czcionka menu mobilnego"
+
+#: themeoptions/options.php:1661
+msgid "Submenu items collapse until opened"
+msgstr ""
+
+#: themeoptions/options.php:1655
+msgid "Mobile Menu Options"
+msgstr "Opcje menu mobinegp"
+
+#: themeoptions/options.php:1643
+msgid "Choose Size and Style for secondary menu"
+msgstr ""
+
+#: themeoptions/options.php:1628
+msgid "Secondary Menu Font"
+msgstr ""
+
+#: themeoptions/options.php:1622
+msgid "Secondary Menu Options"
+msgstr ""
+
+#: themeoptions/options.php:1610
+msgid "Choose Size and Style for primary menu"
+msgstr ""
+
+#: themeoptions/options.php:1595
+msgid "Primary Menu Font"
+msgstr "Menu podstawowe czcionka"
+
+#: themeoptions/options.php:1583
+msgid "Primary Menu Options"
+msgstr "Menu podstawowe opcje"
+
+#: themeoptions/options.php:1582
+msgid "Menu Settings"
+msgstr "Ustawienia menu"
+
+#: themeoptions/options.php:1567
+msgid "Choose Size and Style for paragraphs"
+msgstr ""
+
+#: themeoptions/options.php:1551
+msgid "Body Font"
+msgstr ""
+
+#: themeoptions/options.php:1546
+msgid "Body Font Options"
+msgstr ""
+
+#: themeoptions/options.php:1534
+msgid "Choose Size and Style for h5"
+msgstr "Wybierz rozmiar i styl dla nagłówka H5"
+
+#: themeoptions/options.php:1518
+msgid "H5 Headings"
+msgstr "Nagłówek H5"
+
+#: themeoptions/options.php:1507
+msgid "Choose Size and Style for h4"
+msgstr "Wybierz rozmiar i styl dla nagłówka H4"
+
+#: themeoptions/options.php:1491
+msgid "H4 Headings"
+msgstr "Nagłówek H4"
+
+#: themeoptions/options.php:1480
+msgid "Choose Size and Style for h3"
+msgstr "Wybierz rozmiar i styl dla nagłówka H3"
+
+#: themeoptions/options.php:1464
+msgid "H3 Headings"
+msgstr "Nagłówek H3"
+
+#: themeoptions/options.php:1453
+msgid "Choose Size and Style for h2"
+msgstr ""
+
+#: themeoptions/options.php:1437
+msgid "H2 Headings"
+msgstr "Nagłówek H2"
+
+#: themeoptions/options.php:1426
+msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
+msgstr ""
+
+#: themeoptions/options.php:1410
+msgid "H1 Headings"
+msgstr "Nagłówek H1"
+
+#: themeoptions/options.php:1399
+msgid "Header Font Options"
+msgstr "Opcje czcionki nagłówka"
+
+#: themeoptions/options.php:1398
+msgid "Typography"
+msgstr "Typografia"
+
+#: themeoptions/options.php:1387
+msgid "Fixed or Scroll"
+msgstr ""
+
+#: themeoptions/options.php:1347
+msgid "Body Background Color"
+msgstr "Kolor tła ciała strony"
+
+#: themeoptions/options.php:1342
+msgid "Body Background"
+msgstr ""
+
+#: themeoptions/options.php:1302
+msgid "Footer Background Color"
+msgstr "Kolor tła stopki"
+
+#: themeoptions/options.php:1297
+msgid "Footer Background"
+msgstr "Tło stopki"
+
+#: themeoptions/options.php:1257
+msgid "Mobile Background Color"
+msgstr "Kolor tekstu menu mobilnego"
+
+#: themeoptions/options.php:1252
+msgid "Mobile Menu Background"
+msgstr "Tło menu mobilnego"
+
+#: themeoptions/options.php:1212
+msgid "Secondary menu Background Color"
+msgstr ""
+
+#: themeoptions/options.php:1207
+msgid "Secondary Menu Background"
+msgstr ""
+
+#: themeoptions/options.php:1167
+msgid "Header Background Color"
+msgstr "Kolor tła nagłówka"
+
+#: themeoptions/options.php:1162
+msgid "Header Background"
+msgstr "Tło nagłówka"
+
+#: themeoptions/options.php:1123
+msgid "Topbar Background Color"
+msgstr "Topbar - Kolor tła"
+
+#: themeoptions/options.php:1117
+msgid "Topbar Background"
+msgstr "Kolor tła górnego paska"
+
+#: themeoptions/options.php:1109 themeoptions/options.php:1154
+#: themeoptions/options.php:1199 themeoptions/options.php:1244
+#: themeoptions/options.php:1289 themeoptions/options.php:1334
+#: themeoptions/options.php:1379
+msgid "Y image placement options"
+msgstr ""
+
+#: themeoptions/options.php:1101 themeoptions/options.php:1146
+#: themeoptions/options.php:1191 themeoptions/options.php:1236
+#: themeoptions/options.php:1281 themeoptions/options.php:1326
+#: themeoptions/options.php:1371
+msgid "X image placement options"
+msgstr ""
+
+#: themeoptions/options.php:1093 themeoptions/options.php:1138
+#: themeoptions/options.php:1183 themeoptions/options.php:1228
+#: themeoptions/options.php:1273 themeoptions/options.php:1318
+#: themeoptions/options.php:1363
+msgid "Image repeat options"
+msgstr ""
+
+#: themeoptions/options.php:1087 themeoptions/options.php:1132
+#: themeoptions/options.php:1177 themeoptions/options.php:1222
+#: themeoptions/options.php:1267 themeoptions/options.php:1312
+#: themeoptions/options.php:1357
+msgid "Upload background image or texture"
+msgstr ""
+
+#: themeoptions/options.php:1077
+msgid "Content Background Color"
+msgstr "Kolor zawartości tła"
+
+#: themeoptions/options.php:1072
+msgid "Main Content Background"
+msgstr "Tło głównej treści"
+
+#: themeoptions/options.php:1071
+msgid "Advanced Styling"
+msgstr "Style zaawansowane"
+
+#: themeoptions/options.php:1057
+msgid "Footer Font Color"
+msgstr "Kolor czcionki stopki"
+
+#: themeoptions/options.php:1047
+msgid "Sitewide Gray Fonts"
+msgstr ""
+
+#: themeoptions/options.php:1038
+msgid "This is used for hover effects"
+msgstr ""
+
+#: themeoptions/options.php:1037
+msgid "20% lighter than Primary Color"
+msgstr ""
+
+#: themeoptions/options.php:1028
+msgid "Choose the default Highlight color for your site."
+msgstr ""
+
+#: lib/init.php:33 themeoptions/options.php:1027
+msgid "Primary Color"
+msgstr "Kolor wiodący"
+
+#: themeoptions/options.php:1017
+msgid "Note* changes made in options panel will override this stylesheet. Example: Colors set in typography."
+msgstr ""
+
+#: themeoptions/options.php:1016
+msgid "Theme Skin Stylesheet"
+msgstr ""
+
+#: themeoptions/options.php:1011
+msgid "Basic Stylng"
+msgstr "Style podstawowe "
+
+#: themeoptions/options.php:1010
+msgid "Basic Styling"
+msgstr "Style podstawowe "
+
+#: themeoptions/options.php:1000
+msgid "This determines related products are displayed"
+msgstr ""
+
+#: themeoptions/options.php:999
+msgid "Display related products?"
+msgstr "Wyświetl produkty powiązane"
+
+#: themeoptions/options.php:990
+msgid "This determines if product tabs are displayed"
+msgstr ""
+
+#: themeoptions/options.php:989
+msgid "Display product tabs?"
+msgstr "Wyświetlić zakładki produktu?"
+
+#: themeoptions/options.php:972
+msgid "Product Page Settings"
+msgstr "Ustawienia strony produktu"
+
+#: themeoptions/options.php:965
+msgid "If turned off image dimensions are set by woocommerce settings - recommended width: 468px for Single Product Image"
+msgstr ""
+
+#: themeoptions/options.php:964
+msgid "Enable Product Image Crop on product Page"
+msgstr ""
+
+#: themeoptions/options.php:957
+msgid "If turned off image dimensions are set by woocommerce settings - recommended width: 270px for Catalog Images"
+msgstr ""
+
+#: themeoptions/options.php:956
+msgid "Enable Product Image Crop on Catalog pages"
+msgstr ""
+
+#: themeoptions/options.php:950
+msgid "Product Image Sizes"
+msgstr "Rozmiar obrazka produktu"
+
+#: themeoptions/options.php:939
+msgid "If your titles are long increase this to help align your products height."
+msgstr ""
+
+#: themeoptions/options.php:938
+msgid "Product title Min Height"
+msgstr ""
+
+#: themeoptions/options.php:932
+msgid "This makes your product titles uppercase on Category pages"
+msgstr ""
+
+#: themeoptions/options.php:931
+msgid "Set Product Title to Uppercase?"
+msgstr ""
+
+#: themeoptions/options.php:919
+msgid "Choose Size and Style for product titles on category and archive pages."
+msgstr ""
+
+#: themeoptions/options.php:903
+msgid "Shop & archive Product title Font"
+msgstr ""
+
+#: themeoptions/options.php:898
+msgid "Shop Product Title Settings"
+msgstr ""
+
+#: themeoptions/options.php:889
+msgid "Turn Off"
+msgstr "Wyłącz"
+
+#: themeoptions/options.php:889
+msgid "Wide Landscape 4:2"
+msgstr ""
+
+#: themeoptions/options.php:889
+msgid "Landscape 4:3"
+msgstr ""
+
+#: themeoptions/options.php:889
+msgid "Portrait 3:4"
+msgstr ""
+
+#: themeoptions/options.php:889
+msgid "Square 1:1"
+msgstr "Kwadrat 1:1"
+
+#: themeoptions/options.php:888
+msgid "This sets how you want your category images to be cropped."
+msgstr ""
+
+#: themeoptions/options.php:887
+msgid "Category Image Aspect Ratio"
+msgstr ""
+
+#: themeoptions/options.php:882
+msgid "Shop Category Image Size"
+msgstr ""
+
+#: themeoptions/options.php:875
+msgid "Turn this off if you would like to use browser added plus and minus for number boxes"
+msgstr ""
+
+#: themeoptions/options.php:874
+msgid "Quantity Box plus and minus"
+msgstr ""
+
+#: themeoptions/options.php:867
+msgid "This determines if the rating is displayed in the product archive pages"
+msgstr ""
+
+#: themeoptions/options.php:866
+msgid "Show Ratings in Shop and Category Pages"
+msgstr ""
+
+#: themeoptions/options.php:856
+msgid "How many products per page"
+msgstr "Ile produktów na stronie"
+
+#: themeoptions/options.php:846
+msgid "Choose a Sidebar for your shop page"
+msgstr ""
+
+#: themeoptions/options.php:836
+msgid "This determines if there is a sidebar on the shop and category pages."
+msgstr ""
+
+#: themeoptions/options.php:835
+msgid "Display the sidebar on shop archives?"
+msgstr "Wyświetl panel boczny w archiwum sklepu"
+
+#: themeoptions/options.php:828
+msgid "Shop Archive Page Settings (Woocommerce plugin required)"
+msgstr ""
+
+#: themeoptions/options.php:827
+msgid "Shop Settings"
+msgstr "Ustawienia sklepu"
+
+#: themeoptions/options.php:807
+msgid "If Latest Post page is font page. Choose to show full post or post excerpt."
+msgstr ""
+
+#: themeoptions/options.php:806
+msgid "Latest Post Display"
+msgstr ""
+
+#: themeoptions/options.php:800
+msgid "Page Content Options"
+msgstr "Opcje treści strony"
+
+#: themeoptions/options.php:790
+msgid "Choose how many columns in each row"
+msgstr "Wybierz liczbę kolumn w każdym wierszu"
+
+#: themeoptions/options.php:783
+msgid "Choose your icons for the icon menu."
+msgstr ""
+
+#: themeoptions/options.php:776
+msgid "Home Icon Menu"
+msgstr ""
+
+#: themeoptions/options.php:769
+msgid "Display Portfolio Types under Title"
+msgstr ""
+
+#: themeoptions/options.php:760
+msgid "Choose how the portfolio items should be ordered in the carousel."
+msgstr ""
+
+#: themeoptions/options.php:759
+msgid "Portfolio Carousel Order by"
+msgstr ""
+
+#: themeoptions/options.php:749
+msgid "Choose how many portfolio items are in carousel"
+msgstr ""
+
+#: themeoptions/options.php:741
+msgid "Leave blank to select all types"
+msgstr "Pozostaw puste, aby wybrać wszystkie typy"
+
+#: themeoptions/options.php:740
+msgid "Portfolio Carousel Category Type"
+msgstr ""
+
+#: themeoptions/options.php:732
+msgid "ex: Portfolio Carousel title"
+msgstr "np: Tytuł karuzeli Portfolio"
+
+#: themeoptions/options.php:731
+msgid "Home Portfolio Carousel title"
+msgstr ""
+
+#: themeoptions/options.php:725
+msgid "Home Portfolio Carousel Settings"
+msgstr ""
+
+#: themeoptions/options.php:717
+msgid "Leave blank to select all"
+msgstr ""
+
+#: themeoptions/options.php:716
+msgid "Limit posts to a Category"
+msgstr "Ogranicz wpisy do kategorii"
+
+#: themeoptions/options.php:704
+msgid "Choose How many posts on Homepage"
+msgstr ""
+
+#: themeoptions/options.php:698
+msgid "ex: Latest from the blog"
+msgstr "np: Najnowsze z blogu"
+
+#: themeoptions/options.php:697
+msgid "Home Blog Title"
+msgstr ""
+
+#: themeoptions/options.php:691
+msgid "Home Blog Settings"
+msgstr ""
+
+#: themeoptions/options.php:682
+msgid "Page Content"
+msgstr "Treść strony"
+
+#: themeoptions/options.php:681
+msgid "Page Title"
+msgstr "Tytuł strony"
+
+#: themeoptions/options.php:678 themeoptions/options.php:782
+msgid "Icon Menu"
+msgstr "Menu ikon"
+
+#: themeoptions/options.php:677
+msgid "Portfolio Carousel"
+msgstr "Karuzela z portfolio"
+
+#: themeoptions/options.php:676
+msgid "Latest Blog Posts"
+msgstr "Ostatnie wpisy na blogu"
+
+#: themeoptions/options.php:672
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr "Zarządzaj wyglądem strony głównej"
+
+#: themeoptions/options.php:671
+msgid "Homepage Layout Manager"
+msgstr "Menadżer strony głównej "
+
+#: themeoptions/options.php:660
+msgid "Choose a Sidebar for your Home Page"
+msgstr "Wybierz paskek boczny dla strony głównej"
+
+#: themeoptions/options.php:649
+msgid "This determines if there is a sidebar on the home page."
+msgstr "Strona główna z paskiem bocznym lub bez"
+
+#: themeoptions/options.php:648
+msgid "Display a sidebar on the Home Page?"
+msgstr "Wygląd strony głównej"
+
+#: themeoptions/options.php:640
+msgid "Home Layout"
+msgstr "Strona Główna"
+
+#: themeoptions/options.php:532
+msgid "Choose which slider you would like to show for mobile viewers."
+msgstr "Wybierz rodzaj suwak dla urządzeń mobilnych "
+
+#: themeoptions/options.php:531
+msgid "Choose a Slider for Mobile"
+msgstr "Wybierz rodzaj suwaka"
+
+#: themeoptions/options.php:524
+msgid "Choose if you would like to show a different slider on your home page for your mobile visitors."
+msgstr "Wybierz \"on\", jak chcesz, wybrać inny suwak na stronie głównej dla mobilnych użytkowników."
+
+#: themeoptions/options.php:523
+msgid "Would you like to use this feature?"
+msgstr "Czy chcesz używać suwak dla urządzeń mobilnych"
+
+#: themeoptions/options.php:517
+msgid "Create a more lightweight home slider for your mobile visitors."
+msgstr "Dodaj mniejszy suwak dla urządzeń mobilnych celem szybszego ładowania strony"
+
+#: themeoptions/options.php:516
+msgid "Home Mobile Slider"
+msgstr ""
+
+#: themeoptions/options.php:629
+msgid "If your using a video on the home page place video embed code here."
+msgstr "Jeśli używasz wideo na stronie głównej umieścić kod  tutaj."
+
+#: themeoptions/options.php:504 themeoptions/options.php:628
+msgid "Video Embed Code"
+msgstr "Kod osadzenia wideo"
+
+#: themeoptions/options.php:496 themeoptions/options.php:620
+msgid "Choose to show or hide captions"
+msgstr "Pokaż ukryj tytuły na suwaku"
+
+#: themeoptions/options.php:495 themeoptions/options.php:619
+msgid "Show Captions?"
+msgstr "Pokaż tytuły"
+
+#: themeoptions/options.php:485 themeoptions/options.php:608
+msgid "How long for slide transitions, in milliseconds."
+msgstr "Ustaw czas przejścia, W milisekundach"
+
+#: themeoptions/options.php:484 themeoptions/options.php:607
+msgid "Slider Transition Time"
+msgstr "Czas przejścia"
+
+#: themeoptions/options.php:476 themeoptions/options.php:598
+msgid "Choose a transition type"
+msgstr "Wybierz efekt przejścia"
+
+#: themeoptions/options.php:475 themeoptions/options.php:597
+msgid "Transition Type"
+msgstr "Efekt przejścia"
+
+#: themeoptions/options.php:465 themeoptions/options.php:586
+msgid "How long to pause on each slide, in milliseconds."
+msgstr "Czas wyświetlania dla suwaka - okewślny w milisekundach"
+
+#: themeoptions/options.php:464 themeoptions/options.php:585
+msgid "Slider Pause Time"
+msgstr "Czas Zamiany zdjęć w suwaku"
+
+#: themeoptions/options.php:457 themeoptions/options.php:577
+msgid "This determines if a slider automatically scrolls"
+msgstr "Funkcja auto przewijania dla suwaka"
+
+#: themeoptions/options.php:456 themeoptions/options.php:576
+msgid "Auto Play?"
+msgstr "Autoprzewijanie"
+
+#: themeoptions/options.php:445 themeoptions/options.php:564
+msgid "Slider Max Width"
+msgstr "Maksymalan szerokość suwaka"
+
+#: themeoptions/options.php:435 themeoptions/options.php:446
+#: themeoptions/options.php:553 themeoptions/options.php:565
+msgid "Note: does not work if images are smaller than max."
+msgstr "Uwaga: Nie działa jeżeli rozmiara zdjęcia jest mniejszy niż max"
+
+#: themeoptions/options.php:434 themeoptions/options.php:552
+msgid "Slider Max Height"
+msgstr "Maksymalna wysokość suwaka"
+
+#: themeoptions/options.php:428 themeoptions/options.php:544
+msgid "Use large images for best results."
+msgstr "Użyj dużych rozmiarów zdjęć do lepszego efektu"
+
+#: themeoptions/options.php:427 themeoptions/options.php:543
+msgid "Slider Images"
+msgstr "Suwak zdjęć"
+
+#: themeoptions/options.php:416
+msgid "If you don't want an image slider on your home page choose none."
+msgstr "Wybierz opcje \"brak\" jeżeli nie chcesz mieć suwaka na Stronie Głównej"
+
+#: themeoptions/options.php:415
+msgid "Choose a Home Image Slider"
+msgstr "Wybierz rodzaj suwaka"
+
+#: themeoptions/options.php:404
+msgid "Home Page Slider Options"
+msgstr "Ustawienia suwaka dla Strony Głównej"
+
+#: themeoptions/options.php:403
+msgid "Home Slider Settings"
+msgstr ""
+
+#: themeoptions/options.php:393
+msgid "This moves the left items to the right and right items to the left."
+msgstr "Przenies opcje z prawej do lewej i odwrotnie"
+
+#: themeoptions/options.php:392
+msgid "Topbar Layout Switch"
+msgstr "Zamiana miejscami"
+
+#: themeoptions/options.php:385
+msgid "Note this will hide remove search (you can re-enable it by adding it to the widget area)"
+msgstr ""
+
+#: themeoptions/options.php:384
+msgid "Enable widget area in right of Topbar?"
+msgstr "Aktywuj widget w pasku Topbar"
+
+#: themeoptions/options.php:377
+msgid "Choose to show or hide search in topbar"
+msgstr "Włącz jeżeli chcesz wyśiwtlić ikonę "
+
+#: themeoptions/options.php:376
+msgid "Display Search in Topbar?"
+msgstr "Pokaż ikonę szukaj w Topbar"
+
+#: themeoptions/options.php:369
+msgid "This only works if using woocommerce"
+msgstr "Działa tylko z wtyczką woocommerce"
+
+#: themeoptions/options.php:368
+msgid "Show Cart total in topbar?"
+msgstr "Pokaż ikonę koszyka"
+
+#: themeoptions/options.php:361
+msgid "Choose your icons for the topbar icon menu."
+msgstr "wybież wikony do swojego Topbar"
+
+#: themeoptions/options.php:360
+msgid "Topbar Icon Menu"
+msgstr "Dodawanie ikon do Topbar"
+
+#: themeoptions/options.php:353
+msgid "Choose to show or hide topbar icon Menu"
+msgstr "daje możliwość użycia ikon w Topbar"
+
+#: themeoptions/options.php:352
+msgid "Use Topbar Icon Menu?"
+msgstr "Używaj ikon w Topbar"
+
+#: themeoptions/options.php:345
+msgid "Choose to show or hide topbar"
+msgstr "poazuje lub howa pasek Topbar"
+
+#: themeoptions/options.php:344
+msgid "Use Topbar?"
+msgstr "Włącz Topbar"
+
+#: themeoptions/options.php:338
+msgid "Topbar Settings"
+msgstr "Ustwienia Topbar"
+
+#: themeoptions/options.php:329
+msgid "Upload a banner for bottom of header."
+msgstr "Wyślij baner na dole nagłówka."
+
+#: themeoptions/options.php:327
+msgid "Sitewide Banner"
+msgstr "Banner całej witryny"
+
+#: themeoptions/options.php:303 themeoptions/options.php:314
+msgid "Primary Menu Spacing"
+msgstr "Gówne menu - Odstęp"
+
+#: themeoptions/options.php:293
+msgid "Right Spacing"
+msgstr "Prawy"
+
+#: themeoptions/options.php:282
+msgid "Left Spacing"
+msgstr "Lewy"
+
+#: themeoptions/options.php:271 themeoptions/options.php:315
+msgid "Bottom Spacing"
+msgstr "Dolny"
+
+#: themeoptions/options.php:260 themeoptions/options.php:304
+msgid "Top Spacing"
+msgstr "Górny"
+
+#: themeoptions/options.php:259 themeoptions/options.php:270
+#: themeoptions/options.php:281 themeoptions/options.php:292
+msgid "Logo Spacing"
+msgstr "Logo - Odstęp"
+
+#: themeoptions/options.php:248
+msgid "Choose size and style your site tagline"
+msgstr "Ustawienia czcionki (Kolor, rozmiar itp.)"
+
+#: themeoptions/options.php:234
+msgid "Site Tagline Font"
+msgstr "Ustawienia czcionki"
+
+#: themeoptions/options.php:226
+msgid "An optional line of text below your logo"
+msgstr "Dodatkowy opis pod logiem"
+
+#: themeoptions/options.php:225
+msgid "Site Tagline - Below Logo"
+msgstr ""
+
+#: themeoptions/options.php:213
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr "Ustawienia czcionki (Kolor, rozmiar itp.)"
+
+#: themeoptions/options.php:197
+msgid "Sitename Logo Font"
+msgstr "Ustawienia czcionki Loga"
+
+#: themeoptions/options.php:192
+msgid "Should be twice the pixel size of your normal logo."
+msgstr ""
+
+#: themeoptions/options.php:190
+msgid "Upload Your @2x Logo for Retina Screens"
+msgstr ""
+
+#: themeoptions/options.php:183
+msgid "Upload your Logo. If left blank theme will use site name."
+msgstr "Wyślij Logo. Brak loga ustawi domyślną nazwę strony"
+
+#: themeoptions/options.php:182
+msgid "Logo"
+msgstr "Logo"
+
+#: themeoptions/options.php:169
+msgid "Choose how you want your logo to be laid out"
+msgstr "Wybierz położenie położenia loga w nagłówku"
+
+#: themeoptions/options.php:168
+msgid "Logo Layout"
+msgstr "Położenie Loga"
+
+#: themeoptions/options.php:161
+msgid "Logo Options"
+msgstr "Opcje logo"
+
+#: themeoptions/options.php:149
+msgid "Select how many columns for footer widgets"
+msgstr "Wybierz ilość kolumn w stopce "
+
+#: themeoptions/options.php:148
+msgid "Footer Widget Layout"
+msgstr "Układ stopki (Widgety)"
+
+#: themeoptions/options.php:136
+msgid "Select Boxed or Wide Site Layout Style"
+msgstr "Wybierz układ strony"
+
+#: themeoptions/options.php:135
+msgid "Site Layout Style"
+msgstr "Układ strony"
+
+#: themeoptions/options.php:125
+msgid "For support please visit"
+msgstr "Wsparcie: "
+
+#: themeoptions/options.php:123
+msgid "For theme documentation visit"
+msgstr "Dokumentacja"
+
+#: themeoptions/options.php:122
+msgid "This theme was developed by"
+msgstr "Temat ten został opracowany przez"
+
+#: themeoptions/options.php:121
+msgid "Welcome to Virtue Theme Options"
+msgstr "Witamy w opcjach tematu Virtue "
+
+#: themeoptions/options.php:118
+msgid "Main Settings"
+msgstr "Ustawienia główne"
+
+#. translators: %s: slide
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:191
+msgid "Add %s"
+msgstr "Dodaj %s"
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:139
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:187
+msgid "Delete Slide"
+msgstr "Usuń slajd"
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:126
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:174
+msgid "Slide Link"
+msgstr "Odnośnik slajdu"
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:50
+msgid "Slide"
+msgstr "Slajd"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:232
+msgid "Add Icon"
+msgstr "Dodaj ikonę"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:161
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:229
+msgid "Delete Icon"
+msgstr "Usuń ikonę"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:151
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:220
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:130
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:179
+msgid "Open Link in New Tab/Window"
+msgstr "Otwórz odnośnik w nowej zakładce/oknie"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:147
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:215
+msgid "Icon Link"
+msgstr "Odnośnik ikony"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:146
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:213
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:125
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:172
+msgid "Description"
+msgstr "Opis"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:145
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:211
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:124
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:170
+msgid "Title"
+msgstr "Tytuł"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:144
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:209
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:123
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:168
+msgid "URL"
+msgstr "Adres URL"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:124
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:190
+msgid "Select an Icon"
+msgstr "Wybierz ikonę"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:113
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:183
+msgid "Upload Icon"
+msgstr "Prześlij ikonę"
+
+#. translators: %s: slide
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:58
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:55
+msgid "New %s"
+msgstr "Nowe %s"
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:53
+msgid "Icon"
+msgstr "Ikonka"
+
+#: themeoptions/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "Musisz podać poprawny URL."
+
+#: themeoptions/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr ""
+
+#: themeoptions/inc/validation/numeric/validation_numeric.php:16
+#: themeoptions/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "Muisz podać wartość numeryczną dla tej opcji."
+
+#: themeoptions/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "To pole nie może być puste. Proszę podać wartość."
+
+#: themeoptions/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "Nie możesz wpisać żadnych specjalnych znaków do tego pola. Wszystkie specjalne znaki zostaną usunięte."
+
+#: themeoptions/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Nie możesz wpisać kodu HTML do tego pola. Wszelkie znaczniki HTML zostaną usunięte."
+
+#: themeoptions/inc/validation/email/validation_email.php:16
+#: themeoptions/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Musisz podać poprawny adres email."
+
+#: themeoptions/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "To pole musi zawierać poprawną datę."
+
+#: themeoptions/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: themeoptions/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr "Dla tej opcji musisz podać listę wartości numerycznych oddzielonych przecinkami."
+
+#: themeoptions/inc/validation/color/validation_color.php:15
+#: themeoptions/inc/validation/colorrgba/validation_colorrgba.php:16
+#: themeoptions/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr "To pole wymaga poprawnej wartości koloru."
+
+#: themeoptions/inc/fields/typography/field_typography.php:993
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+#: themeoptions/inc/fields/typography/field_typography.php:892
+msgid "Standard Fonts"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:482
+msgid "Font color"
+msgstr "Kolor tekstu"
+
+#: themeoptions/inc/fields/typography/field_typography.php:480
+msgid "Font Color"
+msgstr "Kolor tekstu"
+
+#: themeoptions/inc/fields/typography/field_typography.php:461
+#: themeoptions/inc/fields/typography/field_typography.php:462
+msgid "Letter Spacing"
+msgstr "Kerning"
+
+#: themeoptions/inc/fields/typography/field_typography.php:452
+#: themeoptions/inc/fields/typography/field_typography.php:453
+msgid "Word Spacing"
+msgstr "Odstępy między wyrazami"
+
+#: themeoptions/inc/fields/typography/field_typography.php:444
+msgid "Height"
+msgstr "Wysokość"
+
+#: themeoptions/inc/fields/typography/field_typography.php:443
+#: themeoptions/inc/fields/typography/field_typography.php:444
+msgid "Line Height"
+msgstr "Interlinia"
+
+#: themeoptions/inc/fields/typography/field_typography.php:435
+msgid "Size"
+msgstr "Rozmiar"
+
+#: themeoptions/inc/fields/typography/field_typography.php:434
+#: themeoptions/inc/fields/typography/field_typography.php:435
+msgid "Font Size"
+msgstr "Wielkość liter"
+
+#: themeoptions/inc/fields/typography/field_typography.php:410
+#: themeoptions/inc/fields/typography/field_typography.php:411
+#: themeoptions/inc/fields/typography/field_typography.php:412
+msgid "Text Decoration"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:390
+#: themeoptions/inc/fields/typography/field_typography.php:391
+#: themeoptions/inc/fields/typography/field_typography.php:392
+msgid "Font Variant"
+msgstr "Wariant Czcionki"
+
+#: themeoptions/inc/fields/typography/field_typography.php:367
+#: themeoptions/inc/fields/typography/field_typography.php:368
+#: themeoptions/inc/fields/typography/field_typography.php:369
+msgid "Text Transform"
+msgstr "Przekształcenia tekstu"
+
+#: themeoptions/inc/fields/typography/field_typography.php:344
+#: themeoptions/inc/fields/typography/field_typography.php:345
+#: themeoptions/inc/fields/typography/field_typography.php:346
+msgid "Text Align"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:327
+msgid "Font script"
+msgstr "Skrypt czcionki"
+
+#: themeoptions/inc/fields/typography/field_typography.php:327
+msgid "Subsets"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:325
+msgid "Font Subsets"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:323
+msgid "Font subsets"
+msgstr "Zbiór znaków"
+
+#: themeoptions/inc/fields/typography/field_typography.php:283
+msgid "Style"
+msgstr "Styl"
+
+#: themeoptions/inc/fields/typography/field_typography.php:276
+msgid "Font Weight &amp; Style"
+msgstr "Grubość Czcionki &amp; Styl"
+
+#: themeoptions/inc/fields/typography/field_typography.php:275
+#: themeoptions/inc/fields/typography/field_typography.php:283
+msgid "Font style"
+msgstr "Styl kroju pisma"
+
+#: themeoptions/inc/fields/typography/field_typography.php:260
+#: themeoptions/inc/fields/typography/field_typography.php:261
+msgid "Backup Font Family"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:234
+msgid "Font family"
+msgstr "Rodzina czcionek"
+
+#: themeoptions/inc/fields/typography/field_typography.php:233
+msgid "Font Family"
+msgstr "Krój pisma"
+
+#: themeoptions/inc/fields/switch/field_switch.php:46
+msgid "Off"
+msgstr "Wyłączono"
+
+#: themeoptions/inc/fields/switch/field_switch.php:43
+msgid "On"
+msgstr "o"
+
+#: themeoptions/inc/fields/select/field_select.php:136
+#: themeoptions/inc/fields/select_image/field_select_image.php:136
+msgid "No items of this type were found."
+msgstr "Nie znaleziono żadnego objektu tego typu."
+
+#: themeoptions/inc/fields/select/field_select.php:85
+#: themeoptions/inc/fields/select_image/field_select_image.php:56
+msgid "Select an item"
+msgstr "Wybierz element"
+
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:66
+msgid "Add More"
+msgstr "Dodaj więcej"
+
+#: themeoptions/inc/fields/background/field_background.php:279
+#: themeoptions/inc/fields/media/field_media.php:156
+msgid "No media selected"
+msgstr "Nie wybrano pliku"
+
+#: themeoptions/inc/fields/background/field_background.php:225
+msgid "Background Position"
+msgstr "Pozycja tła"
+
+#: themeoptions/inc/fields/background/field_background.php:205
+msgid "Background Attachment"
+msgstr "Położenie tła"
+
+#: themeoptions/inc/fields/background/field_background.php:190
+msgid "Background Size"
+msgstr "Rozmiar tła"
+
+#: themeoptions/inc/fields/background/field_background.php:175
+msgid "Background Origin"
+msgstr "Początek Tła"
+
+#: themeoptions/inc/fields/background/field_background.php:159
+msgid "Background Clip"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:143
+msgid "Background Repeat"
+msgstr "Powtarzanie tła"
+
+#: themeoptions/inc/fields/background/field_background.php:126
+#: themeoptions/inc/fields/color/field_color.php:75
+msgid "Transparent"
+msgstr "Przeźroczysty"
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:141
+msgid "Copy Export URL"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:140
+msgid "Download Data File"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:139
+msgid "Copy Data"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:131
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr "Tutaj możej skopiować/pobrać aktualne ustawienia. Zachowaj je, możesz ich użyć jako kopii zapasowej w przypadku awarii, przywrócić na tej lub innej witrynie."
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:127
+msgid "Export Options"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Import"
+msgstr "Import"
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:118
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr "Wpisz adres URL do innej strony opcji, z której chcesz zaimportować ustawienia."
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:105
+msgid "Import from URL"
+msgstr "Importuj z adresu URL"
+
+#: themeoptions/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import Options"
+msgstr ""
+
+#: themeoptions/inc/extensions/import_export/extension_import_export.php:116
+#: themeoptions/options.php:1998
+msgid "Import / Export"
+msgstr "Import / Eksport"
+
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:741
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "Twoje aktualne opcje zostaną zastąpione tymi ustawieniami. Czy chcesz kontynuować?"
+
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:740
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Jesteś pewien? Utracisz wszystkie własne ustawienia."
+
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:739
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Posiadasz zmiany, które nie są zapisane. Czy chciałbyś je teraz zapisać?"
+
+#: themeoptions/inc/class.redux_helpers.php:425
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr ""
+
+#: themeoptions/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr "Odrzuć"
+
+#: themeoptions/framework.php:2818
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: themeoptions/framework.php:2729
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: themeoptions/framework.php:1722
+msgid "Hints"
+msgstr "Wskazówki"
+
+#: themeoptions/framework.php:1717
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+
+#: themeoptions/framework.php:1713
+msgid "clicking"
+msgstr "klikanie"
+
+#: themeoptions/framework.php:1711
+msgid "moving the mouse over"
+msgstr "przesuwanie myszą nad"
+
+#: themeoptions/framework.php:1705
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: themeoptions/framework.php:1700
+msgid "Enable"
+msgstr "Włącz"
+
+#: themeoptions/framework.php:232 themeoptions/framework.php:236
+msgid "Options"
+msgstr "Ustawienia"
+
+#: themeoptions/framework.php:228
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: themeoptions/framework.php:228
+msgid "Options panel created using %1$s"
+msgstr "Panel opcji stworzony za pomocą %1$s"
+
+#: themeoptions/core/panel.php:309
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
+msgstr ""
+
+#: themeoptions/core/panel.php:217
+msgid "warning(s) were found!"
+msgstr "wystąpiło co najmniej jedno ostrzeżenie!"
+
+#: themeoptions/core/panel.php:209
+msgid "error(s) were found!"
+msgstr "wystąpił co najmniej jeden błąd!"
+
+#: themeoptions/core/panel.php:201
+msgid "Settings have changed, you should save them!"
+msgstr "Ustawienia zostały zmienione, należy je zapisać!"
+
+#: themeoptions/core/panel.php:181
+msgid "Settings Saved!"
+msgstr "Ustawienia zostały zapisane!"
+
+#: themeoptions/core/panel.php:167
+msgid "Section Defaults Restored!"
+msgstr "Domyślne wartości sekcji zostały przywrócone!"
+
+#: themeoptions/core/panel.php:153
+msgid "All Defaults Restored!"
+msgstr "Ustawienia domyśne przywrócene!"
+
+#: themeoptions/core/panel.php:138
+msgid "Settings Imported!"
+msgstr "Zaimportowano ustawienia."
+
+#: themeoptions/core/panel.php:61
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "Uwaga -  Ten panel może nie działać prawidłowo bez włączonej obsługi Javascript!"
+
+#: themeoptions/core/enqueue.php:489
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: themeoptions/core/enqueue.php:488
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: themeoptions/core/enqueue.php:477
+msgid "Please Wait"
+msgstr "Proszę czekać"
+
+#: themeoptions/core/enqueue.php:470
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:706
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "Twoje aktualne ustawienia zostaną zastąpione tym zestawem opcji. Czy chcesz kontynuować?"
+
+#: themeoptions/core/enqueue.php:462
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "Jesteś pewien? Utracisz wszystkie własne ustawienia tej sekcji."
+
+#: themeoptions/core/enqueue.php:454
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:705
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Jesteś pewien? Utracisz wszystkie własne ustawienia."
+
+#: themeoptions/core/enqueue.php:446
+#: themeoptions/inc/extensions/customizer/extension_customizer.php:704
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Dokonane zmiany nie zostały jeszcze zapisane? Czy chcesz je zachować?"
+
+#: templates/similarblog-carousel.php:7
+msgid "Similar Posts"
+msgstr "Podobne wpisy"
+
+#: templates/recentportfolio-carousel.php:16
+msgid "Recent Projects"
+msgstr "Ostatnie projekty"
+
+#: templates/home/portfolio-carousel.php:11
+msgid "Featured Projects"
+msgstr "Wbrane projekty"
+
+#: templates/home/blog-home.php:107
+msgid "READ MORE"
+msgstr "Dowiedz się więcej"
+
+#: templates/home/blog-home.php:15
+msgid "Latest from the Blog"
+msgstr "Najnowsze z bloga"
+
+#: templates/header.php:89
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/entry-meta.php:2
+msgid "By"
+msgstr "przez "
+
+#: templates/entry-meta-subhead.php:5
+msgid "posted in:"
+msgstr "wpis w:"
+
+#: templates/entry-meta-subhead.php:3
+msgid "by"
+msgstr "przez "
+
+#: templates/content-fullpost.php:57
+msgid "Comments are Closed"
+msgstr "Komentowanie jest wyłączone"
+
+#: templates/content-fullpost.php:55
+msgid "% Comments"
+msgstr "% komentarzy"
+
+#: templates/content-fullpost.php:54
+msgid "1 Comment"
+msgstr "Jeden komentarz"
+
+#: templates/content-fullpost.php:53
+msgid "Leave a Reply"
+msgstr "Dodaj komentarz"
+
+#: templates/comments.php:62 templates/comments.php:80
+msgid "Comments are closed."
+msgstr "Możliwość komentowania została wyłączona."
+
+#: templates/comments.php:48
+msgid "Newer comments &rarr;"
+msgstr "Nowsze komentarze &rarr;"
+
+#: templates/comments.php:45
+msgid "&larr; Older comments"
+msgstr "&larr; Starsze komentarze"
+
+#: templates/comments.php:11
+msgid "One Response"
+msgstr ""
+
+#: templates/account-sidebar.php:22
+msgid "Logout"
+msgstr "Wyloguj się"
+
+#: templates/account-sidebar.php:19
+msgid "Edit Account"
+msgstr "Edycja konta"
+
+#: searchform.php:4
+msgid "Search"
+msgstr "Szukaj"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: page-portfolio.php:139 templates/home/portfolio-carousel.php:94
+#: templates/recentportfolio-carousel.php:88
+msgid "Sorry, no portfolio entries found."
+msgstr "Przepraszamy, nie znaleziono żadnych wpisów portfolio."
+
+#: page-blog.php:63 templates/home/blog-home.php:118
+#: templates/home/latest-slider.php:32 templates/recentblog-carousel.php:63
+#: templates/similarblog-carousel.php:67
+msgid "Sorry, no blog entries found."
+msgstr "Przepraszamy, nie znaleziono żadnych wpisów w blogu."
+
+#: lib/widgets.php:811
+msgid "Text/Caption (optional)"
+msgstr ""
+
+#: lib/widgets.php:807
+msgid "Image Link (optional)"
+msgstr ""
+
+#: lib/widgets.php:803
+msgid "Image opens in"
+msgstr "Otwieranie obrazka w"
+
+#: lib/widgets.php:800
+#: themeoptions/inc/fields/background/field_background.php:316
+#: themeoptions/inc/fields/media/field_media.php:209
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:110
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:161
+msgid "Upload"
+msgstr "Prześlij"
+
+#: lib/widgets.php:798
+msgid "Image URL"
+msgstr "Adres URL obrazka"
+
+#: lib/widgets.php:786
+msgid "No Link"
+msgstr "Bez odnośnika"
+
+#: lib/widgets.php:785
+msgid "Same Window"
+msgstr "W tym samym oknie"
+
+#: lib/widgets.php:784
+msgid "New Window"
+msgstr "W nowym oknie"
+
+#: lib/widgets.php:783
+msgid "Lightbox"
+msgstr ""
+
+#: lib/widgets.php:734
+msgid "Virtue: Image"
+msgstr ""
+
+#: lib/widgets.php:733
+msgid "This allows for an image and a simple about text."
+msgstr ""
+
+#: lib/widgets.php:712
+msgid "Number of images to show:"
+msgstr ""
+
+#: lib/widgets.php:709
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr ""
+
+#: lib/widgets.php:706
+msgid "If Post - Choose Category (Optional):"
+msgstr ""
+
+#: lib/widgets.php:703
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: lib/widgets.php:702
+msgid "Blog Posts"
+msgstr "Wpisy na blogu"
+
+#: lib/widgets.php:700
+msgid "Grid Choice:"
+msgstr ""
+
+#: lib/widgets.php:595
+msgid "Post Gallery"
+msgstr "Galeria wpisu"
+
+#: lib/widgets.php:586
+msgid "Virtue: Image Grid"
+msgstr "Virtue: Siatka obrazów"
+
+#: lib/widgets.php:585
+msgid "This shows a grid of featured images from recent posts or portfolio items"
+msgstr ""
+
+#: lib/widgets.php:572
+msgid "Limit to Catagory (Optional):"
+msgstr ""
+
+#: lib/widgets.php:569
+msgid "Number of posts to show:"
+msgstr "Liczba wpisów do wyświetlenia:"
+
+#: lib/widgets.php:496 templates/recentblog-carousel.php:26
+msgid "Recent Posts"
+msgstr "Ostatnie wpisy"
+
+#: lib/widgets.php:487
+msgid "Virtue: Recent Posts"
+msgstr "Virtue: Ostatnie posty"
+
+#: lib/widgets.php:486
+msgid "This shows the most recent posts on your site with a thumbnail"
+msgstr ""
+
+#: lib/widgets.php:469
+msgid "RSS:"
+msgstr "RSS:"
+
+#: lib/widgets.php:465
+msgid "VK:"
+msgstr "VK:"
+
+#: lib/widgets.php:461
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: lib/widgets.php:457
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: lib/widgets.php:453
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: lib/widgets.php:449
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: lib/widgets.php:445
+msgid "Youtube:"
+msgstr "YouTube:"
+
+#: lib/widgets.php:441
+msgid "Vimeo:"
+msgstr "Vimeo:"
+
+#: lib/widgets.php:437
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: lib/widgets.php:433
+msgid "GooglePlus:"
+msgstr "GooglePlus:"
+
+#: lib/widgets.php:429
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: lib/widgets.php:421
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: lib/widgets.php:327
+msgid "Virtue: Social Links"
+msgstr "Virtue: Serwisy społecznościowe"
+
+#: lib/widgets.php:326
+msgid "Simple way to add Social Icons"
+msgstr ""
+
+#: lib/widgets.php:312
+msgid "Email:"
+msgstr "Adres e-mail:"
+
+#: lib/widgets.php:308
+msgid "Fixed Telephone:"
+msgstr ""
+
+#: lib/widgets.php:304
+msgid "Mobile Telephone:"
+msgstr ""
+
+#: lib/widgets.php:300
+msgid "Zipcode/Postal Code:"
+msgstr ""
+
+#: lib/widgets.php:296
+msgid "State/Region:"
+msgstr ""
+
+#: lib/widgets.php:292
+msgid "City/Locality:"
+msgstr ""
+
+#: lib/widgets.php:288
+msgid "Street Address:"
+msgstr ""
+
+#: lib/widgets.php:284
+msgid "Name:"
+msgstr "Nazwa:"
+
+#: lib/widgets.php:280
+msgid "Company Name:"
+msgstr "Nazwa firmy:"
+
+#: lib/widgets.php:276 lib/widgets.php:417 lib/widgets.php:566
+#: lib/widgets.php:697
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: lib/widgets.php:206
+msgid "vCard"
+msgstr ""
+
+#: lib/widgets.php:196
+msgid "Virtue: Contact/Vcard"
+msgstr ""
+
+#: lib/widgets.php:195
+msgid "Use this widget to add a Vcard to your site"
+msgstr ""
+
+#: lib/widgets.php:107
+msgid "Footer Column 4"
+msgstr ""
+
+#: lib/widgets.php:97 lib/widgets.php:138
+msgid "Footer Column 3"
+msgstr ""
+
+#: lib/widgets.php:87 lib/widgets.php:128 lib/widgets.php:159
+msgid "Footer Column 2"
+msgstr ""
+
+#: lib/widgets.php:77 lib/widgets.php:118 lib/widgets.php:149
+msgid "Footer Column 1"
+msgstr ""
+
+#: lib/widgets.php:50
+msgid "Topbar Widget"
+msgstr ""
+
+#: lib/widgets.php:6 lib/widgets.php:60
+msgid "Primary Sidebar"
+msgstr "Pierwszy panel boczny"
+
+#. translators: %1$s: dashboard link
+#: lib/kadence-toolkit-plugin.php:182
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Wszystkie wtyczki zainstalowano i włączono pomyślnie. %s"
+
+#: lib/kadence-toolkit-plugin.php:178
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %1$s: plugin name
+#: lib/kadence-toolkit-plugin.php:176
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %1$s: plugin name
+#: lib/kadence-toolkit-plugin.php:172
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: %1$s: plugin name
+#: lib/kadence-toolkit-plugin.php:166
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/utils.php:106
+msgid "Not Found"
+msgstr "Nie znaleziono"
+
+#. translators: %s: search term
+#: lib/utils.php:104
+msgid "Search Results for %s"
+msgstr "Wyniki wyszukiwania dla \"%s\""
+
+#. translators: %s: Author Name
+#: lib/utils.php:121
+msgid "Author Archives: %s"
+msgstr "Archiwum autora: %s"
+
+#. translators: %s: Date showing year only
+#: lib/utils.php:132
+msgid "Yearly Archives: %s"
+msgstr "Archiwum roku: %s"
+
+#. translators: %s: Date showing year and month
+#: lib/utils.php:129
+msgid "Monthly Archives: %s"
+msgstr "Archiwum miesiąca: %s"
+
+#. translators: %s: Date
+#: lib/utils.php:126
+msgid "Daily Archives: %s"
+msgstr "Archiwum dnia: %s"
+
+#: lib/metaboxes.php:248
+msgid "Sidebar Options"
+msgstr "Opcje panelu bocznego"
+
+#: lib/metaboxes.php:224
+msgid "Full"
+msgstr "Pełna szerokość"
+
+#: lib/metaboxes.php:223
+msgid "Summary"
+msgstr "Podsumowanie"
+
+#: lib/metaboxes.php:218
+msgid "Display Post Content as:"
+msgstr ""
+
+#: lib/metaboxes.php:194
+msgid "How Many Posts Per Page"
+msgstr ""
+
+#: lib/metaboxes.php:189
+msgid "Select all blog posts or a specific category to show"
+msgstr ""
+
+#: lib/metaboxes.php:188
+msgid "Blog Category"
+msgstr "Kategoria blogu"
+
+#: lib/metaboxes.php:179
+msgid "Blog List Options"
+msgstr ""
+
+#: lib/metaboxes.php:171
+msgid "ex. Similar Posts"
+msgstr "Podobne wpisy"
+
+#: lib/metaboxes.php:170
+msgid "Carousel Title"
+msgstr "Karuzlea tytułów"
+
+#: lib/metaboxes.php:166 themeoptions/options.php:1865
+msgid "Yes - Display Similar Posts"
+msgstr "Tak - Pokaż podobne wpisy"
+
+#: lib/metaboxes.php:165 themeoptions/options.php:1865
+msgid "Yes - Display Recent Posts"
+msgstr "Tak - Pokaż ostatnie wpisy"
+
+#: lib/metaboxes.php:159
+msgid "Display a carousel with similar or recent posts?"
+msgstr "Wyświtlić karuzelę z najnowszymi wpisami?"
+
+#: lib/metaboxes.php:158
+msgid "Posts Carousel"
+msgstr "Karuzela wpisów"
+
+#: lib/metaboxes.php:148
+msgid "Display an author info box?"
+msgstr "Wyświetlić informacje o autorze?"
+
+#: lib/metaboxes.php:147
+msgid "Author Info"
+msgstr "Info autora"
+
+#: lib/metaboxes.php:140 lib/metaboxes.php:238 lib/metaboxes.php:258
+#: lib/metaboxes.php:288
+msgid "Choose Sidebar"
+msgstr "Wybierz panel boczny"
+
+#: lib/metaboxes.php:136 lib/metaboxes.php:153 lib/metaboxes.php:164
+#: lib/metaboxes.php:234 lib/metaboxes.php:284
+msgid "No"
+msgstr "Nie"
+
+#: lib/metaboxes.php:135 lib/metaboxes.php:154 lib/metaboxes.php:233
+#: lib/metaboxes.php:283
+msgid "Yes"
+msgstr "Tak"
+
+#: lib/metaboxes.php:131
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr ""
+
+#: lib/metaboxes.php:130 lib/metaboxes.php:228 lib/metaboxes.php:277
+msgid "Display Sidebar?"
+msgstr "Wyświetl pasek boczny"
+
+#: lib/metaboxes.php:125
+msgid "Landscape Image Slider"
+msgstr ""
+
+#: lib/metaboxes.php:124
+msgid "Portrait Image Slider"
+msgstr ""
+
+#: lib/metaboxes.php:123
+msgid "Landscape Image"
+msgstr ""
+
+#: lib/metaboxes.php:122
+msgid "Portrait Image"
+msgstr ""
+
+#: lib/metaboxes.php:121
+msgid "Text"
+msgstr "Tekst"
+
+#: lib/metaboxes.php:115
+msgid "Post Summary"
+msgstr "Podsumowanie wpisu"
+
+#: lib/metaboxes.php:110
+msgid "Default is: 770 or 1140 on fullwidth posts <b>(Note: just input number, example: 650, does not apply to carousel slider)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:109
+msgid "Max Image/Slider Width"
+msgstr "Max szerokość obrazka/suwaka"
+
+#: lib/metaboxes.php:104
+msgid "Default is: 400 <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:103
+msgid "Max Image/Slider Height"
+msgstr "Max wysokość obrazka/suwaka"
+
+#: lib/metaboxes.php:99 themeoptions/options.php:1831
+msgid "Image"
+msgstr "Obrazek"
+
+#: lib/metaboxes.php:98 lib/metaboxes.php:126 themeoptions/options.php:1831
+msgid "Video"
+msgstr "Film"
+
+#: lib/metaboxes.php:97 themeoptions/options.php:1831
+msgid "Image Slider"
+msgstr "Obrazkowy pokaz slajdów"
+
+#: lib/metaboxes.php:96 themeoptions/options.php:1831
+msgid "None"
+msgstr "Brak"
+
+#: lib/metaboxes.php:90
+msgid "Head Content"
+msgstr "Treść nagłówka"
+
+#: lib/metaboxes.php:85
+msgid "Post Options"
+msgstr "Opcje wpisu"
+
+#: lib/metaboxes.php:41
+msgid "All Blog Posts"
+msgstr "Wszyskie wpisy na blgu"
+
+#: lib/metaboxes.php:199
+msgid "All"
+msgstr "Wszystko"
+
+#: lib/init.php:19
+msgid "Footer Navigation"
+msgstr "Nawigacja w stopce"
+
+#: lib/init.php:18
+msgid "Topbar Navigation"
+msgstr "Topbar Menu"
+
+#: lib/init.php:17
+msgid "Mobile Navigation"
+msgstr "Nawigacja urządzeń mobilnych"
+
+#: lib/init.php:16
+msgid "Secondary Navigation"
+msgstr "Drugie menu"
+
+#: lib/init.php:15
+msgid "Primary Navigation"
+msgstr "Główne menu"
+
+#: lib/custom.php:480 templates/entry-post-links.php:6
+msgid "Next Post"
+msgstr "Następny wpis"
+
+#: lib/custom.php:480 templates/entry-post-links.php:3
+msgid "Previous Post"
+msgstr "Poprzedni wpis"
+
+#: lib/woocommerce/woo-core-hooks.php:73 templates/header-topbar.php:58
+msgid "Your Cart"
+msgstr "Twój koszyk"
+
+#: lib/woocommerce/woo-core-hooks.php:71 templates/header-topbar.php:56
+msgid "View your shopping cart"
+msgstr "Zobacz zawartość koszyka"
+
+#: lib/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na zatwierdzenie."
+
+#: lib/comments.php:24
+msgid "| (Edit)"
+msgstr "| (Edytuj)"
+
+#: lib/metaboxes.php:95 lib/metaboxes.php:120 lib/metaboxes.php:152
+#: lib/metaboxes.php:163 lib/metaboxes.php:282 lib/metaboxes.php:300
+#: lib/metaboxes.php:333 themeoptions/framework.php:1849
+msgid "Default"
+msgstr "Domyślne"
+
+#: themeoptions/inc/fields/background/field_background.php:323
+#: themeoptions/inc/fields/media/field_media.php:216
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:76
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:83
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:93
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:119
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:185
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:117
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:163
+msgid "Remove"
+msgstr "Usuń"
+
+#: lib/cleanup.php:89 templates/content-fullpost.php:40
+msgid "Continued"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3508
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3506
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed successfully."
+msgstr "Zainstalowano %1$s."
+
+#: lib/class-tgm-plugin-activation.php:3503
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Instalowanie zostało rozpoczęte. Na niektórych hostingach może to trochę potrwać, więc prosimy o cierpliwość."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3500
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i włączanie wtyczki %1$s (%2$d/%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3498
+msgid "All installations and activations have been completed."
+msgstr "Wszystko co trzeba zostało zainstalowane i włączone."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3497
+#: lib/class-tgm-plugin-activation.php:3505
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3497
+#: lib/class-tgm-plugin-activation.php:3505
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3497
+msgid "%1$s installed and activated successfully."
+msgstr "Zainstalowano i włączono %1$s."
+
+#: lib/class-tgm-plugin-activation.php:3495
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji i włączania wtyczek. Trochę to potrwa, więc proszę czekać cierpliwie."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3491
+msgid "The installation of %1$s failed."
+msgstr "Nie udało się zainstalować %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/class-tgm-plugin-activation.php:3489
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalowania wtyczki %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3486
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3146
+msgid "Plugin activation failed."
+msgstr "Nie udało się włączyć wtyczki."
+
+#: lib/class-tgm-plugin-activation.php:2922
+msgid "No plugins are available to be activated at this time."
+msgstr "Aktualnie brak wtyczek do włączenia."
+
+#: lib/class-tgm-plugin-activation.php:2790
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2788
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2714
+msgid "Activate"
+msgstr "Włącz"
+
+#: lib/class-tgm-plugin-activation.php:2711
+msgid "Update"
+msgstr "Aktualizuj"
+
+#: lib/class-tgm-plugin-activation.php:2705
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: lib/class-tgm-plugin-activation.php:2672
+msgid "Upgrade message from the plugin author:"
+msgstr "Wiadomość dotycząca aktualizacji od autora wtyczki:"
+
+#: lib/class-tgm-plugin-activation.php:2542
+msgid "Status"
+msgstr "Status"
+
+#: lib/class-tgm-plugin-activation.php:2541
+msgid "Version"
+msgstr "Wersja"
+
+#: lib/class-tgm-plugin-activation.php:2537
+msgid "Type"
+msgstr "Typ"
+
+#: lib/class-tgm-plugin-activation.php:2536
+msgid "Source"
+msgstr "Źródło"
+
+#: lib/class-tgm-plugin-activation.php:2535
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: lib/class-tgm-plugin-activation.php:2498
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: lib/class-tgm-plugin-activation.php:2486
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana wersja:"
+
+#: lib/class-tgm-plugin-activation.php:2478
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: lib/class-tgm-plugin-activation.php:2470
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2388
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2384
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2380
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2376
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
+
+#: lib/class-tgm-plugin-activation.php:2321
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: lib/class-tgm-plugin-activation.php:2318
+msgid "Requires Update"
+msgstr "Wymaga aktualizacji"
+
+#: lib/class-tgm-plugin-activation.php:2315
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: lib/class-tgm-plugin-activation.php:2309
+msgid "Active"
+msgstr "Włączono"
+
+#: lib/class-tgm-plugin-activation.php:2307
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie włączono"
+
+#: lib/class-tgm-plugin-activation.php:2303
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: lib/class-tgm-plugin-activation.php:2286
+msgid "Pre-Packaged"
+msgstr "W pakiecie"
+
+#: lib/class-tgm-plugin-activation.php:2283
+msgid "External Source"
+msgstr "Źródło zewnętrzne"
+
+#: lib/class-tgm-plugin-activation.php:2280
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPressa"
+
+#: lib/class-tgm-plugin-activation.php:2264
+msgid "Recommended"
+msgstr "Polecane"
+
+#: lib/class-tgm-plugin-activation.php:2261
+msgid "Required"
+msgstr "Wymagane"
+
+#: lib/class-tgm-plugin-activation.php:1109
+#: lib/class-tgm-plugin-activation.php:2936
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "oraz"
+
+#: lib/class-tgm-plugin-activation.php:925
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalny pakiet wtyczki składa się z więcej niż jednego pliku, ale pliki nie są spakowane w katalogu."
+
+#: lib/class-tgm-plugin-activation.php:922
+#: lib/class-tgm-plugin-activation.php:925
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Skontaktuj się z dostawcą wtyczki i poproś o przygotowanie nowej wersji zgodnej z wytycznymi WordPressa."
+
+#: lib/class-tgm-plugin-activation.php:922
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Wtyczka z pakietu nie zawiera katalogu z prawidłową nazwą, a próba zmiany nazwy nie zadziałała."
+
+#: lib/class-tgm-plugin-activation.php:374
+#: lib/class-tgm-plugin-activation.php:815
+#: lib/class-tgm-plugin-activation.php:2521
+#: lib/class-tgm-plugin-activation.php:3568
+msgid "Return to the Dashboard"
+msgstr "Powrót do kokpitu"
+
+#: lib/class-tgm-plugin-activation.php:511
+msgid "Update Required"
+msgstr "Wymagana aktualizacja"
+
+#: lib/class-tgm-plugin-activation.php:510
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:385
+msgid "Please contact the administrator of this site for help."
+msgstr "Proszę skontaktować się z administratorem witryny, aby uzyskać pomoc."
+
+#: lib/class-tgm-plugin-activation.php:383
+msgid "Dismiss this notice"
+msgstr "Odrzuć powiadomienie"
+
+#. translators: 1: dashboard link.
+#: lib/class-tgm-plugin-activation.php:382
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zostały zainstalowane i włączone. %1$s"
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:380
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Wtyczka nie została włączona. Motyw wymaga użycia nowszej wersji wtyczki niż %s. Proszę ją zaktualizować."
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:378
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nic nie zrobiono. Wtyczka %1$s jest już włączona."
+
+#: lib/class-tgm-plugin-activation.php:376
+#: lib/class-tgm-plugin-activation.php:2940
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Włączono wtyczkę:"
+msgstr[1] "Włączono wtyczki:"
+msgstr[2] "Włączono wtyczki:"
+
+#: lib/class-tgm-plugin-activation.php:375
+#: lib/class-tgm-plugin-activation.php:3147 lib/kadence-toolkit-plugin.php:180
+msgid "Plugin activated successfully."
+msgstr "Wtyczka została włączona."
+
+#: lib/class-tgm-plugin-activation.php:373 lib/kadence-toolkit-plugin.php:179
+msgid "Return to Required Plugins Installer"
+msgstr "Wróć do instalatora wymaganych wtyczek"
+
+#: lib/class-tgm-plugin-activation.php:368
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpocznij włączanie wtyczki"
+msgstr[1] "Rozpocznij włączanie wtyczek"
+msgstr[2] "Rozpocznij włączanie wtyczek"
+
+#: lib/class-tgm-plugin-activation.php:363
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/class-tgm-plugin-activation.php:358 lib/kadence-toolkit-plugin.php:177
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalację wtyczek"
+msgstr[2] "Rozpocznij instalację wtyczek"
+
+#. translators: 1: plugin name(s).
+#. translators: %1$s: plugin name
+#: lib/class-tgm-plugin-activation.php:355 lib/kadence-toolkit-plugin.php:170
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#. translators: %1$s: plugin name
+#: lib/class-tgm-plugin-activation.php:351 lib/kadence-toolkit-plugin.php:168
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:347
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#. translators: %1$s: plugin name
+#: lib/class-tgm-plugin-activation.php:343 lib/kadence-toolkit-plugin.php:174
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:339
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Twórcy motywu polecają użycie wtyczki: %1$s."
+msgstr[1] "Twórcy motywu polecają użycie wtyczek: %1$s."
+msgstr[2] "Twórcy motywu polecają użycie wtyczek: %1$s."
+
+#. translators: 1: plugin name(s).
+#. translators: %1$s: plugin name
+#: lib/class-tgm-plugin-activation.php:335 lib/kadence-toolkit-plugin.php:162
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Motyw wymaga do działania następującej wtyczki: %1$s."
+msgstr[1] "Motyw wymaga do działania następujących wtyczek: %1$s."
+msgstr[2] "Motyw wymaga do działania następujących wtyczek: %1$s."
+
+#: lib/class-tgm-plugin-activation.php:333 lib/kadence-toolkit-plugin.php:160
+msgid "Something went wrong with the plugin API."
+msgstr "Wystąpił problem z API wtyczki."
+
+#. translators: %s: plugin name.
+#. translators: %s: plugin name
+#: lib/class-tgm-plugin-activation.php:330 lib/kadence-toolkit-plugin.php:159
+msgid "Installing Plugin: %s"
+msgstr "Instalowanie wtyczki: %s"
+
+#: lib/class-tgm-plugin-activation.php:328 lib/kadence-toolkit-plugin.php:157
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: lib/class-tgm-plugin-activation.php:327 lib/kadence-toolkit-plugin.php:156
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: lib/authorbox.php:94
+msgid "Latest posts from"
+msgstr "Ostatnie wpisy"
+
+#: lib/authorbox.php:75
+msgid "on Instagram"
+msgstr "na Instagram"
+
+#: lib/authorbox.php:70
+msgid "on Pinterest"
+msgstr "na Pinterest"
+
+#: lib/authorbox.php:65
+msgid "on Dribbble"
+msgstr "na Dribbble"
+
+#: lib/authorbox.php:60
+msgid "on linkedin"
+msgstr "na linkedin"
+
+#: lib/authorbox.php:55
+msgid "on Vimeo"
+msgstr "na Vimeo"
+
+#: lib/authorbox.php:50
+msgid "on Flickr"
+msgstr "na Flickr"
+
+#: lib/authorbox.php:45
+msgid "on YouTube"
+msgstr "na YouTube"
+
+#: lib/authorbox.php:40
+msgid "on Google Plus"
+msgstr "na Google Plus"
+
+#: lib/authorbox.php:30
+msgid "on Facebook"
+msgstr "na Facebooku"
+
+#: lib/authorbox.php:26 lib/authorbox.php:30 lib/authorbox.php:35
+#: lib/authorbox.php:40 lib/authorbox.php:45 lib/authorbox.php:50
+#: lib/authorbox.php:55 lib/authorbox.php:60 lib/authorbox.php:65
+#: lib/authorbox.php:70 lib/authorbox.php:75
+msgid "Follow"
+msgstr "Obserwuj"
+
+#: lib/authorbox.php:16 lib/utils.php:98
+msgid "Latest Posts"
+msgstr "Ostatnie wpisy"
+
+#: lib/authorbox.php:11
+msgid "About Author"
+msgstr "O autorze"
+
+#: archive-events.php:34 archive.php:23 home.php:24 index.php:19
+#: taxonomy-portfolio-type.php:36
+msgid "Sorry, no results were found."
+msgstr "Brak wyników wyszukiwania"
+
+#: 404.php:18
+msgid "an out-of-date link"
+msgstr ""
+
+#: 404.php:17
+msgid "a mistyped address"
+msgstr "nieprawidłowy adres email"
+
+#: 404.php:15
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+#: 404.php:12
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Przykro nam, ale strona, którą próbujesz wyświetlić nie istnieje"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kadencewp.com/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Kadence WP"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://kadencewp.com/product/virtue-free-theme/"
+msgstr "https://kadencethemes.com/product/virtue-free-theme/"

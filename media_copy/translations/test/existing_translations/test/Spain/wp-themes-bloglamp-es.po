@@ -1,0 +1,62 @@
+# Translation of Themes - Bloglamp in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Bloglamp package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-30 11:20:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Bloglamp\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bloglamp is the perfect pick for bloggers seeking a lightweight, customizable theme that suits them just right. With plenty of options to adjust colors and typography, making your site unique is a breeze. It’s SEO friendly and fully compatible with WPML, Gutenberg, Elementor, WooCommerce, and supports translation and RTL. Live preview: https://demo.peregrine-themes.com/bloghash/bloglamp."
+msgstr "BlogLamp es la elección perfecta para los blogueros que buscan un tema ligero y personalizable que se adapte a sus necesidades. Con un montón de opciones para ajustar los colores y la tipografía, hacer que tu sitio sea único es pan comido. Es apto para SEO y totalmente compatible con WPML, Gutenberg, Elementor, WooCommerce, y es compatible con traducción y RTL. Vista previa en vivo: https://demo.peregrine-themes.com/bloghash/bloglamp."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bloglamp"
+msgstr "Bloglamp"
+
+#: inc/customizer/settings/settings-hero.php:8
+msgid "V2"
+msgstr "V2"
+
+#: inc/customizer/settings/settings-hero.php:7
+msgid "V1"
+msgstr "V1"
+
+#: inc/customizer/settings/settings-header.php:9
+msgid "Header 1"
+msgstr "Cabecera 1"
+
+#: inc/customizer/settings/settings-blog.php:14
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/customizer/settings/settings-blog.php:11
+msgid "Layout"
+msgstr "Diseño"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://peregrine-themes.com/"
+msgstr "https://peregrine-themes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Peregrine themes"
+msgstr "Peregrine themes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://peregrine-themes.com/bloglamp/"
+msgstr "https://peregrine-themes.com/bloglamp/"

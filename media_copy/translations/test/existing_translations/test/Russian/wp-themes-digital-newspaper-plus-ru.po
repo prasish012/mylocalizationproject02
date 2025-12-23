@@ -1,0 +1,134 @@
+# Translation of Themes - Digital Newspaper Plus in Russian
+# This file is distributed under the same license as the Themes - Digital Newspaper Plus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-06 07:58:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Digital Newspaper Plus\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Newspaper Plus is now here to captivate WordPress website owners with unprecedented features you shall only find here first. The main banner has a professional 3 columns design that’s best suitable for news sites. It comes with 7 front sections with 7 different news block layouts and 9 custom Digital Newspaper Plus widgets. You will get to choose separate colors and designs for all main elements of the page at both the initial and hover states. There are typography controls (5 font families, and font-weight) for Site title, Navigation Menu, Block Title, Post Title, Post Meta, Post Content, Archive, and Single Post. The theme provides custom breadcrumb trail options for popular plugins - Breadcrumb NavXT, Yoast SEO, and Rank Math SEO plugin. You will get a welcome dilemma in having to choose between 5 front page sidebar layouts, 5 archive sidebar layouts, 5 post sidebar layouts, 5 page sidebar layouts with sticky option in each layout, and 2 basic archive layouts. Also, the header section can be made sticky upon scrolling up and the theme has a scroll-to-top button. Enjoy the preference to select between boxed and full-width layouts in all sections. Available with 4+ pre-built starter websites, that you will get to install in one click. Demo link: https://doc.blazethemes.com/digital-newspaper/ Video tutorial: https://www.youtube.com/watch?v=h1aumrJXlyY"
+msgstr "Digital Newspaper Plus теперь здесь, чтобы покорить владельцев сайтов WordPress беспрецедентными функциями, которые Вы найдете только здесь. Главный банер имеет профессиональный дизайн в 3 столбца, который лучше всего подходит для новостных сайтов. В комплект входят 7 разделов с 7 различными макетами новостных блоков и 9 пользовательских виджетов Digital Newspaper Plus. Вы сможете выбрать отдельные цвета и дизайн для всех основных элементов страницы как в начальном, так и в при наведении. Имеются элементы управления типографикой (5 семейств шрифтов и толщина шрифта) для названия сайта, меню навигации, заголовка блока, заголовка записи, мета записи, содержимого записи, архива и отдельной записи. В теме предусмотрены пользовательские параметры навигационной цепочки для популярных плагинов - Breadcrumb NavXT, Yoast SEO и плагина Rank Math SEO. Перед Вами встанет долгожданная дилемма выбора между 5 макетами боковой панели главной страницы, 5 макетами боковой панели архива, 5 макетами боковой панели постов, 5 макетами боковой панели страниц с возможностью прикрепления в каждом макете, и 2 основными макетами архива. Кроме того, раздел заголовка можно сделать прилипающим при прокрутке вверх, а тема оснащена кнопкой прокрутки наверх. Наслаждайтесь возможностью выбора между фиксированным макетом и макетом во всю ширину во всех разделах. Доступность 4+ готовых стартовых сайтов, которые Вы сможете установить одним щелчком мыши. Ссылка на демо: https://doc.blazethemes.com/digital-newspaper/ Видеоурок: https://www.youtube.com/watch?v=h1aumrJXlyY"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Digital Newspaper Plus"
+msgstr "Digital Newspaper Plus"
+
+#: functions.php:587
+msgid "Ad 2 URL"
+msgstr "URL рекламы 2"
+
+#: functions.php:574
+msgid "Upload Ad Two"
+msgstr "Загрузите рекламу два"
+
+#: functions.php:563
+msgid "Ad 1 URL"
+msgstr "URL рекламы 1"
+
+#: functions.php:551 functions.php:575
+msgid "Upload image file"
+msgstr "Загрузить файл изображения"
+
+#: functions.php:550
+msgid "Upload Ad One"
+msgstr "Загрузить рекламу один"
+
+#: functions.php:540
+msgid "Custom Media Upload"
+msgstr "Загрузка пользовательского медиа"
+
+#: functions.php:359
+msgid "Layout Three"
+msgstr "Макет третий"
+
+#: functions.php:512
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: functions.php:511
+msgid "Free"
+msgstr "Free"
+
+#: template-parts/content.php:34 template-parts/content.php:80
+msgid "mins"
+msgstr "минуты"
+
+#: functions.php:478
+msgid "Layout Six"
+msgstr "6-й макет"
+
+#: functions.php:468
+msgid "Layout Seven"
+msgstr "Макет 7"
+
+#: functions.php:441
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: functions.php:440
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: functions.php:438
+msgid "Slide direction"
+msgstr "Направление слайда"
+
+#: functions.php:417
+msgid "Popular posts categories"
+msgstr "Рубрики популярных записей"
+
+#: functions.php:400
+msgid "Popular posts title"
+msgstr "Заголовки популярных записей"
+
+#: functions.php:377
+msgid "Popular Posts Setting"
+msgstr "Настройки популярных записей"
+
+#: functions.php:363 functions.php:458
+msgid "Layout Two"
+msgstr "2-й макет"
+
+#: functions.php:263
+msgid "Effect Three"
+msgstr "Третий эффект"
+
+#: functions.php:261
+msgid "Effect Two"
+msgstr "2-й эффект"
+
+#: functions.php:35
+msgid "Headlines"
+msgstr "Заголовки"
+
+#: functions.php:28
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blazethemes.com/"
+msgstr "https://blazethemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "BlazeThemes"
+msgstr "BlazeThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blazethemes.com/theme/digital-newspaper-free/"
+msgstr "https://blazethemes.com/theme/digital-newspaper-free/"

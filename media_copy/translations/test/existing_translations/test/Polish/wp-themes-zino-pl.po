@@ -1,0 +1,116 @@
+# Translation of Themes - Zino in Polish
+# This file is distributed under the same license as the Themes - Zino package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-22 12:42:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Zino\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Zino is a minimal and lightweight Full Site Editing theme. This speed optimized theme utilizes the WordPress blocks editor to create unique and eye-catching layouts. Zino is perfect for blogs, small businesses, startups, law firms and other creative agencies who prefer simple and speed optimized websites."
+msgstr "Zino to minimalny i lekki motyw do edycji całej witryny. Zoptymalizowany pod kątem szybkości motyw wykorzystuje edytor bloków WordPressa do tworzenia unikatowych i przyciągających wzrok układów. Jest on idealny dla blogów, małych firm, startupów, kancelarii prawnych i innych agencji kreatywnych, które preferują proste i szybkie witryny internetowe."
+
+#. Theme Name of the theme
+#: style.css functions.php:65
+#, gp-priority: high
+msgid "Zino"
+msgstr "Zino"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "82px"
+msgstr "82px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "72px"
+msgstr "72px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "60px"
+msgstr "60px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "48px"
+msgstr "48px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "36px"
+msgstr "36px"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xLarge"
+msgstr "xL"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Duży"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Średni"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mały"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "xSmall"
+msgstr "xS"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title and Space"
+msgstr "Brak tytułu i spacji"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Stopka"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Nagłówek"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Nagłówek"
+
+#: patterns/header.php:11
+msgid "main-banner"
+msgstr "baner główny"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://maneshtimilsina.com/"
+msgstr "https://maneshtimilsina.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://maneshtimilsina.com/themes/zino/"
+msgstr "https://maneshtimilsina.com/themes/zino/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Manesh Timilsina"
+msgstr "Manesh Timilsina"

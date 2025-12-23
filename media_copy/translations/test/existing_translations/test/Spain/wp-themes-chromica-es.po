@@ -1,0 +1,54 @@
+# Translation of Themes - Chromica in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Chromica package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-08 22:24:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Chromica\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Chromica is lightweight, highly extendable and multi-purpose WordPress Theme. Chromica is perfect for Startup, IT Solutions, IT Business, Agencies, Marketing, Consulting and Services Company related to any business websites. Chromica based on in-depth research into IT Solutions, IT Services, IT Business, Consulting & Software, Digital Solution, Technical Engineering, Technology, and Services Company, to deliver all needed layouts and blocks. It will enable you to create almost any type of website with a beautiful & professional design. Chromica supports popular WordPress plugins such as Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, and much more. Chromica Pro demo https://preview.desertthemes.com/pro/chromica/"
+msgstr "Chromica es un tema para WordPress liviano, altamente extensible y multipropósito. Chromica es perfecto para empresas emergentes, soluciones de TI, negocios de TI, agencias, marketing, consultoría y servicios relacionados con cualquier sitio web comercial. Chromica se basa en una investigación en profundidad sobre soluciones de TI, servicios de TI, negocios de TI, consultoría y software, soluciones digitales, ingeniería técnica, tecnología y empresas de servicios, para ofrecer todos los diseños y bloques necesarios. Te permitirá crear casi cualquier tipo de sitio web con un diseño hermoso y profesional. Chromica admite plugins populares de WordPress como Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack y mucho más. Demostración de Chromica Pro https://preview.desertthemes.com/pro/chromica/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Chromica"
+msgstr "Chromica"
+
+#: theme-functions/controls/class-customize.php:53
+msgid "Upgrade to Chromica Pro"
+msgstr "Mejorar a Chromica Pro"
+
+#: template-parts/site-header.php:15 template-parts/site-header.php:45
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/chromica-free/"
+msgstr "https://desertthemes.com/themes/chromica-free/"

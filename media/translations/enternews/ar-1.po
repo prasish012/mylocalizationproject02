@@ -1,0 +1,2707 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-29 11:40:16+0000\n"
+"PO-Revision-Date: 2025-10-29 11:40:16+0000\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0?0 : n==1?1 : n==2?2 : n%100>=3 and n%100<=10?3 : n%100>=11 and n%100<=99?4 : 5);\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+msgid "EnterNews"
+msgstr "أدخل الأخبار"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/enternews/"
+msgstr "https://afthemes.com/products/enternews/"
+
+#. Description of the theme
+msgid ""
+"EnterNews is the best responsive News and Magazine WordPress Theme. To make "
+"a fantastic news website, the theme has a number of free starter sites with "
+"a single click import. The theme is completely widgetized, empowering users "
+"to control site content with 8+ custom widgets and widget areas. Also it "
+"includes default and dark color mode, allowing you to present articles and "
+"blog posts in a trendy manner. In addition, it comes with a variety of "
+"useful customizer options for creating a stunning newsportal. You can design"
+" it however you like and preview the changes using live customizer. It works"
+" with Gutenberg WordPress blocks and RTL, as well as the WooCommerce plugin,"
+" which helps you to combine an online store with our newspaper style. The "
+"theme is perfect for a news, newspaper, magazine, publishing, or review "
+"platform, and it's also useful for blogging. It's well-designed to get the "
+"website to the top of search engines, and users can get excellent assistance"
+" from the team if they run into any issues when using the theme. See more "
+"demos and documentaion at: https://afthemes.com/products/enternews/"
+msgstr ""
+"EnterNews هو أفضل موضوع WordPress للأخبار والمجلات استجابةً. لإنشاء موقع "
+"إخباري رائع، يحتوي الموضوع على عدد من المواقع المجانية التي يمكن استيرادها "
+"بنقرة واحدة. تم تصميم الموضوع بالكامل، مما يمكّن المستخدمين من التحكم في "
+"محتوى الموقع باستخدام أكثر من 8 عناصر واجهة مستخدم مخصصة ومناطق عناصر واجهة "
+"المستخدم. كما أنه يتضمن وضع الألوان الافتراضي والداكن، مما يسمح لك بتقديم "
+"المقالات ومنشورات المدونات بطريقة عصرية. بالإضافة إلى ذلك، فهو يأتي مزودًا "
+"بمجموعة متنوعة من خيارات التخصيص المفيدة لإنشاء بوابة إخبارية مذهلة. يمكنك "
+"تصميمه كيفما تشاء ومعاينة التغييرات باستخدام أداة التخصيص المباشرة. إنه يعمل"
+" مع كتل Gutenberg WordPress وRTL، بالإضافة إلى البرنامج الإضافي WooCommerce،"
+" الذي يساعدك على الجمع بين متجر عبر الإنترنت وأسلوب الصحف الخاص بنا. يعتبر "
+"هذا الموضوع مثاليًا لمنصة أخبار أو صحيفة أو مجلة أو نشر أو مراجعة، كما أنه "
+"مفيد أيضًا للتدوين. إنه مصمم جيدًا لإيصال موقع الويب إلى أعلى محركات البحث، "
+"ويمكن للمستخدمين الحصول على مساعدة ممتازة من الفريق إذا واجهوا أي مشكلات عند"
+" استخدام السمة. شاهد المزيد من العروض التوضيحية والوثائق على: "
+"https://afthemes.com/products/enternews/"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "موضوعات AF"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "أُووبس! لا يمكن العثور على تلك الصفحة."
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"يبدو أنه لم يتم العثور على شيء في هذا الموقع. ربما حاول أحد الروابط أدناه أو"
+" ابحث؟"
+
+#: admin-dashboard/admin_dashboard.php:46
+#: admin-dashboard/admin_dashboard.php:47
+msgid "%s"
+msgstr "%s"
+
+#: admin-dashboard/admin_dashboard.php:112
+#: admin-dashboard/admin_dashboard.php:113
+msgid "Starter Sites"
+msgstr "مواقع البداية"
+
+#: admin-dashboard/admin_dashboard.php:122
+#: admin-dashboard/admin_dashboard.php:123
+msgid "Block Patterns"
+msgstr "أنماط الكتلة"
+
+#: admin-dashboard/admin_dashboard.php:132
+#: admin-dashboard/admin_dashboard.php:133
+msgid "Elementor Kits"
+msgstr "مجموعات العنصر"
+
+#: admin-dashboard/admin_dashboard.php:143
+#: admin-dashboard/admin_dashboard.php:144
+msgid "Customize"
+msgstr "تخصيص"
+
+#: admin-dashboard/admin_dashboard.php:154
+#: admin-dashboard/admin_dashboard.php:155
+msgid "Settings"
+msgstr "إعدادات"
+
+#: admin-dashboard/admin_dashboard.php:165
+#: admin-dashboard/admin_dashboard.php:166
+#: admin-dashboard/src/components/json/dashboard-content.js:26
+msgid "Upgrade"
+msgstr "يرقي"
+
+#: admin-dashboard/admin_dashboard.php:215
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "يجب تحديث البرنامج المساعد Templatespare إلى الإصدار الأحدث"
+
+#: admin-dashboard/admin_dashboard.php:218
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr "قم باستيراد موقع مبدئي وتخصيصه وتشغيله في 3 خطوات سهلة!"
+
+#: admin-dashboard/admin_dashboard.php:287
+msgid "Blockspare plugin version should be more than %s."
+msgstr "يجب أن يكون إصدار المكون الإضافي Blockspare أكثر من %s."
+
+#: admin-dashboard/admin_dashboard.php:292
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr ""
+"استيراد العرض التوضيحي بنقرة واحدة، ومحرر الكتل جاهز، ولا يلزم وجود كود! "
+"بنيت مع Blockspare."
+
+#: admin-dashboard/admin_dashboard.php:363
+msgid "Elespare plugin version should be more than %s."
+msgstr "يجب أن يكون إصدار البرنامج الإضافي Elespare أكثر من %s."
+
+#: admin-dashboard/admin_dashboard.php:364
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr ""
+"استيراد بنقرة واحدة، ومنشئ الرأس/التذييل، ودعم متعدد اللغات! مدعوم من "
+"إليسبير."
+
+#: admin-dashboard/admin_dashboard.php:438
+msgid "Are you sure you want to install this plugin?"
+msgstr "هل أنت متأكد أنك تريد تثبيت هذا البرنامج المساعد؟"
+
+#: admin-dashboard/admin_dashboard.php:439
+#: admin-dashboard/rest-api/api-request.php:29
+msgid "Install Now"
+msgstr "التثبيت الآن"
+
+#: admin-dashboard/admin_dashboard.php:440
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "فعل"
+
+#: admin-dashboard/admin_dashboard.php:441
+#: admin-dashboard/rest-api/api-request.php:70
+msgid "Activated"
+msgstr "تفعيلها"
+
+#: admin-dashboard/admin_dashboard.php:537
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgid "Get Starter Sites"
+msgstr "احصل على مواقع البداية"
+
+#: admin-dashboard/admin_dashboard.php:542
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+#: admin-dashboard/src/components/blockspare.demo.js:13
+#: admin-dashboard/src/components/elespare-demo.js:13
+#: admin-dashboard/src/components/templatespare-demo.js:13
+msgid "Get Started"
+msgstr "ابدأ"
+
+#: admin-dashboard/admin_dashboard.php:543
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"سيؤدي إجراء \"البدء\" إلى تثبيت/تنشيط المكونات الإضافية Templatespare "
+"وBlockspare لمواقع البدء والقوالب."
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "بواسطة"
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgid "More Details"
+msgstr "مزيد من التفاصيل"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgid "Howdy!"
+msgstr "مرحبًا!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr "تم الآن تثبيت %s وجاهز للاستخدام. لقد قمنا بتجميع بعض الروابط للبدء."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgid "Explore Our Pre-Built Starter Websites!"
+msgstr "استكشف مواقعنا الإلكترونية المعدة مسبقًا!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:199
+msgid ""
+"Let your imagination soar! Designed with User-Friendly features, "
+"incorporating the Latest Trends and SEO-Friendly Markups. We genuinely "
+"appreciate you choosing our theme!"
+msgstr ""
+"دع خيالك يرتفع! تم تصميمه بميزات سهلة الاستخدام، تتضمن أحدث الاتجاهات وهوامش"
+" الربح الملائمة لمحركات البحث (SEO). نحن نقدر حقًا اختيارك لموضوعنا!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgid "Demos/product"
+msgstr "العروض التوضيحية/المنتج"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgid "Theme dashboard"
+msgstr "لوحة تحكم الموضوع"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr ""
+"يرجى مراجعة وثائقنا الكاملة للحصول على معلومات مفصلة حول كيفية إعداد السمة "
+"وتخصيصها."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+msgid "Docs"
+msgstr "المستندات"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgid "Videos"
+msgstr "فيديوهات"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+msgid "Blog"
+msgstr "مدونة"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+#: admin-dashboard/src/components/json/dashboard-content.js:21
+msgid "Rate This Theme"
+msgstr "قيم هذا الموضوع"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "عذرًا، غير مسموح لك بتثبيت المكونات الإضافية على هذا الموقع."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgid "Error - unable to verify nonce, please try again."
+msgstr "خطأ - غير قادر على التحقق من الرقم، يرجى المحاولة مرة أخرى."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "عذرًا، غير مسموح لك بتفعيل المكونات الإضافية على هذا الموقع."
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "فكرة واحدة عن &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s أفكار حول &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s فكرت في &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s أفكار حول &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s أفكار حول &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s أفكار حول &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s أفكار حول &ldquo;%2$s&rdquo;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:132
+msgid "%1$s by %2$s."
+msgstr "%1$s بواسطة %2$s."
+
+#: functions.php:82 inc/hooks/hook-header-section.php:56
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: functions.php:83
+msgid "Social Menu"
+msgstr "القائمة الاجتماعية"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "قائمة التذييل"
+
+#: functions.php:85
+msgid "Secondary Menu"
+msgstr "القائمة الثانوية"
+
+#: functions.php:168
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr "على"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: inc/customizer/customizer-control.php:158
+msgid "All"
+msgstr "الجميع"
+
+#: inc/customizer/customizer-default.php:55
+msgid "Popular Tags"
+msgstr "العلامات الشعبية"
+
+#: inc/customizer/customizer-default.php:60
+msgid "Headlines"
+msgstr "العناوين"
+
+#: inc/customizer/customizer-default.php:68
+msgid "Main News"
+msgstr "الأخبار الرئيسية"
+
+#: inc/customizer/customizer-default.php:109 inc/customizer/customizer.php:299
+#: inc/widgets/widget-posts-tabbed.php:55
+#: inc/widgets/widget-posts-tabbed.php:202
+msgid "Trending"
+msgstr "تتجه"
+
+#: inc/customizer/customizer-default.php:121
+msgid "Editor's Pick"
+msgstr "اختيار المحرر"
+
+#: inc/customizer/customizer-default.php:133
+#: inc/customizer/frontpage-options.php:489
+msgid "Featured News"
+msgstr "أخبار مميزة"
+
+#: inc/customizer/customizer-default.php:146
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: inc/customizer/customizer-default.php:165
+msgid "More Stories"
+msgstr "المزيد من القصص"
+
+#: inc/customizer/customizer-default.php:174
+msgid "Subscribe To  Our Newsletter"
+msgstr "اشترك في النشرة الإخبارية لدينا"
+
+#: inc/customizer/customizer-default.php:183
+msgid "You may have missed"
+msgstr "ربما فاتتك"
+
+#: inc/customizer/customizer-default.php:196
+msgid "Copyright &copy; All rights reserved."
+msgstr "حقوق النشر والنسخ؛ جميع الحقوق محفوظة."
+
+#: inc/customizer/customizer-default.php:213
+msgid "Watch Online"
+msgstr "مشاهدة اون لاين"
+
+#: inc/customizer/customizer.php:89
+msgid "Site Title Size"
+msgstr "حجم عنوان الموقع"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title/Tagline Color"
+msgstr "عنوان الموقع/لون الشعار"
+
+#: inc/customizer/customizer.php:111
+msgid "Header Image Mode"
+msgstr "وضع صورة الرأس"
+
+#: inc/customizer/customizer.php:112
+msgid "Image visibility may vary as per the mode"
+msgstr "قد تختلف رؤية الصورة حسب الوضع"
+
+#: inc/customizer/customizer.php:116
+msgid "Set as Background"
+msgstr "تعيين كخلفية"
+
+#: inc/customizer/customizer.php:117
+msgid "Show Full Image"
+msgstr "إظهار الصورة الكاملة"
+
+#: inc/customizer/customizer.php:133
+msgid "Disable Image Tint/Overlay"
+msgstr "تعطيل صبغة/تراكب الصورة"
+
+#: inc/customizer/customizer.php:153
+msgid "Background Color will not be applicable for this mode."
+msgstr "لن يكون لون الخلفية قابلاً للتطبيق في هذا الوضع."
+
+#: inc/customizer/customizer.php:175
+msgid "Site Mode Section "
+msgstr "قسم وضع الموقع"
+
+#: inc/customizer/customizer.php:193
+msgid "Site Mode"
+msgstr "وضع الموقع"
+
+#: inc/customizer/customizer.php:197 inc/customizer/customizer.php:239
+#: inc/customizer/customizer.php:280 inc/customizer/customizer.php:303
+#: inc/customizer/theme-options.php:192 inc/customizer/theme-options.php:771
+#: inc/widgets/widget-posts-double-category.php:334
+#: inc/widgets/widget-posts-express-grid.php:214
+#: inc/widgets/widget-posts-grid.php:171 inc/widgets/widget-posts-list.php:159
+#: inc/widgets/widget-posts-slider.php:147
+#: inc/widgets/widget-posts-tabbed.php:182
+#: inc/widgets/widget-social-contacts.php:97
+msgid "Default"
+msgstr "تقصير"
+
+#: inc/customizer/customizer.php:198
+msgid "Dark"
+msgstr "مظلم"
+
+#: inc/customizer/customizer.php:216
+msgid "Main Banner Color Section "
+msgstr "قسم ألوان البانر الرئيسي"
+
+#: inc/customizer/customizer.php:235
+msgid "Editor's Picks"
+msgstr "اختيارات المحرر"
+
+#: inc/customizer/customizer.php:240 inc/widgets/widget-posts-grid.php:172
+msgid "Alternative"
+msgstr "بديل"
+
+#: inc/customizer/customizer.php:258
+msgid "Enable Container Padding"
+msgstr "تمكين حشوة الحاوية"
+
+#: inc/customizer/customizer.php:276
+msgid "Main Slider"
+msgstr "المنزلق الرئيسي"
+
+#: inc/customizer/customizer.php:281
+#: inc/widgets/widget-posts-double-category.php:335
+#: inc/widgets/widget-posts-tabbed.php:183
+msgid "Dim"
+msgstr "خافت"
+
+#: inc/customizer/customizer.php:304 inc/customizer/theme-options.php:29
+#: inc/widgets/widget-posts-list.php:160
+#: inc/widgets/widget-posts-slider.php:148
+#: inc/widgets/widget-social-contacts.php:98
+msgid "Secondary Color"
+msgstr "اللون الثانوي"
+
+#: inc/customizer/customizer.php:323
+msgid "EnterNews Pro"
+msgstr "أدخل الأخبار برو"
+
+#: inc/customizer/customizer.php:324
+msgid "Upgrade Now"
+msgstr "الترقية الآن"
+
+#: inc/customizer/frontpage-options.php:21
+msgid "Frontpage Options"
+msgstr "خيارات الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:32
+msgid "Ticker News"
+msgstr "أخبار المؤشر"
+
+#: inc/customizer/frontpage-options.php:49
+msgid "Enable Ticker News"
+msgstr "تمكين أخبار المؤشر"
+
+#: inc/customizer/frontpage-options.php:68
+msgid "Exclusive News Title"
+msgstr "عنوان الأخبار الحصري"
+
+#: inc/customizer/frontpage-options.php:90
+msgid "Exclusive Posts Category"
+msgstr "فئة المشاركات الحصرية"
+
+#: inc/customizer/frontpage-options.php:91
+msgid "Posts to be shown on trending posts "
+msgstr "المشاركات التي سيتم عرضها على المشاركات الشائعة"
+
+#: inc/customizer/frontpage-options.php:109
+msgid "Main Banner"
+msgstr "الشعار الرئيسي"
+
+#: inc/customizer/frontpage-options.php:127
+msgid "Enable Main Banner"
+msgstr "تمكين الشعار الرئيسي"
+
+#: inc/customizer/frontpage-options.php:146
+msgid "Select Banner Layout"
+msgstr "حدد تخطيط الشعار"
+
+#: inc/customizer/frontpage-options.php:150
+msgid "Wide"
+msgstr "واسع"
+
+#: inc/customizer/frontpage-options.php:151
+msgid "Boxed"
+msgstr "محاصر"
+
+#: inc/customizer/frontpage-options.php:173
+msgid "Main Banner Background Image"
+msgstr "صورة خلفية الشعار الرئيسي"
+
+#: inc/customizer/frontpage-options.php:174
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "الحجم الموصى به %1$s بكسل X %2$s بكسل"
+
+#: inc/customizer/frontpage-options.php:197
+msgid "Select Banner Style"
+msgstr "حدد نمط الشعار"
+
+#: inc/customizer/frontpage-options.php:201
+msgid "Editor's Pick - Main News - Trending"
+msgstr "اختيار المحرر - الأخبار الرئيسية - تتجه"
+
+#: inc/customizer/frontpage-options.php:202
+msgid "Trending - Main News - Editor's Pick"
+msgstr "الشائع - الأخبار الرئيسية - اختيار المحرر"
+
+#: inc/customizer/frontpage-options.php:203
+msgid "Main News - Editor's Pick - Trending"
+msgstr "الأخبار الرئيسية - اختيار المحرر - تتجه"
+
+#: inc/customizer/frontpage-options.php:225
+msgid "Editorials Section "
+msgstr "قسم الافتتاحيات"
+
+#: inc/customizer/frontpage-options.php:250
+#: inc/customizer/frontpage-options.php:328
+#: inc/customizer/frontpage-options.php:411
+#: inc/customizer/frontpage-options.php:525
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: inc/customizer/frontpage-options.php:275
+#: inc/customizer/frontpage-options.php:356
+#: inc/customizer/frontpage-options.php:441
+#: inc/customizer/frontpage-options.php:549
+msgid "Category"
+msgstr "فئة"
+
+#: inc/customizer/frontpage-options.php:276
+msgid "Posts to be shown on Editorials slider section"
+msgstr "المشاركات التي سيتم عرضها في قسم شريط تمرير المقالات الافتتاحية"
+
+#: inc/customizer/frontpage-options.php:303
+msgid "Main Slider Section "
+msgstr "قسم المنزلق الرئيسي"
+
+#: inc/customizer/frontpage-options.php:357
+msgid "Posts to be shown on Main News Slider"
+msgstr "المشاركات التي سيتم عرضها على شريط تمرير الأخبار الرئيسي"
+
+#: inc/customizer/frontpage-options.php:386
+msgid "Trending Section "
+msgstr "قسم تتجه"
+
+#: inc/customizer/frontpage-options.php:442
+msgid "Posts to be shown on Trending slider section"
+msgstr "المشاركات التي سيتم عرضها في قسم شريط التمرير الشائع"
+
+#: inc/customizer/frontpage-options.php:473
+msgid "Disable Main Banner section on Static Posts page"
+msgstr "تعطيل قسم الشعار الرئيسي في صفحة المشاركات الثابتة"
+
+#: inc/customizer/frontpage-options.php:507
+msgid "Enable Featured News"
+msgstr "تمكين الأخبار المميزة"
+
+#: inc/customizer/frontpage-options.php:550
+msgid "Posts to be shown on featured news section"
+msgstr "المشاركات التي سيتم عرضها في قسم الأخبار المميزة"
+
+#: inc/customizer/frontpage-options.php:570
+msgid "Frontpage Layout Settings"
+msgstr "إعدادات تخطيط الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:589
+msgid "Frontpage Content Display"
+msgstr "عرض محتوى الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:590
+msgid "Select frontpage content display"
+msgstr "حدد عرض محتوى الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:594
+msgid "Frontpage Widgets"
+msgstr "الحاجيات الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:595
+msgid "Page Contents & Frontpage Widgets"
+msgstr "محتويات الصفحة وعناصر الواجهة للصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:614
+msgid "Frontpage Content Position"
+msgstr "موقف محتوى الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:615
+msgid "Select frontpage content alignment"
+msgstr "حدد محاذاة محتوى الصفحة الأولى"
+
+#: inc/customizer/frontpage-options.php:619
+msgid "Content - Sidebar"
+msgstr "المحتوى - الشريط الجانبي"
+
+#: inc/customizer/frontpage-options.php:620
+msgid "Sidebar - Content"
+msgstr "الشريط الجانبي - المحتوى"
+
+#: inc/customizer/frontpage-options.php:621
+msgid "Full Content"
+msgstr "المحتوى الكامل"
+
+#: inc/customizer/frontpage-options.php:637
+msgid "Make Frontpage Sidebar Sticky"
+msgstr "جعل الشريط الجانبي للصفحة الأمامية ثابتًا"
+
+#: inc/customizer/theme-options.php:41
+#: admin-dashboard/src/components/json/home-content.js:12
+msgid "Fonts & Typography"
+msgstr "الخطوط والطباعة"
+
+#: inc/customizer/theme-options.php:63
+msgid "Primary Font"
+msgstr "الخط الأساسي"
+
+#: inc/customizer/theme-options.php:81
+msgid "Secondary Font"
+msgstr "الخط الثانوي"
+
+#: inc/customizer/theme-options.php:99
+msgid "Tertiary Font"
+msgstr "الخط الثالث"
+
+#: inc/customizer/theme-options.php:111
+msgid "Theme Options"
+msgstr "خيارات الموضوع"
+
+#: inc/customizer/theme-options.php:121
+msgid "Preloader Options"
+msgstr "خيارات التحميل المسبق"
+
+#: inc/customizer/theme-options.php:139
+msgid "Enable preloader"
+msgstr "تمكين التحميل المسبق"
+
+#: inc/customizer/theme-options.php:150
+msgid "Breadcrumb Options"
+msgstr "خيارات مسار التنقل"
+
+#: inc/customizer/theme-options.php:168
+msgid "Show breadcrumbs"
+msgstr "إظهار فتات الخبز"
+
+#: inc/customizer/theme-options.php:187
+msgid "Select Breadcrumbs"
+msgstr "حدد فتات الخبز"
+
+#: inc/customizer/theme-options.php:188
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr ""
+"يرجى التأكد من تمكين مسارات التنقل للمكون الإضافي قبل اختيار غير الافتراضي"
+
+#: inc/customizer/theme-options.php:193
+msgid "Yoast SEO"
+msgstr "يوست سيو"
+
+#: inc/customizer/theme-options.php:194
+msgid "Rank Math"
+msgstr "رتبة الرياضيات"
+
+#: inc/customizer/theme-options.php:195
+msgid "NavXT"
+msgstr "نافكست"
+
+#: inc/customizer/theme-options.php:209
+msgid "Global Settings"
+msgstr "الإعدادات العالمية"
+
+#: inc/customizer/theme-options.php:228
+msgid "Global Content Alignment"
+msgstr "محاذاة المحتوى العالمية"
+
+#: inc/customizer/theme-options.php:232
+msgid "Content - Primary sidebar"
+msgstr "المحتوى - الشريط الجانبي الأساسي"
+
+#: inc/customizer/theme-options.php:233
+msgid "Primary sidebar - Content"
+msgstr "الشريط الجانبي الأساسي - المحتوى"
+
+#: inc/customizer/theme-options.php:234 inc/hooks/hook-meta.php:80
+msgid "Full width content"
+msgstr "محتوى العرض الكامل"
+
+#: inc/customizer/theme-options.php:250
+msgid "Post Categories"
+msgstr "فئات المشاركة"
+
+#: inc/customizer/theme-options.php:254 inc/customizer/theme-options.php:352
+#: inc/customizer/theme-options.php:531 inc/customizer/theme-options.php:569
+msgid "Show"
+msgstr "يعرض"
+
+#: inc/customizer/theme-options.php:255 inc/customizer/theme-options.php:353
+#: inc/customizer/theme-options.php:532 inc/customizer/theme-options.php:570
+msgid "Hide"
+msgstr "يخفي"
+
+#: inc/customizer/theme-options.php:273
+msgid "Widget Excerpt Mode"
+msgstr "وضع مقتطف القطعة"
+
+#: inc/customizer/theme-options.php:277
+msgid "Trimmed Content"
+msgstr "المحتوى المشذّب"
+
+#: inc/customizer/theme-options.php:278
+msgid "Default Excerpt"
+msgstr "مقتطف افتراضي"
+
+#: inc/customizer/theme-options.php:294
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Options"
+msgstr "خيارات الرأس"
+
+#: inc/customizer/theme-options.php:312
+msgid "Show date on top header"
+msgstr "إظهار التاريخ في أعلى الصفحة"
+
+#: inc/customizer/theme-options.php:330
+msgid "Enable Sticky Header"
+msgstr "تمكين رأس مثبت"
+
+#: inc/customizer/theme-options.php:348
+msgid "Show Home Menu Icon"
+msgstr "إظهار أيقونة القائمة الرئيسية"
+
+#: inc/customizer/theme-options.php:376
+msgid "Custom Link Section "
+msgstr "قسم الارتباط المخصص"
+
+#: inc/customizer/theme-options.php:395
+msgid "Enable Watch Online Section"
+msgstr "تمكين قسم المشاهدة عبر الإنترنت"
+
+#: inc/customizer/theme-options.php:416 inc/customizer/theme-options.php:683
+#: inc/widgets/widget-author-info.php:169
+#: inc/widgets/widget-posts-express-grid.php:226
+#: inc/widgets/widget-posts-grid.php:183 inc/widgets/widget-posts-list.php:178
+#: inc/widgets/widget-posts-slider.php:158
+#: inc/widgets/widget-posts-tabbed.php:192
+#: inc/widgets/widget-posts-tabbed.php:195
+#: inc/widgets/widget-posts-tabbed.php:202
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/customizer/theme-options.php:434
+msgid "Button Link"
+msgstr "رابط الزر"
+
+#: inc/customizer/theme-options.php:451
+msgid "Sidebar Settings"
+msgstr "إعدادات الشريط الجانبي"
+
+#: inc/customizer/theme-options.php:469
+msgid "Make Sidebar Sticky"
+msgstr "جعل الشريط الجانبي مثبتًا"
+
+#: inc/customizer/theme-options.php:488
+msgid "Sidebar Sticky Position"
+msgstr "موقف ثابت في الشريط الجانبي"
+
+#: inc/customizer/theme-options.php:492
+msgid "Top"
+msgstr "قمة"
+
+#: inc/customizer/theme-options.php:493
+msgid "Bottom"
+msgstr "قاع"
+
+#: inc/customizer/theme-options.php:509 inc/customizer/theme-options.php:527
+msgid "Comment Count"
+msgstr "عدد التعليقات"
+
+#: inc/customizer/theme-options.php:546 inc/customizer/theme-options.php:565
+msgid "Minutes Read Count"
+msgstr "عدد دقائق القراءة"
+
+#: inc/customizer/theme-options.php:583 inc/customizer/theme-options.php:602
+msgid "Date and Author"
+msgstr "التاريخ والمؤلف"
+
+#: inc/customizer/theme-options.php:606
+msgid "Show Date and Author"
+msgstr "إظهار التاريخ والمؤلف"
+
+#: inc/customizer/theme-options.php:607
+msgid "Hide All"
+msgstr "إخفاء الكل"
+
+#: inc/customizer/theme-options.php:617
+msgid "Single Post"
+msgstr "مشاركة واحدة"
+
+#: inc/customizer/theme-options.php:635
+msgid "Show Featured Image"
+msgstr "عرض الصورة المميزة"
+
+#: inc/customizer/theme-options.php:647
+msgid "Related Posts"
+msgstr "المشاركات ذات الصلة"
+
+#: inc/customizer/theme-options.php:665
+msgid "Show on single posts"
+msgstr "تظهر على المشاركات الفردية"
+
+#: inc/customizer/theme-options.php:701
+msgid "Archive Settings"
+msgstr "إعدادات الأرشيف"
+
+#: inc/customizer/theme-options.php:719
+msgid "Archive layout"
+msgstr "تخطيط الأرشيف"
+
+#: inc/customizer/theme-options.php:720
+msgid "Select layout for archive"
+msgstr "حدد تخطيط للأرشيف"
+
+#: inc/customizer/theme-options.php:724
+msgid "List"
+msgstr "قائمة"
+
+#: inc/customizer/theme-options.php:725
+msgid "Grid"
+msgstr "شبكة"
+
+#: inc/customizer/theme-options.php:741 inc/customizer/theme-options.php:766
+msgid "Image alignment"
+msgstr "محاذاة الصورة"
+
+#: inc/customizer/theme-options.php:742 inc/customizer/theme-options.php:767
+msgid "Select image alignment for archive"
+msgstr "حدد محاذاة الصورة للأرشيف"
+
+#: inc/customizer/theme-options.php:746
+msgid "Left"
+msgstr "غادر"
+
+#: inc/customizer/theme-options.php:747
+msgid "Right"
+msgstr "يمين"
+
+#: inc/customizer/theme-options.php:772
+msgid "Alternate"
+msgstr "البديل"
+
+#: inc/customizer/theme-options.php:785
+msgid "You May Have Missed"
+msgstr "ربما تكون قد فاتتك"
+
+#: inc/customizer/theme-options.php:802
+msgid "Show Latest Posts Section above Footer"
+msgstr "عرض قسم أحدث المشاركات أعلى التذييل"
+
+#: inc/customizer/theme-options.php:820
+msgid "Posts Section Title"
+msgstr "عنوان قسم المشاركات"
+
+#: inc/customizer/theme-options.php:835
+msgid "Footer"
+msgstr "تذييل"
+
+#: inc/customizer/theme-options.php:853
+msgid "Copyright Text"
+msgstr "نص حقوق التأليف والنشر"
+
+#: inc/hooks/blocks/block-archive-grid.php:57
+#: inc/hooks/blocks/block-archive-list.php:56
+#: template-parts/content-page.php:27 template-parts/content.php:42
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: inc/hooks/hook-header-section.php:39
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "بيت"
+
+#: inc/hooks/hook-header-section.php:52
+msgid "Menu"
+msgstr "قائمة طعام"
+
+#: inc/hooks/hook-header-section.php:78
+msgid "Search"
+msgstr "يبحث"
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "خيارات التخطيط"
+
+#: inc/hooks/hook-meta.php:71
+msgid "Set as global layout"
+msgstr "تعيين كتخطيط عالمي"
+
+#: inc/hooks/hook-meta.php:74
+msgid "Content - Primary Sidebar"
+msgstr "المحتوى - الشريط الجانبي الأساسي"
+
+#: inc/hooks/hook-meta.php:77
+msgid "Primary Sidebar - Content"
+msgstr "الشريط الجانبي الأساسي - المحتوى"
+
+#: inc/hooks/hook-meta.php:154 inc/hooks/hook-meta.php:192
+msgid "Category Color 1"
+msgstr "فئة اللون 1"
+
+#: inc/hooks/hook-meta.php:155 inc/hooks/hook-meta.php:193
+msgid "Category Color 2"
+msgstr "فئة اللون 2"
+
+#: inc/hooks/hook-meta.php:156 inc/hooks/hook-meta.php:194
+msgid "Category Color 3"
+msgstr "فئة اللون 3"
+
+#: inc/hooks/hook-meta.php:160 inc/hooks/hook-meta.php:188
+msgid "Color Class"
+msgstr "فئة اللون"
+
+#: inc/hooks/hook-meta.php:166 inc/hooks/hook-meta.php:202
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+"حدد فئة اللون الفئة. يمكنك تعيين لون الفئات المناسبة في قسم \"الفئات\" في "
+"أداة تخصيص السمات."
+
+#: inc/hooks/hook-tgm.php:19
+msgid "AF Companion"
+msgstr "رفيق AF"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "Templatespare"
+msgstr "قطع القوالب"
+
+#: inc/hooks/hook-tgm.php:29
+msgid "Elespare"
+msgstr "إليسبار"
+
+#: inc/hooks/hook-tgm.php:34
+msgid "Blockspare"
+msgstr "بلوكسبير"
+
+#: inc/hooks/hook-tgm.php:39
+msgid "Latest Posts Block"
+msgstr "أحدث المشاركات بلوك"
+
+#: inc/hooks/hook-tgm.php:44
+msgid "Magic Content Box"
+msgstr "صندوق المحتوى السحري"
+
+#: inc/hooks/hook-tgm.php:49
+msgid "WP Post Author"
+msgstr "مؤلف مشاركة الفسفور الأبيض"
+
+#: inc/hooks/hook-tgm.php:54
+msgid "Free Live Chat using 3CX"
+msgstr "دردشة حية مجانية باستخدام 3CX"
+
+#. Translators: %1$s current user display name.
+#: inc/review.php:79
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we"
+" hope you are loving it! We would appreciate it if you can %3$sgive us a 5 "
+"star rating on WordPress.org%4$s! We'll continue to develop exciting new "
+"features for free in the future by sharing the love!"
+msgstr ""
+"مرحبًا، %1$s! لقد لاحظنا أنك تستخدم %2$s منذ بعض الوقت، ونأمل أن ينال "
+"إعجابك! سنكون شاكرين لو تفضلت %3$s بمنحنا تقييمًا بـ 5 نجوم على "
+"WordPress.org%4$s! سنستمر في تطوير ميزات جديدة ومثيرة مجانًا في المستقبل من "
+"خلال مشاركة الحب!"
+
+#: inc/review.php:93
+msgid "Sure thing"
+msgstr "شيء مؤكد"
+
+#: inc/review.php:98
+msgid "Remind me later"
+msgstr "ذكرني لاحقا"
+
+#: inc/review.php:103
+msgid "I've already done."
+msgstr "لقد فعلت بالفعل."
+
+#: inc/review.php:108
+msgid "Got any support queries?"
+msgstr "حصلت على أي استفسارات الدعم؟"
+
+#: inc/template-functions.php:491
+msgid "Previous"
+msgstr "سابق"
+
+#: inc/template-functions.php:492
+msgid "Next"
+msgstr "التالي"
+
+#: inc/template-functions.php:520
+msgid "%s min read"
+msgid_plural "%s min read"
+msgstr[0] "قراءة في %s دقيقة"
+msgstr[1] "قراءة في دقيقة %s"
+msgstr[2] "قراءة في %s دقيقة"
+msgstr[3] "قراءة في %s دقيقة"
+msgstr[4] "قراءة في %s دقيقة"
+msgstr[5] "قراءة في %s دقيقة"
+
+#: inc/template-tags.php:36
+msgid "View all posts in %s"
+msgstr "عرض جميع المشاركات في %s"
+
+#: inc/template-tags.php:87 inc/template-tags.php:175
+msgid "ago"
+msgstr "منذ"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:146 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "تحرير <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/upgrade.php:69 inc/upgrade.php:89
+msgid "Action failed. Please refresh the page and retry."
+msgstr "فشل الإجراء. يرجى تحديث الصفحة وإعادة المحاولة."
+
+#: inc/upgrade.php:73 inc/upgrade.php:93
+msgid "Cheatin&#8217; huh?"
+msgstr "الغشاش&#8217; هاه؟"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/upgrade.php:177
+msgid ""
+"%1$s 🎁 Hope you're loving our free %2$s theme! Dive into the festive spirit "
+"with an exclusive gift: %4$s premium features! Use code %3$s at checkout. "
+"Wishing you a season filled with joyous holidays and even happier savings! "
+"🎄✨"
+msgstr ""
+"%1$s 🎁 أتمنى أن ينال موضوع %2$s المجاني إعجابك! استمتع بالروح الاحتفالية مع "
+"هدية حصرية: ميزات %4$s المتميزة! استخدم الرمز %3$s عند الدفع. أتمنى لك "
+"موسمًا مليئًا بالعطلات السعيدة والتوفيرات الأكثر سعادة! 🎄✨"
+
+#: inc/upgrade.php:192
+msgid "Claim Your Discount"
+msgstr "المطالبة بالخصم الخاص بك"
+
+#: inc/upgrade.php:197
+msgid "Power Bundle"
+msgstr "حزمة الطاقة"
+
+#: inc/upgrade.php:202
+msgid "All Themes Plan"
+msgstr "خطة جميع المواضيع"
+
+#: inc/upgrade.php:207
+msgid "Maybe Later"
+msgstr "ربما في وقت لاحق"
+
+#: inc/upgrade.php:212
+msgid "Have Queries?"
+msgstr "هل لديك استفسارات؟"
+
+#: inc/widgets/widget-author-info.php:22
+msgid "Displays author info."
+msgstr "يعرض معلومات المؤلف."
+
+#: inc/widgets/widget-author-info.php:26
+msgid "AFTN Author Info"
+msgstr "معلومات المؤلف AFTN"
+
+#: inc/widgets/widget-author-info.php:169
+msgid "About Author"
+msgstr "عن المؤلف"
+
+#: inc/widgets/widget-author-info.php:171
+msgid "Profile image"
+msgstr "صورة الملف الشخصي"
+
+#: inc/widgets/widget-author-info.php:172
+msgid "Name"
+msgstr "اسم"
+
+#: inc/widgets/widget-author-info.php:173
+msgid "Descriptions"
+msgstr "الأوصاف"
+
+#: inc/widgets/widget-author-info.php:174
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: inc/widgets/widget-author-info.php:175
+msgid "Instagram"
+msgstr "انستغرام"
+
+#: inc/widgets/widget-author-info.php:176
+msgid "Twitter"
+msgstr "تغريد"
+
+#: inc/widgets/widget-posts-double-category.php:20
+msgid "Displays posts from 2 selected categories in double column."
+msgstr "يعرض المشاركات من فئتين محددتين في عمود مزدوج."
+
+#: inc/widgets/widget-posts-double-category.php:24
+msgid "AFTN Double Categories Posts"
+msgstr "AFTN فئات مزدوجة المشاركات"
+
+#: inc/widgets/widget-posts-double-category.php:347
+msgid "Title 1"
+msgstr "العنوان 1"
+
+#: inc/widgets/widget-posts-double-category.php:348
+msgid "Select category 1"
+msgstr "اختر الفئة 1"
+
+#: inc/widgets/widget-posts-double-category.php:350
+msgid "Title 2"
+msgstr "العنوان 2"
+
+#: inc/widgets/widget-posts-double-category.php:351
+msgid "Select category 2"
+msgstr "اختر الفئة 2"
+
+#: inc/widgets/widget-posts-double-category.php:353
+#: inc/widgets/widget-posts-express-grid.php:230
+#: inc/widgets/widget-posts-grid.php:186 inc/widgets/widget-posts-list.php:180
+#: inc/widgets/widget-posts-slider.php:163
+#: inc/widgets/widget-posts-tabbed.php:206
+#: inc/widgets/widget-social-contacts.php:105
+msgid "Select Background"
+msgstr "حدد الخلفية"
+
+#: inc/widgets/widget-posts-express-grid.php:20
+#: inc/widgets/widget-posts-grid.php:20
+msgid "Displays posts from selected category in a grid."
+msgstr "يعرض المشاركات من الفئة المحددة في الشبكة."
+
+#: inc/widgets/widget-posts-express-grid.php:24
+msgid "AFTN Posts Express Grid"
+msgstr "AFTN المشاركات الشبكة السريعة"
+
+#: inc/widgets/widget-posts-express-grid.php:215
+msgid "Secondary Background"
+msgstr "الخلفية الثانوية"
+
+#: inc/widgets/widget-posts-express-grid.php:226
+msgid "Posts Express Grid"
+msgstr "المشاركات اكسبرس الشبكة"
+
+#: inc/widgets/widget-posts-express-grid.php:227
+#: inc/widgets/widget-posts-grid.php:184 inc/widgets/widget-posts-list.php:179
+#: inc/widgets/widget-posts-slider.php:160
+#: inc/widgets/widget-posts-tabbed.php:203
+msgid "Select category"
+msgstr "اختر الفئة"
+
+#: inc/widgets/widget-posts-grid.php:24
+msgid "AFTN Posts Grid"
+msgstr "شبكة المشاركات AFTN"
+
+#: inc/widgets/widget-posts-grid.php:183
+msgid "Posts Grid"
+msgstr "شبكة المشاركات"
+
+#: inc/widgets/widget-posts-list.php:20
+msgid "Displays posts from selected category in a list."
+msgstr "يعرض المشاركات من الفئة المحددة في القائمة."
+
+#: inc/widgets/widget-posts-list.php:24
+msgid "AFTN Posts List"
+msgstr "قائمة المشاركات AFTN"
+
+#: inc/widgets/widget-posts-list.php:153
+#: inc/widgets/widget-posts-slider.php:141
+#: inc/widgets/widget-posts-tabbed.php:175
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/widgets/widget-posts-list.php:154
+#: inc/widgets/widget-posts-slider.php:142
+#: inc/widgets/widget-posts-tabbed.php:176
+msgid "No"
+msgstr "لا"
+
+#: inc/widgets/widget-posts-list.php:166
+msgid "Solid Background"
+msgstr "خلفية صلبة"
+
+#: inc/widgets/widget-posts-list.php:167
+msgid "Solid Border"
+msgstr "الحدود الصلبة"
+
+#: inc/widgets/widget-posts-list.php:168
+msgid "Dashed Border"
+msgstr "الحدود المتقطعة"
+
+#: inc/widgets/widget-posts-list.php:178
+msgid "Posts List"
+msgstr "قائمة المشاركات"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "يعرض شريط تمرير المشاركات من الفئة المحددة."
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFTN Posts Slider"
+msgstr "AFTN المشاركات المنزلق"
+
+#: inc/widgets/widget-posts-tabbed.php:21
+msgid "Displays tabbed posts lists from selected settings."
+msgstr "يعرض قوائم المشاركات المبوبة من الإعدادات المحددة."
+
+#: inc/widgets/widget-posts-tabbed.php:25
+msgid "AFTN Tabbed Posts"
+msgstr "AFTN المشاركات المبوبة"
+
+#: inc/widgets/widget-posts-tabbed.php:50
+msgid "AFTN Popular"
+msgstr "AFTN شعبية"
+
+#: inc/widgets/widget-posts-tabbed.php:51
+msgid "AFTN Latest"
+msgstr "أحدث AFTN"
+
+#: inc/widgets/widget-posts-tabbed.php:86
+msgid "Recent"
+msgstr "مؤخرًا"
+
+#: inc/widgets/widget-posts-tabbed.php:98
+#: inc/widgets/widget-posts-tabbed.php:195
+msgid "Popular"
+msgstr "شائع"
+
+#: inc/widgets/widget-posts-tabbed.php:112
+msgid "Categorised"
+msgstr "مصنفة"
+
+#: inc/widgets/widget-posts-tabbed.php:191
+msgid "Latest Posts"
+msgstr "أحدث المشاركات"
+
+#: inc/widgets/widget-posts-tabbed.php:192
+msgid "Latest"
+msgstr "أحدث"
+
+#: inc/widgets/widget-posts-tabbed.php:194
+msgid "Popular Posts"
+msgstr "المشاركات الشعبية"
+
+#: inc/widgets/widget-posts-tabbed.php:199
+msgid "Categorised Posts"
+msgstr "المشاركات المصنفة"
+
+#: inc/widgets/widget-posts-tabbed.php:201
+msgid "Enable Categorised Tab"
+msgstr "تمكين علامة التبويب المصنفة"
+
+#: inc/widgets/widget-posts-tabbed.php:205
+msgid "Settings for all tabs"
+msgstr "الإعدادات لجميع علامات التبويب"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "يعرض قوائم جهات الاتصال الاجتماعية من الإعدادات المحددة."
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFTN Social Contacts"
+msgstr "AFTN جهات الاتصال الاجتماعية"
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "AFTN Social"
+msgstr "AFTN الاجتماعية"
+
+#: inc/widgets/widget-social-contacts.php:78
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr ""
+"لم يتم تعيين القائمة الاجتماعية. تحتاج إلى إنشاء قائمة وتعيينها إلى القائمة "
+"الاجتماعية في إعدادات القائمة."
+
+#: inc/widgets/widgets-base.php:196
+msgid "Upload"
+msgstr "رفع"
+
+#: inc/widgets/widgets-base.php:197
+msgid "Select Image"
+msgstr "حدد الصورة"
+
+#: inc/widgets/widgets-base.php:198
+msgid "Choose Image"
+msgstr "اختر الصورة"
+
+#: inc/widgets/widgets-base.php:209
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-common-functions.php:32
+msgid "Select Category"
+msgstr "حدد الفئة"
+
+#: inc/widgets/widgets-register-sidebars.php:10
+msgid "Main Sidebar"
+msgstr "الشريط الجانبي الرئيسي"
+
+#: inc/widgets/widgets-register-sidebars.php:12
+msgid "Add widgets for main sidebar."
+msgstr "إضافة الحاجيات للشريط الجانبي الرئيسي."
+
+#: inc/widgets/widgets-register-sidebars.php:20
+msgid "Header Ad Section 1"
+msgstr "رأس الإعلان القسم 1"
+
+#: inc/widgets/widgets-register-sidebars.php:22
+msgid "Add widgets for header ad section 1"
+msgstr "أضف عناصر واجهة المستخدم لقسم إعلان الرأس 1"
+
+#: inc/widgets/widgets-register-sidebars.php:30
+msgid "Header Ad Section 2"
+msgstr "رأس الإعلان القسم 2"
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Add widgets for header ad section 2."
+msgstr "أضف عناصر واجهة المستخدم لقسم إعلان الرأس 2."
+
+#: inc/widgets/widgets-register-sidebars.php:41
+msgid "Front-page Content"
+msgstr "محتوى الصفحة الأولى"
+
+#: inc/widgets/widgets-register-sidebars.php:43
+msgid "Add widgets to front-page contents section."
+msgstr "أضف عناصر واجهة المستخدم إلى قسم محتويات الصفحة الأولى."
+
+#: inc/widgets/widgets-register-sidebars.php:51
+msgid "Front-page Sidebar"
+msgstr "الشريط الجانبي للصفحة الأولى"
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Add widgets to front-page first sidebar section."
+msgstr "أضف عناصر واجهة المستخدم إلى قسم الشريط الجانبي الأول بالصفحة الأولى."
+
+#: inc/widgets/widgets-register-sidebars.php:63
+msgid "Footer First Section"
+msgstr "تذييل القسم الأول"
+
+#: inc/widgets/widgets-register-sidebars.php:65
+msgid "Displays items on footer first column."
+msgstr "يعرض العناصر الموجودة في العمود الأول للتذييل."
+
+#: inc/widgets/widgets-register-sidebars.php:74
+msgid "Footer Second Section"
+msgstr "تذييل القسم الثاني"
+
+#: inc/widgets/widgets-register-sidebars.php:76
+msgid "Displays items on footer second column."
+msgstr "يعرض العناصر الموجودة في العمود الثاني للتذييل."
+
+#: inc/widgets/widgets-register-sidebars.php:84
+msgid "Footer Third Section"
+msgstr "تذييل القسم الثالث"
+
+#: inc/widgets/widgets-register-sidebars.php:86
+msgid "Displays items on footer third column."
+msgstr "يعرض العناصر الموجودة في تذييل العمود الثالث."
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "عرض سلة التسوق الخاصة بك"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d من العناصر"
+msgstr[1] "%d عنصر"
+msgstr[2] "%d من العناصر"
+msgstr[3] "%d من العناصر"
+msgstr[4] "%d من العناصر"
+msgstr[5] "%d من العناصر"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "تصفح:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "فتات الخبز"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 غير موجود"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "أرشيف"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "صفحة التعليق %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "الدقيقة %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "الأسبوع %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "ز:أنا أ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "أنا"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "ز أ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "ي"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "ف"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "ي"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "دبليو"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "تثبيت الإضافات المطلوبة"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "تحديث البرنامج المساعد: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "حدث خطأ ما في واجهة برمجة تطبيقات البرنامج الإضافي."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s."
+msgstr[1] "يتطلب هذا المظهر المكوّن الإضافي التالي: %1$s."
+msgstr[2] "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s."
+msgstr[3] "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s."
+msgstr[4] "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s."
+msgstr[5] "يتطلب هذا المظهر المكونات الإضافية التالية: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s."
+msgstr[1] "يوصي هذا المظهر بالمكون الإضافي التالي: %1$s."
+msgstr[2] "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s."
+msgstr[3] "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s."
+msgstr[4] "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s."
+msgstr[5] "يوصي هذا المظهر بالمكونات الإضافية التالية: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من "
+"التوافق مع هذا المظهر: %1$s."
+msgstr[1] ""
+"يجب تحديث المكون الإضافي التالي إلى أحدث إصدار له لضمان أقصى قدر من التوافق "
+"مع هذا المظهر: %1$s."
+msgstr[2] ""
+"يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من "
+"التوافق مع هذا المظهر: %1$s."
+msgstr[3] ""
+"يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من "
+"التوافق مع هذا المظهر: %1$s."
+msgstr[4] ""
+"يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من "
+"التوافق مع هذا المظهر: %1$s."
+msgstr[5] ""
+"يجب تحديث المكونات الإضافية التالية إلى أحدث إصدار لها لضمان أقصى قدر من "
+"التوافق مع هذا المظهر: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
+msgstr[1] "يتوفر تحديث لـ: %1$s."
+msgstr[2] "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
+msgstr[3] "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
+msgstr[4] "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
+msgstr[5] "هناك تحديثات متاحة للمكونات الإضافية التالية: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s."
+msgstr[1] "المكون الإضافي المطلوب التالي غير نشط حاليًا: %1$s."
+msgstr[2] "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s."
+msgstr[3] "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s."
+msgstr[4] "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s."
+msgstr[5] "المكونات الإضافية المطلوبة التالية غير نشطة حاليًا: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s."
+msgstr[1] "المكون الإضافي الموصى به غير نشط حاليًا: %1$s."
+msgstr[2] "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s."
+msgstr[3] "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s."
+msgstr[4] "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s."
+msgstr[5] "المكونات الإضافية الموصى بها التالية غير نشطة حاليًا: %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "البدء في تثبيت المكونات الإضافية"
+msgstr[1] "البدء في تثبيت البرنامج المساعد"
+msgstr[2] "البدء في تثبيت المكونات الإضافية"
+msgstr[3] "البدء في تثبيت المكونات الإضافية"
+msgstr[4] "البدء في تثبيت المكونات الإضافية"
+msgstr[5] "البدء في تثبيت المكونات الإضافية"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "البدء في تحديث المكونات الإضافية"
+msgstr[1] "البدء في تحديث البرنامج المساعد"
+msgstr[2] "البدء في تحديث المكونات الإضافية"
+msgstr[3] "البدء في تحديث المكونات الإضافية"
+msgstr[4] "البدء في تحديث المكونات الإضافية"
+msgstr[5] "البدء في تحديث المكونات الإضافية"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "البدء في تفعيل المكونات الإضافية"
+msgstr[1] "البدء في تفعيل البرنامج المساعد"
+msgstr[2] "البدء في تفعيل المكونات الإضافية"
+msgstr[3] "البدء في تفعيل المكونات الإضافية"
+msgstr[4] "البدء في تفعيل المكونات الإضافية"
+msgstr[5] "البدء في تفعيل المكونات الإضافية"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "ارجع إلى مثبت المكونات الإضافية المطلوبة"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "العودة إلى لوحة القيادة"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "تم تفعيل البرنامج المساعد بنجاح."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "تم تفعيل الإضافات التالية بنجاح:"
+msgstr[1] "تم تفعيل الإضافة التالية بنجاح:"
+msgstr[2] "تم تفعيل الإضافات التالية بنجاح:"
+msgstr[3] "تم تفعيل الإضافات التالية بنجاح:"
+msgstr[4] "تم تفعيل الإضافات التالية بنجاح:"
+msgstr[5] "تم تفعيل الإضافات التالية بنجاح:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. كان المكون الإضافي %1$s نشطًا بالفعل."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"لم يتم تفعيل البرنامج المساعد. هناك حاجة إلى إصدار أعلى من %s لهذا الموضوع. "
+"يرجى تحديث البرنامج المساعد."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تم تثبيت جميع المكونات الإضافية وتفعيلها بنجاح. %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "تجاهل هذا الإشعار"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"هناك واحد أو أكثر من المكونات الإضافية المطلوبة أو الموصى بها لتثبيتها أو "
+"تحديثها أو تنشيطها."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "يرجى الاتصال بمسؤول هذا الموقع للحصول على المساعدة."
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"يحتاج هذا البرنامج المساعد إلى التحديث ليكون متوافقًا مع المظهر الخاص بك."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "التحديث مطلوب"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"لا تحتوي حزمة البرنامج المساعد البعيد على مجلد بالحلقة الثابتة المطلوبة ولم "
+"تنجح عملية إعادة التسمية."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"برجاء الاتصال بموفر المكونات الإضافية واطلب منهم حزم المكونات الإضافية "
+"الخاصة بهم وفقًا لإرشادات WordPress."
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تتكون حزمة البرنامج المساعد عن بعد من أكثر من ملف، ولكن لا يتم تجميع الملفات"
+" في مجلد."
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "مطلوب"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "مُستَحسَن"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "مستودع ووردبريس"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "معبأة مسبقًا"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "تم التثبيت ولكن لم يتم التنشيط"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "نشيط"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "التحديث المطلوب غير متوفر"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "يتطلب التحديث"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "يوصى بالتحديث"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s، %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "الكل <span class=\"count\">(%s)</span>"
+msgstr[1] "الكل <span class=\"count\">(%s)</span>"
+msgstr[2] "الكل <span class=\"count\">(%s)</span>"
+msgstr[3] "الكل <span class=\"count\">(%s)</span>"
+msgstr[4] "الكل <span class=\"count\">(%s)</span>"
+msgstr[5] "الكل <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "لتثبيت <span class=\"count\">(%s)</span>"
+msgstr[1] "لتثبيت <span class=\"count\">(%s)</span>"
+msgstr[2] "لتثبيت <span class=\"count\">(%s)</span>"
+msgstr[3] "لتثبيت <span class=\"count\">(%s)</span>"
+msgstr[4] "لتثبيت <span class=\"count\">(%s)</span>"
+msgstr[5] "لتثبيت <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "التحديث متاح <span class=\"count\">(%s)</span>"
+msgstr[1] "التحديث متاح <span class=\"count\">(%s)</span>"
+msgstr[2] "التحديث متاح <span class=\"count\">(%s)</span>"
+msgstr[3] "التحديث متاح <span class=\"count\">(%s)</span>"
+msgstr[4] "التحديث متاح <span class=\"count\">(%s)</span>"
+msgstr[5] "التحديث متاح <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "لتنشيط <span class=\"count\">(%s)</span>"
+msgstr[1] "لتنشيط <span class=\"count\">(%s)</span>"
+msgstr[2] "لتنشيط <span class=\"count\">(%s)</span>"
+msgstr[3] "لتنشيط <span class=\"count\">(%s)</span>"
+msgstr[4] "لتنشيط <span class=\"count\">(%s)</span>"
+msgstr[5] "لتنشيط <span class=\"count\">(%s)</span>"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "مجهول"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "النسخة المثبتة:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "الحد الأدنى للإصدار المطلوب:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "النسخة المتاحة:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "لا توجد مكونات إضافية للتثبيت أو التحديث أو التنشيط."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "البرنامج المساعد"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "مصدر"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "يكتب"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "إصدار"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "حالة"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "قم بتثبيت %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "تحديث %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "تنشيط %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "ترقية الرسالة من مؤلف البرنامج المساعد:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "ثَبَّتَ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "تحديث"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "لم يتم تحديد أي مكونات إضافية ليتم تثبيتها. لم يتم اتخاذ أي إجراء."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "لم يتم اختيار أي مكونات إضافية ليتم تحديثها. لم يتم اتخاذ أي إجراء."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "لا توجد مكونات إضافية متاحة للتثبيت في هذا الوقت."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "لا توجد مكونات إضافية متاحة للتحديث في هذا الوقت."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "لم يتم اختيار أي مكونات إضافية ليتم تفعيلها. لم يتم اتخاذ أي إجراء."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "لا توجد مكونات إضافية متاحة للتنشيط في هذا الوقت."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل البرنامج المساعد."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "تحديث البرنامج المساعد %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "حدث خطأ أثناء تثبيت %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "فشل تثبيت %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr ""
+"بدأت عملية التثبيت والتنشيط. قد تستغرق هذه العملية بعض الوقت بالنسبة لبعض "
+"المضيفين، لذا يرجى التحلي بالصبر."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "تم %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "تم الانتهاء من جميع عمليات التثبيت والتنشيط."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت وتنشيط المكون الإضافي %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"بدأت عملية التثبيت. قد تستغرق هذه العملية بعض الوقت بالنسبة لبعض المضيفين، "
+"لذا يرجى التحلي بالصبر."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "تم الانتهاء من جميع التركيبات."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت المكون الإضافي %1$s (%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "قماش فارغ"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "منشئ الصفحة بالعرض الكامل"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت مستعد لنشر مشاركتك الأولى؟ <a href=\"%1$s\">ابدأ هنا</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف، ولكن لا شيء يطابق مصطلحات البحث الخاصة بك. يرجى المحاولة مرة أخرى "
+"باستخدام بعض الكلمات الرئيسية المختلفة."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما البحث يمكن أن يساعد."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:19
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "متابعة القراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content.php:35
+msgid "<span class=\"em-post-navigation\">Previous</span> %title"
+msgstr "<span class=\"em-post-navigation\">السابق</span> %title"
+
+#: template-parts/content.php:36
+msgid "<span class=\"em-post-navigation\">Next</span> %title"
+msgstr "<span class=\"em-post-navigation\">التالي</span> %title"
+
+#: template-parts/content.php:38
+msgid "Continue Reading"
+msgstr "مواصلة القراءة"
+
+#: admin-dashboard/src/components/blockspare.demo.js:18
+msgid "Update Blockspare Pro"
+msgstr "تحديث Blockspare برو"
+
+#: admin-dashboard/src/components/blockspare.demo.js:20
+msgid "Update Blockspare"
+msgstr "تحديث Blockspare"
+
+#: admin-dashboard/src/components/blockspare.demo.js:33
+msgid "Powerful Gutenberg Blocks & Patterns"
+msgstr "كتل وأنماط جوتنبرج القوية"
+
+#: admin-dashboard/src/components/blockspare.demo.js:36
+msgid ""
+"Easily build and customize your pages with a vast library of Gutenberg "
+"blocks and patterns, perfect for blogs, magazines, and business sites. Add "
+"post grids, sliders, and carousels without touching a single line of code. "
+"Import demo data and effortlessly create multilingual, visually appealing "
+"pages with complete flexibility."
+msgstr ""
+"يمكنك إنشاء صفحاتك وتخصيصها بسهولة باستخدام مكتبة واسعة من كتل وأنماط "
+"Gutenberg، وهي مثالية للمدونات والمجلات ومواقع الأعمال. أضف شبكات النشر، "
+"وشرائح التمرير، والدوائر الدوارة دون لمس سطر واحد من التعليمات البرمجية. قم "
+"باستيراد البيانات التجريبية وإنشاء صفحات متعددة اللغات وجذابة بصريًا بمرونة "
+"كاملة دون عناء."
+
+#: admin-dashboard/src/components/dashboard-content.js:33
+msgid "Hello "
+msgstr "مرحبًا"
+
+#: admin-dashboard/src/components/dashboard-content.js:35
+msgid "Welcome to "
+msgstr "مرحبا بكم في"
+
+#: admin-dashboard/src/components/elespare-demo.js:18
+msgid "Update Elespare Pro"
+msgstr "تحديث إليسبير برو"
+
+#: admin-dashboard/src/components/elespare-demo.js:20
+msgid "Update Elespare"
+msgstr "تحديث إليسبير"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Professional Sites with Elementor"
+msgstr "المواقع المهنية مع Elementor"
+
+#: admin-dashboard/src/components/elespare-demo.js:37
+msgid ""
+"Transform your blog, news, or magazine website with 35+ advanced Elementor "
+"widgets and 350+ customizable templates. Easily create headers, footers, "
+"post grids, sliders, and carousels with a fast-loading and SEO-optimized "
+"structure. Import demo content with a single click and enjoy codeless "
+"customization to craft your perfect site, no matter the language."
+msgstr ""
+"قم بتحويل موقع مدونتك أو أخبارك أو مجلتك باستخدام أكثر من 35 أداة Elementor "
+"متقدمة وأكثر من 350 قالبًا قابلاً للتخصيص. يمكنك بسهولة إنشاء الرؤوس "
+"والتذييلات وشبكات النشر وشرائح التمرير والدوائر الدوارة باستخدام بنية سريعة "
+"التحميل ومُحسّنة لتحسين محركات البحث. قم باستيراد المحتوى التجريبي بنقرة "
+"واحدة واستمتع بالتخصيص بدون رموز لتصميم موقعك المثالي، بغض النظر عن اللغة."
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"We would like to thank you for installing and activating [theme] theme for "
+"your precious site. All of the features provided by the theme are now ready "
+"to use; Here, we have gathered all of the essential details and helpful "
+"links for you and your better experience with [theme]. Once again, Thanks "
+"for using our theme!"
+msgstr ""
+"نود أن نشكرك على تثبيت وتفعيل السمة [theme] لموقعك الثمين. جميع الميزات التي"
+" يوفرها القالب جاهزة الآن للاستخدام؛ لقد قمنا هنا بجمع كل التفاصيل الأساسية "
+"والروابط المفيدة لك ولتجربتك الأفضل مع [theme]. مرة أخرى، شكرا لاستخدام "
+"موضوعنا!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:9
+msgid "Theme Details"
+msgstr "تفاصيل الموضوع"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:13
+msgid "View Demo"
+msgstr "عرض تجريبي"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:17
+msgid "View Documentation"
+msgstr "عرض الوثائق"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:28
+msgid "Demo Sites"
+msgstr "المواقع التجريبية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:4
+msgid "Live editing in Customizer"
+msgstr "التحرير المباشر في Customizer"
+
+#: admin-dashboard/src/components/json/freepro-content.js:9
+msgid "One Click Demo Import Support"
+msgstr "نقرة واحدة لدعم الاستيراد التجريبي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:14
+msgid "Basic Typography Style"
+msgstr "أسلوب الطباعة الأساسي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:19
+msgid "Advanced Typography Style"
+msgstr "أسلوب الطباعة المتقدم"
+
+#: admin-dashboard/src/components/json/freepro-content.js:24
+msgid "Dark Mode"
+msgstr "الوضع المظلم"
+
+#: admin-dashboard/src/components/json/freepro-content.js:30
+msgid "Basic Color Controls"
+msgstr "ضوابط اللون الأساسية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:35
+msgid "Advanced Color Controls"
+msgstr "ضوابط الألوان المتقدمة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:40
+msgid "Preloader Option"
+msgstr "خيار التحميل المسبق"
+
+#: admin-dashboard/src/components/json/freepro-content.js:45
+msgid "Basic Option for Custom Menu for Online Link"
+msgstr "الخيار الأساسي للقائمة المخصصة للارتباط عبر الإنترنت"
+
+#: admin-dashboard/src/components/json/freepro-content.js:50
+msgid "Advance Option for Custom Menu for Online Link"
+msgstr "خيار متقدم للقائمة المخصصة للارتباط عبر الإنترنت"
+
+#: admin-dashboard/src/components/json/freepro-content.js:55
+msgid "Multiple Header Options"
+msgstr "خيارات رأس متعددة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:60
+msgid "Set as Background Header Image Mode"
+msgstr "تعيين كوضع صورة رأس الخلفية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:65
+msgid "Show Full Image Header Image Mode"
+msgstr "إظهار وضع صورة رأس الصورة الكاملة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:70
+msgid "Logo and title customization"
+msgstr "تخصيص الشعار والعنوان"
+
+#: admin-dashboard/src/components/json/freepro-content.js:75
+msgid "Banner Advertisements"
+msgstr "إعلانات البانر"
+
+#: admin-dashboard/src/components/json/freepro-content.js:80
+msgid "Home Icon Toggle"
+msgstr "تبديل أيقونة الصفحة الرئيسية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:85
+msgid "Home Icon Option"
+msgstr "خيار أيقونة الصفحة الرئيسية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:90
+msgid "Language Switcher Shortcode Area"
+msgstr "منطقة الرمز القصير لمحول اللغة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:95
+msgid "Exclusive News Section"
+msgstr "قسم الأخبار الحصرية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:100
+msgid "Sticky Header Toggle"
+msgstr "تبديل رأس مثبت"
+
+#: admin-dashboard/src/components/json/freepro-content.js:105
+msgid "Multiple Frontpage Banner Options"
+msgstr "خيارات بانر متعددة للصفحة الأولى"
+
+#: admin-dashboard/src/components/json/freepro-content.js:110
+msgid "Frontpage Main Banner Layouts"
+msgstr "تخطيطات الشعار الرئيسي للصفحة الأولى"
+
+#: admin-dashboard/src/components/json/freepro-content.js:115
+msgid "Frontpage Main Banner Mode"
+msgstr "وضع الشعار الرئيسي للصفحة الأمامية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:120
+msgid "Frontpage Main Banner Background Image"
+msgstr "صورة الخلفية للشعار الرئيسي للصفحة الأولى"
+
+#: admin-dashboard/src/components/json/freepro-content.js:125
+msgid "Frontpage Main Banner Section Background Color"
+msgstr "لون خلفية القسم الرئيسي للصفحة الأمامية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:130
+msgid "Featured News Section"
+msgstr "قسم الأخبار المميزة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:135
+msgid "Custom Frontpage Content and Sidebar area"
+msgstr "محتوى الصفحة الأمامية المخصصة ومنطقة الشريط الجانبي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:140
+msgid "Sidebar Background Option"
+msgstr "خيار خلفية الشريط الجانبي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:145
+msgid "Sticky Sidebar Option"
+msgstr "خيار الشريط الجانبي اللاصق"
+
+#: admin-dashboard/src/components/json/freepro-content.js:150
+msgid "Features Image Toggle in Single Post"
+msgstr "ميزات تبديل الصورة في مشاركة واحدة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:155
+msgid "Related News Section"
+msgstr "قسم الأخبار ذات الصلة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:160
+msgid "Video Link for Single Post"
+msgstr "رابط الفيديو لمقالة واحدة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:165
+msgid "Category Color Options"
+msgstr "خيارات ألوان الفئة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:170
+msgid "Posts Categories Toggle"
+msgstr "المشاركات الفئات تبديل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:175
+msgid "Comments Count Toggle"
+msgstr "عدد التعليقات تبديل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:180
+msgid "Minutes Read Toggle"
+msgstr "دقائق القراءة تبديل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:185
+msgid "Date and Author Toggle"
+msgstr "تبديل التاريخ والمؤلف"
+
+#: admin-dashboard/src/components/json/freepro-content.js:190
+msgid "Posts Date format Options"
+msgstr "خيارات تنسيق تاريخ المشاركات"
+
+#: admin-dashboard/src/components/json/freepro-content.js:195
+msgid "Banner Advertisements Widget Area"
+msgstr "منطقة القطعة لإعلانات البانر"
+
+#: admin-dashboard/src/components/json/freepro-content.js:200
+msgid "Posts Section Advertisements Widget Area"
+msgstr "منطقة القطعة إعلانات قسم المشاركات"
+
+#: admin-dashboard/src/components/json/freepro-content.js:205
+msgid "Above Main Banner Section Widget Area"
+msgstr "منطقة القطعة أعلى قسم البانر الرئيسي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:210
+msgid "Below Main Banner Section Widget Area"
+msgstr "أسفل منطقة عنصر واجهة المستخدم لقسم الشعار الرئيسي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:215
+msgid "Custom Widgets"
+msgstr "الحاجيات المخصصة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:220
+msgid "Basic Custom Widgets Controls"
+msgstr "عناصر التحكم الأساسية في الحاجيات المخصصة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:225
+msgid "Advanced Custom Widgets Controls"
+msgstr "ضوابط الحاجيات المخصصة المتقدمة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:230
+msgid "Basic Widgets Background Color Control"
+msgstr "التحكم في لون خلفية الحاجيات الأساسية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:235
+msgid "Advanced Widgets Background Color Control"
+msgstr "التحكم في لون خلفية الحاجيات المتقدمة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:240
+msgid "Author Biography Widget"
+msgstr "القطعة السيرة الذاتية للمؤلف"
+
+#: admin-dashboard/src/components/json/freepro-content.js:245
+msgid "Post Carousel Widget"
+msgstr "مشاركة القطعة الدائرية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:250
+msgid "Post Image Slider Widget"
+msgstr "القطعة المنزلق لنشر الصورة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:255
+msgid "Post Double Column/Categories Widget"
+msgstr "أداة نشر عمود/فئات مزدوجة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:260
+msgid "Post Single Column Widget"
+msgstr "نشر القطعة عمود واحد"
+
+#: admin-dashboard/src/components/json/freepro-content.js:265
+msgid "Post Grid Widget"
+msgstr "القطعة بعد الشبكة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:270
+msgid "Post Express Grid Widget"
+msgstr "بوست اكسبرس الشبكة القطعة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:275
+msgid "Post List Widget"
+msgstr "القطعة قائمة المشاركة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:280
+msgid "Post Express List Widget"
+msgstr "مشاركة قائمة القطعة السريعة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:285
+msgid "Post Tabbed Widget"
+msgstr "مشاركة القطعة المبوبة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:290
+msgid "Social Contact Widget"
+msgstr "القطعة الاتصال الاجتماعي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:295
+msgid "Trending Posts Vertical Carousel Widget"
+msgstr "المشاركات الشائعة القطعة الدائرية العمودية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:300
+msgid "YouTube Video Slider Widget"
+msgstr "أداة شريط تمرير فيديو YouTube"
+
+#: admin-dashboard/src/components/json/freepro-content.js:305
+msgid "List Archive Layout"
+msgstr "قائمة تخطيط الأرشيف"
+
+#: admin-dashboard/src/components/json/freepro-content.js:310
+msgid "List Alternate Archive Layout"
+msgstr "قائمة تخطيط الأرشيف البديل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:315
+msgid "List Right Archive Layout"
+msgstr "قائمة تخطيط الأرشيف الصحيح"
+
+#: admin-dashboard/src/components/json/freepro-content.js:320
+msgid "Grid Archive Layout"
+msgstr "تخطيط أرشيف الشبكة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:325
+msgid "Grid Alternate Archive Layout"
+msgstr "تخطيط الأرشيف البديل للشبكة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:330
+msgid "Grid Alternate with List Archive Layout"
+msgstr "شبكة بديلة مع تخطيط أرشيف القائمة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:335
+msgid "Full Archive Layout"
+msgstr "تخطيط الأرشيف الكامل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:340
+msgid "Masonry   Archive Layout"
+msgstr "تخطيط أرشيف البناء"
+
+#: admin-dashboard/src/components/json/freepro-content.js:345
+msgid "Numeric Pagination"
+msgstr "ترقيم الصفحات الرقمية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:350
+msgid "Ajax Load More Pagination"
+msgstr "اياكس تحميل المزيد من الصفحات"
+
+#: admin-dashboard/src/components/json/freepro-content.js:355
+msgid "Infinite Scroll Pagination"
+msgstr "صفحات التمرير اللانهائية"
+
+#: admin-dashboard/src/components/json/freepro-content.js:360
+msgid "Mailchimp Subscription Supports"
+msgstr "يدعم الاشتراك في Mailchimp"
+
+#: admin-dashboard/src/components/json/freepro-content.js:365
+msgid "Display Related Posts"
+msgstr "عرض المشاركات ذات الصلة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:370
+msgid "Footer Widgets Section"
+msgstr "قسم أدوات التذييل"
+
+#: admin-dashboard/src/components/json/freepro-content.js:375
+msgid "Gutenberg Compatibility"
+msgstr "توافق جوتنبرج"
+
+#: admin-dashboard/src/components/json/freepro-content.js:380
+msgid "RTL Compatibility"
+msgstr "التوافق من RTL"
+
+#: admin-dashboard/src/components/json/freepro-content.js:385
+msgid "WooCommerce Compatibility"
+msgstr "التوافق مع ووكومرس"
+
+#: admin-dashboard/src/components/json/freepro-content.js:390
+msgid "Hide Theme Credit Link"
+msgstr "إخفاء رابط رصيد الموضوع"
+
+#: admin-dashboard/src/components/json/freepro-content.js:395
+msgid "Responsive Layout"
+msgstr "تخطيط سريع الاستجابة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:400
+msgid "Translations Ready"
+msgstr "الترجمات جاهزة"
+
+#: admin-dashboard/src/components/json/freepro-content.js:405
+msgid "SEO Optimized"
+msgstr "تحسين محركات البحث"
+
+#: admin-dashboard/src/components/json/freepro-content.js:410
+msgid "Normal Support"
+msgstr "الدعم العادي"
+
+#: admin-dashboard/src/components/json/freepro-content.js:415
+msgid "Advance Support"
+msgstr "الدعم المسبق"
+
+#: admin-dashboard/src/components/json/freepro-content.js:420
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى برو"
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "قم بتعيين نوع رأس السمة وضبط الألوان والتباعد والمحاذاة والمزيد."
+
+#: admin-dashboard/src/components/json/home-content.js:13
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr ""
+"يمكنك بسهولة وضع اللافتات الترويجية الخاصة بك داخل قسم الرأس الخاص بك."
+
+#: admin-dashboard/src/components/json/home-content.js:19
+msgid "Color Options"
+msgstr "خيارات الألوان"
+
+#: admin-dashboard/src/components/json/home-content.js:20
+msgid "Change the color setting provide with the Theme."
+msgstr "تغيير إعداد اللون المقدم مع السمة."
+
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Main Banner Options"
+msgstr "خيارات الشعار الرئيسية"
+
+#: admin-dashboard/src/components/json/home-content.js:27
+msgid "Selecting different categories can be done for different section."
+msgstr "يمكن تحديد فئات مختلفة لقسم مختلف."
+
+#: admin-dashboard/src/components/json/home-content.js:33
+msgid "Frontpage Option"
+msgstr "خيار الصفحة الأولى"
+
+#: admin-dashboard/src/components/json/home-content.js:34
+msgid ""
+"Frontpage layout with Popular Tag, Breaking News, Main Banner, Feature News "
+"can be set."
+msgstr ""
+"يمكن ضبط تخطيط الصفحة الأولى مع العلامات الشائعة والأخبار العاجلة واللافتة "
+"الرئيسية والأخبار المميزة."
+
+#: admin-dashboard/src/components/json/home-content.js:40
+msgid "Static Front Page"
+msgstr "الصفحة الأولى الثابتة"
+
+#: admin-dashboard/src/components/json/home-content.js:41
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr ""
+"قم بتعيين الصفحة الرئيسية كصفحة ثابتة لإنشاء صفحة رئيسية خاصة بك باستخدام "
+"الأدوات."
+
+#: admin-dashboard/src/components/json/home-content.js:47
+msgid "Widgets Area"
+msgstr "منطقة الحاجيات"
+
+#: admin-dashboard/src/components/json/home-content.js:48
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "يمكن إضافة الأدوات على كل القسم الذي يوفره الموضوع."
+
+#: admin-dashboard/src/components/json/home-content.js:54
+msgid "Archive Options"
+msgstr "خيارات الأرشيف"
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Customize the blog layout desgin."
+msgstr "تخصيص تصميم تخطيط المدونة."
+
+#: admin-dashboard/src/components/json/home-content.js:61
+msgid "Theme Option"
+msgstr "خيار الموضوع"
+
+#: admin-dashboard/src/components/json/home-content.js:62
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr ""
+"قم بتعيين التخطيط العالمي، ومسار التنقل، والشريط الجانبي، والمنشور الفردي، "
+"وربما فاتتك، والمزيد."
+
+#: admin-dashboard/src/components/json/home-content.js:68
+msgid "Footer Options"
+msgstr "خيارات التذييل"
+
+#: admin-dashboard/src/components/json/home-content.js:69
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "اضبط نوع التذييل وعدد الأعمدة والمسافات والألوان."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "منظر"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "يدعم"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"هل لديك سؤال حول دعم السمة أو وجدت خطأً أو حصلت على بعض التعليقات؟ أفضل مكان"
+" لطرح استفسارك هو منتدى الدعم المخصص للموضوع."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "دروس الفيديو"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "فيديو"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "شاهد مقاطع الفيديو لتتعلم بسهولة كيفية تخصيص السمة."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:5
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"استخدم AF Companion لاستيراد المحتوى التجريبي المباشر والأدوات والإعدادات "
+"بسرعة. يوفر هذا البرنامج المساعد تخطيطًا أساسيًا لإنشاء موقع الويب الخاص بك "
+"وتسريع عملية التطوير."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:12
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr ""
+"يمكنك تصميم تخطيطات معقدة لموقع الويب الخاص بك في بضع دقائق فقط باستخدام "
+"الكتل القابلة للتكيف والمبتكرة."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:19
+#: admin-dashboard/src/components/json/useful-plugins-content.js:78
+#: admin-dashboard/src/components/json/useful-plugins-content.js:82
+msgid ""
+"Get ready-to-use Starter Sites instantly and build modern websites in "
+"minutes."
+msgstr ""
+"احصل على مواقع Starter جاهزة للاستخدام على الفور وقم بإنشاء مواقع ويب حديثة "
+"في دقائق."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:26
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"تصميم مواقع ويب للمدونات أو الأخبار أو المجلات بشكل مثالي Elespare هو مكون "
+"إضافي بسيط ولكنه فعال في WordPress يتيح لك استخدام Elementor لإنشاء رأس "
+"وتذييل ومحتويات رائعة لمواقع الويب مع خيارات تخصيص عالية مجانًا."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:34
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"مجموعة جميلة من أحدث منشورات كتل Gutenberg لـ WordPress، والتي تساعدك على "
+"تصميم شبكة المنشورات وقائمة المنشورات وتخطيط المنشورات الكاملة وتصميم "
+"المنشورات السريعة المتقدمة وتخطيطات البلاط لمشاركاتك."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:41
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"نحن نبني سلسلة جميلة من كتل Gutenberg لقسم الصفحات لمحتوى WordPress لمساعدتك"
+" في إنشاء موقع الويب الذي طالما رغبت فيه بسرعة."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:48
+msgid ""
+"It has 3 different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"يحتوي على 3 عناصر واجهة مستخدم مختلفة لمؤلف المنشور والمؤلف الانتقائي حسب "
+"المعرف والمؤلف المخصص. كما يوفر أيضًا رموزًا قصيرة لملف تعريف المؤلف."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:55
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"يقدم هذا المكون الإضافي المجاني حلاً مجانيًا للدردشة المباشرة لزوار موقع "
+"الويب الخاص بك للاتصال بك عبر الدردشة المباشرة أو المكالمة المباشرة - كل ذلك"
+" مجانًا! التواصل مع عملائك وزيادة المبيعات."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:62
+msgid ""
+"A free WordPress Plugin which facilitates with the functionality to submit "
+"Posts from frontend with or without logging in with various configurable "
+"options."
+msgstr ""
+"مكون إضافي مجاني لـ WordPress يسهل وظيفة إرسال المنشورات من الواجهة الأمامية"
+" مع أو بدون تسجيل الدخول باستخدام خيارات متنوعة قابلة للتكوين."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:69
+msgid ""
+"This plugin helps you grow your Mailchimp lists and write better newsletters"
+" through various methods. You can create good looking opt-in forms or "
+"integrate with any existing form on your site, like your comment, contact or"
+" checkout form."
+msgstr ""
+"يساعدك هذا البرنامج المساعد على تطوير قوائم Mailchimp الخاصة بك وكتابة رسائل"
+" إخبارية أفضل من خلال طرق مختلفة. يمكنك إنشاء نماذج اشتراك جيدة المظهر أو "
+"التكامل مع أي نموذج موجود على موقعك، مثل نموذج التعليق أو جهة الاتصال أو "
+"الخروج."
+
+#: admin-dashboard/src/components/main.js:53
+msgid "Get started"
+msgstr "ابدأ"
+
+#: admin-dashboard/src/components/main.js:61
+msgid "Useful Plugins"
+msgstr "الإضافات المفيدة"
+
+#: admin-dashboard/src/components/main.js:68
+msgid "Free vs Pro"
+msgstr "مجاني مقابل برو"
+
+#: admin-dashboard/src/components/main.js:75
+msgid "Change Log"
+msgstr "تغيير السجل"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:8
+msgid "Features"
+msgstr "سمات"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:9
+msgid "Free"
+msgstr "حر"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:10
+msgid "Pro"
+msgstr "برو"
+
+#: admin-dashboard/src/components/nav-content/home.js:27
+msgid "Go to option"
+msgstr "انتقل إلى الخيار"
+
+#: admin-dashboard/src/components/templatespare-demo.js:17
+msgid "Update Templatespare"
+msgstr "تحديث قالب الغيار"
+
+#: admin-dashboard/src/components/templatespare-demo.js:29
+msgid "Easy Website Building with Zero Code"
+msgstr "إنشاء موقع ويب سهل باستخدام رمز صفري"

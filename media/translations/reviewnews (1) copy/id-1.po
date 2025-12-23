@@ -1,0 +1,5592 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-30 07:24:53+0000\n"
+"PO-Revision-Date: 2025-10-30 07:24:53+0000\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+#: admin-dashboard/admin_dashboard.php:103
+#: admin-dashboard/admin_dashboard.php:104
+msgid "ReviewNews Pro"
+msgstr "Tinjau Berita Pro"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/reviewnews-pro/"
+msgstr "https://afthemes.com/products/reviewnews-pro/"
+
+#. Description of the theme
+msgid ""
+"ReviewNews Pro is a dynamic, ultra-fast, and highly versatile WordPress "
+"theme made for News, Magazine, Blog, Business, and eCommerce websites across"
+" the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly "
+"with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular "
+"page builders, you can design PROFESSIONAL LAYOUTS easily using drag and "
+"drop—no coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS,"
+" ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL "
+"WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers,"
+" corporate or NGO sites, and educational or cultural portals to personal "
+"blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized "
+"for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST "
+"LOADING and excellent performance on all devices. Built with WCAG "
+"ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-"
+"term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY,"
+" with demo content in English, Spanish, German, French, Japanese, Chinese, "
+"and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for "
+"creators, publishers, and businesses who value STYLE, SCALABILITY, and "
+"PERFORMANCE across every market. Explore all features at "
+"https://afthemes.com/products/reviewnews"
+msgstr ""
+"ReviewNews Pro adalah tema WordPress yang dinamis, sangat cepat, dan sangat "
+"serbaguna yang dibuat untuk situs web Berita, Majalah, Blog, Bisnis, dan "
+"eCommerce di seluruh dunia. Dengan HEADER & FOOTER BUILDER yang kuat yang "
+"bekerja secara mulus dengan Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI,"
+" dan pembuat halaman populer lainnya, Anda dapat mendesain LAYOUT "
+"PROFESIONAL dengan mudah menggunakan drag and drop—tidak perlu coding. "
+"Dilengkapi dengan 100+ SITUS PEMULA, 30+ WIDGET KUSTOM, POLA BLOK LANJUTAN, "
+"OPSI TATA LETAK FLEKSIBEL, DUKUNGAN AMP, dan INTEGRASI WOOCOMMERCE LENGKAP, "
+"sempurna untuk segala hal mulai dari surat kabar online, situs perusahaan "
+"atau LSM, dan portal pendidikan atau budaya hingga blog pribadi, portofolio,"
+" dan majalah gaya hidup. ReviewNews sepenuhnya dioptimalkan untuk SEO, VITAL"
+" WEB INTI, KECEPATAN, dan DESAIN RESPONSIF, memastikan PEMUATAN CEPAT dan "
+"kinerja luar biasa di semua perangkat. Dibuat dengan AKSESIBILITAS WCAG, "
+"KEPATUHAN GDPR, dan KODE YANG RINGAN dan BERSIH, ia menawarkan stabilitas "
+"jangka panjang dan SKOR KECEPATAN HALAMAN GOOGLE yang tinggi. MULTILINGUAL "
+"dan RTL READY, dengan konten demo dalam bahasa Inggris, Spanyol, Jerman, "
+"Perancis, Jepang, Cina, dan Arab, ReviewNews adalah TEMA GLOBAL, TEMA MASA "
+"DEPAN yang dirancang untuk pencipta, penerbit, dan bisnis yang menghargai "
+"GAYA, SCALABILITAS, dan KINERJA di setiap pasar. Jelajahi semua fitur di "
+"https://afthemes.com/products/reviewnews"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "tema AF"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman itu tidak dapat ditemukan."
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"Sepertinya tidak ada yang ditemukan di lokasi ini. Mungkin mencoba salah "
+"satu tautan di bawah atau mencari?"
+
+#: admin-dashboard/admin_dashboard.php:116
+#: admin-dashboard/admin_dashboard.php:117
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: admin-dashboard/admin_dashboard.php:127
+#: admin-dashboard/admin_dashboard.php:128 inc/template-functions.php:2176
+msgid "Site Analytics"
+msgstr "Analisis Situs"
+
+#: admin-dashboard/admin_dashboard.php:136
+#: admin-dashboard/admin_dashboard.php:137
+#: admin-dashboard/admin_dashboard.php:366 inc/template-functions.php:2181
+#: admin-dashboard/src/admin-top-menu.js:126
+msgid "Ads Settings"
+msgstr "Pengaturan Iklan"
+
+#: admin-dashboard/admin_dashboard.php:146
+#: admin-dashboard/admin_dashboard.php:147 lib/info/info.php:74
+msgid "Customize"
+msgstr "Sesuaikan"
+
+#: admin-dashboard/admin_dashboard.php:156
+#: admin-dashboard/admin_dashboard.php:157
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: inc/template-functions.php:2191 admin-dashboard/src/admin-top-menu.js:133
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Builder"
+msgstr "Pembuat Tajuk"
+
+#: admin-dashboard/admin_dashboard.php:165
+#: admin-dashboard/admin_dashboard.php:166
+#: inc/customizer/builder/class-header-footer-builder.php:45
+#: inc/template-functions.php:2201 admin-dashboard/src/admin-top-menu.js:147
+#: admin-dashboard/src/components/json/home-content.js:25
+msgid "Footer Builder"
+msgstr "Pembuat Catatan Kaki"
+
+#: admin-dashboard/admin_dashboard.php:179
+#: admin-dashboard/admin_dashboard.php:180 inc/template-functions.php:2186
+msgid "Starter Sites"
+msgstr "Situs Pemula"
+
+#: admin-dashboard/admin_dashboard.php:189
+#: admin-dashboard/admin_dashboard.php:190
+msgid "Block Patterns"
+msgstr "Pola Blok"
+
+#: admin-dashboard/admin_dashboard.php:199
+#: admin-dashboard/admin_dashboard.php:200
+msgid "Elementor Kits"
+msgstr "Kit Elemen"
+
+#: admin-dashboard/admin_dashboard.php:211
+#: admin-dashboard/admin_dashboard.php:212 lib/info/info.php:25
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "Mendukung"
+
+#: admin-dashboard/admin_dashboard.php:221
+#: admin-dashboard/admin_dashboard.php:222
+msgid "Master Bundle Plan"
+msgstr "Paket Paket Utama"
+
+#: admin-dashboard/admin_dashboard.php:234
+msgid "Security check failed"
+msgstr "Pemeriksaan keamanan gagal"
+
+#: admin-dashboard/admin_dashboard.php:238
+msgid "You do not have permission to perform this action."
+msgstr "Anda tidak memiliki izin untuk melakukan tindakan ini."
+
+#: admin-dashboard/admin_dashboard.php:280
+msgid "Ads settings saved."
+msgstr "Setelan iklan disimpan."
+
+#: admin-dashboard/admin_dashboard.php:373
+msgid "Global Ads Placement"
+msgstr "Penempatan Iklan Global"
+
+#: admin-dashboard/admin_dashboard.php:376
+msgid ""
+"💡 Tip: You can rotate multiple ads by separating them with <!--next-->. One "
+"ad will be shown randomly per page load. Works with HTML, JavaScript, and "
+"shortcodes."
+msgstr ""
+"💡 Tips: Anda dapat merotasi beberapa iklan dengan memisahkannya menggunakan "
+"<!--next-->. Satu iklan akan ditampilkan secara acak per pemuatan halaman. "
+"Bekerja dengan HTML, JavaScript, dan kode pendek."
+
+#: admin-dashboard/admin_dashboard.php:380
+msgid "Header Ad"
+msgstr "Iklan Tajuk"
+
+#: admin-dashboard/admin_dashboard.php:383
+msgid ""
+"Add your HTML, JavaScript, or shortcode to display an ad at the very top of "
+"your site (header area)."
+msgstr ""
+"Tambahkan HTML, JavaScript, atau kode pendek untuk menampilkan iklan di "
+"bagian paling atas situs Anda (area header)."
+
+#: admin-dashboard/admin_dashboard.php:388
+#: inc/customizer/theme-options.php:1757
+msgid "Before Content"
+msgstr "Sebelum Konten"
+
+#: admin-dashboard/admin_dashboard.php:391
+msgid ""
+"Ad before post content. Supports rotating multiple ads using <!--next-->."
+msgstr ""
+"Iklan sebelum memposting konten. Mendukung rotasi beberapa iklan menggunakan"
+" <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:396
+#: inc/customizer/theme-options.php:1758
+msgid "After Content"
+msgstr "Setelah Konten"
+
+#: admin-dashboard/admin_dashboard.php:399
+msgid ""
+"Ad after post content. You can rotate multiple ads with <!--next--> "
+"separator."
+msgstr ""
+"Iklan setelah konten posting. Anda dapat merotasi beberapa iklan dengan "
+"pemisah <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:404
+msgid "Before First Paragraph"
+msgstr "Sebelum Paragraf Pertama"
+
+#: admin-dashboard/admin_dashboard.php:407
+msgid ""
+"This ad appears after the first paragraph of single post content. Rotation "
+"supported via <!--next-->."
+msgstr ""
+"Iklan ini muncul setelah paragraf pertama konten postingan tunggal. Rotasi "
+"didukung melalui <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:412
+msgid "After Third Paragraph"
+msgstr "Setelah Paragraf Ketiga"
+
+#: admin-dashboard/admin_dashboard.php:415
+msgid ""
+"Shown after the third paragraph in single post content. Supports rotating "
+"ads with <!--next-->."
+msgstr ""
+"Ditampilkan setelah paragraf ketiga dalam konten postingan tunggal. "
+"Mendukung rotasi iklan dengan <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:420
+msgid "After Post Content"
+msgstr "Setelah Posting Konten"
+
+#: admin-dashboard/admin_dashboard.php:423
+msgid ""
+"Displayed below post content, before comments or related posts. Rotation via"
+" <!--next--> supported."
+msgstr ""
+"Ditampilkan di bawah konten postingan, sebelum komentar atau postingan "
+"terkait. Rotation via <!--next--> supported."
+
+#: admin-dashboard/admin_dashboard.php:428
+msgid "Sidebar Ad"
+msgstr "Iklan Bilah Sisi"
+
+#: admin-dashboard/admin_dashboard.php:431
+msgid ""
+"Shown in sidebar globally. You may use widgets for better control. Supports "
+"<!--next--> for rotating ads."
+msgstr ""
+"Ditampilkan di sidebar secara global. Anda dapat menggunakan widget untuk "
+"kontrol yang lebih baik. Mendukung <!--next--> untuk merotasi iklan."
+
+#: admin-dashboard/admin_dashboard.php:436
+msgid "Footer Ad"
+msgstr "Iklan Catatan Kaki"
+
+#: admin-dashboard/admin_dashboard.php:439
+msgid ""
+"Displayed at the bottom of the site above footer widgets. Rotating ads "
+"supported using <!--next-->."
+msgstr ""
+"Ditampilkan di bagian bawah situs di atas widget footer. Rotasi iklan "
+"didukung menggunakan <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:444
+msgid "Archive / Blog Ads"
+msgstr "Arsip / Iklan Blog"
+
+#: admin-dashboard/admin_dashboard.php:447
+msgid "Before Post List"
+msgstr "Sebelum Daftar Posting"
+
+#: admin-dashboard/admin_dashboard.php:450
+msgid ""
+"Shown before posts in blog or archive pages. Use <!--next--> to rotate "
+"multiple ads."
+msgstr ""
+"Ditampilkan sebelum postingan di halaman blog atau arsip. Gunakan <!--"
+"next--> untuk merotasi beberapa iklan."
+
+#: admin-dashboard/admin_dashboard.php:455
+msgid "After Post List"
+msgstr "Setelah Daftar Posting"
+
+#: admin-dashboard/admin_dashboard.php:458
+msgid ""
+"Shown after posts in archive or blog listings. Supports ad rotation using <!"
+"--next--> tag."
+msgstr ""
+"Ditampilkan setelah posting di arsip atau daftar blog. Mendukung rotasi "
+"iklan menggunakan tag <!--next-->."
+
+#: admin-dashboard/admin_dashboard.php:463
+msgid "Between Posts"
+msgstr "Antar Posting"
+
+#: admin-dashboard/admin_dashboard.php:466
+msgid ""
+"Manually inserted between posts in archive loop using hooks/snippets. Rotate"
+" with <!--next--> if needed."
+msgstr ""
+"Disisipkan secara manual di antara posting dalam loop arsip menggunakan "
+"kait/cuplikan. Putar dengan <!--next--> jika diperlukan."
+
+#: admin-dashboard/admin_dashboard.php:471
+msgid "Save Ads Settings"
+msgstr "Simpan Pengaturan Iklan"
+
+#: admin-dashboard/admin_dashboard.php:476
+msgid "Helpful YouTube Videos"
+msgstr "Video YouTube yang Bermanfaat"
+
+#: admin-dashboard/admin_dashboard.php:481
+msgid "Launch Your News Website Quickly"
+msgstr "Luncurkan Situs Web Berita Anda dengan Cepat"
+
+#: admin-dashboard/admin_dashboard.php:482
+msgid "Use our free accessible theme to build a news site without coding."
+msgstr ""
+"Gunakan tema kami yang dapat diakses gratis untuk membangun situs berita "
+"tanpa coding."
+
+#: admin-dashboard/admin_dashboard.php:489
+msgid "Multi-Author Collaboration"
+msgstr "Kolaborasi Multi-Penulis"
+
+#: admin-dashboard/admin_dashboard.php:490
+msgid "Learn how to manage multiple authors smoothly with our plugin."
+msgstr ""
+"Pelajari cara mengelola banyak penulis dengan lancar dengan plugin kami."
+
+#: admin-dashboard/admin_dashboard.php:497
+msgid "Import Gutenberg Patterns"
+msgstr "Impor Pola Gutenberg"
+
+#: admin-dashboard/admin_dashboard.php:498
+msgid "Easily import templates and patterns for consistent layouts."
+msgstr "Impor templat dan pola dengan mudah untuk tata letak yang konsisten."
+
+#: admin-dashboard/admin_dashboard.php:505
+msgid "Elementor Tutorial for Beginners"
+msgstr "Tutorial Elemen untuk Pemula"
+
+#: admin-dashboard/admin_dashboard.php:506
+msgid "Build a professional news site fast with no coding needed."
+msgstr ""
+"Bangun situs berita profesional dengan cepat tanpa memerlukan pengkodean."
+
+#: admin-dashboard/admin_dashboard.php:513
+msgid "Multilingual Translation Guide"
+msgstr "Panduan Terjemahan Multibahasa"
+
+#: admin-dashboard/admin_dashboard.php:514
+msgid "Step-by-step guide to translate your site into multiple languages."
+msgstr ""
+"Panduan langkah demi langkah untuk menerjemahkan situs Anda ke berbagai "
+"bahasa."
+
+#: admin-dashboard/admin_dashboard.php:570
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "Plugin Templatespare harus diperbarui ke versi terbaru"
+
+#: admin-dashboard/admin_dashboard.php:573
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+"Impor Situs Pemula, Personalisasikan, dan Hidupkan dalam 3 Langkah Mudah!"
+
+#: admin-dashboard/admin_dashboard.php:639
+msgid "Blockspare plugin version should be more than %s."
+msgstr "Versi plugin Blockspare harus lebih dari %s."
+
+#: admin-dashboard/admin_dashboard.php:644
+#: admin-dashboard/admin_dashboard.php:714
+msgid "One-click Import, No Coding Hassle!"
+msgstr "Impor Sekali Klik, Tanpa Repot Pengkodean!"
+
+#: admin-dashboard/admin_dashboard.php:713
+msgid "Elespare plugin version should be more than %s."
+msgstr "Versi plugin Elespare harus lebih dari %s."
+
+#: admin-dashboard/admin_dashboard.php:790
+msgid "Are you sure you want to install this plugin?"
+msgstr "Apakah Anda yakin ingin memasang plugin ini?"
+
+#: admin-dashboard/admin_dashboard.php:791
+#: admin-dashboard/rest-api/api-request.php:26
+msgid "Install Now"
+msgstr "Instal Sekarang"
+
+#: admin-dashboard/admin_dashboard.php:792
+#: admin-dashboard/rest-api/api-request.php:70
+#: lib/tgm/class-tgm-plugin-activation.php:2736
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#: admin-dashboard/admin_dashboard.php:793
+#: admin-dashboard/rest-api/api-request.php:66
+msgid "Activated"
+msgstr "Diaktifkan"
+
+#: admin-dashboard/admin_dashboard.php:896
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:106
+msgid "Get Starter Sites"
+msgstr "Dapatkan Situs Pemula"
+
+#: admin-dashboard/admin_dashboard.php:901
+#: admin-dashboard/rest-api/class-admin-notice.php:110
+#: admin-dashboard/src/components/blockspare.demo.js:27
+#: admin-dashboard/src/components/elespare-demo.js:29
+#: admin-dashboard/src/components/templatespare-demo.js:56
+msgid "Get Started"
+msgstr "Memulai"
+
+#: admin-dashboard/admin_dashboard.php:902
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"Tindakan \"Memulai\" akan menginstal/mengaktifkan plugin Templatespare dan "
+"Blockspare untuk Situs Pemula dan Template."
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "Oleh"
+
+#: admin-dashboard/rest-api/api-request.php:114
+msgid "More Details"
+msgstr "Lebih Detail"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:111
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare  plugin "
+"for Starter Sites and Templates."
+msgstr ""
+"Tindakan \"Memulai\" akan menginstal/mengaktifkan plugin Templatespare untuk"
+" Situs Pemula dan Template."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:125
+msgid "Howdy!"
+msgstr "Halo!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:127
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr ""
+"%s sekarang sudah terpasang dan siap digunakan. Kami telah mengumpulkan "
+"beberapa tautan untuk membantu Anda memulai."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:161
+msgid "Explore Our Pre-Built Starter Websites!"
+msgstr "Jelajahi Situs Web Pemula Kami yang Telah Dibangun Sebelumnya!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:162
+msgid ""
+"Let your imagination soar! Designed with User-Friendly features, "
+"incorporating the Latest Trends and SEO-Friendly Markups. We genuinely "
+"appreciate you choosing our theme!"
+msgstr ""
+"Biarkan imajinasi Anda melambung! Dirancang dengan fitur Ramah Pengguna, "
+"menggabungkan Tren Terbaru dan Markup Ramah SEO. Kami sangat menghargai Anda"
+" memilih tema kami!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:166
+msgid "Demos/product"
+msgstr "Demo/produk"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:168
+msgid "Theme dashboard"
+msgstr "Dasbor tema"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:192
+#: admin-dashboard/src/components/json/dashboard-content.js:14
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:193 lib/info/info.php:56
+#: lib/info/info.php:119
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr ""
+"Silakan periksa dokumentasi lengkap kami untuk informasi rinci tentang cara "
+"mengatur dan menyesuaikan tema."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:194
+msgid "Docs"
+msgstr "dokumen"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:195
+msgid "Videos"
+msgstr "Video"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:196
+msgid "Blog"
+msgstr "blog"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197 lib/info/info.php:46
+#: admin-dashboard/src/components/json/dashboard-content.js:18
+msgid "Rate This Theme"
+msgstr "Nilai Tema Ini"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:9
+#: admin-dashboard/rest-api/class-ajaxcall.php:136
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Maaf, Anda tidak diperbolehkan memasang plugin di situs ini."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:16
+#: admin-dashboard/rest-api/class-ajaxcall.php:76
+#: admin-dashboard/rest-api/class-ajaxcall.php:143
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Kesalahan - tidak dapat memverifikasi nonce, coba lagi."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:69
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "Maaf, Anda tidak diperbolehkan mengaktifkan plugin di situs ini."
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Satu pemikiran tentang &ldquo;%1$s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pemikiran tentang &ldquo;%2$s&rdquo;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:176 inc/customizer/builder/builder-structure.php:413
+msgid "%1$s by %2$s."
+msgstr "%1$s oleh %2$s."
+
+#: functions.php:153 inc/class-amp-compatible.php:154
+#: inc/customizer/builder/builder-structure.php:249
+#: inc/hooks/hook-header-section.php:159
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php:154
+msgid "Top Menu"
+msgstr "Menu Teratas"
+
+#: functions.php:155 inc/customizer/builder/options.php:264
+#: inc/customizer/builder/options.php:269
+#: inc/customizer/builder/options.php:394
+#: inc/customizer/builder/options.php:399
+msgid "Social Menu"
+msgstr "Menu Sosial"
+
+#: functions.php:156
+msgid "Footer Menu"
+msgstr "Menu Catatan Kaki"
+
+#: functions.php:601
+msgid "You already reacted."
+msgstr "Anda sudah bereaksi."
+
+#: functions.php:602
+msgid "Thanks for reacting!"
+msgstr "Terima kasih telah bereaksi!"
+
+#: functions.php:603
+msgid "Error occurred."
+msgstr "Terjadi kesalahan."
+
+#: header.php:55
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#: inc/ajax-loadmore-functions.php:21
+msgid "Load More"
+msgstr "Muat Lebih Banyak"
+
+#: inc/class-amp-compatible.php:192 inc/class-amp-compatible.php:196
+#: inc/hooks/hook-header-section.php:192
+msgid "Open search form"
+msgstr "Buka formulir pencarian"
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"Klik setelan <span class=\"dashicons dashicons-admin-generic\"></span> pada "
+"setiap elemen untuk menyesuaikan setelannya."
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr "Sembunyikan panel pembuat"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr "Sembunyikan Pembangun"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr "Kontrol tampilan perangkat"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr "Pilih Elemen"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr "Tutup pilih modal elemen"
+
+#: inc/customizer/builder/class-header-footer-builder.php:82
+msgid "Footer Layout"
+msgstr "Tata Letak Catatan Kaki"
+
+#: inc/customizer/builder/class-header-footer-builder.php:95
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr "Buat header dinamis dengan mudah menggunakan pembuat drag-and-drop."
+
+#: inc/customizer/builder/class-header-footer-builder.php:96
+msgid "Header"
+msgstr "Tajuk"
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr "Buat footer dinamis dengan mudah menggunakan pembuat drag-and-drop."
+
+#: inc/customizer/builder/class-header-footer-builder.php:99
+#: inc/customizer/theme-options.php:3102
+msgid "Footer"
+msgstr "catatan kaki"
+
+#: inc/customizer/builder/class-header-footer-builder.php:115
+msgid "Enable %s Builder"
+msgstr "Aktifkan Pembuat %s"
+
+#: inc/customizer/builder/class-header-footer-builder.php:278
+msgid "Add Element"
+msgstr "Tambahkan Elemen"
+
+#: inc/customizer/builder/class-header-footer-builder.php:279
+msgid "Remove Element"
+msgstr "Hapus Elemen"
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Configure Element"
+msgstr "Konfigurasikan Elemen"
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Element Settings"
+msgstr "Pengaturan Elemen"
+
+#: inc/customizer/builder/header-builder-structure.php:188
+#: inc/hooks/blocks/block-header-layout-default-2.php:100
+#: inc/hooks/blocks/block-header-layout-default-3.php:99
+#: inc/hooks/blocks/block-header-layout-default-4.php:92
+#: inc/hooks/blocks/block-header-layout-default.php:89
+#: inc/hooks/hook-header-section.php:119
+msgid "close Off-Canvas Navigation"
+msgstr "tutup Navigasi di Luar Kanvas"
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:467
+msgid "Site & Logo"
+msgstr "Situs & Logo"
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:473
+#: inc/customizer/builder/options.php:479
+msgid "Site Identity"
+msgstr "Identitas Situs"
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:478
+msgid "You can change Site Identity from %s."
+msgstr "Anda dapat mengubah Identitas Situs dari %s."
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:487
+#: inc/customizer/builder/options.php:492
+msgid "Promotion"
+msgstr "Promosi"
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:505
+#: inc/widgets/widgets-register-sidebars.php:82
+msgid "Off Canvas"
+msgstr "Di Luar Kanvas"
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:510
+msgid "Off Canvas Widget Area"
+msgstr "Area Widget Di Luar Kanvas"
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:515
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr "Area widget ini digunakan di panel luar kanvas seluler. %s"
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:295
+#: inc/customizer/builder/options.php:313
+#: inc/customizer/builder/options.php:331
+#: inc/customizer/builder/options.php:427
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:461
+#: inc/customizer/builder/options.php:516
+msgid "Manage widgets"
+msgstr "Kelola widget"
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:524
+msgid "Primary menu"
+msgstr "Menu utama"
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:350
+#: inc/customizer/builder/options.php:529
+#: inc/customizer/builder/options.php:550
+#: inc/customizer/builder/options.php:646
+msgid "Select Menu"
+msgstr "Pilih Menu"
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:276
+#: inc/customizer/builder/options.php:357
+#: inc/customizer/builder/options.php:406
+#: inc/customizer/builder/options.php:536
+#: inc/customizer/builder/options.php:557
+msgid "You can change Menu from menu panel. %s"
+msgstr "Anda dapat mengubah Menu dari panel menu. %s"
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:277
+#: inc/customizer/builder/options.php:358
+#: inc/customizer/builder/options.php:407
+#: inc/customizer/builder/options.php:537
+#: inc/customizer/builder/options.php:558
+msgid "Manage menu"
+msgstr "Kelola menu"
+
+#: inc/customizer/builder/options.php:167
+#: inc/customizer/builder/options.php:621
+msgid "Date"
+msgstr "Tanggal"
+
+#: inc/customizer/builder/options.php:172
+#: inc/customizer/builder/options.php:626
+msgid "Choose date format"
+msgstr "Pilih format tanggal"
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:179
+msgid ""
+"You can change date from general settings (Settings > General > Date "
+"Format). %s"
+msgstr ""
+"Anda dapat mengubah tanggal dari pengaturan umum (Pengaturan > Umum > Format"
+" Tanggal). %s"
+
+#: inc/customizer/builder/options.php:180
+msgid "Manage Date"
+msgstr "Kelola Tanggal"
+
+#: inc/customizer/builder/options.php:186
+#: inc/customizer/builder/options.php:545
+msgid "Top Navigation"
+msgstr "Navigasi Teratas"
+
+#: inc/customizer/builder/options.php:206
+#: inc/customizer/builder/options.php:211
+#: inc/customizer/builder/options.php:567
+#: inc/customizer/builder/options.php:572
+msgid "Site Mode"
+msgstr "Modus Situs"
+
+#: inc/customizer/builder/options.php:220
+#: inc/customizer/builder/options.php:366
+msgid "Custom HTML"
+msgstr "HTML khusus"
+
+#: inc/customizer/builder/options.php:225
+#: inc/customizer/builder/options.php:371
+msgid "HTML Content"
+msgstr "Konten HTML"
+
+#: inc/customizer/builder/options.php:234
+#: inc/customizer/builder/options.php:600
+msgid "Search"
+msgstr "Mencari"
+
+#: inc/customizer/builder/options.php:239
+#: inc/customizer/builder/options.php:605
+msgid "Searc Form"
+msgstr "Formulir Pencarian"
+
+#: inc/customizer/builder/options.php:248
+#: inc/customizer/builder/options.php:584
+msgid "Custom Link"
+msgstr "Tautan Khusus"
+
+#: inc/customizer/builder/options.php:253
+#: inc/customizer/builder/options.php:589
+msgid "Custom link"
+msgstr "Tautan khusus"
+
+#: inc/customizer/builder/options.php:256
+#: inc/customizer/builder/options.php:592
+msgid "live"
+msgstr "hidup"
+
+#: inc/customizer/builder/options.php:283
+#: inc/customizer/builder/options.php:416
+msgid "Widget 1"
+msgstr "Widget 1"
+
+#: inc/customizer/builder/options.php:288
+#: inc/customizer/builder/options.php:306
+#: inc/customizer/builder/options.php:324
+#: inc/customizer/builder/options.php:421
+#: inc/customizer/builder/options.php:438
+#: inc/customizer/builder/options.php:455
+msgid "Select Widget"
+msgstr "Pilih Widget"
+
+#: inc/customizer/builder/options.php:294
+#: inc/customizer/builder/options.php:312
+#: inc/customizer/builder/options.php:330
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:443
+#: inc/customizer/builder/options.php:460
+msgid "Add widget to display . %s"
+msgstr "Tambahkan widget untuk ditampilkan. %s"
+
+#: inc/customizer/builder/options.php:301
+#: inc/customizer/builder/options.php:433
+msgid "Widget 2"
+msgstr "Widget 2"
+
+#: inc/customizer/builder/options.php:319
+#: inc/customizer/builder/options.php:450
+msgid "Widget 3"
+msgstr "Widget 3"
+
+#: inc/customizer/builder/options.php:345
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: inc/customizer/builder/options.php:381
+msgid "Copyright"
+msgstr "Hak cipta"
+
+#: inc/customizer/builder/options.php:482
+#: inc/customizer/builder/options.php:497
+#: inc/customizer/builder/options.php:519
+#: inc/customizer/builder/options.php:540
+#: inc/customizer/builder/options.php:561
+#: inc/customizer/builder/options.php:577
+#: inc/customizer/builder/options.php:594
+#: inc/customizer/builder/options.php:615
+#: inc/customizer/builder/options.php:632
+msgid "Beta"
+msgstr "Beta"
+
+#. translators: %s is a link to manage header
+#: inc/customizer/builder/options.php:610
+msgid "You can manage header site mode, search and live text from here. %s"
+msgstr ""
+"Anda dapat mengelola mode situs tajuk, pencarian, dan teks langsung dari "
+"sini. %s"
+
+#: inc/customizer/builder/options.php:611
+msgid "Manage Header"
+msgstr "Kelola Tajuk"
+
+#: inc/customizer/builder/options.php:651
+msgid "No menu assigned"
+msgstr "Tidak ada menu yang ditetapkan"
+
+#: inc/customizer/customizer-control.php:192
+msgid "-- Select --"
+msgstr "-- Pilih --"
+
+#: inc/customizer/customizer-default.php:53 inc/template-functions.php:2395
+#: inc/template-functions.php:2438 inc/template-functions.php:2477
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+#: inc/customizer/customizer-default.php:68
+#: inc/customizer/frontpage-options.php:2047
+msgid "Popular Tags"
+msgstr "Tag Populer"
+
+#: inc/customizer/customizer-default.php:75
+#: inc/customizer/frontpage-options.php:2111 inc/template-functions.php:2319
+#: inc/template-functions.php:2348 inc/template-functions.php:2392
+#: inc/template-functions.php:2413 inc/template-functions.php:2437
+#: inc/template-functions.php:2460 inc/template-functions.php:2478
+#: inc/template-functions.php:2499 inc/template-functions.php:2543
+#: inc/template-functions.php:2567
+msgid "Breaking News"
+msgstr "Berita Terkini"
+
+#: inc/customizer/customizer-default.php:80
+#: inc/customizer/customizer-default.php:85
+msgid "Prime News"
+msgstr "Berita Utama"
+
+#: inc/customizer/customizer-default.php:86
+#: inc/customizer/customizer-default.php:371
+msgid "Related Stories"
+msgstr "Cerita Terkait"
+
+#: inc/customizer/customizer-default.php:93
+msgid "Youtube video Section"
+msgstr "Bagian video Youtube"
+
+#: inc/customizer/customizer-default.php:95
+msgid "Featured Videos"
+msgstr "Video Unggulan"
+
+#: inc/customizer/customizer-default.php:102
+msgid "Express Posts Section"
+msgstr "Bagian Pos Ekspres"
+
+#: inc/customizer/customizer-default.php:104
+msgid "Express Posts 1"
+msgstr "Pos Ekspres 1"
+
+#: inc/customizer/customizer-default.php:105
+msgid "Express Posts 2"
+msgstr "Pos Ekspres 2"
+
+#: inc/customizer/customizer-default.php:111
+msgid "Posts List Section"
+msgstr "Bagian Daftar Postingan"
+
+#: inc/customizer/customizer-default.php:113 inc/template-functions.php:2298
+#: inc/template-functions.php:2358 inc/template-functions.php:2513
+msgid "General"
+msgstr "Umum"
+
+#: inc/customizer/customizer-default.php:115
+#: inc/customizer/customizer-default.php:180 inc/template-functions.php:2299
+#: inc/template-functions.php:2359 inc/widgets/widget-posts-tabs.php:51
+#: inc/widgets/widget-posts-tabs.php:120 inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widgets-common-functions.php:115
+#: lib/tgm/class-tgm-plugin-activation.php:2733
+msgid "Update"
+msgstr "Memperbarui"
+
+#: inc/customizer/customizer-default.php:117
+#: inc/customizer/customizer-default.php:185 inc/template-functions.php:2300
+#: inc/template-functions.php:2360 inc/template-functions.php:2515
+msgid "More"
+msgstr "Lagi"
+
+#: inc/customizer/customizer-default.php:122
+#: inc/customizer/frontpage-options.php:2747
+msgid "Posts Carousel"
+msgstr "Posting Korsel"
+
+#: inc/customizer/customizer-default.php:138
+msgid "Main News"
+msgstr "Berita Utama"
+
+#: inc/customizer/customizer-default.php:143
+#: inc/customizer/customizer-default.php:170 inc/template-functions.php:2569
+#: inc/widgets/widget-posts-tabs.php:45 inc/widgets/widget-posts-tabs.php:112
+#: inc/widgets/widget-posts-tabs.php:113
+msgid "Latest"
+msgstr "Terbaru"
+
+#: inc/customizer/customizer-default.php:144
+#: inc/customizer/customizer-default.php:160 inc/template-functions.php:2509
+#: inc/template-functions.php:2568 inc/widgets/widget-posts-tabs.php:48
+#: inc/widgets/widget-posts-tabs.php:116 inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widgets-common-functions.php:102
+msgid "Popular"
+msgstr "Populer"
+
+#: inc/customizer/customizer-default.php:145 inc/template-functions.php:2570
+msgid "Trending"
+msgstr "Sedang tren"
+
+#: inc/customizer/customizer-default.php:148
+#: inc/customizer/customizer-default.php:211
+#: inc/customizer/customizer-default.php:340 inc/template-functions.php:2397
+msgid "Trending Now"
+msgstr "Sedang Tren Sekarang"
+
+#: inc/customizer/customizer-default.php:154
+msgid "Popular Now"
+msgstr "Populer Sekarang"
+
+#: inc/customizer/customizer-default.php:165 inc/template-functions.php:2292
+#: inc/template-functions.php:2588
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer/customizer-default.php:175
+#: inc/customizer/theme-options.php:2907
+msgid "Top"
+msgstr "Atas"
+
+#: inc/customizer/customizer-default.php:206
+#: inc/customizer/customizer-default.php:224 inc/template-functions.php:2396
+msgid "Editor's Picks"
+msgstr "Pilihan Editor"
+
+#: inc/customizer/customizer-default.php:227
+msgid "Trending Story"
+msgstr "Cerita yang Sedang Tren"
+
+#: inc/customizer/customizer-default.php:232
+#: inc/customizer/frontpage-options.php:2243
+msgid "Featured Posts"
+msgstr "Postingan Unggulan"
+
+#: inc/customizer/customizer-default.php:239
+msgid "Featured Categories"
+msgstr "Kategori Unggulan"
+
+#: inc/customizer/customizer-default.php:240
+msgid "Featured Pages"
+msgstr "Halaman Unggulan"
+
+#: inc/customizer/customizer-default.php:241
+msgid "Custom Options"
+msgstr "Opsi Kustom"
+
+#: inc/customizer/customizer-default.php:244
+msgid "Post list Section Title %d"
+msgstr "Daftar posting Judul Bagian %d"
+
+#: inc/customizer/customizer-default.php:250
+msgid "View More"
+msgstr "Lihat Lebih Banyak"
+
+#: inc/customizer/customizer-default.php:273
+msgid "Read More"
+msgstr "Baca selengkapnya"
+
+#: inc/customizer/customizer-default.php:335
+msgid "What do you feel about this?"
+msgstr "Apa yang Anda rasakan tentang ini?"
+
+#: inc/customizer/customizer-default.php:351
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "Terhubung dengan Kami"
+
+#: inc/customizer/customizer-default.php:357
+#: inc/widgets/widget-author-info.php:170
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/customizer-default.php:363 inc/template-functions.php:2321
+#: inc/template-functions.php:2486 inc/template-functions.php:2532
+msgid "Popular News"
+msgstr "Berita Populer"
+
+#: inc/customizer/customizer-default.php:380
+msgid "Subscribe To  Our Newsletter"
+msgstr "Berlangganan Buletin Kami"
+
+#: inc/customizer/customizer-default.php:389
+#: inc/customizer/theme-options.php:2921
+msgid "You May Have Missed"
+msgstr "Anda mungkin melewatkannya"
+
+#: inc/customizer/customizer-default.php:393
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr "Hak cipta &salinan; {year} Semua hak dilindungi undang-undang."
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr "Warna Latar Belakang Tubuh"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr "Ukuran Judul Situs"
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr "Judul dan Tagline Situs Huruf Besar"
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr "Judul Situs/Warna Tagline"
+
+#: inc/customizer/customizer.php:154
+msgid "Header Image"
+msgstr "Gambar Tajuk"
+
+#: inc/customizer/customizer.php:175
+msgid "Header Image Mode"
+msgstr "Mode Gambar Tajuk"
+
+#: inc/customizer/customizer.php:176
+msgid "Image visibility may vary as per the mode"
+msgstr "Visibilitas gambar dapat bervariasi sesuai mode"
+
+#: inc/customizer/customizer.php:180
+msgid "Above Site Title"
+msgstr "Di atas Judul Situs"
+
+#: inc/customizer/customizer.php:181
+msgid "Set as Background"
+msgstr "Tetapkan sebagai Latar Belakang"
+
+#: inc/customizer/customizer.php:182
+msgid "Show Full Image (Background)"
+msgstr "Tampilkan Gambar Penuh (Latar Belakang)"
+
+#: inc/customizer/customizer.php:201
+msgid "Disable Image Tint/Overlay"
+msgstr "Nonaktifkan Warna/Hamparan Gambar"
+
+#: inc/customizer/font-color-options.php:25
+msgid "Site Title/Tagline Color (Dark Mode)"
+msgstr "Judul Situs/Warna Tagline (Mode Gelap)"
+
+#: inc/customizer/font-color-options.php:47
+msgid "Site Color Mode"
+msgstr "Mode Warna Situs"
+
+#: inc/customizer/font-color-options.php:48
+msgid "If the mode switch is in the menu, please test it using the toggle."
+msgstr ""
+"Jika sakelar mode ada di menu, silakan uji menggunakan sakelar tersebut."
+
+#: inc/customizer/font-color-options.php:52
+msgid "Light"
+msgstr "Lampu"
+
+#: inc/customizer/font-color-options.php:53
+msgid "Dark"
+msgstr "Gelap"
+
+#: inc/customizer/font-color-options.php:72
+msgid "Primary Color Section "
+msgstr "Bagian Warna Primer"
+
+#: inc/customizer/font-color-options.php:94
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr ""
+"Warna Latar Belakang Tubuh (Mode Gelap) akan diterapkan untuk mode ini."
+
+#: inc/customizer/font-color-options.php:118
+msgid "Body Background Color (Dark Mode)"
+msgstr "Warna Latar Belakang Tubuh (Mode Gelap)"
+
+#: inc/customizer/font-color-options.php:142
+#: inc/customizer/font-color-options.php:169
+msgid "Box Background Color"
+msgstr "Warna Latar Belakang Kotak"
+
+#: inc/customizer/font-color-options.php:198
+#: inc/customizer/font-color-options.php:222
+msgid "Primary Color"
+msgstr "Warna Primer"
+
+#: inc/customizer/font-color-options.php:244
+msgid "Secondary Color Section "
+msgstr "Bagian Warna Sekunder"
+
+#: inc/customizer/font-color-options.php:269
+msgid "Secondary Color"
+msgstr "Warna Sekunder"
+
+#: inc/customizer/font-color-options.php:294
+msgid "Texts over Secondary Color"
+msgstr "Teks di atas Warna Sekunder"
+
+#: inc/customizer/font-color-options.php:317
+msgid "Top Header Section "
+msgstr "Bagian Header Atas"
+
+#: inc/customizer/font-color-options.php:341
+#: inc/customizer/font-color-options.php:414
+#: inc/customizer/font-color-options.php:1219
+#: inc/customizer/font-color-options.php:1300
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customizer/font-color-options.php:365
+#: inc/customizer/font-color-options.php:1247
+#: inc/customizer/font-color-options.php:1324
+msgid "Texts Color"
+msgstr "Warna Teks"
+
+#: inc/customizer/font-color-options.php:390
+msgid "Primary Navigation Section "
+msgstr "Bagian Navigasi Utama"
+
+#: inc/customizer/font-color-options.php:438
+msgid "Menu Item Color"
+msgstr "Warna Butir Menu"
+
+#: inc/customizer/font-color-options.php:462
+msgid "Badge Background"
+msgstr "Latar Belakang Lencana"
+
+#: inc/customizer/font-color-options.php:486
+msgid "Badge Text Color"
+msgstr "Warna Teks Lencana"
+
+#: inc/customizer/font-color-options.php:511
+msgid "Watch Online Background"
+msgstr "Tonton Latar Belakang Online"
+
+#: inc/customizer/font-color-options.php:536
+msgid "Breaking News Background"
+msgstr "Latar Belakang Berita Terkini"
+
+#: inc/customizer/font-color-options.php:559
+msgid "Archive/Widgets Section "
+msgstr "Bagian Arsip/Widget"
+
+#: inc/customizer/font-color-options.php:582
+#: inc/customizer/font-color-options.php:606
+msgid "Post Title"
+msgstr "Judul Postingan"
+
+#: inc/customizer/font-color-options.php:630
+msgid "Post Title Over Image"
+msgstr "Judul Posting Di Atas Gambar"
+
+#: inc/customizer/font-color-options.php:656
+msgid "Category Color Section "
+msgstr "Kategori Bagian Warna"
+
+#: inc/customizer/font-color-options.php:668
+msgid "Category Colors"
+msgstr "Kategori Warna"
+
+#: inc/customizer/font-color-options.php:692
+msgid "Category %d Background"
+msgstr "Kategori %d Latar Belakang"
+
+#: inc/customizer/font-color-options.php:715
+msgid "Category %d Texts Color"
+msgstr "Kategori %d Warna Teks"
+
+#: inc/customizer/font-color-options.php:730
+msgid "Fonts & Typography"
+msgstr "Font & Tipografi"
+
+#: inc/customizer/font-color-options.php:753
+msgid "Font Family Section"
+msgstr "Bagian Keluarga Font"
+
+#: inc/customizer/font-color-options.php:776
+msgid "Fonts Source"
+msgstr "Sumber Font"
+
+#: inc/customizer/font-color-options.php:780
+msgid "Theme (Google) Fonts"
+msgstr "Tema (Google) Font"
+
+#: inc/customizer/font-color-options.php:781
+msgid "System Fonts"
+msgstr "Font Sistem"
+
+#: inc/customizer/font-color-options.php:801
+msgid "Site Title Font"
+msgstr "Font Judul Situs"
+
+#: inc/customizer/font-color-options.php:823
+msgid "Primary Font"
+msgstr "Font Utama"
+
+#: inc/customizer/font-color-options.php:845
+msgid "Secondary Font"
+msgstr "Font Sekunder"
+
+#: inc/customizer/font-color-options.php:869
+msgid "Texts Formatting Section"
+msgstr "Bagian Pemformatan Teks"
+
+#: inc/customizer/font-color-options.php:891
+msgid "Title Font Weight"
+msgstr "Berat Font Judul"
+
+#: inc/customizer/font-color-options.php:892
+#: inc/customizer/font-color-options.php:923
+#: inc/customizer/font-color-options.php:1005
+#: inc/customizer/font-color-options.php:1026
+#: inc/customizer/font-color-options.php:1047
+#: inc/customizer/font-color-options.php:1067
+#: inc/customizer/font-color-options.php:1088
+#: inc/customizer/font-color-options.php:1109
+#: inc/customizer/font-color-options.php:1129
+#: inc/customizer/font-color-options.php:1152
+#: inc/customizer/font-color-options.php:1173
+msgid "Default Value: %d"
+msgstr "Nilai Bawaan: %d"
+
+#: inc/customizer/font-color-options.php:896
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/font-color-options.php:897
+msgid "200"
+msgstr "200"
+
+#: inc/customizer/font-color-options.php:898
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/font-color-options.php:899
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/font-color-options.php:900
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/font-color-options.php:901
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/font-color-options.php:902
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/font-color-options.php:903
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/font-color-options.php:904
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/font-color-options.php:922
+msgid "Global Letter Spacing"
+msgstr "Spasi Huruf Global"
+
+#: inc/customizer/font-color-options.php:942
+msgid "Title Line height"
+msgstr "Tinggi Garis Judul"
+
+#: inc/customizer/font-color-options.php:943
+#: inc/customizer/font-color-options.php:963
+msgid "Default Value: %g"
+msgstr "Nilai Bawaan: %g"
+
+#: inc/customizer/font-color-options.php:962
+msgid "Global Line height"
+msgstr "Ketinggian Garis Global"
+
+#: inc/customizer/font-color-options.php:984
+msgid "Font Size Section"
+msgstr "Bagian Ukuran Font"
+
+#: inc/customizer/font-color-options.php:1004
+msgid "General Font Size"
+msgstr "Ukuran Font Umum"
+
+#: inc/customizer/font-color-options.php:1025
+msgid "Global Section Title Size"
+msgstr "Ukuran Judul Bagian Global"
+
+#: inc/customizer/font-color-options.php:1046
+msgid "Big Spotlight Post Title Size"
+msgstr "Ukuran Judul Postingan Sorotan Besar"
+
+#: inc/customizer/font-color-options.php:1066
+msgid "Medium Spotlight Post Title Size"
+msgstr "Ukuran Judul Postingan Sorotan Sedang"
+
+#: inc/customizer/font-color-options.php:1087
+msgid "General Post Title Size (Grid)"
+msgstr "Ukuran Judul Postingan Umum (Kisi)"
+
+#: inc/customizer/font-color-options.php:1108
+msgid "General Post Title Size (List)"
+msgstr "Ukuran Judul Postingan Umum (Daftar)"
+
+#: inc/customizer/font-color-options.php:1128
+msgid "General Grid Post Title Size"
+msgstr "Ukuran Judul Posting Grid Umum"
+
+#: inc/customizer/font-color-options.php:1151
+msgid "Single Page/Posts Title Size"
+msgstr "Ukuran Judul Halaman/Postingan Tunggal"
+
+#: inc/customizer/font-color-options.php:1172
+msgid "Single Page/Posts Paragraph Size"
+msgstr "Ukuran Paragraf Halaman/Postingan Tunggal"
+
+#: inc/customizer/font-color-options.php:1193
+msgid "MailChimp Section"
+msgstr "Bagian MailChimp"
+
+#: inc/customizer/font-color-options.php:1277
+msgid "Footer Section"
+msgstr "Bagian Catatan Kaki"
+
+#: inc/customizer/font-color-options.php:1348
+msgid "Credits Background Color"
+msgstr "Warna Latar Belakang Kredit"
+
+#: inc/customizer/font-color-options.php:1371
+msgid "Credits Texts Color"
+msgstr "Warna Teks Kredit"
+
+#: inc/customizer/frontpage-options.php:23
+#: admin-dashboard/src/components/json/home-content.js:45
+msgid "Main Banner Options"
+msgstr "Opsi Spanduk Utama"
+
+#: inc/customizer/frontpage-options.php:38
+msgid "Main Banner"
+msgstr "Spanduk Utama"
+
+#: inc/customizer/frontpage-options.php:59
+msgid "Enable Main Banner Section"
+msgstr "Aktifkan Bagian Spanduk Utama"
+
+#: inc/customizer/frontpage-options.php:84
+msgid "Main Banner Background Image"
+msgstr "Gambar Latar Belakang Spanduk Utama"
+
+#: inc/customizer/frontpage-options.php:85
+#: inc/customizer/theme-options.php:340 inc/customizer/theme-options.php:3141
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Ukuran yang Disarankan %1$s piksel X %2$s piksel"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select Main Banner Layout"
+msgstr "Pilih Tata Letak Spanduk Utama"
+
+#: inc/customizer/frontpage-options.php:115
+msgid "Slider, Trending and Tabs"
+msgstr "Slider, Tren, dan Tab"
+
+#: inc/customizer/frontpage-options.php:116
+msgid "Slider, Tiles and Tabs"
+msgstr "Slider, Ubin, dan Tab"
+
+#: inc/customizer/frontpage-options.php:117
+msgid "Slider, Tiles and Trending"
+msgstr "Slider, Ubin, dan Tren"
+
+#: inc/customizer/frontpage-options.php:118
+msgid "Slider and Double Tiles"
+msgstr "Slider dan Ubin Ganda"
+
+#: inc/customizer/frontpage-options.php:119
+msgid "Slider and Tiles"
+msgstr "Penggeser dan Ubin"
+
+#: inc/customizer/frontpage-options.php:120
+msgid "Slider and Double Tabs"
+msgstr "Slider dan Tab Ganda"
+
+#: inc/customizer/frontpage-options.php:121
+msgid "Slider and Single Tabs"
+msgstr "Slider dan Tab Tunggal"
+
+#: inc/customizer/frontpage-options.php:122
+msgid "Slider and Double Trending"
+msgstr "Slider dan Tren Ganda"
+
+#: inc/customizer/frontpage-options.php:123
+msgid "Slider and Single Trending"
+msgstr "Slider dan Tren Tunggal"
+
+#: inc/customizer/frontpage-options.php:124
+msgid "2 Columns Carousel"
+msgstr "Korsel 2 Kolom"
+
+#: inc/customizer/frontpage-options.php:125
+msgid "3 Columns Carousel"
+msgstr "Korsel 3 Kolom"
+
+#: inc/customizer/frontpage-options.php:126
+msgid "4 Columns Carousel"
+msgstr "Korsel 4 Kolom"
+
+#: inc/customizer/frontpage-options.php:127
+msgid "Single Slider"
+msgstr "Penggeser Tunggal"
+
+#: inc/customizer/frontpage-options.php:148
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/frontpage-options.php:205
+msgid "Select Main Banner Order"
+msgstr "Pilih Urutan Banner Utama"
+
+#: inc/customizer/frontpage-options.php:152
+#: inc/customizer/frontpage-options.php:183
+#: inc/customizer/frontpage-options.php:209
+msgid "Order 1"
+msgstr "Pesan 1"
+
+#: inc/customizer/frontpage-options.php:153
+#: inc/customizer/frontpage-options.php:184
+#: inc/customizer/frontpage-options.php:210
+msgid "Order 2"
+msgstr "Pesan 2"
+
+#: inc/customizer/frontpage-options.php:154
+#: inc/customizer/frontpage-options.php:211
+msgid "Order 3"
+msgstr "Pesan 3"
+
+#: inc/customizer/frontpage-options.php:155
+#: inc/customizer/frontpage-options.php:212
+msgid "Order 4"
+msgstr "Pesan 4"
+
+#: inc/customizer/frontpage-options.php:156
+msgid "Order 5"
+msgstr "Pesan 5"
+
+#: inc/customizer/frontpage-options.php:157
+msgid "Order 6"
+msgstr "Pesan 6"
+
+#: inc/customizer/frontpage-options.php:238
+msgid "Main News Section "
+msgstr "Bagian Berita Utama"
+
+#: inc/customizer/frontpage-options.php:257
+#: inc/customizer/frontpage-options.php:430
+#: inc/customizer/frontpage-options.php:593
+#: inc/customizer/frontpage-options.php:755
+#: inc/customizer/frontpage-options.php:921
+#: inc/customizer/frontpage-options.php:1090
+#: inc/customizer/frontpage-options.php:1255
+#: inc/customizer/frontpage-options.php:1420
+#: inc/customizer/frontpage-options.php:1587
+#: inc/customizer/frontpage-options.php:1752
+#: inc/customizer/frontpage-options.php:1917
+#: inc/customizer/frontpage-options.php:2095
+#: inc/customizer/frontpage-options.php:2159
+#: inc/customizer/frontpage-options.php:2286
+#: inc/customizer/frontpage-options.php:2399
+#: inc/customizer/frontpage-options.php:2519
+#: inc/customizer/frontpage-options.php:2787
+msgid "Section Title "
+msgstr "Judul Bagian"
+
+#: inc/customizer/frontpage-options.php:283
+#: inc/customizer/frontpage-options.php:460
+#: inc/customizer/frontpage-options.php:623
+#: inc/customizer/frontpage-options.php:786
+#: inc/customizer/frontpage-options.php:952
+#: inc/customizer/frontpage-options.php:1120
+#: inc/customizer/frontpage-options.php:1284
+#: inc/customizer/frontpage-options.php:1449
+#: inc/customizer/frontpage-options.php:1617
+#: inc/customizer/frontpage-options.php:1781
+#: inc/customizer/frontpage-options.php:1946
+#: inc/widgets/widget-popular-posts.php:117
+msgid "Filter Posts By"
+msgstr "Filter Postingan Berdasarkan"
+
+#: inc/customizer/frontpage-options.php:287
+#: inc/customizer/frontpage-options.php:464
+#: inc/customizer/frontpage-options.php:627
+#: inc/customizer/frontpage-options.php:790
+#: inc/customizer/frontpage-options.php:956
+#: inc/customizer/frontpage-options.php:1124
+#: inc/customizer/frontpage-options.php:1288
+#: inc/customizer/frontpage-options.php:1453
+#: inc/customizer/frontpage-options.php:1621
+#: inc/customizer/frontpage-options.php:1785
+#: inc/customizer/frontpage-options.php:1950
+#: inc/customizer/frontpage-options.php:2546
+#: inc/customizer/frontpage-options.php:2615
+#: inc/customizer/frontpage-options.php:2727
+msgid "Category"
+msgstr "Kategori"
+
+#: inc/customizer/frontpage-options.php:288
+#: inc/customizer/frontpage-options.php:465
+#: inc/customizer/frontpage-options.php:628
+#: inc/customizer/frontpage-options.php:791
+#: inc/customizer/frontpage-options.php:957
+#: inc/customizer/frontpage-options.php:1125
+#: inc/customizer/frontpage-options.php:1289
+#: inc/customizer/frontpage-options.php:1454
+#: inc/customizer/frontpage-options.php:1622
+#: inc/customizer/frontpage-options.php:1786
+#: inc/customizer/frontpage-options.php:1951
+msgid "Tag"
+msgstr "Menandai"
+
+#: inc/customizer/frontpage-options.php:289
+#: inc/customizer/frontpage-options.php:466
+#: inc/customizer/frontpage-options.php:629
+#: inc/customizer/frontpage-options.php:792
+#: inc/customizer/frontpage-options.php:958
+#: inc/customizer/frontpage-options.php:1126
+#: inc/customizer/frontpage-options.php:1290
+#: inc/customizer/frontpage-options.php:1455
+#: inc/customizer/frontpage-options.php:1623
+#: inc/customizer/frontpage-options.php:1787
+#: inc/customizer/frontpage-options.php:1952
+#: inc/customizer/theme-options.php:945
+msgid "Comment Count"
+msgstr "Jumlah Komentar"
+
+#: inc/customizer/frontpage-options.php:290
+#: inc/customizer/frontpage-options.php:467
+#: inc/customizer/frontpage-options.php:630
+#: inc/customizer/frontpage-options.php:793
+#: inc/customizer/frontpage-options.php:959
+#: inc/customizer/frontpage-options.php:1127
+#: inc/customizer/frontpage-options.php:1291
+#: inc/customizer/frontpage-options.php:1456
+#: inc/customizer/frontpage-options.php:1624
+#: inc/customizer/frontpage-options.php:1788
+#: inc/customizer/frontpage-options.php:1953
+#: inc/customizer/theme-options.php:982
+msgid "View Count"
+msgstr "Lihat Jumlah"
+
+#: inc/customizer/frontpage-options.php:313
+#: inc/widgets/widget-express-posts-list.php:137
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:140
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+#: inc/customizer/frontpage-options.php:314
+msgid "Select category to be shown on main slider section"
+msgstr "Pilih kategori yang akan ditampilkan pada bagian slider utama"
+
+#: inc/customizer/frontpage-options.php:346
+#: inc/customizer/frontpage-options.php:530
+#: inc/customizer/frontpage-options.php:693
+#: inc/customizer/frontpage-options.php:858
+#: inc/customizer/frontpage-options.php:1024
+#: inc/customizer/frontpage-options.php:1191
+#: inc/customizer/frontpage-options.php:1356
+#: inc/customizer/frontpage-options.php:1521
+#: inc/customizer/frontpage-options.php:1688
+#: inc/customizer/frontpage-options.php:1853
+#: inc/customizer/frontpage-options.php:2018
+#: inc/widgets/widget-trending-posts-by-tag.php:121
+msgid "Select Tag"
+msgstr "Pilih Tandai"
+
+#: inc/customizer/frontpage-options.php:347
+msgid "Select tag to be shown on main slider section"
+msgstr "Pilih tag untuk ditampilkan di bagian slider utama"
+
+#: inc/customizer/frontpage-options.php:375
+#: inc/customizer/frontpage-options.php:2337
+#: inc/customizer/frontpage-options.php:2837
+#: inc/customizer/theme-options.php:2983
+msgid "Number of Posts"
+msgstr "Jumlah Postingan"
+
+#: inc/customizer/frontpage-options.php:376
+msgid "Accepts any postive number."
+msgstr "Menerima nomor positif apa pun."
+
+#: inc/customizer/frontpage-options.php:404
+msgid "Editor's Picks Section"
+msgstr "Bagian Pilihan Editor"
+
+#: inc/customizer/frontpage-options.php:496
+#: inc/customizer/frontpage-options.php:659
+#: inc/customizer/frontpage-options.php:823
+#: inc/customizer/frontpage-options.php:989
+#: inc/customizer/frontpage-options.php:1157
+#: inc/customizer/frontpage-options.php:1322
+#: inc/customizer/frontpage-options.php:1487
+#: inc/customizer/frontpage-options.php:1654
+#: inc/customizer/frontpage-options.php:1819
+#: inc/customizer/frontpage-options.php:1984
+#: inc/widgets/widget-express-posts-grid.php:127
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "Memilih"
+
+#: inc/customizer/frontpage-options.php:567
+#: inc/customizer/frontpage-options.php:729
+msgid "Trending Section"
+msgstr "Bagian Trending"
+
+#: inc/customizer/frontpage-options.php:895
+msgid "Trending Section 2"
+msgstr "Bagian Trending 2"
+
+#: inc/customizer/frontpage-options.php:1063
+msgid "Latest Section"
+msgstr "Bagian Terbaru"
+
+#: inc/customizer/frontpage-options.php:1228
+msgid "Popular Section"
+msgstr "Bagian Populer"
+
+#: inc/customizer/frontpage-options.php:1393
+msgid "Updates Section"
+msgstr "Bagian Pembaruan"
+
+#: inc/customizer/frontpage-options.php:1560
+msgid "Tab 2: Latest Section"
+msgstr "Tab 2: Bagian Terbaru"
+
+#: inc/customizer/frontpage-options.php:1725
+msgid "Tab 2: Popular Section"
+msgstr "Tab 2: Bagian Populer"
+
+#: inc/customizer/frontpage-options.php:1890
+msgid "Tabs 2: Updates Section"
+msgstr "Tab 2: Bagian Pembaruan"
+
+#: inc/customizer/frontpage-options.php:2076
+msgid "Enable Trending Tags"
+msgstr "Aktifkan Tag Trending"
+
+#: inc/customizer/frontpage-options.php:2140
+msgid "Enable Flash News"
+msgstr "Aktifkan Berita Flash"
+
+#: inc/customizer/frontpage-options.php:2184
+msgid "Flash Posts Category"
+msgstr "Kategori Postingan Flash"
+
+#: inc/customizer/frontpage-options.php:2185
+msgid "Select category to be shown on trending posts "
+msgstr "Pilih kategori untuk ditampilkan pada postingan yang sedang tren"
+
+#: inc/customizer/frontpage-options.php:2209
+msgid "Number of Flash Posts "
+msgstr "Jumlah Postingan Flash"
+
+#: inc/customizer/frontpage-options.php:2228
+msgid "Front-page Options"
+msgstr "Opsi halaman depan"
+
+#: inc/customizer/frontpage-options.php:2266
+msgid "Enable Featured Post Section"
+msgstr "Aktifkan Bagian Postingan Unggulan"
+
+#: inc/customizer/frontpage-options.php:2312
+#: inc/customizer/frontpage-options.php:2812
+msgid "Select "
+msgstr "Memilih"
+
+#: inc/customizer/frontpage-options.php:2313
+#: inc/customizer/frontpage-options.php:2728
+#: inc/customizer/frontpage-options.php:2813
+msgid "Select category to be shown on featured section "
+msgstr "Pilih kategori untuk ditampilkan di bagian unggulan"
+
+#: inc/customizer/frontpage-options.php:2352
+msgid "Youtube Videos"
+msgstr "Video Youtube"
+
+#: inc/customizer/frontpage-options.php:2381
+msgid "Show Youtube Video"
+msgstr "Tampilkan Video Youtube"
+
+#: inc/customizer/frontpage-options.php:2425
+msgid "YouTube Video URL %d"
+msgstr "URL Video YouTube %d"
+
+#: inc/customizer/frontpage-options.php:2426
+msgid "Add youtube video"
+msgstr "Tambahkan video youtube"
+
+#: inc/customizer/frontpage-options.php:2449
+msgid "Express Posts"
+msgstr "Pos Ekspres"
+
+#: inc/customizer/frontpage-options.php:2478
+msgid "Show Express Post Section"
+msgstr "Tampilkan Bagian Pos Ekspres"
+
+#: inc/customizer/frontpage-options.php:2500
+msgid "Section 1"
+msgstr "Bagian 1"
+
+#: inc/customizer/frontpage-options.php:2547
+#: inc/customizer/frontpage-options.php:2616
+msgid "Select category to be shown on express post section "
+msgstr "Pilih kategori yang akan ditampilkan pada bagian pos kilat"
+
+#: inc/customizer/frontpage-options.php:2570
+msgid "Section 2"
+msgstr "Bagian 2"
+
+#: inc/customizer/frontpage-options.php:2592
+#: inc/customizer/frontpage-options.php:2702
+msgid "Section Title"
+msgstr "Judul Bagian"
+
+#: inc/customizer/frontpage-options.php:2637
+msgid "Posts List"
+msgstr "Daftar Postingan"
+
+#: inc/customizer/frontpage-options.php:2657
+msgid "Enable Post List Section"
+msgstr "Aktifkan Bagian Daftar Posting"
+
+#: inc/customizer/frontpage-options.php:2681
+msgid "Section %d"
+msgstr "Bagian %d"
+
+#: inc/customizer/frontpage-options.php:2767
+msgid "Enable Posts Carousel Section"
+msgstr "Aktifkan Bagian Korsel Postingan"
+
+#: inc/customizer/frontpage-options.php:2851
+msgid "Front-page Layout Settings"
+msgstr "Pengaturan Tata Letak Halaman Depan"
+
+#: inc/customizer/frontpage-options.php:2873
+msgid "Front-page Content Display"
+msgstr "Tampilan Konten Halaman Depan"
+
+#: inc/customizer/frontpage-options.php:2874
+msgid "Select frontpage content display"
+msgstr "Pilih tampilan konten halaman depan"
+
+#: inc/customizer/frontpage-options.php:2878
+msgid "Front-page Widgets"
+msgstr "Widget halaman depan"
+
+#: inc/customizer/frontpage-options.php:2879
+msgid "Page Contents & Front-page Widgets"
+msgstr "Isi Halaman & Widget Halaman Depan"
+
+#: inc/customizer/frontpage-options.php:2899
+msgid "Front-page Content Alignment"
+msgstr "Penyelarasan Konten Halaman Depan"
+
+#: inc/customizer/frontpage-options.php:2900
+msgid "Select frontpage content alignment"
+msgstr "Pilih perataan konten halaman depan"
+
+#: inc/customizer/frontpage-options.php:2904
+msgid "Home Content - Home Sidebar"
+msgstr "Konten Beranda - Bilah Sisi Beranda"
+
+#: inc/customizer/frontpage-options.php:2905
+msgid "Home Sidebar - Home Content"
+msgstr "Bilah Sisi Beranda - Konten Beranda"
+
+#: inc/customizer/frontpage-options.php:2906
+msgid "Only Home Content"
+msgstr "Hanya Konten Rumah"
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr "Opsi Tajuk"
+
+#: inc/customizer/theme-options.php:47
+msgid "Header Settings"
+msgstr "Pengaturan Tajuk"
+
+#: inc/customizer/theme-options.php:68
+msgid "Theme Header Layout"
+msgstr "Tata Letak Tajuk Tema"
+
+#: inc/customizer/theme-options.php:69
+msgid "Select built-in header layout from theme"
+msgstr "Pilih tata letak tajuk bawaan dari tema"
+
+#: inc/customizer/theme-options.php:73
+msgid "Side"
+msgstr "Samping"
+
+#: inc/customizer/theme-options.php:74
+msgid "Side 2"
+msgstr "Sisi 2"
+
+#: inc/customizer/theme-options.php:75
+msgid "Side 3"
+msgstr "Sisi 3"
+
+#: inc/customizer/theme-options.php:76
+msgid "Side 4"
+msgstr "Sisi 4"
+
+#: inc/customizer/theme-options.php:77
+msgid "Centered"
+msgstr "terpusat"
+
+#: inc/customizer/theme-options.php:78
+msgid "Centered 2"
+msgstr "terpusat 2"
+
+#: inc/customizer/theme-options.php:79
+msgid "Centered 3"
+msgstr "terpusat 3"
+
+#: inc/customizer/theme-options.php:80
+msgid "Centered 4"
+msgstr "terpusat 4"
+
+#: inc/customizer/theme-options.php:81
+msgid "Compressed"
+msgstr "Terkompresi"
+
+#: inc/customizer/theme-options.php:82
+msgid "Compressed 2"
+msgstr "Terkompresi 2"
+
+#: inc/customizer/theme-options.php:83
+msgid "Compressed 3"
+msgstr "Terkompresi 3"
+
+#: inc/customizer/theme-options.php:84
+msgid "Compressed 4"
+msgstr "Terkompresi 4"
+
+#: inc/customizer/theme-options.php:105
+msgid "Site Mode Switch"
+msgstr "Peralihan Mode Situs"
+
+#: inc/customizer/theme-options.php:110
+msgid "Enable"
+msgstr "Memungkinkan"
+
+#: inc/customizer/theme-options.php:111 inc/customizer/theme-options.php:726
+#: inc/customizer/theme-options.php:754 inc/customizer/theme-options.php:781
+msgid "Disable"
+msgstr "Cacat"
+
+#: inc/customizer/theme-options.php:130
+msgid "Disable Sticky Header"
+msgstr "Nonaktifkan Header Lengket"
+
+#: inc/customizer/theme-options.php:134
+msgid "Sticky header works only with builder at bottom."
+msgstr "Header lengket hanya berfungsi dengan pembuat di bagian bawah."
+
+#: inc/customizer/theme-options.php:152
+msgid "Top Header Section"
+msgstr "Bagian Header Atas"
+
+#: inc/customizer/theme-options.php:176
+msgid "Show Top Header"
+msgstr "Tampilkan Tajuk Atas"
+
+#: inc/customizer/theme-options.php:203
+msgid "Show Social Menu"
+msgstr "Tampilkan Menu Sosial"
+
+#: inc/customizer/theme-options.php:230
+msgid "Show Date"
+msgstr "Tanggal Pertunjukan"
+
+#: inc/customizer/theme-options.php:258
+msgid "Menu Border"
+msgstr "Batas Menu"
+
+#: inc/customizer/theme-options.php:262 inc/customizer/theme-options.php:874
+#: inc/customizer/theme-options.php:949 inc/customizer/theme-options.php:986
+#: inc/customizer/theme-options.php:1256 inc/customizer/theme-options.php:1281
+msgid "Show"
+msgstr "Menunjukkan"
+
+#: inc/customizer/theme-options.php:263 inc/customizer/theme-options.php:875
+#: inc/customizer/theme-options.php:950 inc/customizer/theme-options.php:987
+#: inc/customizer/theme-options.php:1257 inc/customizer/theme-options.php:1282
+msgid "Hide"
+msgstr "Bersembunyi"
+
+#: inc/customizer/theme-options.php:277 inc/customizer/theme-options.php:298
+msgid "Header Advertisement"
+msgstr "Iklan Tajuk"
+
+#: inc/customizer/theme-options.php:339
+msgid "Header Section Advertisement"
+msgstr "Iklan Bagian Header"
+
+#: inc/customizer/theme-options.php:365
+msgid "URL Link"
+msgstr "Tautan URL"
+
+#: inc/customizer/theme-options.php:384
+msgid "Open In New Tab"
+msgstr "Buka Di Tab Baru"
+
+#: inc/customizer/theme-options.php:405
+msgid "Show Header Advertisement On"
+msgstr "Tampilkan Iklan Header Aktif"
+
+#: inc/customizer/theme-options.php:406
+msgid "Select scope to display on header advertisement section"
+msgstr "Pilih cakupan untuk ditampilkan di bagian iklan header"
+
+#: inc/customizer/theme-options.php:410
+msgid "Show Site-wide"
+msgstr "Tampilkan seluruh Situs"
+
+#: inc/customizer/theme-options.php:411
+msgid "Show on Homepage only"
+msgstr "Tampilkan di Beranda saja"
+
+#: inc/customizer/theme-options.php:423 lib/info/info.php:71
+#: admin-dashboard/src/components/json/home-content.js:92
+msgid "Theme Options"
+msgstr "Pilihan Tema"
+
+#: inc/customizer/theme-options.php:441
+msgid "Site Layout Mode"
+msgstr "Mode Tata Letak Situs"
+
+#: inc/customizer/theme-options.php:463
+msgid "Theme Tone"
+msgstr "Nada Tema"
+
+#: inc/customizer/theme-options.php:464
+msgid "Publish and reload to preview changes"
+msgstr "Publikasikan dan muat ulang untuk melihat pratinjau perubahan"
+
+#: inc/customizer/theme-options.php:468 inc/customizer/theme-options.php:587
+#: inc/customizer/theme-options.php:1636 inc/customizer/theme-options.php:2680
+#: inc/customizer/theme-options.php:2845 inc/hooks/hook-meta.php:80
+#: inc/hooks/hook-meta.php:297 inc/hooks/hook-meta.php:486
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/customizer/theme-options.php:469
+msgid "BlackNews"
+msgstr "Berita Hitam"
+
+#: inc/customizer/theme-options.php:470
+msgid "CelebNews"
+msgstr "Berita Selebritis"
+
+#: inc/customizer/theme-options.php:471
+msgid "CentralNews"
+msgstr "Berita Pusat"
+
+#: inc/customizer/theme-options.php:472
+msgid "GamerNews"
+msgstr "Berita Gamer"
+
+#: inc/customizer/theme-options.php:473 inc/template-functions.php:2329
+#: inc/template-functions.php:2423 inc/template-functions.php:2447
+#: inc/template-functions.php:2487 inc/template-functions.php:2533
+#: inc/template-functions.php:2553 inc/template-functions.php:2576
+#: inc/template-functions.php:2595
+msgid "General News"
+msgstr "Berita Umum"
+
+#: inc/customizer/theme-options.php:474
+msgid "GlobalNews"
+msgstr "Berita Global"
+
+#: inc/customizer/theme-options.php:475
+msgid "MoreMag"
+msgstr "Lebih Banyak Mag"
+
+#: inc/customizer/theme-options.php:476
+msgid "NewsCorp"
+msgstr "BeritaCorp"
+
+#: inc/customizer/theme-options.php:477
+msgid "NewsDay"
+msgstr "Hari Berita"
+
+#: inc/customizer/theme-options.php:478
+msgid "Newsical"
+msgstr "Berita"
+
+#: inc/customizer/theme-options.php:479
+msgid "NewsLight"
+msgstr "Cahaya Berita"
+
+#: inc/customizer/theme-options.php:480 inc/customizer/theme-options.php:481
+msgid "NewsMore"
+msgstr "BeritaLebih Lanjut"
+
+#: inc/customizer/theme-options.php:482
+msgid "SideNews"
+msgstr "Berita Sampingan"
+
+#: inc/customizer/theme-options.php:502
+msgid "Layout Option"
+msgstr "Opsi Tata Letak"
+
+#: inc/customizer/theme-options.php:506
+msgid "Boxed"
+msgstr "Kemas"
+
+#: inc/customizer/theme-options.php:507
+msgid "Wide"
+msgstr "Lebar"
+
+#: inc/customizer/theme-options.php:526
+msgid "Enable Box's Top/Bottom Gaps"
+msgstr "Aktifkan Kesenjangan Atas/Bawah Kotak"
+
+#: inc/customizer/theme-options.php:541
+msgid "Breadcrumb Options"
+msgstr "Opsi Remah Roti"
+
+#: inc/customizer/theme-options.php:562
+msgid "Show breadcrumbs"
+msgstr "Tampilkan remah roti"
+
+#: inc/customizer/theme-options.php:582
+msgid "Select Breadcrumbs"
+msgstr "Pilih Remah Roti"
+
+#: inc/customizer/theme-options.php:583
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr ""
+"Harap pastikan bahwa Anda telah mengaktifkan remah roti plugin sebelum "
+"memilih selain Default"
+
+#: inc/customizer/theme-options.php:588
+msgid "Yoast SEO"
+msgstr "SEO Yoast"
+
+#: inc/customizer/theme-options.php:589
+msgid "Rank Math"
+msgstr "Peringkat Matematika"
+
+#: inc/customizer/theme-options.php:590
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/theme-options.php:609
+msgid "Global Settings"
+msgstr "Pengaturan Global"
+
+#: inc/customizer/theme-options.php:630
+msgid "Enable Preloader"
+msgstr "Aktifkan Prapemuat"
+
+#: inc/customizer/theme-options.php:650
+msgid "Disable Emoji Script"
+msgstr "Nonaktifkan Skrip Emoji"
+
+#: inc/customizer/theme-options.php:651
+msgid "GDPR friendly & better performance"
+msgstr "Ramah GDPR & kinerja lebih baik"
+
+#: inc/customizer/theme-options.php:672
+msgid "Disable built-in SEO meta tags"
+msgstr "Nonaktifkan tag meta SEO bawaan"
+
+#: inc/customizer/theme-options.php:673
+msgid "Recommended if you use an SEO plugin"
+msgstr "Disarankan jika Anda menggunakan plugin SEO"
+
+#: inc/customizer/theme-options.php:695
+msgid "Global Content Alignment"
+msgstr "Penyelarasan Konten Global"
+
+#: inc/customizer/theme-options.php:699
+msgid "Content - Primary sidebar"
+msgstr "Konten - Bilah sisi utama"
+
+#: inc/customizer/theme-options.php:700
+msgid "Primary sidebar - Content"
+msgstr "Bilah sisi utama - Konten"
+
+#: inc/customizer/theme-options.php:701
+msgid "Full width content"
+msgstr "Konten lebar penuh"
+
+#: inc/customizer/theme-options.php:720
+msgid "Also Show Content Image in Archive"
+msgstr "Tampilkan Juga Gambar Konten di Arsip"
+
+#: inc/customizer/theme-options.php:721
+msgid "If there is no Post Featured image set"
+msgstr "Jika tidak ada kumpulan gambar Posting Unggulan"
+
+#: inc/customizer/theme-options.php:725 inc/customizer/theme-options.php:753
+#: inc/customizer/theme-options.php:780
+msgid "Enable "
+msgstr "Memungkinkan"
+
+#: inc/customizer/theme-options.php:748
+msgid "Image Lazy Loading"
+msgstr "Pemuatan Gambar Lambat"
+
+#: inc/customizer/theme-options.php:749
+msgid "Set for better performance"
+msgstr "Ditetapkan untuk kinerja yang lebih baik"
+
+#: inc/customizer/theme-options.php:775
+msgid "Image Async Decoding"
+msgstr "Dekode Asinkron Gambar"
+
+#: inc/customizer/theme-options.php:776
+msgid "Set to enhance rendering speed"
+msgstr "Atur untuk meningkatkan kecepatan rendering"
+
+#: inc/customizer/theme-options.php:803
+msgid "Widget Title Style"
+msgstr "Gaya Judul Widget"
+
+#: inc/customizer/theme-options.php:807
+msgid "Border Bottom"
+msgstr "Perbatasan Bawah"
+
+#: inc/customizer/theme-options.php:808
+msgid "Border Center"
+msgstr "Pusat Perbatasan"
+
+#: inc/customizer/theme-options.php:809
+msgid "Fill and Border"
+msgstr "Isi dan Perbatasan"
+
+#: inc/customizer/theme-options.php:810
+msgid "Fill"
+msgstr "Mengisi"
+
+#: inc/customizer/theme-options.php:811 inc/customizer/theme-options.php:838
+#: inc/customizer/theme-options.php:1131 inc/customizer/theme-options.php:1735
+#: inc/customizer/theme-options.php:2794 inc/template-functions.php:2009
+#: inc/template-functions.php:2091
+msgid "None"
+msgstr "Tidak ada"
+
+#: inc/customizer/theme-options.php:832
+msgid "Scroll to Top Position"
+msgstr "Gulir ke Posisi Teratas"
+
+#: inc/customizer/theme-options.php:836 inc/customizer/theme-options.php:2653
+#: inc/hooks/hook-meta.php:292 inc/hooks/hook-meta.php:481
+msgid "Right"
+msgstr "Benar"
+
+#: inc/customizer/theme-options.php:837 inc/customizer/theme-options.php:2652
+#: inc/hooks/hook-meta.php:291 inc/hooks/hook-meta.php:480
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/customizer/theme-options.php:850
+msgid "Categories Settings"
+msgstr "Pengaturan Kategori"
+
+#: inc/customizer/theme-options.php:870
+msgid "Post Categories"
+msgstr "Kategori Posting"
+
+#: inc/customizer/theme-options.php:896
+msgid "Categories to be displayed"
+msgstr "Kategori yang akan ditampilkan"
+
+#: inc/customizer/theme-options.php:900
+msgid "Show All"
+msgstr "Tampilkan Semua"
+
+#: inc/customizer/theme-options.php:901
+msgid "Top One Category"
+msgstr "Kategori Satu Teratas"
+
+#: inc/customizer/theme-options.php:902
+msgid "Custom"
+msgstr "Kebiasaan"
+
+#: inc/customizer/theme-options.php:923
+msgid "Number of Categories"
+msgstr "Jumlah Kategori"
+
+#: inc/customizer/theme-options.php:961
+msgid "View Count Settings"
+msgstr "Lihat Pengaturan Hitungan"
+
+#: inc/customizer/theme-options.php:1007
+msgid "View Count Option"
+msgstr "View Count Option"
+
+#: inc/customizer/theme-options.php:1008
+msgid "Select post view count for single post"
+msgstr "Pilih jumlah tampilan postingan untuk satu postingan"
+
+#: inc/customizer/theme-options.php:1012
+msgid "Default - Each View"
+msgstr "Default - Setiap Tampilan"
+
+#: inc/customizer/theme-options.php:1013
+msgid "Count On Content Scroll"
+msgstr "Andalkan Gulir Konten"
+
+#: inc/customizer/theme-options.php:1025
+msgid "Author and Date Settings"
+msgstr "Pengaturan Penulis dan Tanggal"
+
+#: inc/customizer/theme-options.php:1046
+msgid "For Spotlight Posts"
+msgstr "Untuk Postingan Sorotan"
+
+#: inc/customizer/theme-options.php:1050 inc/customizer/theme-options.php:1077
+#: inc/customizer/theme-options.php:1103
+msgid "Show Date and Author"
+msgstr "Tampilkan Tanggal dan Penulis"
+
+#: inc/customizer/theme-options.php:1051 inc/customizer/theme-options.php:1078
+#: inc/customizer/theme-options.php:1104
+msgid "Show Date Only"
+msgstr "Tampilkan Tanggal Saja"
+
+#: inc/customizer/theme-options.php:1052 inc/customizer/theme-options.php:1079
+#: inc/customizer/theme-options.php:1105
+msgid "Show Author Only"
+msgstr "Tampilkan Penulis Saja"
+
+#: inc/customizer/theme-options.php:1053 inc/customizer/theme-options.php:1080
+#: inc/customizer/theme-options.php:1106
+msgid "Hide All"
+msgstr "Sembunyikan Semua"
+
+#: inc/customizer/theme-options.php:1073
+msgid "For Small Grid"
+msgstr "Untuk Kotak Kecil"
+
+#: inc/customizer/theme-options.php:1099
+msgid "For List"
+msgstr "Untuk Daftar"
+
+#: inc/customizer/theme-options.php:1125
+msgid "Author Icon/Gravatar"
+msgstr "Ikon Penulis/Gravatar"
+
+#: inc/customizer/theme-options.php:1129
+msgid "Show Gravatar"
+msgstr "Tampilkan Gravatar"
+
+#: inc/customizer/theme-options.php:1130
+msgid "Show Icon"
+msgstr "Tampilkan Ikon"
+
+#: inc/customizer/theme-options.php:1152
+msgid "Single Post Date Type"
+msgstr "Jenis Tanggal Posting Tunggal"
+
+#: inc/customizer/theme-options.php:1156 inc/customizer/theme-options.php:1182
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: inc/customizer/theme-options.php:1157 inc/customizer/theme-options.php:1183
+msgid "Modified"
+msgstr "Dimodifikasi"
+
+#: inc/customizer/theme-options.php:1158 inc/customizer/theme-options.php:1184
+msgid "Both"
+msgstr "Keduanya"
+
+#: inc/customizer/theme-options.php:1178
+msgid "Archive Post Date Type"
+msgstr "Jenis Tanggal Posting Arsip"
+
+#: inc/customizer/theme-options.php:1203 inc/template-analytics.php:472
+msgid "Date Format"
+msgstr "Format Tanggal"
+
+#: inc/customizer/theme-options.php:1207
+msgid "WordPress Default Date Format"
+msgstr "Format Tanggal Default WordPress"
+
+#: inc/customizer/theme-options.php:1208
+msgid "Ago Date Format"
+msgstr "Format Tanggal Lalu"
+
+#: inc/customizer/theme-options.php:1209
+msgid "Year and Month Format"
+msgstr "Format Tahun dan Bulan"
+
+#: inc/customizer/theme-options.php:1210
+msgid "Month and Day Format"
+msgstr "Format Bulan dan Hari"
+
+#: inc/customizer/theme-options.php:1211
+msgid "Year Format"
+msgstr "Format Tahun"
+
+#: inc/customizer/theme-options.php:1212
+msgid "Month Format"
+msgstr "Format Bulan"
+
+#: inc/customizer/theme-options.php:1213
+msgid "Day Format"
+msgstr "Format Hari"
+
+#: inc/customizer/theme-options.php:1214
+msgid "24 Hours Format"
+msgstr "Format 24 Jam"
+
+#: inc/customizer/theme-options.php:1215
+msgid "12 Hours Format"
+msgstr "Format 12 Jam"
+
+#: inc/customizer/theme-options.php:1231
+msgid "Minutes Read Count"
+msgstr "Hitungan Baca Menit"
+
+#: inc/customizer/theme-options.php:1252
+msgid "Single Post Minutes Read Count"
+msgstr "Hitungan Baca Menit Posting Tunggal"
+
+#: inc/customizer/theme-options.php:1277
+msgid "Archive Posts Minutes Read Count"
+msgstr "Arsip Posting Menit Baca Hitungan"
+
+#: inc/customizer/theme-options.php:1303
+msgid "Number of Words per Minute Read"
+msgstr "Jumlah Kata per Menit yang Dibaca"
+
+#: inc/customizer/theme-options.php:1316
+msgid "Excerpt Settings"
+msgstr "Pengaturan Kutipan"
+
+#: inc/customizer/theme-options.php:1337
+msgid "Global Excerpt Length"
+msgstr "Panjang Kutipan Global"
+
+#: inc/customizer/theme-options.php:1358
+msgid "Global Excerpt Read More"
+msgstr "Kutipan Global Baca Lebih Lanjut"
+
+#: inc/customizer/theme-options.php:1381
+msgid "Custom Menu Section"
+msgstr "Bagian Menu Kustom"
+
+#: inc/customizer/theme-options.php:1401
+msgid "Enable Custom Menu Section"
+msgstr "Aktifkan Bagian Menu Kustom"
+
+#: inc/customizer/theme-options.php:1422
+msgid "Icon Mode"
+msgstr "Modus Ikon"
+
+#: inc/customizer/theme-options.php:1426
+msgid "Ripple"
+msgstr "Riak"
+
+#: inc/customizer/theme-options.php:1427
+msgid "FontAwesome Icon"
+msgstr "Ikon Font Luar Biasa"
+
+#: inc/customizer/theme-options.php:1448
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/customizer/theme-options.php:1475 inc/customizer/theme-options.php:2514
+#: inc/customizer/theme-options.php:3038
+#: inc/widgets/widget-author-info.php:164
+#: inc/widgets/widget-express-posts-grid.php:126
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-popular-posts.php:116
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-posts-tabs.php:113 inc/widgets/widget-posts-tabs.php:117
+#: inc/widgets/widget-posts-tabs.php:121
+#: inc/widgets/widget-trending-posts-by-tag.php:120
+#: inc/widgets/widget-trending-posts-by-view.php:116
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr "Judul"
+
+#: inc/customizer/theme-options.php:1496
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/theme-options.php:1511
+msgid "Single Post"
+msgstr "Postingan Tunggal"
+
+#: inc/customizer/theme-options.php:1531
+msgid "Show Featured Image"
+msgstr "Tampilkan Gambar Unggulan"
+
+#: inc/customizer/theme-options.php:1552
+msgid "Featured Image Size"
+msgstr "Ukuran Gambar Unggulan"
+
+#: inc/customizer/theme-options.php:1556 inc/customizer/theme-options.php:1612
+#: inc/customizer/theme-options.php:2605 inc/hooks/hook-meta.php:286
+#: inc/hooks/hook-meta.php:474
+msgid "Full"
+msgstr "Penuh"
+
+#: inc/customizer/theme-options.php:1557
+msgid "Large"
+msgstr "Besar"
+
+#: inc/customizer/theme-options.php:1558
+msgid "Medium"
+msgstr "Sedang"
+
+#: inc/customizer/theme-options.php:1559
+msgid "Thumbnail"
+msgstr "gambar kecil"
+
+#: inc/customizer/theme-options.php:1579
+msgid "Featured Image Width"
+msgstr "Lebar Gambar Unggulan"
+
+#: inc/customizer/theme-options.php:1583
+msgid "Full - Default"
+msgstr "Penuh - Bawaan"
+
+#: inc/customizer/theme-options.php:1584
+msgid "Original"
+msgstr "Asli"
+
+#: inc/customizer/theme-options.php:1607
+msgid "Post Title Option"
+msgstr "Opsi Judul Posting"
+
+#: inc/customizer/theme-options.php:1611
+msgid "Boxed - Default"
+msgstr "Kotak - Default"
+
+#: inc/customizer/theme-options.php:1632
+msgid "Single Content Mode"
+msgstr "Mode Konten Tunggal"
+
+#: inc/customizer/theme-options.php:1637 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr "Luas"
+
+#: inc/customizer/theme-options.php:1656
+msgid "Enable Reading Progress Bar"
+msgstr "Aktifkan Bilah Kemajuan Membaca"
+
+#: inc/customizer/theme-options.php:1709
+msgid "Social Share Options"
+msgstr "Opsi Berbagi Sosial"
+
+#: inc/customizer/theme-options.php:1729
+msgid "Defined Links"
+msgstr "Tautan yang Ditentukan"
+
+#: inc/customizer/theme-options.php:1733
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/customizer/theme-options.php:1734
+msgid "JetPack"
+msgstr "Paket Jet"
+
+#: inc/customizer/theme-options.php:1752
+msgid "Position"
+msgstr "Posisi"
+
+#: inc/customizer/theme-options.php:1756
+msgid "Before and After Content"
+msgstr "Konten Sebelum dan Sesudah"
+
+#: inc/customizer/theme-options.php:1780
+#: inc/widgets/widget-author-info.php:169
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/theme-options.php:1808
+msgid "X (Twitter)"
+msgstr "X (Twitter)"
+
+#: inc/customizer/theme-options.php:1835
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/theme-options.php:1862
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/customizer/theme-options.php:1889
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/theme-options.php:1916
+msgid "Buffer App"
+msgstr "Aplikasi Penyangga"
+
+#: inc/customizer/theme-options.php:1944
+msgid "WhatsApp"
+msgstr "Ada apa"
+
+#: inc/customizer/theme-options.php:1971
+msgid "Reddit"
+msgstr "reddit"
+
+#: inc/customizer/theme-options.php:1998
+msgid "Line"
+msgstr "Garis"
+
+#: inc/customizer/theme-options.php:2025
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/customizer/theme-options.php:2055
+msgid "Essential Posts Settings"
+msgstr "Pengaturan Postingan Penting"
+
+#: inc/customizer/theme-options.php:2076
+msgid "Show Copy Post Link"
+msgstr "Tampilkan Salin Tautan Posting"
+
+#: inc/customizer/theme-options.php:2104
+msgid "Show Post Bookmark Option"
+msgstr "Tampilkan Opsi Bookmark Posting"
+
+#: inc/customizer/theme-options.php:2133
+msgid "Show Post Print Option"
+msgstr "Tampilkan Opsi Pasca Cetak"
+
+#: inc/customizer/theme-options.php:2160
+msgid "Show Post Badge"
+msgstr "Tampilkan Lencana Pos"
+
+#: inc/customizer/theme-options.php:2180
+msgid "Show Post Subtitles"
+msgstr "Tampilkan Subjudul Postingan"
+
+#: inc/customizer/theme-options.php:2200
+msgid "Show Post Featured Video"
+msgstr "Tampilkan Video Unggulan Postingan"
+
+#: inc/customizer/theme-options.php:2220
+msgid "Show Post Source Attribution"
+msgstr "Tampilkan Atribusi Sumber Postingan"
+
+#: inc/customizer/theme-options.php:2240
+msgid "Show Post Sponsor"
+msgstr "Tampilkan Sponsor Postingan"
+
+#: inc/customizer/theme-options.php:2262
+msgid "Below Posts Settings"
+msgstr "Di bawah Pengaturan Posting"
+
+#: inc/customizer/theme-options.php:2283
+msgid "Show Reactions under Content"
+msgstr "Tampilkan Reaksi di bawah Konten"
+
+#: inc/customizer/theme-options.php:2305
+msgid "Reactions Section Title"
+msgstr "Judul Bagian Reaksi"
+
+#: inc/customizer/theme-options.php:2327
+msgid "Show Author Bio under Content"
+msgstr "Tampilkan Bio Penulis di bawah Konten"
+
+#: inc/customizer/theme-options.php:2348
+msgid "Show Tags under Content"
+msgstr "Tampilkan Tag di bawah Konten"
+
+#: inc/customizer/theme-options.php:2369
+msgid "Show Category under Content"
+msgstr "Tampilkan Kategori di bawah Konten"
+
+#: inc/customizer/theme-options.php:2392
+msgid "Show MailChimp Subscription Box"
+msgstr "Tampilkan Kotak Berlangganan MailChimp"
+
+#: inc/customizer/theme-options.php:2412
+msgid "Show Author's Posts"
+msgstr "Tampilkan Postingan Penulis"
+
+#: inc/customizer/theme-options.php:2431
+msgid "Show Bookmarked (Saved) Posts"
+msgstr "Tampilkan Postingan yang Ditandai (Tersimpan)."
+
+#: inc/customizer/theme-options.php:2451
+msgid "Show Trending Posts List"
+msgstr "Tampilkan Daftar Postingan Trending"
+
+#: inc/customizer/theme-options.php:2473
+msgid "Related Posts Settings"
+msgstr "Pengaturan Posting Terkait"
+
+#: inc/customizer/theme-options.php:2494
+msgid "Enable Related Posts"
+msgstr "Aktifkan Posting Terkait"
+
+#: inc/customizer/theme-options.php:2536
+msgid "Maximum Number of Related Posts"
+msgstr "Jumlah Maksimal Posting Terkait"
+
+#: inc/customizer/theme-options.php:2556
+msgid "Archive Settings"
+msgstr "Pengaturan Arsip"
+
+#: inc/customizer/theme-options.php:2577
+msgid "Disable Main Banner on Blog"
+msgstr "Nonaktifkan Banner Utama di Blog"
+
+#: inc/customizer/theme-options.php:2598 inc/hooks/hook-meta.php:330
+#: inc/hooks/hook-meta.php:468
+msgid "Archive layout"
+msgstr "Tata letak arsip"
+
+#: inc/customizer/theme-options.php:2599 inc/hooks/hook-meta.php:336
+#: inc/hooks/hook-meta.php:517
+msgid "Select layout for archive"
+msgstr "Pilih tata letak untuk arsip"
+
+#: inc/customizer/theme-options.php:2603 inc/hooks/hook-meta.php:285
+#: inc/hooks/hook-meta.php:473
+msgid "Grid"
+msgstr "jaringan"
+
+#: inc/customizer/theme-options.php:2604
+msgid "List"
+msgstr "Daftar"
+
+#: inc/customizer/theme-options.php:2606 inc/hooks/hook-meta.php:287
+#: inc/hooks/hook-meta.php:475
+msgid "Masonry"
+msgstr "pasangan bata"
+
+#: inc/customizer/theme-options.php:2625
+msgid "Make First Post Full"
+msgstr "Jadikan Postingan Pertama Penuh"
+
+#: inc/customizer/theme-options.php:2647 inc/customizer/theme-options.php:2675
+msgid "Image Alignment"
+msgstr "Penyelarasan Gambar"
+
+#: inc/customizer/theme-options.php:2648 inc/customizer/theme-options.php:2676
+msgid "Select image alignment for archive"
+msgstr "Pilih perataan gambar untuk arsip"
+
+#: inc/customizer/theme-options.php:2654 inc/customizer/theme-options.php:2681
+#: inc/hooks/hook-meta.php:293 inc/hooks/hook-meta.php:298
+#: inc/hooks/hook-meta.php:482 inc/hooks/hook-meta.php:487
+msgid "Alternate"
+msgstr "Bergantian"
+
+#: inc/customizer/theme-options.php:2682 inc/hooks/hook-meta.php:299
+#: inc/hooks/hook-meta.php:488
+msgid "Tile"
+msgstr "Ubin"
+
+#: inc/customizer/theme-options.php:2683
+msgid "Default With List"
+msgstr "Default Dengan Daftar"
+
+#: inc/customizer/theme-options.php:2704
+msgid "Grid Column Layout"
+msgstr "Tata Letak Kolom Kisi"
+
+#: inc/customizer/theme-options.php:2705
+msgid "Select column for archive grid"
+msgstr "Pilih kolom untuk kisi arsip"
+
+#: inc/customizer/theme-options.php:2709 inc/customizer/theme-options.php:2737
+msgid "Two Column"
+msgstr "Dua Kolom"
+
+#: inc/customizer/theme-options.php:2710 inc/customizer/theme-options.php:2738
+msgid "Three Column"
+msgstr "Tiga Kolom"
+
+#: inc/customizer/theme-options.php:2711 inc/customizer/theme-options.php:2739
+msgid "Four Column"
+msgstr "Empat Kolom"
+
+#: inc/customizer/theme-options.php:2732
+msgid "Select Masonry Layout"
+msgstr "Pilih Tata Letak Batu"
+
+#: inc/customizer/theme-options.php:2733
+msgid "Select masonry layout for archive"
+msgstr "Pilih tata letak pasangan bata untuk arsip"
+
+#: inc/customizer/theme-options.php:2759
+msgid "Select Title Position"
+msgstr "Pilih Posisi Judul"
+
+#: inc/customizer/theme-options.php:2760
+msgid "Select full layout for archive"
+msgstr "Pilih tata letak lengkap untuk arsip"
+
+#: inc/customizer/theme-options.php:2764
+msgid "After Image"
+msgstr "Setelah Gambar"
+
+#: inc/customizer/theme-options.php:2765
+msgid "Before Image"
+msgstr "Sebelum Gambar"
+
+#: inc/customizer/theme-options.php:2766
+msgid "Over Image"
+msgstr "Atas Gambar"
+
+#: inc/customizer/theme-options.php:2787
+msgid "Content View"
+msgstr "Tampilan Konten"
+
+#: inc/customizer/theme-options.php:2788
+msgid "Select content view for archive"
+msgstr "Pilih tampilan konten untuk arsip"
+
+#: inc/customizer/theme-options.php:2792
+msgid "Post Excerpt"
+msgstr "Kutipan Posting"
+
+#: inc/customizer/theme-options.php:2793
+msgid "Full Content"
+msgstr "Konten Lengkap"
+
+#: inc/customizer/theme-options.php:2815
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: inc/customizer/theme-options.php:2816
+msgid "Select search results for archive"
+msgstr "Pilih hasil pencarian untuk arsip"
+
+#: inc/customizer/theme-options.php:2820
+msgid "All (Pages, Posts, etc)"
+msgstr "Semua (Halaman, Postingan, dll)"
+
+#: inc/customizer/theme-options.php:2821
+msgid "Posts"
+msgstr "Postingan"
+
+#: inc/customizer/theme-options.php:2840
+msgid "Pagination"
+msgstr "Paginasi"
+
+#: inc/customizer/theme-options.php:2841
+msgid "Select pagination view for archive"
+msgstr "Pilih tampilan pagination untuk arsip"
+
+#: inc/customizer/theme-options.php:2846
+msgid "Ajax Load More"
+msgstr "Ajax Muat Lebih Banyak"
+
+#: inc/customizer/theme-options.php:2847
+msgid "Infinite Scroll"
+msgstr "Gulir Tak Terbatas"
+
+#: inc/customizer/theme-options.php:2861
+msgid "Sidebar Settings"
+msgstr "Pengaturan Bilah Sisi"
+
+#: inc/customizer/theme-options.php:2882
+msgid "Make Sidebar Sticky"
+msgstr "Jadikan Sidebar Lengket"
+
+#: inc/customizer/theme-options.php:2903
+msgid "Sidebar Sticky Position"
+msgstr "Posisi Lengket Sidebar"
+
+#: inc/customizer/theme-options.php:2908
+msgid "Bottom"
+msgstr "Dasar"
+
+#: inc/customizer/theme-options.php:2940 inc/customizer/theme-options.php:3018
+msgid "Show Above Footer"
+msgstr "Tampilkan Footer Di Atas"
+
+#: inc/customizer/theme-options.php:2960
+msgid "Posts Section Title"
+msgstr "Judul Bagian Postingan"
+
+#: inc/customizer/theme-options.php:2998
+msgid "Mailchimp Subscriptions"
+msgstr "Langganan Mailchimp"
+
+#: inc/customizer/theme-options.php:3060
+msgid "Shortcode"
+msgstr "Kode pendek"
+
+#: inc/customizer/theme-options.php:3083
+msgid "Visible In:"
+msgstr "Terlihat di:"
+
+#: inc/customizer/theme-options.php:3088
+msgid "Front page only"
+msgstr "Halaman depan saja"
+
+#: inc/customizer/theme-options.php:3089
+msgid "All pages"
+msgstr "Semua halaman"
+
+#: inc/customizer/theme-options.php:3140
+msgid "Footer Background Image"
+msgstr "Gambar Latar Belakang Catatan Kaki"
+
+#: inc/customizer/theme-options.php:3167
+msgid "Copyright Text"
+msgstr "Teks Hak Cipta"
+
+#: inc/customizer/theme-options.php:3168
+msgid "The {year} is used for current year"
+msgstr "{year} digunakan untuk year saat ini"
+
+#: inc/customizer/theme-options.php:3189
+msgid "Hide footer Menu Section"
+msgstr "Sembunyikan Bagian Menu footer"
+
+#: inc/customizer/theme-options.php:3211
+msgid "Hide Theme Credits"
+msgstr "Sembunyikan Kredit Tema"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: inc/hooks/blocks/block-archive-list.php:20
+#: inc/hooks/blocks/block-archive-masonry.php:21
+#: template-parts/content-page.php:27 template-parts/content.php:86
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: inc/hooks/blocks/block-header-layout-centered-2.php:112
+#: inc/hooks/blocks/block-header-layout-centered-3.php:112
+#: inc/hooks/blocks/block-header-layout-centered-4.php:114
+#: inc/hooks/blocks/block-header-layout-centered.php:95
+msgid "Close Off Canvas Navigation"
+msgstr "Tutup Navigasi Kanvas"
+
+#: inc/hooks/blocks/block-header-layout-compressed-2.php:48
+#: inc/hooks/blocks/block-header-layout-compressed-3.php:49
+#: inc/hooks/blocks/block-header-layout-compressed-4.php:49
+#: inc/hooks/blocks/block-header-layout-compressed.php:49
+msgid "Open Off-Canvas Navigation"
+msgstr "Buka Navigasi di Luar Kanvas"
+
+#: inc/hooks/blocks/block-post-author.php:14
+msgid "Author's Other Posts"
+msgstr "Postingan Lain Penulis"
+
+#: inc/hooks/blocks/block-post-bookmarked.php:21
+msgid "Your Saved Posts"
+msgstr "Postingan Tersimpan Anda"
+
+#: inc/hooks/hook-header-section.php:258 inc/hooks/hook-header-section.php:281
+msgid "Toggle light or dark mode"
+msgstr "Alihkan mode terang atau gelap"
+
+#: inc/hooks/hook-header-section.php:260 inc/hooks/hook-header-section.php:283
+msgid "Light/Dark Button"
+msgstr "Tombol Terang/Gelap"
+
+#: inc/hooks/hook-meta-analytics.php:55
+msgid "Post Analytics"
+msgstr "Analisis Pasca"
+
+#: inc/hooks/hook-meta-analytics.php:491
+msgid "Refresh analytics"
+msgstr "Segarkan analitik"
+
+#: inc/hooks/hook-meta-analytics.php:492
+msgid "Refresh Analytics"
+msgstr "Segarkan Analisis"
+
+#: inc/hooks/hook-meta-analytics.php:499 inc/template-analytics.php:339
+msgid "Engagement"
+msgstr "Pertunangan"
+
+#: inc/hooks/hook-meta-analytics.php:500
+msgid "Views:"
+msgstr "Tampilan:"
+
+#: inc/hooks/hook-meta-analytics.php:501
+msgid "Comments:"
+msgstr "Komentar:"
+
+#: inc/hooks/hook-meta-analytics.php:505 inc/template-analytics.php:338
+msgid "Content"
+msgstr "Isi"
+
+#: inc/hooks/hook-meta-analytics.php:506
+msgid "Word Count:"
+msgstr "Jumlah Kata:"
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "Read Time:"
+msgstr "Waktu Baca:"
+
+#: inc/hooks/hook-meta-analytics.php:507
+msgid "min"
+msgstr "menit"
+
+#: inc/hooks/hook-meta-analytics.php:512
+msgid "Reactions (Chart)"
+msgstr "Reaksi (Bagan)"
+
+#: inc/hooks/hook-meta-analytics.php:513
+msgid "Reactions chart"
+msgstr "Bagan reaksi"
+
+#: inc/hooks/hook-meta-analytics.php:517
+msgid "Reactions Stats"
+msgstr "Statistik Reaksi"
+
+#: inc/hooks/hook-meta-analytics.php:536 inc/hooks/hook-meta-analytics.php:550
+msgid "Total"
+msgstr "Total"
+
+#: inc/hooks/hook-meta-analytics.php:543
+msgid "Links Breakdown (Chart)"
+msgstr "Perincian Tautan (Bagan)"
+
+#: inc/hooks/hook-meta-analytics.php:544
+msgid "Links chart"
+msgstr "Bagan tautan"
+
+#: inc/hooks/hook-meta-analytics.php:548
+msgid "Links Stats"
+msgstr "Statistik Tautan"
+
+#: inc/hooks/hook-meta-analytics.php:551
+msgid "Internal"
+msgstr "Intern"
+
+#: inc/hooks/hook-meta-analytics.php:552
+msgid "External"
+msgstr "Luar"
+
+#: inc/hooks/hook-meta-analytics.php:553
+msgid "Nofollow"
+msgstr "Tidak mengikuti"
+
+#: inc/hooks/hook-meta-analytics.php:554
+msgid "Target Blank"
+msgstr "Sasaran Kosong"
+
+#: inc/hooks/hook-meta-analytics.php:555
+msgid "No Text"
+msgstr "Tanpa Teks"
+
+#: inc/hooks/hook-meta-analytics.php:558
+msgid "Shortest Link Text:"
+msgstr "Teks Tautan Terpendek:"
+
+#: inc/hooks/hook-meta-analytics.php:558 inc/hooks/hook-meta-analytics.php:559
+msgid "No link text found"
+msgstr "Tidak ada teks tautan yang ditemukan"
+
+#: inc/hooks/hook-meta-analytics.php:559
+msgid "Longest Link Text:"
+msgstr "Teks Tautan Terpanjang:"
+
+#: inc/hooks/hook-meta-analytics.php:562
+msgid "Examples Without Anchor Text (external):"
+msgstr "Contoh Tanpa Anchor Text (eksternal):"
+
+#: inc/hooks/hook-meta-analytics.php:575
+msgid "Top External Domains (Chart)"
+msgstr "Domain Eksternal Teratas (Bagan)"
+
+#: inc/hooks/hook-meta-analytics.php:576
+msgid "Top domains chart"
+msgstr "Bagan domain teratas"
+
+#: inc/hooks/hook-meta-analytics.php:580
+msgid "Most Linked External Sites"
+msgstr "Situs Eksternal Paling Banyak Tertaut"
+
+#: inc/hooks/hook-meta-analytics.php:585 inc/template-analytics.php:505
+msgid "No external domains found."
+msgstr "Tidak ada domain eksternal yang ditemukan."
+
+#: inc/hooks/hook-meta-analytics.php:591
+msgid "Explore Shortcuts"
+msgstr "Jelajahi Pintasan"
+
+#: inc/hooks/hook-meta-analytics.php:592
+msgid "View Author Archive"
+msgstr "Lihat Arsip Penulis"
+
+#: inc/hooks/hook-meta-analytics.php:593
+msgid "View Publish Day Archive"
+msgstr "Lihat Arsip Hari Penerbitan"
+
+#: inc/hooks/hook-meta-analytics.php:606
+msgid "Invalid post ID."
+msgstr "ID postingan tidak valid."
+
+#: inc/hooks/hook-meta-analytics.php:608
+msgid "Unauthorized."
+msgstr "Tidak sah."
+
+#: inc/hooks/hook-meta-analytics.php:612
+msgid "Nonce verification failed."
+msgstr "Verifikasi nonce gagal."
+
+#: inc/hooks/hook-meta-analytics.php:616
+msgid "Post not found."
+msgstr "Postingan tidak ditemukan."
+
+#: inc/hooks/hook-meta-extra.php:15
+msgctxt "taxonomy general name"
+msgid "Post Badges"
+msgstr "Lencana Pos"
+
+#: inc/hooks/hook-meta-extra.php:16
+msgctxt "taxonomy singular name"
+msgid "Post Badge"
+msgstr "Lencana Pos"
+
+#: inc/hooks/hook-meta-extra.php:17
+msgid "Search Badges"
+msgstr "Lencana Pencarian"
+
+#: inc/hooks/hook-meta-extra.php:18
+msgid "All Badges"
+msgstr "Semua Lencana"
+
+#: inc/hooks/hook-meta-extra.php:19
+msgid "Parent Badge"
+msgstr "Lencana Orang Tua"
+
+#: inc/hooks/hook-meta-extra.php:20
+msgid "Parent Badge:"
+msgstr "Lencana Orang Tua:"
+
+#: inc/hooks/hook-meta-extra.php:21
+msgid "Edit Badge"
+msgstr "Sunting Lencana"
+
+#: inc/hooks/hook-meta-extra.php:22
+msgid "Update Badge"
+msgstr "Perbarui Lencana"
+
+#: inc/hooks/hook-meta-extra.php:23
+msgid "Add New Badge"
+msgstr "Tambahkan Lencana Baru"
+
+#: inc/hooks/hook-meta-extra.php:24
+msgid "New Badge Name"
+msgstr "Nama Lencana Baru"
+
+#: inc/hooks/hook-meta-extra.php:25
+msgid "Badges"
+msgstr "Lencana"
+
+#: inc/hooks/hook-meta-extra.php:65 inc/hooks/hook-meta-extra.php:75
+msgid "Post Subtitle"
+msgstr "Subjudul Posting"
+
+#: inc/hooks/hook-meta-extra.php:66
+msgid "Featured Video"
+msgstr "Video Unggulan"
+
+#: inc/hooks/hook-meta-extra.php:67
+msgid "Source Attribution"
+msgstr "Atribusi Sumber"
+
+#: inc/hooks/hook-meta-extra.php:68
+msgid "Sponsorship Settings"
+msgstr "Pengaturan Sponsor"
+
+#: inc/hooks/hook-meta-extra.php:77
+msgid "Displayed below the post title."
+msgstr "Ditampilkan di bawah judul postingan."
+
+#: inc/hooks/hook-meta-extra.php:83
+msgid "Featured Video URL"
+msgstr "URL Video Unggulan"
+
+#: inc/hooks/hook-meta-extra.php:85
+msgid "Paste YouTube, Vimeo, or Facebook link."
+msgstr "Tempel tautan YouTube, Vimeo, atau Facebook."
+
+#: inc/hooks/hook-meta-extra.php:92
+msgid "Source Name"
+msgstr "Nama Sumber"
+
+#: inc/hooks/hook-meta-extra.php:94
+msgid "Source URL"
+msgstr "URL sumber"
+
+#: inc/hooks/hook-meta-extra.php:104
+msgid "Mark as Sponsored"
+msgstr "Tandai sebagai Disponsori"
+
+#: inc/hooks/hook-meta-extra.php:105
+msgid "Sponsor Name"
+msgstr "Nama Sponsor"
+
+#: inc/hooks/hook-meta-extra.php:107
+msgid "Sponsor URL"
+msgstr "URL sponsor"
+
+#: inc/hooks/hook-meta-extra.php:158
+msgid "View posts with badge: %s"
+msgstr "Lihat postingan dengan lencana: %s"
+
+#: inc/hooks/hook-meta-extra.php:178
+msgid "Source:"
+msgstr "Sumber:"
+
+#: inc/hooks/hook-meta-extra.php:180
+msgid "Visit source: %s"
+msgstr "Kunjungi sumber: %s"
+
+#: inc/hooks/hook-meta-extra.php:203
+msgid "Sponsored by:"
+msgstr "Disponsori oleh:"
+
+#: inc/hooks/hook-meta-extra.php:205
+msgid "Visit sponsor: %s"
+msgstr "Kunjungi sponsor: %s"
+
+#: inc/hooks/hook-meta-extra.php:362
+msgid "Author Support & Donation"
+msgstr "Dukungan & Donasi Penulis"
+
+#: inc/hooks/hook-meta-extra.php:365
+msgid "Donation Link"
+msgstr "Tautan Donasi"
+
+#: inc/hooks/hook-meta-extra.php:368
+msgid ""
+"Enter your donation or support URL (e.g., PayPal.me, BuyMeACoffee, Ko-fi)."
+msgstr ""
+"Masukkan URL donasi atau dukungan Anda (misalnya, PayPal.me, BuyMeACoffee, "
+"Ko-fi)."
+
+#: inc/hooks/hook-meta-extra.php:372
+msgid "Donation Button Text"
+msgstr "Teks Tombol Donasi"
+
+#: inc/hooks/hook-meta-extra.php:375
+msgid ""
+"Custom text for the donation button (e.g., \"Buy me a coffee\", \"Support "
+"Author\")."
+msgstr ""
+"Teks khusus untuk tombol donasi (misalnya, \"Belikan saya kopi\", \"Penulis "
+"Dukungan\")."
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "Opsi Tata Letak"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "Opsi Konten"
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr "Tetapkan sebagai tata letak global"
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "Silakan buka Kustomisasi>Opsi Tema untuk Postingan/Halaman Tunggal."
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr "Opsi Bilah Sisi"
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr "Konten - Sidebar Utama"
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr "Bilah Sisi Utama - Konten"
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr "Tanpa Bilah Sisi"
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr "Silakan buka Kustomisasi>Opsi Halaman Depan untuk Beranda."
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:227
+msgid "Category Color 1"
+msgstr "Kategori Warna 1"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:228
+msgid "Category Color 2"
+msgstr "Kategori Warna 2"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:229
+msgid "Category Color 3"
+msgstr "Kategori Warna 3"
+
+#: inc/hooks/hook-meta.php:187 inc/hooks/hook-meta.php:230
+msgid "Category Color 4"
+msgstr "Kategori Warna 4"
+
+#: inc/hooks/hook-meta.php:188 inc/hooks/hook-meta.php:231
+msgid "Category Color 5"
+msgstr "Kategori Warna 5"
+
+#: inc/hooks/hook-meta.php:189 inc/hooks/hook-meta.php:232
+msgid "Category Color 6"
+msgstr "Kategori Warna 6"
+
+#: inc/hooks/hook-meta.php:190 inc/hooks/hook-meta.php:233
+msgid "Category Color 7"
+msgstr "Kategori Warna 7"
+
+#: inc/hooks/hook-meta.php:195 inc/hooks/hook-meta.php:223
+msgid "Color Class"
+msgstr "Kelas Warna"
+
+#: inc/hooks/hook-meta.php:201 inc/hooks/hook-meta.php:242
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+"Pilih kelas warna kategori. Anda dapat mengatur warna kategori yang sesuai "
+"pada bagian \"Kategori\" pada penyesuai tema."
+
+#: inc/hooks/hook-meta.php:284 inc/hooks/hook-meta.php:472
+msgid "list"
+msgstr "daftar"
+
+#: inc/hooks/hook-meta.php:300 inc/hooks/hook-meta.php:489
+msgid "Default with list"
+msgstr "Default dengan daftar"
+
+#: inc/hooks/hook-meta.php:304 inc/hooks/hook-meta.php:311
+#: inc/hooks/hook-meta.php:493 inc/hooks/hook-meta.php:500
+msgid "Two column"
+msgstr "Dua kolom"
+
+#: inc/hooks/hook-meta.php:305 inc/hooks/hook-meta.php:310
+#: inc/hooks/hook-meta.php:494 inc/hooks/hook-meta.php:499
+msgid "Three column"
+msgstr "Tiga kolom"
+
+#: inc/hooks/hook-meta.php:306 inc/hooks/hook-meta.php:312
+#: inc/hooks/hook-meta.php:495 inc/hooks/hook-meta.php:501
+msgid "Four column"
+msgstr "Empat kolom"
+
+#: inc/hooks/hook-meta.php:316 inc/hooks/hook-meta.php:505
+msgid "Title before image"
+msgstr "Judul sebelum gambar"
+
+#: inc/hooks/hook-meta.php:317 inc/hooks/hook-meta.php:506
+msgid "Image before title"
+msgstr "Gambar sebelum judul"
+
+#: inc/hooks/hook-meta.php:318 inc/hooks/hook-meta.php:507
+msgid "Title over Image"
+msgstr "Judul di atas Gambar"
+
+#: inc/hooks/hook-meta.php:341 inc/hooks/hook-meta.php:353
+#: inc/hooks/hook-meta.php:523 inc/hooks/hook-meta.php:537
+msgid "Archive Alignment"
+msgstr "Penyelarasan Arsip"
+
+#: inc/hooks/hook-meta.php:347 inc/hooks/hook-meta.php:530
+msgid "Select alignment for list archive layout"
+msgstr "Pilih perataan untuk tata letak arsip daftar"
+
+#: inc/hooks/hook-meta.php:359 inc/hooks/hook-meta.php:544
+msgid "Select alignment for grid archive layout"
+msgstr "Pilih perataan untuk tata letak arsip kisi"
+
+#: inc/hooks/hook-meta.php:365
+msgid "Select grid column"
+msgstr "Pilih kolom kisi"
+
+#: inc/hooks/hook-meta.php:371 inc/hooks/hook-meta.php:558
+msgid "Select column layout for grid archive layout"
+msgstr "Pilih tata letak kolom untuk tata letak arsip kisi"
+
+#: inc/hooks/hook-meta.php:377 inc/hooks/hook-meta.php:564
+msgid "Select masonry layout"
+msgstr "Pilih tata letak pasangan bata"
+
+#: inc/hooks/hook-meta.php:383 inc/hooks/hook-meta.php:572
+msgid "Select layout for masonry archive layout"
+msgstr "Pilih tata letak untuk tata letak arsip pasangan bata"
+
+#: inc/hooks/hook-meta.php:389 inc/hooks/hook-meta.php:578
+msgid "Select full layout"
+msgstr "Pilih tata letak penuh"
+
+#: inc/hooks/hook-meta.php:395 inc/hooks/hook-meta.php:586
+msgid "Select layout for full archive layout"
+msgstr "Pilih tata letak untuk tata letak arsip lengkap"
+
+#: inc/hooks/hook-meta.php:550
+msgid "Select grid layout"
+msgstr "Pilih tata letak kisi"
+
+#: inc/hooks/hook-tgm.php:20
+msgid "Elespare"
+msgstr "Elespare"
+
+#: inc/hooks/hook-tgm.php:25
+msgid "Blockspare"
+msgstr "Blok cadangan"
+
+#: inc/hooks/hook-tgm.php:30
+msgid "Templatespare"
+msgstr "Cadangan templat"
+
+#: inc/hooks/hook-tgm.php:35
+msgid "WP Post Author"
+msgstr "Penulis Posting WP"
+
+#: inc/hooks/hook-tgm.php:40
+msgid "MailChimp for WordPress"
+msgstr "MailChimp untuk WordPress"
+
+#: inc/hooks/hook-tgm.php:45
+msgid "Free Live Chat using 3CX"
+msgstr "Obrolan Langsung Gratis menggunakan 3CX"
+
+#: inc/template-analytics.php:327
+msgid "📊 Site Analytics"
+msgstr "📊 Analisis Situs"
+
+#: inc/template-analytics.php:330
+msgid "Refresh Stats"
+msgstr "Segarkan Statistik"
+
+#: inc/template-analytics.php:336
+msgid "Analytics tabs"
+msgstr "Tab analisis"
+
+#: inc/template-analytics.php:337
+msgid "Overview"
+msgstr "Ringkasan"
+
+#: inc/template-analytics.php:340
+msgid "Appearance"
+msgstr "Penampilan"
+
+#: inc/template-analytics.php:341
+msgid "Authors & Links"
+msgstr "Penulis & Tautan"
+
+#: inc/template-analytics.php:347
+msgid "Charts"
+msgstr "Grafik"
+
+#: inc/template-analytics.php:350
+msgid "Posts Breakdown"
+msgstr "Perincian Postingan"
+
+#: inc/template-analytics.php:353
+msgid "Comments Breakdown"
+msgstr "Perincian Komentar"
+
+#: inc/template-analytics.php:356
+msgid "Reactions Breakdown"
+msgstr "Perincian Reaksi"
+
+#: inc/template-analytics.php:359
+msgid "Link Stats Breakdown"
+msgstr "Perincian Statistik Tautan"
+
+#: inc/template-analytics.php:362 inc/template-analytics.php:508
+msgid "Top Authors by Views"
+msgstr "Penulis Teratas berdasarkan Tampilan"
+
+#: inc/template-analytics.php:365
+msgid "Top Views per Posts"
+msgstr "Tampilan Teratas per Postingan"
+
+#: inc/template-analytics.php:369
+msgid "Top Categories by Post Count"
+msgstr "Kategori Teratas berdasarkan Jumlah Posting"
+
+#: inc/template-analytics.php:372
+msgid "Top Tags"
+msgstr "Tag Teratas"
+
+#: inc/template-analytics.php:380
+msgid "Content Overview"
+msgstr "Ikhtisar Konten"
+
+#: inc/template-analytics.php:383
+msgid "Published Posts"
+msgstr "Postingan yang Diterbitkan"
+
+#: inc/template-analytics.php:386
+msgid "Drafts"
+msgstr "Draf"
+
+#: inc/template-analytics.php:389
+msgid "Pending Posts"
+msgstr "Postingan yang Tertunda"
+
+#: inc/template-analytics.php:392
+msgid "Private Posts"
+msgstr "Postingan Pribadi"
+
+#: inc/template-analytics.php:395
+msgid "Trashed Posts"
+msgstr "Postingan yang Dibuang"
+
+#: inc/template-analytics.php:398
+msgid "Revisions"
+msgstr "Revisi"
+
+#: inc/template-analytics.php:401
+msgid "Pages"
+msgstr "Halaman"
+
+#: inc/template-analytics.php:404
+msgid "Media Items"
+msgstr "Item Media"
+
+#: inc/template-analytics.php:407
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-analytics.php:410
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-analytics.php:413
+msgid "Custom Post Types"
+msgstr "Jenis Posting Kustom"
+
+#: inc/template-analytics.php:416
+msgid "Custom Taxonomies"
+msgstr "Taksonomi Kustom"
+
+#: inc/template-analytics.php:423
+msgid "Engagement & Performance"
+msgstr "Keterlibatan & Kinerja"
+
+#: inc/template-analytics.php:426
+msgid "Approved Comments"
+msgstr "Komentar yang Disetujui"
+
+#: inc/template-analytics.php:429
+msgid "Total Views"
+msgstr "Jumlah Tayangan"
+
+#: inc/template-analytics.php:432
+msgid "Total Reactions"
+msgstr "Jumlah Reaksi"
+
+#: inc/template-analytics.php:435
+msgid "Avg Words / Post (approx)"
+msgstr "Rata-Rata Kata / Posting (perkiraan)"
+
+#: inc/template-analytics.php:438
+msgid "Avg Read Time (mins)"
+msgstr "Rata-rata Waktu Baca (menit)"
+
+#: inc/template-analytics.php:445
+msgid "Appearance & Structure"
+msgstr "Penampilan & Struktur"
+
+#: inc/template-analytics.php:448
+msgid "Menus"
+msgstr "Menu"
+
+#: inc/template-analytics.php:451
+msgid "Widget Areas"
+msgstr "Area Widget"
+
+#: inc/template-analytics.php:454
+msgid "Active Theme"
+msgstr "Tema Aktif"
+
+#: inc/template-analytics.php:457
+msgid "Inactive Themes"
+msgstr "Tema Tidak Aktif"
+
+#: inc/template-analytics.php:460
+msgid "Total Plugins"
+msgstr "Jumlah Plugin"
+
+#: inc/template-analytics.php:463
+msgid "Active Plugins"
+msgstr "Plugin Aktif"
+
+#: inc/template-analytics.php:466
+msgid "Inactive Plugins"
+msgstr "Plugin Tidak Aktif"
+
+#: inc/template-analytics.php:469
+msgid "Site Language"
+msgstr "Bahasa Situs"
+
+#: inc/template-analytics.php:475
+msgid "Time Format"
+msgstr "Format Waktu"
+
+#: inc/template-analytics.php:478
+msgid "Timezone"
+msgstr "Zona waktu"
+
+#: inc/template-analytics.php:481
+msgid "Permalink Structure"
+msgstr "Struktur Tautan Perma"
+
+#: inc/template-analytics.php:488
+msgid "Top Authors & Link Stats"
+msgstr "Penulis Teratas & Statistik Tautan"
+
+#: inc/template-analytics.php:497
+msgid "Top Linked External Domains"
+msgstr "Domain Eksternal Tertaut Teratas"
+
+#: inc/template-analytics.php:512
+msgid "views"
+msgstr "dilihat"
+
+#: inc/template-analytics.php:516
+msgid "No author view data."
+msgstr "Tidak ada penulis yang melihat data."
+
+#: inc/template-functions.php:745 inc/template-functions.php:747
+msgid "Read more about %s"
+msgstr "Baca selengkapnya tentang %s"
+
+#: inc/template-functions.php:782
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: inc/template-functions.php:783
+msgid "Next"
+msgstr "Berikutnya"
+
+#: inc/template-functions.php:908 inc/template-functions.php:2126
+msgid "%s min read"
+msgstr "%s mnt dibaca"
+
+#: inc/template-functions.php:1039
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentar"
+
+#: inc/template-functions.php:1051
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s penayangan"
+
+#: inc/template-functions.php:1187 inc/template-functions.php:1398
+msgid "Copy link to clipboard"
+msgstr "Salin tautan ke papan klip"
+
+#: inc/template-functions.php:1187 inc/template-functions.php:1398
+msgid "Link copied to clipboard!"
+msgstr "Tautan disalin ke papan klip!"
+
+#: inc/template-functions.php:1190 inc/template-functions.php:1400
+msgid "Save this post"
+msgstr "Simpan postingan ini"
+
+#: inc/template-functions.php:1190 inc/template-functions.php:1400
+msgid "Please log in to bookmark this post."
+msgstr "Silakan masuk untuk menandai posting ini."
+
+#: inc/template-functions.php:1193 inc/template-functions.php:1401
+msgid "Print this page"
+msgstr "Cetak halaman ini"
+
+#: inc/template-functions.php:1470
+msgid "%s views"
+msgstr "%s penayangan"
+
+#: inc/template-functions.php:1574
+msgid "Love"
+msgstr "Cinta"
+
+#: inc/template-functions.php:1575
+msgid "Funny"
+msgstr "Lucu"
+
+#: inc/template-functions.php:1576
+msgid "Wow"
+msgstr "Wow"
+
+#: inc/template-functions.php:1577
+msgid "Sad"
+msgstr "Sedih"
+
+#: inc/template-functions.php:1578
+msgid "Angry"
+msgstr "Marah"
+
+#: inc/template-functions.php:1589
+msgid "Post Reactions"
+msgstr "Pasca Reaksi"
+
+#: inc/template-functions.php:1793
+msgid "Support Author"
+msgstr "Penulis Dukungan"
+
+#: inc/template-functions.php:1809
+msgid "About the Author"
+msgstr "Tentang Penulis"
+
+#: inc/template-functions.php:1844
+msgid "Visit Website"
+msgstr "Kunjungi Situs Web"
+
+#: inc/template-functions.php:1850
+msgid "View All Posts"
+msgstr "Lihat Semua Postingan"
+
+#: inc/template-functions.php:1901
+msgid "Your name"
+msgstr "Namamu"
+
+#: inc/template-functions.php:1909
+msgid "Your email"
+msgstr "email Anda"
+
+#: inc/template-functions.php:1917
+msgid "Your website"
+msgstr "Situs web Anda"
+
+#: inc/template-functions.php:1925
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: inc/template-functions.php:2017
+msgid "N/A"
+msgstr "T/A"
+
+#: inc/template-functions.php:2026
+msgid "Site Stats"
+msgstr "Statistik Situs"
+
+#: inc/template-functions.php:2033
+msgid "%s total views"
+msgstr "%s total penayangan"
+
+#: inc/template-functions.php:2040
+msgid "Most read: %s"
+msgstr "Paling banyak dibaca: %s"
+
+#: inc/template-functions.php:2047
+msgid "%s comments made"
+msgstr "%s komentar dibuat"
+
+#: inc/template-functions.php:2054
+msgid "Readers mostly feel: %s"
+msgstr "Kebanyakan pembaca merasakan: %s"
+
+#: inc/template-functions.php:2061
+msgid "Top writer: %s"
+msgstr "Penulis teratas: %s"
+
+#: inc/template-functions.php:2068
+msgid "See all site stats"
+msgstr "Lihat semua statistik situs"
+
+#: inc/template-functions.php:2101
+msgid "Post Stats"
+msgstr "Statistik Posting"
+
+#: inc/template-functions.php:2108
+msgid "%d views"
+msgstr "%d penayangan"
+
+#: inc/template-functions.php:2114
+msgid "%d comments"
+msgstr "%d komentar"
+
+#: inc/template-functions.php:2120
+msgid "Mostly: %s"
+msgstr "Kebanyakan: %s"
+
+#: inc/template-functions.php:2132
+msgid "Edit Post"
+msgstr "Sunting Posting"
+
+#: inc/template-functions.php:2159 inc/template-functions.php:2167
+#: admin-dashboard/src/admin-top-menu.js:103
+msgid "ReviewNews Options"
+msgstr "Tinjau Opsi Berita"
+
+#: inc/template-functions.php:2196 admin-dashboard/src/admin-top-menu.js:140
+msgid "Front-page Banner"
+msgstr "Spanduk halaman depan"
+
+#: inc/template-functions.php:2296 inc/template-functions.php:2356
+msgid "Featured"
+msgstr "Unggulan"
+
+#: inc/template-functions.php:2320 inc/template-functions.php:2461
+#: inc/template-functions.php:2523 inc/template-functions.php:2565
+msgid "Watch Video"
+msgstr "Tonton Video"
+
+#: inc/template-functions.php:2322
+msgid "Latest News"
+msgstr "Berita Terbaru"
+
+#: inc/template-functions.php:2327 inc/template-functions.php:2421
+#: inc/template-functions.php:2445 inc/template-functions.php:2466
+#: inc/template-functions.php:2484 inc/template-functions.php:2511
+#: inc/template-functions.php:2530 inc/template-functions.php:2551
+#: inc/template-functions.php:2574 inc/template-functions.php:2593
+msgid "Featured News"
+msgstr "Berita Unggulan"
+
+#: inc/template-functions.php:2330
+msgid "Central News"
+msgstr "Berita Pusat"
+
+#: inc/template-functions.php:2331 inc/template-functions.php:2425
+#: inc/template-functions.php:2449 inc/template-functions.php:2488
+#: inc/template-functions.php:2534 inc/template-functions.php:2555
+#: inc/template-functions.php:2578 inc/template-functions.php:2597
+msgid "More News"
+msgstr "Berita Lainnya"
+
+#: inc/template-functions.php:2349 inc/template-functions.php:2500
+#: inc/template-functions.php:2546
+msgid "Watch"
+msgstr "Jam tangan"
+
+#: inc/template-functions.php:2379
+msgid "Watch Videos"
+msgstr "Tonton Video"
+
+#: inc/template-functions.php:2414
+msgid "Watch Online"
+msgstr "Tonton Daring"
+
+#: inc/template-functions.php:2424 inc/template-functions.php:2448
+#: inc/template-functions.php:2554
+msgid "Global News"
+msgstr "Berita Global"
+
+#: inc/template-functions.php:2467 inc/template-functions.php:2489
+msgid "Related News"
+msgstr "Berita Terkait"
+
+#: inc/template-functions.php:2508
+#: lib/tgm/class-tgm-plugin-activation.php:2286
+msgid "Recommended"
+msgstr "Direkomendasikan"
+
+#: inc/template-functions.php:2510
+msgid "Archive"
+msgstr "Arsip"
+
+#: inc/template-functions.php:2514
+msgid "Opinion"
+msgstr "Pendapat"
+
+#: inc/template-functions.php:2577
+msgid "Top News"
+msgstr "Berita Teratas"
+
+#: inc/template-functions.php:2596
+msgid "Hot News"
+msgstr "Berita Hangat"
+
+#: inc/template-tags.php:146 inc/template-tags.php:227
+msgid " (Last Updated: %s) "
+msgstr "(Terakhir Diperbarui: %s)"
+
+#: inc/template-tags.php:264
+msgid "ago"
+msgstr "yang lalu"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:290 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sunting <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr "Lisensi Tema"
+
+#: inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr "Masukkan kunci lisensi tema Anda."
+
+#: inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr "Kunci Lisensi"
+
+#: inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr "Tindakan Lisensi"
+
+#: inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr "Nonaktifkan Lisensi"
+
+#: inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr "Aktifkan Lisensi"
+
+#: inc/updater/theme-updater.php:35 inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr "Status lisensi tidak diketahui."
+
+#: inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr "Memperbarui?"
+
+#: inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr "tak terbatas"
+
+#: inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr "Kunci lisensi aktif."
+
+#: inc/updater/theme-updater.php:39
+msgid "Expires %s."
+msgstr "Kedaluwarsa %s."
+
+#: inc/updater/theme-updater.php:40
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Anda telah mengaktifkan %1$s / %2$s situs."
+
+#: inc/updater/theme-updater.php:41
+msgid "License key expired %s."
+msgstr "Kunci lisensi sudah habis masa berlakunya %s."
+
+#: inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr "Kunci lisensi telah kedaluwarsa."
+
+#: inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr "Kunci lisensi tidak cocok."
+
+#: inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr "Lisensi tidak aktif."
+
+#: inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr "Kunci lisensi dinonaktifkan."
+
+#: inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr "Situs tidak aktif."
+
+#: inc/updater/theme-updater.php:48
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Memperbarui tema ini akan menghilangkan semua penyesuaian yang Anda buat. "
+"'Batal' untuk berhenti, 'OK' untuk memperbarui."
+
+#: inc/updater/theme-updater.php:49
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\""
+" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update "
+"now</a>."
+msgstr ""
+"<strong>%1$s %2$s</strong> tersedia. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Lihat apa yang baru</a> atau <a href=\"%5$s\"%6$s>perbarui "
+"sekarang</a>."
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "Menampilkan info penulis."
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFT Author Info"
+msgstr "Info Penulis AFT"
+
+#: inc/widgets/widget-author-info.php:164
+msgid "About Author"
+msgstr "Tentang Penulis"
+
+#: inc/widgets/widget-author-info.php:166
+msgid "Profile image"
+msgstr "Gambar profil"
+
+#: inc/widgets/widget-author-info.php:167
+msgid "Name"
+msgstr "Nama"
+
+#: inc/widgets/widget-author-info.php:168
+msgid "Descriptions"
+msgstr "Deskripsi"
+
+#: inc/widgets/widget-author-info.php:171
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-author-info.php:172
+msgid "TikTok"
+msgstr "TikTok"
+
+#: inc/widgets/widget-author-info.php:173
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-author-info.php:174
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widgets/widget-author-info.php:175
+msgid "VK"
+msgstr "VK"
+
+#: inc/widgets/widget-express-posts-grid.php:25
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "Menampilkan Postingan Ekspres dari kategori yang dipilih."
+
+#: inc/widgets/widget-express-posts-grid.php:29
+msgid "AFT Express Posts Grid"
+msgstr "Kisi Posting Ekspres AFT"
+
+#: inc/widgets/widget-express-posts-grid.php:128
+#: inc/widgets/widget-express-posts-list.php:138
+#: inc/widgets/widget-popular-posts.php:118
+#: inc/widgets/widget-posts-carousel.php:110
+#: inc/widgets/widget-posts-double-column.php:145
+#: inc/widgets/widget-posts-grid.php:116 inc/widgets/widget-posts-list.php:119
+#: inc/widgets/widget-posts-single-column.php:119
+#: inc/widgets/widget-posts-slider.php:114
+#: inc/widgets/widget-trending-posts-by-tag.php:122
+#: inc/widgets/widget-trending-posts-by-view.php:117
+#: inc/widgets/widget-trending-posts.php:141
+msgid "Number of posts"
+msgstr "Jumlah posting"
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFT Express Posts List"
+msgstr "Daftar Postingan Ekspres AFT"
+
+#: inc/widgets/widget-popular-posts.php:30
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts-by-tag.php:30
+#: inc/widgets/widget-trending-posts-by-view.php:30
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "Menampilkan kisi dari kategori yang dipilih."
+
+#: inc/widgets/widget-popular-posts.php:34
+msgid "AFT Popular News"
+msgstr "Berita Populer AFT"
+
+#: inc/widgets/widget-posts-carousel.php:20
+msgid "Displays posts carousel from selected category."
+msgstr "Menampilkan carousel postingan dari kategori yang dipilih."
+
+#: inc/widgets/widget-posts-carousel.php:24
+msgid "AFT Posts Carousel"
+msgstr "Korsel Posting AFT"
+
+#: inc/widgets/widget-posts-carousel.php:109
+#: inc/widgets/widget-posts-slider.php:113
+#: inc/widgets/widget-posts-tabs.php:114 inc/widgets/widget-posts-tabs.php:118
+#: inc/widgets/widget-posts-tabs.php:122
+msgid "Select category"
+msgstr "Pilih kategori"
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFT Post Double Columns"
+msgstr "Kolom Ganda Posting AFT"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "Pilih Kategori 1"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "Pilih Kategori 2"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFT Post Grid"
+msgstr "Kisi Pos Belakang"
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFT Post List"
+msgstr "Daftar Pos AFT"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr "Menampilkan postingan satu kolom dari kategori yang dipilih."
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFT Post Single Column"
+msgstr "Kolom Tunggal Posting AFT"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "Menampilkan penggeser postingan dari kategori yang dipilih."
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFT Posts Slider"
+msgstr "Penggeser Posting AFT"
+
+#: inc/widgets/widget-posts-tabs.php:21
+msgid "Displays tabbed posts lists from selected settings."
+msgstr "Menampilkan daftar postingan bertab dari pengaturan yang dipilih."
+
+#: inc/widgets/widget-posts-tabs.php:26
+msgid "AFT Posts Tabs"
+msgstr "Tab Posting AFT"
+
+#: inc/widgets/widget-posts-tabs.php:97 inc/widgets/widget-posts-tabs.php:103
+msgid "Yes"
+msgstr "Ya"
+
+#: inc/widgets/widget-posts-tabs.php:98 inc/widgets/widget-posts-tabs.php:104
+msgid "No"
+msgstr "TIDAK"
+
+#: inc/widgets/widget-posts-tabs.php:124
+msgid "Settings for all tabs"
+msgstr "Pengaturan untuk semua tab"
+
+#: inc/widgets/widget-posts-tabs.php:126
+msgid "Number of posts per tab"
+msgstr "Jumlah postingan per tab"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "Menampilkan daftar kontak sosial dari pengaturan yang dipilih."
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFT Social Contacts"
+msgstr "Kontak Sosial AFT"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr ""
+"Menu sosial tidak disetel. Anda perlu membuat menu dan menetapkannya ke Menu"
+" Sosial pada Pengaturan Menu."
+
+#: inc/widgets/widget-trending-posts-by-tag.php:34
+msgid "AFT Trending News (By Tag)"
+msgstr "Berita Trending AFT (Berdasarkan Tag)"
+
+#: inc/widgets/widget-trending-posts-by-view.php:34
+msgid "AFT Trending News (By View)"
+msgstr "Berita Trending AFT (Berdasarkan Tampilan)"
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFT Trending News"
+msgstr "Berita Tren AFT"
+
+#: inc/widgets/widget-youtube-video.php:21
+msgid "Displays youtube video slider."
+msgstr "Menampilkan penggeser video youtube."
+
+#: inc/widgets/widget-youtube-video.php:25
+msgid "AFT YouTube Video"
+msgstr "Video YouTube belakang"
+
+#: inc/widgets/widget-youtube-video.php:173
+msgid "YouTube Videos:"
+msgstr "Video YouTube:"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "Mengunggah"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "Pilih Gambar"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "Pilih Gambar"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-common-functions.php:89
+msgid "Recent"
+msgstr "Terkini"
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Main Sidebar"
+msgstr "Bilah Sisi Utama"
+
+#: inc/widgets/widgets-register-sidebars.php:15
+msgid "Add widgets for main sidebar."
+msgstr "Tambahkan widget untuk sidebar utama."
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Header Widget 1"
+msgstr "Widget Tajuk 1"
+
+#: inc/widgets/widgets-register-sidebars.php:25
+#: inc/widgets/widgets-register-sidebars.php:34
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Add widgets for header section."
+msgstr "Tambahkan widget untuk bagian header."
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Header Widget 2"
+msgstr "Widget Tajuk 2"
+
+#: inc/widgets/widgets-register-sidebars.php:40
+msgid "Header Widget 3"
+msgstr "Widget Tajuk 3"
+
+#: inc/widgets/widgets-register-sidebars.php:51
+msgid "Front-page Content Section"
+msgstr "Bagian Konten Halaman Depan"
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Add widgets to front-page contents section."
+msgstr "Tambahkan widget ke bagian konten halaman depan."
+
+#: inc/widgets/widgets-register-sidebars.php:61
+msgid "Front-page Sidebar Section"
+msgstr "Bagian Sidebar halaman depan"
+
+#: inc/widgets/widgets-register-sidebars.php:63
+msgid "Add widgets to front-page sidebar section."
+msgstr "Tambahkan widget ke bagian sidebar halaman depan."
+
+#: inc/widgets/widgets-register-sidebars.php:71
+msgid "Banner Ad Section"
+msgstr "Bagian Iklan Spanduk"
+
+#: inc/widgets/widgets-register-sidebars.php:73
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "Tambahkan widget untuk iklan bagian banner halaman depan."
+
+#: inc/widgets/widgets-register-sidebars.php:84
+msgid "Add widgets for off-canvas section."
+msgstr "Tambahkan widget untuk bagian di luar kanvas."
+
+#: inc/widgets/widgets-register-sidebars.php:92
+msgid "Above Site Header Section"
+msgstr "Bagian Header Situs Di Atas"
+
+#: inc/widgets/widgets-register-sidebars.php:94
+msgid "Add widgets for above site header section."
+msgstr "Tambahkan widget untuk bagian header situs di atas."
+
+#: inc/widgets/widgets-register-sidebars.php:102
+msgid "Below Site Header Section"
+msgstr "Di bawah Bagian Header Situs"
+
+#: inc/widgets/widgets-register-sidebars.php:104
+msgid "Add widgets for below site header section."
+msgstr "Tambahkan widget untuk di bawah bagian header situs."
+
+#: inc/widgets/widgets-register-sidebars.php:112
+msgid "Above Main Banner Section"
+msgstr "Di Atas Bagian Spanduk Utama"
+
+#: inc/widgets/widgets-register-sidebars.php:114
+msgid "Add widgets for above main banner section."
+msgstr "Tambahkan widget untuk bagian spanduk utama di atas."
+
+#: inc/widgets/widgets-register-sidebars.php:122
+msgid "Below Main Banner Section"
+msgstr "Di bawah Bagian Spanduk Utama"
+
+#: inc/widgets/widgets-register-sidebars.php:124
+msgid "Add widgets for below main banner section."
+msgstr "Tambahkan widget untuk di bawah bagian spanduk utama."
+
+#: inc/widgets/widgets-register-sidebars.php:132
+msgid "Below Featured Section"
+msgstr "Di Bawah Bagian Unggulan"
+
+#: inc/widgets/widgets-register-sidebars.php:134
+msgid "Add widgets for below featured section."
+msgstr "Tambahkan widget untuk bagian unggulan di bawah ini."
+
+#: inc/widgets/widgets-register-sidebars.php:142
+msgid "Above Site Footer Section"
+msgstr "Bagian Footer Situs Di Atas"
+
+#: inc/widgets/widgets-register-sidebars.php:144
+msgid "Add widgets for above site footer section."
+msgstr "Tambahkan widget untuk bagian footer situs di atas."
+
+#: inc/widgets/widgets-register-sidebars.php:153
+msgid "Footer Widget 1"
+msgstr "Widget Catatan Kaki 1"
+
+#: inc/widgets/widgets-register-sidebars.php:155
+msgid "Displays items on footer first column."
+msgstr "Menampilkan item pada footer kolom pertama."
+
+#: inc/widgets/widgets-register-sidebars.php:164
+msgid "Footer Widget 2"
+msgstr "Widget Catatan Kaki 2"
+
+#: inc/widgets/widgets-register-sidebars.php:166
+msgid "Displays items on footer second column."
+msgstr "Menampilkan item pada footer kolom kedua."
+
+#: inc/widgets/widgets-register-sidebars.php:174
+msgid "Footer Widget 3"
+msgstr "Widget Catatan Kaki 3"
+
+#: inc/widgets/widgets-register-sidebars.php:176
+msgid "Displays items on footer third column."
+msgstr "Menampilkan item di footer kolom ketiga."
+
+#: inc/widgets/widgets-register-sidebars.php:184
+msgid "Below Site Footer Section"
+msgstr "Di bawah Bagian Footer Situs"
+
+#: inc/widgets/widgets-register-sidebars.php:186
+msgid "Add widgets for below site footer section."
+msgstr "Tambahkan widget untuk bagian footer situs di bawah."
+
+#: inc/widgets/widgets-register-sidebars.php:195
+msgid "Above Single Post Title Section"
+msgstr "Di Atas Bagian Judul Postingan Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:197
+msgid "Add widgets for single above post title."
+msgstr "Tambahkan widget untuk satu judul postingan di atas."
+
+#: inc/widgets/widgets-register-sidebars.php:205
+msgid "Below Single Post Title Section"
+msgstr "Di bawah Bagian Judul Posting Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:207
+msgid "Add widgets for single below single post title ."
+msgstr "Tambahkan widget untuk satu di bawah judul posting tunggal."
+
+#: inc/widgets/widgets-register-sidebars.php:215
+msgid "Above Single Featured Image Section"
+msgstr "Di Atas Bagian Gambar Unggulan Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:217
+msgid "Add widgets for above featured image."
+msgstr "Tambahkan widget untuk gambar unggulan di atas."
+
+#: inc/widgets/widgets-register-sidebars.php:225
+msgid "Below Single Featured Image Section"
+msgstr "Di bawah Bagian Gambar Unggulan Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:227
+msgid "Add widgets for below featured image ."
+msgstr "Tambahkan widget untuk gambar unggulan di bawah."
+
+#: inc/widgets/widgets-register-sidebars.php:235
+msgid "Above Single Post Content Section"
+msgstr "Di Atas Bagian Konten Posting Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:237
+msgid "Add widgets for single posts= content."
+msgstr "Tambahkan widget untuk posting tunggal= konten."
+
+#: inc/widgets/widgets-register-sidebars.php:245
+msgid "Below Single Post Content Section"
+msgstr "Di bawah Bagian Konten Posting Tunggal"
+
+#: inc/widgets/widgets-register-sidebars.php:247
+msgid "Add widgets for single post content."
+msgstr "Tambahkan widget untuk konten posting tunggal."
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja Anda"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "Jelajahi:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Tepung roti"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "Rumah"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 Tidak Ditemukan"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "Arsip"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "Hasil penelusuran untuk: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "Halaman %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "Halaman Komentar %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "Menit %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "Minggu %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g: aku a"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "Saya"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "ga"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "J"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: lib/info/class.info.php:126
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme details page."
+msgstr ""
+"Selamat datang! Terima kasih telah memilih %1$s. Untuk sepenuhnya "
+"memanfaatkan yang terbaik yang ditawarkan tema kami, pastikan Anda "
+"mengunjungi halaman detail tema."
+
+#: lib/info/class.info.php:126
+msgid "Get started with %1$s"
+msgstr "Mulailah dengan %1$s"
+
+#: lib/info/class.info.php:126 lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Tutup pemberitahuan ini"
+
+#: lib/info/class.info.php:232
+msgid "%s() method does not exist."
+msgstr "Metode %s() tidak ada."
+
+#: lib/info/class.info.php:341 lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr "Kelola Plugin"
+
+#: lib/info/class.info.php:410
+msgid "Product Features"
+msgstr "Fitur Produk"
+
+#: lib/info/class.info.php:411
+msgid "Free"
+msgstr "Bebas"
+
+#: lib/info/class.info.php:412
+msgid "Premium"
+msgstr "Premi"
+
+#: lib/info/info.php:20
+msgid ""
+"Howdy %1$s, we would like to thank you for installing and activating %2$s "
+"theme for your precious site. All of the features provided by the theme are "
+"now ready to use; Here, we have gathered all of the essential details and "
+"helpful links for you and your better experience with %2$s. Once again, "
+"Thanks for using our theme!"
+msgstr ""
+"Halo %1$s, kami ingin mengucapkan terima kasih telah memasang dan "
+"mengaktifkan tema %2$s untuk situs berharga Anda. Semua fitur yang "
+"disediakan oleh tema kini siap digunakan; Di sini, kami telah mengumpulkan "
+"semua detail penting dan tautan bermanfaat untuk Anda dan pengalaman Anda "
+"yang lebih baik dengan %2$s. Sekali lagi, Terima kasih telah menggunakan "
+"tema kami!"
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr "Memulai"
+
+#: lib/info/info.php:26 admin-dashboard/src/components/main.js:62
+msgid "Useful Plugins"
+msgstr "Plugin yang Berguna"
+
+#: lib/info/info.php:27 lib/info/info.php:87 lib/info/info.php:90
+msgid "Demo Content"
+msgstr "Konten Demo"
+
+#: lib/info/info.php:34
+#: admin-dashboard/src/components/json/dashboard-content.js:6
+msgid "Theme Details"
+msgstr "Detail Tema"
+
+#: lib/info/info.php:38 lib/info/info.php:98
+msgid "View Demo"
+msgstr "Lihat Demo"
+
+#: lib/info/info.php:42 lib/info/info.php:57 lib/info/info.php:120
+msgid "View Documentation"
+msgstr "Lihat Dokumentasi"
+
+#: lib/info/info.php:54 lib/info/info.php:117
+msgid "Theme Documentation"
+msgstr "Dokumentasi Tema"
+
+#: lib/info/info.php:63 lib/info/info.php:66
+#: admin-dashboard/src/components/json/home-content.js:65
+msgid "Static Front Page"
+msgstr "Halaman Depan Statis"
+
+#: lib/info/info.php:65
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+"Untuk mendapatkan halaman beranda khusus selain daftar blog, Anda perlu "
+"membuat dan mengatur halaman depan statis."
+
+#: lib/info/info.php:73
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+"Tema menggunakan API Penyesuai untuk opsi tema. Dengan menggunakan "
+"Penyesuai, Anda dapat dengan mudah menyesuaikan berbagai aspek tema."
+
+#: lib/info/info.php:79 lib/info/info.php:82
+msgid "Widgets"
+msgstr "Widget"
+
+#: lib/info/info.php:81
+msgid ""
+"Theme uses Wedgets API for widget options. Using the Widgets you can easily "
+"customize different aspects of the theme."
+msgstr ""
+"Tema menggunakan Wedges API untuk opsi widget. Dengan menggunakan Widget, "
+"Anda dapat dengan mudah menyesuaikan berbagai aspek tema."
+
+#: lib/info/info.php:89
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and "
+"activated. After plugin is activated, visit AF Companion Dashboard from "
+"admin menu."
+msgstr ""
+"Untuk mengimpor contoh konten demo, plugin %1$s harus diinstal dan "
+"diaktifkan. Setelah plugin diaktifkan, kunjungi AF Companion Dashboard dari "
+"menu admin."
+
+#: lib/info/info.php:95
+msgid "Theme Preview"
+msgstr "Pratinjau Tema"
+
+#: lib/info/info.php:97
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+"Anda dapat melihat demo tema sebagai referensi untuk mengetahui apa yang "
+"dapat Anda capai dengan menggunakan tema tersebut dan bagaimana tema "
+"tersebut dapat disesuaikan."
+
+#: lib/info/info.php:108 lib/info/info.php:111
+msgid "Contact Support"
+msgstr "Hubungi Dukungan"
+
+#: lib/info/info.php:110
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme."
+msgstr ""
+"Punya pertanyaan dukungan tema atau menemukan bug atau mendapat masukan? "
+"Tempat terbaik untuk menanyakan pertanyaan Anda adalah forum Dukungan khusus"
+" untuk tema tersebut."
+
+#: lib/info/info.php:126
+msgid "Child Theme"
+msgstr "Tema Anak"
+
+#: lib/info/info.php:128
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+"Untuk penyesuaian tema tingkat lanjut, disarankan untuk menggunakan tema "
+"anak daripada memodifikasi file tema itu sendiri. Dengan menggunakan "
+"pendekatan ini, Anda tidak akan kehilangan penyesuaian setelah pembaruan "
+"tema."
+
+#: lib/info/info.php:129
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#: lib/info/info.php:138
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+"Tema mendukung beberapa plugin WordPress yang berguna untuk menyempurnakan "
+"situs Anda. Namun, harap aktifkan hanya plugin yang Anda perlukan di situs "
+"Anda. Misalnya, aktifkan WooCommerce hanya jika Anda menggunakan e-commerce."
+
+#: lib/info/info.php:143
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see AF Companion Dashboard from admin menu."
+msgstr ""
+"Untuk mengimpor konten demo untuk tema ini, diperlukan plugin %1$s. Harap "
+"pastikan plugin diinstal dan diaktifkan. Setelah plugin diaktifkan, Anda "
+"akan melihat AF Companion Dashboard dari menu admin."
+
+#: lib/info/info.php:143
+msgid "AF Companion"
+msgstr "Pendamping AF"
+
+#: lib/info/info.php:191
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+"Jika Anda menginginkan fitur yang lebih canggih maka Anda dapat meningkatkan"
+" ke versi premium dari tema tersebut."
+
+#: lib/info/info.php:192
+msgid "Upgrade Now"
+msgstr "Tingkatkan Sekarang"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instal Plugin yang Diperlukan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instal Plugin"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ada yang tidak beres dengan API plugin."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini memerlukan plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini merekomendasikan plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan "
+"kompatibilitas maksimum dengan tema ini: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Ada pembaruan yang tersedia untuk plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diperlukan berikut ini saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"Plugin yang direkomendasikan berikut ini saat ini tidak aktif: %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulailah menginstal plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulailah memperbarui plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulailah mengaktifkan plugin"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Penginstal Plugin yang Diperlukan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:830
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+#: lib/tgm/class-tgm-plugin-activation.php:3590
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3169
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2962
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut berhasil diaktifkan:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan yang diambil. Plugin %1$s sudah aktif."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin tidak diaktifkan. Versi %s yang lebih tinggi diperlukan untuk tema "
+"ini. Harap perbarui pluginnya."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil diinstal dan diaktifkan. %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ada satu atau lebih plugin yang diperlukan atau direkomendasikan untuk "
+"dipasang, diperbarui, atau diaktifkan."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Silakan hubungi administrator situs ini untuk mendapatkan bantuan."
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini perlu diperbarui agar kompatibel dengan tema Anda."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Paket plugin jarak jauh tidak berisi folder dengan slug yang diinginkan dan "
+"penggantian nama tidak berhasil."
+
+#: lib/tgm/class-tgm-plugin-activation.php:939
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Silakan hubungi penyedia plugin dan minta mereka mengemas plugin mereka "
+"sesuai dengan pedoman WordPress."
+
+#: lib/tgm/class-tgm-plugin-activation.php:942
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paket plugin jarak jauh terdiri dari lebih dari satu file, tetapi file-file "
+"tersebut tidak dikemas dalam satu folder."
+
+#: lib/tgm/class-tgm-plugin-activation.php:1131
+#: lib/tgm/class-tgm-plugin-activation.php:2958
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "Dan"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1992
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2283
+msgid "Required"
+msgstr "Diperlukan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2302
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2305
+msgid "External Source"
+msgstr "Sumber Eksternal"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2308
+msgid "Pre-Packaged"
+msgstr "Pra-Paket"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2325
+msgid "Not Installed"
+msgstr "Tidak Dipasang"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2329
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tapi Belum Diaktifkan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2331
+msgid "Active"
+msgstr "Aktif"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2337
+msgid "Required Update not Available"
+msgstr "Pembaruan yang Diperlukan tidak Tersedia"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2340
+msgid "Requires Update"
+msgstr "Membutuhkan Pembaruan"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2343
+msgid "Update recommended"
+msgstr "Pembaruan direkomendasikan"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2352
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2398
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2402
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Memasang <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Pembaruan Tersedia <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2410
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk Mengaktifkan <span class=\"count\">(%s)</span>"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2492
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak dikenal"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2500
+msgid "Installed version:"
+msgstr "Versi terinstal:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2508
+msgid "Minimum required version:"
+msgstr "Versi minimum yang diperlukan:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2520
+msgid "Available version:"
+msgstr "Versi yang tersedia:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2543
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk dipasang, diperbarui, atau diaktifkan."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2557
+msgid "Plugin"
+msgstr "Pengaya"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2558
+msgid "Source"
+msgstr "Sumber"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2559
+msgid "Type"
+msgstr "Jenis"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2563
+msgid "Version"
+msgstr "Versi"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2564
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2613
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2618
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2624
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2694
+msgid "Upgrade message from the plugin author:"
+msgstr "Tingkatkan pesan dari pembuat plugin:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2727
+msgid "Install"
+msgstr "Memasang"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2767
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan yang "
+"diambil."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2769
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diperbarui. Tidak ada tindakan yang "
+"diambil."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2810
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang saat ini."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2812
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2918
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diaktifkan. Tidak ada tindakan yang "
+"diambil."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diaktifkan saat ini."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3508
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3511
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3513
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr ""
+"Proses instalasi dan aktivasi dimulai. Proses ini mungkin memakan waktu "
+"cukup lama pada beberapa host, jadi harap bersabar."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3519
+#: lib/tgm/class-tgm-plugin-activation.php:3527
+msgid "%1$s done."
+msgstr "%1$s selesai."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan aktivasi telah selesai."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3522
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3525
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi dimulai. Proses ini mungkin memakan waktu cukup lama pada "
+"beberapa host, jadi harap bersabar."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3528
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3530
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "Kanvas Kosong"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "Pembuat Halaman Lebar Penuh"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#: single.php:65
+msgid "Embedded video content"
+msgstr "Konten video yang disematkan"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Tidak Ada yang Ditemukan"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Siap untuk mempublikasikan posting pertama Anda? <a href=\"%1$s\">Mulai di "
+"sini</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Maaf, tidak ada yang cocok dengan istilah pencarian Anda. Silakan coba lagi "
+"dengan beberapa kata kunci yang berbeda."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Tampaknya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian "
+"bisa membantu."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:21
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:72
+msgid "Previous: %s"
+msgstr "Sebelumnya: %s"
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:77
+msgid "Next: %s"
+msgstr "Berikutnya: %s"
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:81
+msgid "Post navigation"
+msgstr "Navigasi pos"
+
+#: admin-dashboard/src/admin-top-menu.js:116
+msgid "Analytics"
+msgstr "Analisis"
+
+#: admin-dashboard/src/components/blockspare.demo.js:32
+msgid "Update Blockspare Pro"
+msgstr "Perbarui Blockspare Pro"
+
+#: admin-dashboard/src/components/blockspare.demo.js:34
+msgid "Update Blockspare"
+msgstr "Perbarui Blok Cadangan"
+
+#: admin-dashboard/src/components/blockspare.demo.js:48
+msgid "Page Builder Gutenberg Blocks & Patterns"
+msgstr "Blok & Pola Gutenberg Pembuat Halaman"
+
+#: admin-dashboard/src/components/blockspare.demo.js:51
+msgid ""
+"Add pages effortlessly with expertly crafted Gutenberg patterns and blocks "
+"for blogs, magazines, newspapers, and agency sites using the Blockspare "
+"plugin!"
+msgstr ""
+"Tambahkan halaman dengan mudah menggunakan pola dan blok Gutenberg yang "
+"dibuat secara ahli untuk blog, majalah, surat kabar, dan situs agensi "
+"menggunakan plugin Blockspare!"
+
+#: admin-dashboard/src/components/dashboard-content.js:42
+msgid "Hello "
+msgstr "Halo"
+
+#: admin-dashboard/src/components/dashboard-content.js:45
+msgid "Welcome to "
+msgstr "Selamat Datang di"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Update Elespare Pro"
+msgstr "Perbarui Elespare Pro"
+
+#: admin-dashboard/src/components/elespare-demo.js:36
+msgid "Update Elespare"
+msgstr "Perbarui Elespare"
+
+#: admin-dashboard/src/components/elespare-demo.js:50
+msgid "Page Builder Elementor Widgets"
+msgstr "Widget Elemen Pembuat Halaman"
+
+#: admin-dashboard/src/components/elespare-demo.js:53
+msgid ""
+"Add pages effortlessly with expertly crafted Elementor widgets for blogs, "
+"magazines, newspapers, and agency sites using the Elespare plugin!"
+msgstr ""
+"Tambahkan halaman dengan mudah menggunakan widget Elementor yang dibuat "
+"secara ahli untuk blog, majalah, surat kabar, dan situs agensi menggunakan "
+"plugin Elespare!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"We would like to thank you for installing and activating [theme] theme for "
+"your precious site. All of the features provided by the theme are now ready "
+"to use; Here, we have gathered all of the essential details and helpful "
+"links for you and your better experience with [theme]. Once again, Thanks "
+"for using our theme!"
+msgstr ""
+"Kami mengucapkan terima kasih telah memasang dan mengaktifkan tema [tema] "
+"untuk situs berharga Anda. Semua fitur yang disediakan oleh tema kini siap "
+"digunakan; Di sini, kami telah mengumpulkan semua detail penting dan tautan "
+"bermanfaat untuk Anda dan pengalaman Anda yang lebih baik dengan [tema]. "
+"Sekali lagi, Terima kasih telah menggunakan tema kami!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:10
+msgid "View Demos"
+msgstr "Lihat Demo"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:23
+msgid "Need Help?"
+msgstr "Butuh Bantuan?"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:25
+msgid "Demo Sites"
+msgstr "Situs Demo"
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "Atur jenis header tema, atur warna, spasi, perataan, dan lainnya."
+
+#: admin-dashboard/src/components/json/home-content.js:15
+msgid "Banner Advertisement"
+msgstr "Iklan Spanduk"
+
+#: admin-dashboard/src/components/json/home-content.js:16
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr ""
+"Anda dapat dengan mudah menempatkan spanduk promosi di bagian header Anda."
+
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "Atur jenis footer, jumlah kolom, spasi dan warna."
+
+#: admin-dashboard/src/components/json/home-content.js:35
+msgid "Color Options"
+msgstr "Pilihan Warna"
+
+#: admin-dashboard/src/components/json/home-content.js:36
+msgid "Change the color setting provide with the Theme."
+msgstr "Ubah pengaturan warna yang disediakan dengan Tema."
+
+#: admin-dashboard/src/components/json/home-content.js:46
+msgid "Selecting different categories can be done for different section."
+msgstr ""
+"Memilih kategori yang berbeda dapat dilakukan untuk bagian yang berbeda."
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Front-page Option"
+msgstr "Opsi halaman depan"
+
+#: admin-dashboard/src/components/json/home-content.js:56
+msgid ""
+"Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr ""
+"Tata letak halaman depan dengan Tag Populer, Berita Terkini, Berita Fitur "
+"dapat diatur."
+
+#: admin-dashboard/src/components/json/home-content.js:66
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr ""
+"Atur Beranda sebagai halaman statis untuk membuat beranda sendiri "
+"menggunakan widget."
+
+#: admin-dashboard/src/components/json/home-content.js:75
+msgid "Widgets Area"
+msgstr "Area Widget"
+
+#: admin-dashboard/src/components/json/home-content.js:76
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "Widget dapat ditambahkan pada semua bagian yang disediakan oleh Tema."
+
+#: admin-dashboard/src/components/json/home-content.js:85
+msgid "Archive Options"
+msgstr "Opsi Arsip"
+
+#: admin-dashboard/src/components/json/home-content.js:86
+msgid "Customize the blog layout desgin."
+msgstr "Sesuaikan desain tata letak blog."
+
+#: admin-dashboard/src/components/json/home-content.js:93
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr ""
+"Atur Tata Letak Global, Breadcrumb, Sidebar, Single Post, Anda mungkin "
+"melewatkannya dan banyak lagi."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:4
+msgid "Elespare (Elementor)"
+msgstr "Elespare (Elemen)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:6
+msgid ""
+"A stunning assortment of WordPress post widgets. It allows you to display "
+"your posts in many formats such as grid, list, tile, full, express, and so "
+"on."
+msgstr ""
+"Beraneka ragam widget posting WordPress yang menakjubkan. Ini memungkinkan "
+"Anda untuk menampilkan postingan Anda dalam berbagai format seperti grid, "
+"list, tile, full, express, dan sebagainya."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:10
+msgid "Blockspare Pro"
+msgstr "Blok cadangan Pro"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:12
+msgid "Beautiful Page Building Gutenberg Blocks for WordPress"
+msgstr "Blok Gutenberg Pembuatan Halaman yang Indah untuk WordPress"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:16
+msgid "Magic Content Box Block"
+msgstr "Blok Kotak Konten Ajaib"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:18
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you have always desired.."
+msgstr ""
+"Kami membangun serangkaian blok Gutenberg bagian halaman yang indah untuk "
+"konten WordPress untuk membantu Anda dengan cepat membuat situs web yang "
+"selalu Anda inginkan.."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:22
+msgid "Latest Posts Block for WordPress (Gutenberg)"
+msgstr "Blok Posting Terbaru untuk WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:24
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design, and tile layouts of your posts."
+msgstr ""
+"Koleksi indah postingan terbaru yang diblokir Gutenberg untuk WordPress, "
+"yang membantu Anda mendesain kisi postingan, daftar postingan, tata letak "
+"postingan lengkap, desain postingan ekspres tingkat lanjut, dan tata letak "
+"ubin postingan Anda."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:28
+msgid "Team and Testimonial Block for WordPress (Gutenberg)"
+msgstr "Blok Tim dan Testimonial untuk WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:30
+msgid ""
+"With the Team and Testimonial Block for Gutenberg, you can quickly create a "
+"beautiful, responsive, and high-converting team, members, review, rating, "
+"etc, sections. There is no need to code anything."
+msgstr ""
+"Dengan Tim dan Blok Testimonial untuk Gutenberg, Anda dapat dengan cepat "
+"membuat bagian tim, anggota, ulasan, peringkat, dll. yang cantik, responsif,"
+" dan berkonversi tinggi. Tidak perlu membuat kode apa pun."
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:34
+msgid "Pricing Table Block for WordPress (Gutenberg)"
+msgstr "Blok Tabel Harga untuk WordPress (Gutenberg)"
+
+#: admin-dashboard/src/components/json/premium-plugins-content.js:36
+msgid ""
+"With the Pricing Table Block for Gutenberg, you can quickly create a "
+"beautiful, responsive, and high-converting pricing table. There is no need "
+"to code anything."
+msgstr ""
+"Dengan Blok Tabel Harga untuk Gutenberg, Anda dapat dengan cepat membuat "
+"tabel harga yang indah, responsif, dan berkonversi tinggi. Tidak perlu "
+"membuat kode apa pun."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "Melihat"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"Punya pertanyaan dukungan tema atau menemukan bug atau mendapat masukan? "
+"Tempat terbaik untuk menanyakan pertanyaan Anda adalah forum Dukungan khusus"
+" untuk tema tersebut.."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "Video Tutorial"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "Tonton videonya untuk pembelajaran mudah tentang Menyesuaikan Tema."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:22
+msgid "3CX Free Live Chat"
+msgstr "Obrolan Langsung Gratis 3CX"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:24
+msgid "Visit"
+msgstr "Mengunjungi"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:26
+msgid ""
+"We have built a new live chat solution called 3cx startup! this will give "
+"you completely free live chat, voice capability plus a team communication "
+"system!"
+msgstr ""
+"Kami telah membangun solusi obrolan langsung baru yang disebut startup 3cx! "
+"ini akan memberi Anda obrolan langsung gratis, kemampuan suara, dan sistem "
+"komunikasi tim!"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:5
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"Gunakan AF Companion untuk mengimpor konten demo langsung, widget, dan "
+"pengaturan dengan cepat. Plugin ini memberikan tata letak mendasar untuk "
+"membangun situs web Anda dan mempercepat proses pengembangan."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:9
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr ""
+"Anda dapat merancang tata letak yang rumit untuk situs web Anda hanya dalam "
+"beberapa menit dengan blok kami yang mudah beradaptasi dan inventif."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:13
+msgid ""
+"Get ready-to-use Starter Sites instantly and build modern websites in "
+"minutes."
+msgstr ""
+"Dapatkan Situs Pemula yang siap digunakan secara instan dan bangun situs web"
+" modern dalam hitungan menit."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:17
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"DESAIN SITUS WEB BLOG, BERITA, ATAU MAJALAH YANG SEMPURNA Elespare adalah "
+"plugin WordPress sederhana namun efektif yang memungkinkan Anda menggunakan "
+"Elementor untuk membuat Header, Footer, dan Konten situs web yang fantastis "
+"dengan opsi penyesuaian yang tinggi secara GRATIS."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:21
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"Koleksi indah postingan terbaru yang diblokir Gutenberg untuk WordPress, "
+"yang membantu Anda mendesain kisi postingan, daftar postingan, tata letak "
+"postingan lengkap, desain postingan ekspres tingkat lanjut, dan tata letak "
+"ubin postingan Anda."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:25
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"Kami membuat serangkaian blok Gutenberg bagian halaman yang indah untuk "
+"konten WordPress guna membantu Anda dengan cepat membuat situs web yang "
+"selalu Anda inginkan."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:29
+msgid ""
+"It has 3 different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"Ini memiliki 3 widget berbeda untuk penulis posting, penulis selektif "
+"berdasarkan id dan penulis khusus. Ini juga menyediakan kode pendek untuk "
+"profil penulis."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:33
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"Plugin gratis ini menawarkan solusi obrolan langsung gratis bagi pengunjung "
+"situs web Anda untuk menghubungi Anda melalui obrolan langsung atau "
+"panggilan langsung - semuanya gratis! Terlibat dengan pelanggan Anda dan "
+"tingkatkan penjualan."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:37
+msgid ""
+"A free WordPress Plugin which facilitates with the functionality to submit "
+"Posts from frontend with or without logging in with various configurable "
+"options."
+msgstr ""
+"Plugin WordPress gratis yang memfasilitasi fungsionalitas untuk mengirimkan "
+"Postingan dari frontend dengan atau tanpa login dengan berbagai opsi yang "
+"dapat dikonfigurasi."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:41
+msgid ""
+"This plugin helps you grow your Mailchimp lists and write better newsletters"
+" through various methods. You can create good looking opt-in forms or "
+"integrate with any existing form on your site, like your comment, contact or"
+" checkout form."
+msgstr ""
+"Plugin ini membantu Anda mengembangkan daftar Mailchimp dan menulis buletin "
+"yang lebih baik melalui berbagai metode. Anda dapat membuat formulir "
+"keikutsertaan yang menarik atau mengintegrasikannya dengan formulir apa pun "
+"yang ada di situs Anda, seperti formulir komentar, kontak, atau pembayaran."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:48
+#: admin-dashboard/src/components/json/useful-plugins-content.js:53
+msgid "Get Started with Beautiful Starter Templates."
+msgstr "Mulailah dengan Template Pemula yang Cantik."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:49
+msgid ""
+"Use templatespare to import live demo content, widgets, and settings "
+"swiftly. This plugin gives fundamental layout to build your website and "
+"accelerate the development process."
+msgstr ""
+"Gunakan templatespare untuk mengimpor konten demo langsung, widget, dan "
+"pengaturan dengan cepat. Plugin ini memberikan tata letak mendasar untuk "
+"membangun situs web Anda dan mempercepat proses pengembangan."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:54
+msgid ""
+"Use blockspare to import live demo content, widgets, and settings swiftly. "
+"This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"Gunakan blockpare untuk mengimpor konten demo langsung, widget, dan "
+"pengaturan dengan cepat. Plugin ini memberikan tata letak mendasar untuk "
+"membangun situs web Anda dan mempercepat proses pengembangan."
+
+#: admin-dashboard/src/components/main.js:54
+msgid "Get started"
+msgstr "Mulailah"
+
+#: admin-dashboard/src/components/main.js:69
+msgid "Premium Plugins"
+msgstr "Plugin Premium"
+
+#: admin-dashboard/src/components/main.js:77
+msgid "Change Log"
+msgstr "Ubah Log"
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr "Pergi ke opsi"
+
+#: admin-dashboard/src/components/nav-content/premium-plugins.js:24
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+#: admin-dashboard/src/components/templatespare-demo.js:60
+msgid "Update Templatespare"
+msgstr "Perbarui Cadangan Templat"
+
+#: admin-dashboard/src/components/templatespare-demo.js:75
+msgid "Create Your Dream Website in Minutes!"
+msgstr "Ciptakan Situs Web Impian Anda dalam Hitungan Menit!"
+
+#: admin-dashboard/src/components/templatespare-demo.js:79
+msgid ""
+"No coding needed. One-click import of expert-made starter sites with "
+"customizer, widgets, Elementor Template Kits, and Gutenberg Patterns. Start "
+"now with Templatespare Plugin!"
+msgstr ""
+"Tidak diperlukan pengkodean. Impor sekali klik situs pemula buatan ahli "
+"dengan penyesuai, widget, Kit Templat Elementor, dan Pola Gutenberg. Mulai "
+"sekarang dengan Plugin Templatespare!"
+
+#: admin-dashboard/src/components/templatespare-demo.js:225
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: admin-dashboard/src/components/templatespare-demo.js:232
+msgid "All Themes Plan"
+msgstr "Semua Paket Tema"

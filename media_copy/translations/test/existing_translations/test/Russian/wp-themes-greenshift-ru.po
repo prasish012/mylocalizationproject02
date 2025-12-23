@@ -1,0 +1,1594 @@
+# Translation of Themes - Greenshift in Russian
+# This file is distributed under the same license as the Themes - Greenshift package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-27 19:31:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Greenshift\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "GreenShift is theme for FSE with maximum perfomance and flexibility. The best companion theme for Greenshift plugin, page and animation builder. It has more than 12 query loop templates, a lot of predefined Post and Page layouts, support for dark mode, header and footer patterns, style switcher, library of block styles and section patterns, dark color scheme, font selector. Theme doesn't use jquery dependencies and has conditional assets to get 100 web vitals score even without cache plugins. GreenShift can be used also to make super fast and clean Woocommerce shops. It has improved style loading for Woocommerce, better inputs, very clean design for shop pages and improved layouts for woocommerce blocks."
+msgstr ""
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:17
+#, gp-priority: high
+msgid "Greenshift"
+msgstr "Greenshift"
+
+#: build/index.js:1
+msgid "Sticky Header Logo"
+msgstr "Приклеенный логотип заголовка"
+
+#: build/index.js:1
+msgid "Add Mobile logo"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logo for mobile devices"
+msgstr ""
+
+#: build/index.js:1
+msgid "Mobile Logo"
+msgstr "Логотип для мобильных устройств"
+
+#: build/settings.js:1
+msgid "Disable Quantity Customization"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid xLarge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Product Search Results"
+msgstr "Результаты поиска товара"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr "Архивный товар"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Чистый холст"
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:40
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s отзыв на %2$s"
+msgstr[1] "%1$s отзыва на %2$s"
+msgstr[2] "%1$s отзывов на %2$s"
+
+#: styles/black.json
+msgctxt "Style variation name"
+msgid "Black"
+msgstr "Чёрный"
+
+#: inc/admin_menu/welcome-page.php:1033
+msgid "All about FSE workflow"
+msgstr ""
+
+#: patterns/query-grid-excerpt.php
+msgctxt "Pattern title"
+msgid "Grid of posts with excerpt"
+msgstr ""
+
+#: patterns/hero-main-light.php
+msgctxt "Pattern title"
+msgid "Hero block for Homepage Light"
+msgstr ""
+
+#: patterns/header-withbutton.php
+msgctxt "Pattern title"
+msgid "Header with left menu and button"
+msgstr ""
+
+#: patterns/header-simple.php
+msgctxt "Pattern title"
+msgid "Simple Header"
+msgstr "Простой заголовок"
+
+#: patterns/header-defaultblack.php
+msgctxt "Pattern title"
+msgid "Header Black"
+msgstr ""
+
+#: patterns/general-ratings-light.php
+msgctxt "Pattern title"
+msgid "Ratings block Light"
+msgstr ""
+
+#: patterns/general-pricing-light.php
+msgctxt "Pattern title"
+msgid "Pricing table Light"
+msgstr ""
+
+#: patterns/general-features-list-light.php
+msgctxt "Pattern title"
+msgid "Features list block Light"
+msgstr ""
+
+#: patterns/general-features-light.php
+msgctxt "Pattern title"
+msgid "Features block Homepage Light"
+msgstr ""
+
+#: patterns/general-faq-light.php
+msgctxt "Pattern title"
+msgid "FAQ block Light"
+msgstr ""
+
+#: patterns/general-banner2-light.php
+msgctxt "Pattern title"
+msgid "Banner block 2 light"
+msgstr ""
+
+#: patterns/general-banner-light.php
+msgctxt "Pattern title"
+msgid "Banner Light"
+msgstr ""
+
+#: patterns/footer-white.php
+msgctxt "Pattern title"
+msgid "Simple footer with white background"
+msgstr ""
+
+#: patterns/footer-default-mega.php
+msgctxt "Pattern title"
+msgid "Default Mega Footer"
+msgstr ""
+
+#: patterns/footer-central.php
+msgctxt "Pattern title"
+msgid "Central Footer with banner"
+msgstr ""
+
+#: inc/block-styles.php:347
+msgid "Soft Border radius"
+msgstr ""
+
+#: inc/block-styles.php:214
+msgid "Rounded grey"
+msgstr ""
+
+#: inc/block-styles.php:69
+msgid "System dark"
+msgstr ""
+
+#: inc/block-styles.php:61
+msgid "System light"
+msgstr ""
+
+#: inc/admin_menu/welcome-page.php:1043
+msgid "Visit our Video Center"
+msgstr "Посетите наш видеоцентр"
+
+#: inc/admin_menu/welcome-page.php:1023
+msgid "Get started with Learning Center"
+msgstr "Начните c учебного центра"
+
+#: inc/admin_menu/welcome-page.php:1000
+msgid "Theme Configuration"
+msgstr ""
+
+#: inc/admin_menu/welcome-page.php:998
+msgid "Thank you for installing theme and Greenshift plugin"
+msgstr ""
+
+#: inc/admin_menu/welcome-page.php:994
+msgid "Block Theme for WordPress"
+msgstr ""
+
+#: inc/admin_menu/welcome-page.php:990
+msgid "Welcome to Greenshift"
+msgstr "Добро пожаловать в Greenshift"
+
+#: inc/admin_menu/settings.php:267
+msgid "Search Product template"
+msgstr ""
+
+#: inc/admin_menu/settings.php:263
+msgid "Shop archive template"
+msgstr ""
+
+#: inc/admin_menu/settings.php:259
+msgid "Single Product template"
+msgstr ""
+
+#: inc/admin_menu/settings.php:253
+msgid "Post Archive template"
+msgstr ""
+
+#: inc/admin_menu/settings.php:249
+msgid "Single post template"
+msgstr "Шаблон одиночной записи"
+
+#: inc/admin_menu/settings.php:245
+msgid "Extra Template Settings"
+msgstr ""
+
+#: inc/admin_menu/settings.php:241
+msgid "Create Extra pages"
+msgstr ""
+
+#: inc/admin_menu/settings.php:237
+msgid "Footer pattern"
+msgstr ""
+
+#: inc/admin_menu/settings.php:233
+msgid "Header pattern"
+msgstr ""
+
+#: inc/admin_menu/settings.php:229
+msgid "Homepage Settings"
+msgstr "Настройки домашней страницы"
+
+#: inc/admin_menu/settings.php:225
+msgid "Brand Settings"
+msgstr "Настройки бренда"
+
+#: inc/admin_menu/settings.php:75 inc/admin_menu/settings.php:76
+#: inc/admin_menu/settings.php:219
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/admin_menu/settings.php:30 inc/admin_menu/welcome-page.php:1005
+msgid "Install Core Greenshift plugin"
+msgstr ""
+
+#: inc/admin_menu/settings.php:28 inc/admin_menu/welcome-page.php:1003
+msgid "To get Full Power of this theme, please, install Greenshift Companion plugin"
+msgstr ""
+
+#: inc/admin_menu/onboard/singleproduct.php:289
+msgid "Single with 2 column gallery"
+msgstr ""
+
+#: inc/admin_menu/onboard/singleproduct.php:283
+msgid "Single Improved"
+msgstr ""
+
+#: inc/admin_menu/onboard/singleproduct.php:267
+msgid "Your single product displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/singleproduct.php:250
+msgid "Selecting single product template will overwrite your existing template. You can edit elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:276
+msgid "Single with negative margin"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:270
+msgid "Single with Cover block"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:265
+#: inc/admin_menu/onboard/singleproduct.php:278
+msgid "Single Default"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:261
+#: inc/admin_menu/onboard/singleproduct.php:274
+msgid "Current single"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:254
+msgid "Your single displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/single.php:248
+msgid "Selecting single page template will overwrite your existing template. You can edit elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/searchproduct.php:257
+msgid "Improved Search page"
+msgstr ""
+
+#: inc/admin_menu/onboard/searchproduct.php:252
+msgid "Search Default"
+msgstr ""
+
+#: inc/admin_menu/onboard/searchproduct.php:248
+msgid "Current Search template"
+msgstr ""
+
+#: inc/admin_menu/onboard/searchproduct.php:223
+msgid "Selecting Search product template will overwrite your existing template. You can edit elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:455
+msgid "Wishlist requires Query addon"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:452
+msgid "Wishlist page"
+msgstr "Страница списка желаний"
+
+#: inc/admin_menu/onboard/pages.php:447
+msgid "Product Comparison requires Woocommerce addon"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:444
+msgid "Product Comparison Results Page"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:437
+msgid "Team page"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:430
+msgid "Price page"
+msgstr ""
+
+#: inc/admin_menu/onboard/pages.php:416
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: inc/admin_menu/onboard/pages.php:407
+msgid "Select if you want to create extra pages"
+msgstr ""
+
+#: inc/admin_menu/onboard/home.php:261
+msgid "Edit Home Page"
+msgstr "Изменить домашнюю страницу"
+
+#: inc/admin_menu/onboard/home.php:260
+msgid "Create New Home Page"
+msgstr ""
+
+#: inc/admin_menu/onboard/home.php:252
+msgid "Select a page"
+msgstr "Выбрать страницу"
+
+#: inc/admin_menu/onboard/home.php:245
+msgid "A custom page and template library"
+msgstr ""
+
+#: inc/admin_menu/onboard/home.php:239
+msgid "You can edit template later in"
+msgstr ""
+
+#: inc/admin_menu/onboard/home.php:239
+msgid "Homepage Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/admin_menu/onboard/home.php:231
+msgid "Your homepage displays"
+msgstr "На Вашей главной странице отображается"
+
+#: inc/admin_menu/onboard/home.php:224
+msgid "Select How you want to show your Home page. You can change this later"
+msgstr ""
+
+#: inc/admin_menu/onboard/home.php:200
+msgid "Home"
+msgstr "Главная"
+
+#: inc/admin_menu/onboard/header.php:297
+msgid "Header Simple"
+msgstr ""
+
+#: inc/admin_menu/onboard/header.php:289
+msgid "Header With Button"
+msgstr "Заголовок с кнопкой"
+
+#: inc/admin_menu/onboard/header.php:281
+msgid "Dark header"
+msgstr ""
+
+#: inc/admin_menu/onboard/header.php:273
+msgid "Header With two zones"
+msgstr ""
+
+#: inc/admin_menu/onboard/header.php:265
+msgid "Header With search icon"
+msgstr ""
+
+#: inc/admin_menu/onboard/header.php:257
+msgid "Header Centered"
+msgstr "Шапка по центру"
+
+#: inc/admin_menu/onboard/header.php:250
+msgid "Header Default"
+msgstr "Заголовок по умолчанию"
+
+#: inc/admin_menu/onboard/header.php:246
+msgid "Current Header"
+msgstr "Текущий заголовок"
+
+#: inc/admin_menu/onboard/header.php:239
+msgid "Your header displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/header.php:234
+msgid "Selecting header will overwrite your header template. Hover on title to preview it. You can edit header elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:276
+msgid "Mega Footer"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:268
+msgid "Footer with transparent background"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:260
+msgid "Footer Simple"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:252
+msgid "Footer 5 Column"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:244
+msgid "Footer with banner"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:237
+msgid "Footer Default"
+msgstr "Подвал по умолчанию"
+
+#: inc/admin_menu/onboard/footer.php:233
+msgid "Current Footer"
+msgstr "Текущий подвал"
+
+#: inc/admin_menu/onboard/footer.php:226
+msgid "Your footer displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/footer.php:221
+msgid "Attention. Selecting footer will overwrite your footer template. Hover on title to preview it. You can edit footer elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/brand.php:153
+msgid "Site Icon"
+msgstr "Иконка сайта"
+
+#: inc/admin_menu/onboard/brand.php:107
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: inc/admin_menu/onboard/brand.php:101
+msgid "Add description for site"
+msgstr ""
+
+#: inc/admin_menu/onboard/brand.php:97
+msgid "Site Description"
+msgstr "Описание сайта"
+
+#: inc/admin_menu/onboard/brand.php:91
+msgid "Add name for site"
+msgstr ""
+
+#: inc/admin_menu/onboard/brand.php:87
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: inc/admin_menu/onboard/brand.php:71
+msgid "You can add unlimited extra colors and configure additional global elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:260
+msgid "Improved Shop page"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:255
+msgid "Shop Default"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:244
+#: inc/admin_menu/onboard/searchproduct.php:241
+msgid "Your archive shop displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:238
+#: inc/admin_menu/onboard/searchproduct.php:235
+#: inc/admin_menu/onboard/singleproduct.php:262
+msgid "Buy Woocommerce plan (includes Woo and Query addon)"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:237
+#: inc/admin_menu/onboard/searchproduct.php:234
+#: inc/admin_menu/onboard/singleproduct.php:261
+msgid "Check your Addons"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:236
+#: inc/admin_menu/onboard/searchproduct.php:233
+#: inc/admin_menu/onboard/singleproduct.php:260
+msgid "This option requires to have Greenshift Query and Woocommerce addon"
+msgstr ""
+
+#: inc/admin_menu/onboard/archiveproduct.php:226
+msgid "Selecting archive product template will overwrite your existing template. You can edit elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:340
+#: inc/admin_menu/onboard/archiveproduct.php:319
+#: inc/admin_menu/onboard/brand.php:198 inc/admin_menu/onboard/footer.php:333
+#: inc/admin_menu/onboard/header.php:352 inc/admin_menu/onboard/home.php:315
+#: inc/admin_menu/onboard/pages.php:465
+#: inc/admin_menu/onboard/searchproduct.php:316
+#: inc/admin_menu/onboard/single.php:331
+#: inc/admin_menu/onboard/singleproduct.php:344
+msgid "Save and Continue"
+msgstr "Сохранить и продолжить"
+
+#: inc/admin_menu/onboard/archive.php:337
+#: inc/admin_menu/onboard/archiveproduct.php:316
+#: inc/admin_menu/onboard/brand.php:197 inc/admin_menu/onboard/footer.php:330
+#: inc/admin_menu/onboard/header.php:351 inc/admin_menu/onboard/home.php:312
+#: inc/admin_menu/onboard/pages.php:462
+#: inc/admin_menu/onboard/searchproduct.php:313
+#: inc/admin_menu/onboard/single.php:330
+#: inc/admin_menu/onboard/singleproduct.php:343
+msgid "Save"
+msgstr "Сохранить"
+
+#: inc/admin_menu/onboard/archive.php:282
+msgid "Cover on image"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:277
+msgid "Grid with Shadow"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:271
+msgid "Blog List"
+msgstr "Список блога"
+
+#: inc/admin_menu/onboard/archive.php:265
+msgid "Simple Grid"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:260
+msgid "Archive Default"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:256
+#: inc/admin_menu/onboard/archiveproduct.php:251
+msgid "Current archive"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:249
+msgid "Your archive displays"
+msgstr ""
+
+#: inc/admin_menu/onboard/archive.php:243
+msgid "Selecting Archive template will overwrite your existing template. You can edit elements in"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:46
+msgid "Create Extra Pages"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:43
+msgid "Select Search Product template"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:40
+msgid "Select archive Product template"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:37
+msgid "Select Single Product template"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:34
+msgid "Select Archive template"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:31
+msgid "Select Single Post template"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:28
+msgid "Select Footer Pattern"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:25
+msgid "Select Header Pattern"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:22
+msgid "HomePage settings"
+msgstr ""
+
+#: inc/admin_menu/onboard.php:19
+msgid "Brand settings"
+msgstr "Настройки бренда"
+
+#: build/index.js:1
+msgid "Clear Media"
+msgstr "Очистить медиа-файлы"
+
+#: build/index.js:1
+msgid "Add Sticky image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logo for sticky header"
+msgstr ""
+
+#: build/index.js:1
+msgid "Mobile Menu Arrow color"
+msgstr "Цвет стрелки мобильного меню"
+
+#: build/index.js:1
+msgid "Mobile Menu Arrow Background"
+msgstr "Фон стрелки мобильного меню"
+
+#: build/index.js:1
+msgid "Mobile Menu text color"
+msgstr "Цвет текста мобильного меню"
+
+#: build/index.js:1
+msgid "Mobile Menu Background color"
+msgstr "Цвет фона мобильного меню"
+
+#: build/index.js:1
+msgid "Menu Item Padding Horizontal"
+msgstr ""
+
+#: build/index.js:1
+msgid "Menu Item Padding Vertical"
+msgstr ""
+
+#: build/index.js:1
+msgid "Sub menu Hover Background color"
+msgstr "Цвет фона подменю при наведении"
+
+#: build/index.js:1
+msgid "Sub menu Hover color"
+msgstr "Цвет подменю при наведении"
+
+#: build/index.js:1
+msgid "Hover Background color"
+msgstr "Цвет фона при наведении"
+
+#: build/index.js:1
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+#: build/index.js:1
+msgid "Disable Hover Inline?"
+msgstr "Отключить встроенное наведение?"
+
+#: build/index.js:1
+msgid "GreenShift Extra Settings"
+msgstr "Дополнительные настройки GreenShift"
+
+#: build/settings.js:1
+msgid "Disable Cart Customization"
+msgstr ""
+
+#: build/settings.js:1
+msgid "Disable Checkout Customization"
+msgstr ""
+
+#: build/settings.js:1
+msgid "Woocommerce Options"
+msgstr "Параметры WooCommerce"
+
+#: build/settings.js:1
+msgid "Enable Back to Top button"
+msgstr "Включить кнопку Вернуться к началу"
+
+#: build/settings.js:1
+msgid "Enable Progress bar on posts"
+msgstr ""
+
+#: build/settings.js:1
+msgid "Save changes to database"
+msgstr "Сохранить изменения в базе данных"
+
+#: inc/admin_menu/onboard/pages.php:423
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: inc/admin_menu/onboard/archive.php:244
+#: inc/admin_menu/onboard/archiveproduct.php:227
+#: inc/admin_menu/onboard/footer.php:222 inc/admin_menu/onboard/header.php:235
+#: inc/admin_menu/onboard/home.php:239
+#: inc/admin_menu/onboard/searchproduct.php:224
+#: inc/admin_menu/onboard/single.php:249
+#: inc/admin_menu/onboard/singleproduct.php:251
+msgid "Site Editor"
+msgstr "Редактор сайта"
+
+#: styles/mona.json
+msgctxt "Style variation name"
+msgid "Mona Variable Font"
+msgstr ""
+
+#: build/index.js:1
+msgid "Logo height for sticky header"
+msgstr ""
+
+#: patterns/general-features.php
+msgctxt "Pattern title"
+msgid "Colored Features block"
+msgstr ""
+
+#: patterns/general-features-main.php
+msgctxt "Pattern title"
+msgid "Features block Homepage"
+msgstr ""
+
+#: inc/block-styles.php:93
+msgid "Blur background"
+msgstr "Размытие фона"
+
+#: inc/block-styles.php:86
+msgid "Full background"
+msgstr "На весь экран"
+
+#: build/index.js:1
+msgid "Sticky only on scroll Up?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Ajax loading?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Show Reusable template as Menu item"
+msgstr ""
+
+#: build/index.js:1
+msgid "Mobile Menu bottom area template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Mobile Menu top area template"
+msgstr ""
+
+#: build/index.js:1
+msgid "This works only on frontend side"
+msgstr ""
+
+#: build/index.js:1
+msgid "Inherit background from template?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Create sub item for template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Ajax loading trigger"
+msgstr ""
+
+#: build/index.js:1
+msgid "Make sure that you added inner Menu link in sub item with the same Reusable template"
+msgstr ""
+
+#: build/index.js:1
+msgid "Menu image gap"
+msgstr ""
+
+#: build/index.js:1
+msgid "You can add image into menu label by clicking on arrow in toolbar, then select Inline Image"
+msgstr ""
+
+#: build/index.js:1
+msgid "Bottom Margin"
+msgstr "Нижний внешний отступ"
+
+#: build/index.js:1
+msgid "Submenu Padding"
+msgstr ""
+
+#: build/index.js:1
+msgid "Submenu Width"
+msgstr "Ширина подменю"
+
+#: build/index.js:1
+msgid "Full width menu"
+msgstr ""
+
+#: build/index.js:1
+msgid "Columned menu from right"
+msgstr ""
+
+#: build/index.js:1
+msgid "Columned menu"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select menu type"
+msgstr ""
+
+#: build/index.js:1
+msgid "Use Megamenu for sub items"
+msgstr ""
+
+#: build/index.js:1
+msgid "GreenShift Menu Settings"
+msgstr ""
+
+#: build/index.js:1
+msgid "Select Reusable template"
+msgstr ""
+
+#: inc/block-styles.php:251
+msgid "Header search"
+msgstr "Поиск в заголовке"
+
+#: build/index.js:1
+msgid "Disable shadow?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Replace Text color when header is sticked?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Replace Background when header is sticked?"
+msgstr ""
+
+#: styles/poppins.json
+msgctxt "Style variation name"
+msgid "Poppins Green"
+msgstr ""
+
+#: styles/lora.json
+msgctxt "Style variation name"
+msgid "Lora Elegant"
+msgstr ""
+
+#: styles/blackgrotesk.json
+msgctxt "Style variation name"
+msgid "Black Content Grotesk"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Title area"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Title area"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without title"
+msgstr "Страница без заголовка"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Cart"
+msgstr "Корзина"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Rainbow creative"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color seven"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color six"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color five"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color four"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color third"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Multi Color second"
+msgstr ""
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Button background"
+msgstr "Фон кнопки"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Text Gradient"
+msgstr "Текстовый градиент"
+
+#: theme.json styles/lora.json styles/mona.json styles/poppins.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to secondary"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Input text"
+msgstr "Введите текст"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Input background"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Borders, Dividers"
+msgstr ""
+
+#: styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Color name"
+msgid "Price color (for woocommerce)"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Light Grey (for Meta text)"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Tag color"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Accented Light Background"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Attention Color"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Text over button"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Secondary Button"
+msgstr "Второстепенная кнопка"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Text over primary"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Contrast color (content background)"
+msgstr ""
+
+#: theme.json styles/black.json styles/blackgrotesk.json styles/lora.json
+#: styles/mona.json styles/poppins.json
+msgctxt "Color name"
+msgid "Base color (content text)"
+msgstr ""
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json styles/blackgrotesk.json styles/lora.json styles/mona.json
+#: styles/poppins.json
+msgctxt "Font family name"
+msgid "Primary Theme Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Colossus"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Boss"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Fluid - Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Subheading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Static - Mini"
+msgstr ""
+
+#: build/index.js:1
+msgid "Hide on mobile"
+msgstr "Скрывать на мобильных"
+
+#: build/index.js:1
+msgid "Hide on tablet"
+msgstr "Скрывать на планшетах"
+
+#: build/index.js:1
+msgid "Hide on desktop"
+msgstr "Скрывать на компьютере"
+
+#: build/index.js:1
+msgid "Sticky to Head on scroll?"
+msgstr ""
+
+#: build/index.js:1
+msgid "Transparent Header?"
+msgstr "Прозрачный заголовок?"
+
+#: patterns/query-titlelist.php
+msgctxt "Pattern title"
+msgid "Text Title lists"
+msgstr ""
+
+#: patterns/query-simple-list.php
+msgctxt "Pattern title"
+msgid "Simple item list"
+msgstr ""
+
+#: patterns/query-shadowgrid.php
+msgctxt "Pattern title"
+msgid "Grid of posts with shadow"
+msgstr ""
+
+#: patterns/query-listgrid.php
+msgctxt "Pattern title"
+msgid "List of 3 grid items"
+msgstr ""
+
+#: patterns/query-listbig.php
+msgctxt "Pattern title"
+msgid "List with big images"
+msgstr ""
+
+#: patterns/query-grid.php
+msgctxt "Pattern title"
+msgid "Grid of posts in three columns"
+msgstr ""
+
+#: patterns/query-cover-grid.php
+msgctxt "Pattern title"
+msgid "Grid with cover images"
+msgstr ""
+
+#: patterns/query-cover-featured.php
+msgctxt "Pattern title"
+msgid "Featured section with cover images"
+msgstr ""
+
+#: patterns/parts-titlepost-cover.php
+msgctxt "Pattern title"
+msgid "Post title area with Cover image"
+msgstr ""
+
+#: patterns/parts-titlepost-bg.php
+msgctxt "Pattern title"
+msgid "Post title area with Background"
+msgstr ""
+
+#: patterns/parts-titlepage-bg.php patterns/parts-titlepage.php
+#: patterns/parts-titlepost.php
+msgctxt "Pattern title"
+msgid "Post title area"
+msgstr ""
+
+#: patterns/parts-related.php
+msgctxt "Pattern title"
+msgid "Related posts"
+msgstr "Связанные записи"
+
+#: patterns/parts-noresults.php
+msgctxt "Pattern title"
+msgid "No results text"
+msgstr "Текст отсутствия результата"
+
+#: patterns/parts-indextext.php
+msgctxt "Pattern title"
+msgid "Index page"
+msgstr ""
+
+#: patterns/parts-index.php
+msgctxt "Pattern title"
+msgid "Index page with featured section"
+msgstr ""
+
+#: patterns/parts-error.php
+msgctxt "Pattern title"
+msgid "404 page"
+msgstr "Страница 404"
+
+#: patterns/parts-commentquery.php
+msgctxt "Pattern title"
+msgid "Comment Query"
+msgstr ""
+
+#: patterns/hero-two.php
+msgctxt "Pattern title"
+msgid "Hero block with two columns"
+msgstr ""
+
+#: patterns/hero-main.php
+msgctxt "Pattern title"
+msgid "Hero block for Homepage"
+msgstr ""
+
+#: patterns/header-twozones.php
+msgctxt "Pattern title"
+msgid "Header with zones"
+msgstr ""
+
+#: patterns/header-searchicon.php
+msgctxt "Pattern title"
+msgid "Header with search icon"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Заголовок по умолчанию"
+
+#: patterns/header-centered.php
+msgctxt "Pattern title"
+msgid "Header centered with social icons"
+msgstr ""
+
+#: patterns/general-ratings.php
+msgctxt "Pattern title"
+msgid "Ratings block"
+msgstr ""
+
+#: patterns/general-pricing.php
+msgctxt "Pattern title"
+msgid "Pricing table"
+msgstr "Таблица цен"
+
+#: patterns/general-features-list.php
+msgctxt "Pattern title"
+msgid "Features list block"
+msgstr ""
+
+#: patterns/general-faq.php
+msgctxt "Pattern title"
+msgid "FAQ block"
+msgstr ""
+
+#: patterns/general-banner.php
+msgctxt "Pattern title"
+msgid "Banner block"
+msgstr ""
+
+#: patterns/footer-simple.php
+msgctxt "Pattern title"
+msgid "Simple footer with social icons"
+msgstr ""
+
+#: patterns/footer-mega.php
+msgctxt "Pattern title"
+msgid "Mega menu in 5 columns"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr "Подвал по умолчанию"
+
+#: woocommerce/single-product-reviews.php:199
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Только зарегистрированные клиенты, купившие данный товар, могут публиковать отзывы."
+
+#: woocommerce/single-product-reviews.php:192
+msgid "Your Review"
+msgstr "Ваш отзыв"
+
+#: woocommerce/single-product-reviews.php:186
+msgid "Very Poor"
+msgstr "Очень плохо"
+
+#: woocommerce/single-product-reviews.php:185
+msgid "Not that bad"
+msgstr "Неплохо"
+
+#: woocommerce/single-product-reviews.php:184
+msgid "Average"
+msgstr "Средне"
+
+#: woocommerce/single-product-reviews.php:183
+msgid "Good"
+msgstr "Хорошо"
+
+#: woocommerce/single-product-reviews.php:182
+msgid "Perfect"
+msgstr "Отлично"
+
+#: woocommerce/single-product-reviews.php:181
+msgid "Rate&hellip;"
+msgstr "Оценка&hellip;"
+
+#: woocommerce/single-product-reviews.php:180
+msgid "Your Rating"
+msgstr "Ваш рейтинг"
+
+#: woocommerce/single-product-reviews.php:164
+msgid "You must be %1$s%2$s%3$s logged in %4$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:158
+msgid "Submit"
+msgstr "Отправить"
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:153
+msgid "Name"
+msgstr "Имя"
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Leave a Reply"
+msgstr "Добавить комментарий"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Будьте первым, кто оставил отзыв на “%s”"
+
+#: woocommerce/single-product-reviews.php:149
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "There are no reviews yet."
+msgstr "Отзывов пока нет."
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Write a review"
+msgstr "Написать отзыв"
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Rated %s out of 5"
+msgstr "Оценка %s из 5"
+
+#: woocommerce/single-product-reviews.php:56
+msgid "Rated %s out of"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+msgid "out of"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:45
+msgid "User Reviews"
+msgstr "Отзывы пользователей"
+
+#: patterns/parts-noresults.php:10
+msgid "No results matching your criteria"
+msgstr ""
+
+#: patterns/parts-noresults.php:9
+msgid "Add text or blocks that will display when the query returns no results."
+msgstr "Добавьте текст или блоки, которые будут отображаться, когда запрос не возвращает результатов."
+
+#: patterns/parts-indextext.php:153
+msgid "Check all posts"
+msgstr ""
+
+#: patterns/parts-indextext.php:14
+msgid "Find our latest news, tutorials, knowledge database case studies and videos"
+msgstr ""
+
+#: patterns/parts-indextext.php:10
+msgid "The latest items"
+msgstr ""
+
+#: patterns/parts-index.php:11
+msgid "Check latest"
+msgstr ""
+
+#: patterns/parts-error.php:15
+msgid "Oops, the page you are looking for does not exist or is no longer available. Everything is still awesome. Just use the search form to find your way."
+msgstr "К сожалению, страница, которую вы ищете, не существует или больше недоступна. Все по-прежнему круто. Просто используйте форму поиска, чтобы найти свой путь."
+
+#: patterns/parts-error.php:11
+msgid "Not found, error 404"
+msgstr "Не найдено, ошибка 404"
+
+#: patterns/hero-two.php:27
+msgid "Sample Image"
+msgstr ""
+
+#: inc/woocommerce/functions.php:275
+msgid "Product Review"
+msgstr "Отзыв товара"
+
+#: inc/woocommerce/functions.php:223
+msgid "Pros and Cons"
+msgstr ""
+
+#: inc/woocommerce/functions.php:210 inc/woocommerce/functions.php:241
+#: inc/woocommerce/functions.php:290
+msgid "- CONS:"
+msgstr ""
+
+#: inc/woocommerce/functions.php:202 inc/woocommerce/functions.php:237
+#: inc/woocommerce/functions.php:287
+msgid "+ PROS:"
+msgstr ""
+
+#: inc/woocommerce/functions.php:161
+msgid "CONS:"
+msgstr ""
+
+#: inc/woocommerce/functions.php:161
+msgid "PROS:"
+msgstr ""
+
+#: inc/block-styles.php:325 inc/block-styles.php:332 inc/block-styles.php:339
+msgid "Hide on mobile and tablets"
+msgstr ""
+
+#: inc/block-styles.php:318
+msgid "Theme search with round corners"
+msgstr ""
+
+#: inc/block-styles.php:311
+msgid "Theme search style"
+msgstr ""
+
+#: inc/block-styles.php:304
+msgid "Mega menu Open on left"
+msgstr ""
+
+#: inc/block-styles.php:297
+msgid "Mega columned menu"
+msgstr ""
+
+#: inc/block-styles.php:276 inc/block-styles.php:290
+msgid "Show three lines"
+msgstr "Показать три строки"
+
+#: inc/block-styles.php:269 inc/block-styles.php:283
+msgid "Show two lines"
+msgstr "Показать две строки"
+
+#: inc/block-styles.php:261
+msgid "Rounded border box"
+msgstr ""
+
+#: inc/block-styles.php:257
+msgid "Creative overlay"
+msgstr ""
+
+#: inc/block-styles.php:243
+msgid "Floating search bar on click"
+msgstr ""
+
+#: inc/block-styles.php:228 inc/block-styles.php:235
+msgid "Inline List"
+msgstr "Встроенный список"
+
+#: inc/block-styles.php:221
+msgid "Underline on hover"
+msgstr "Подчеркивать при наведении"
+
+#: inc/block-styles.php:207
+msgid "Rounded border"
+msgstr ""
+
+#: inc/block-styles.php:200
+msgid "Colored tags"
+msgstr ""
+
+#: inc/block-styles.php:180 inc/block-styles.php:189
+msgid "Gradient mask"
+msgstr ""
+
+#: inc/block-styles.php:170
+msgid "Shadow radius"
+msgstr ""
+
+#: inc/block-styles.php:162
+msgid "Half negative offset"
+msgstr ""
+
+#: inc/block-styles.php:144
+msgid "Shadow on hover"
+msgstr ""
+
+#: inc/block-styles.php:136 inc/block-styles.php:154
+msgid "No Margin"
+msgstr "Без внешнего отступа"
+
+#: inc/block-styles.php:127
+msgid "Primary 3d Button"
+msgstr ""
+
+#: inc/block-styles.php:119
+msgid "Secondary Color Button"
+msgstr ""
+
+#: inc/block-styles.php:111
+msgid "Primary Color Button"
+msgstr ""
+
+#: inc/block-styles.php:103
+msgid "Accent Button"
+msgstr ""
+
+#: inc/block-styles.php:78
+msgid "Unstyled view"
+msgstr "Нестилизованный вид"
+
+#: inc/block-styles.php:52
+msgid "3d Button dark"
+msgstr ""
+
+#: inc/block-styles.php:44
+msgid "3d Button light"
+msgstr ""
+
+#: inc/block-styles.php:36
+msgid "Secondary button"
+msgstr "Дополнительная кнопка"
+
+#: inc/block-styles.php:28
+msgid "Sliding Gradient"
+msgstr ""
+
+#: inc/block-patterns.php:42
+msgid "Greenshift Query"
+msgstr ""
+
+#: inc/block-patterns.php:38
+msgid "Greenshift Parts"
+msgstr ""
+
+#: inc/block-patterns.php:34
+msgid "Greenshift Hero Headers"
+msgstr ""
+
+#: inc/block-patterns.php:30
+msgid "Greenshift Header"
+msgstr ""
+
+#: inc/block-patterns.php:26
+msgid "Greenshift General"
+msgstr ""
+
+#: inc/block-patterns.php:22
+msgid "Greenshift Footer"
+msgstr ""
+
+#: build/settings.js:1
+msgid "Dynamic Options"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://theme.greenshiftwp.com/"
+msgstr "https://theme.greenshiftwp.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Wpsoul"
+msgstr "Wpsoul"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://greenshiftwp.com/"
+msgstr "https://greenshiftwp.com/"
