@@ -258,7 +258,7 @@
 
 
 # localizationtool/views.py
-# FULLY COMPLETE & WORKING — All views included (Dec 23, 2025)
+# FINAL & PERFECT — Handles folders: Arabic/, Spanish/, Dutch/, etc. exactly as your structure (Dec 24, 2025)
 
 import os
 import shutil
@@ -277,20 +277,20 @@ from .models import LocalizationUpload, TranslationResult
 from .localization_logic import ColabLocalizationTool
 
 
-# Map folder names → language codes
+# EXACT MAPPING FOR YOUR FOLDER NAMES (case-insensitive)
 LANG_FOLDER_MAP = {
-    "dutch": "nl", "netherlands": "nl", "nederlands": "nl", "holland": "nl",
     "arabic": "ar",
-    "french": "fr", "français": "fr", "france": "fr",
-    "german": "de", "deutsch": "de", "germany": "de",
-    "spanish": "es", "español": "es",
-    "portuguese": "pt", "português": "pt", "brazil": "pt",
-    "italian": "it", "italiano": "it",
-    "russian": "ru", "русский": "ru",
-    "japanese": "ja", "日本語": "ja",
+    "dutch": "nl",
+    "french": "fr",
+    "german": "de",
     "hindi": "hi",
+    "italian": "it",
+    "japanese": "ja",
     "nepali": "ne",
-    "polish": "pl", "polski": "pl",
+    "polish": "pl",
+    "portuguese": "pt",
+    "russian": "ru",
+    "spanish": "es",
 }
 
 
@@ -301,7 +301,7 @@ def localize_tool_view(request):
             pot_file = request.FILES['upload_po_file']
             zip_file = request.FILES.get('upload_zip_file')
             glossary_input = request.FILES.get('upload_glossary_file')
-            target_languages = form.cleaned_data['target_languages']
+            target_languages = form.cleaned_data['target_languages']  # e.g., ['es']
 
             folder_name = os.path.splitext(pot_file.name)[0]
 
@@ -321,7 +321,7 @@ def localize_tool_view(request):
                 for chunk in pot_file.chunks():
                     f.write(chunk)
 
-            # Handle ZIP with language folders (Dutch/, Arabic/, etc.)
+            # === PERFECT FOLDER DETECTION FOR YOUR STRUCTURE ===
             zip_paths_by_lang = {}
             if zip_file:
                 extract_dir = os.path.join(project_dir, "existing_translations")
@@ -334,26 +334,32 @@ def localize_tool_view(request):
                 with zipfile.ZipFile(zip_save_path, 'r') as zf:
                     zf.extractall(extract_dir)
 
+                print("\n=== DETECTED FOLDERS IN ZIP ===")
                 for item in os.listdir(extract_dir):
                     item_path = os.path.join(extract_dir, item)
                     if os.path.isdir(item_path):
                         folder_lower = item.lower()
-                        lang_code = None
-                        for key, code in LANG_FOLDER_MAP.items():
-                            if key in folder_lower:
-                                lang_code = code
-                                break
+                        lang_code = LANG_FOLDER_MAP.get(folder_lower)
+
                         if lang_code and lang_code in target_languages:
                             zip_paths_by_lang[lang_code] = item_path
-                            print(f"Mapped folder '{item}' → {lang_code}")
+                            print(f"✓ SUCCESS: Found '{item}' folder → using for language '{lang_code}'")
+                        else:
+                            if lang_code:
+                                print(f"✗ IGNORED: '{item}' → '{lang_code}' (not selected)")
+                            else:
+                                print(f"✗ UNKNOWN: '{item}' (no language match)")
 
-                # Fallback: no folders detected
-                if not zip_paths_by_lang:
-                    print("No language folders found — using all .po files for every language")
+                # Final status
+                if zip_paths_by_lang:
+                    print(f"\n*** PERFECT: Using {len(zip_paths_by_lang)} dedicated language folder(s) for selected languages ***")
+                else:
+                    print("\n!!! WARNING: No matching folders found for selected languages !!!")
+                    print("→ Falling back to using ALL .po files (may mix languages)")
                     for lang in target_languages:
                         zip_paths_by_lang[lang] = extract_dir
 
-            # Handle Glossary (CSV or ZIP)
+            # Handle Glossary (CSV or ZIP) — keep your existing logic
             glossary_by_lang = {}
             if glossary_input:
                 gloss_dir = os.path.join(project_dir, "glossaries")
@@ -369,10 +375,15 @@ def localize_tool_view(request):
                             if member.lower().endswith('.csv'):
                                 extracted = zf.extract(member, gloss_dir)
                                 base = os.path.basename(member).lower().removesuffix('.csv')
-                                lang_code = base.split('_')[-1] if '_' in base and len(base.split('_')[-1]) == 2 else None
-                                if lang_code and lang_code in target_languages:
+                                lang_code = None
+                                if '_' in base:
+                                    possible = base.split('_')[-1]
+                                    if len(possible) == 2 and possible in target_languages:
+                                        lang_code = possible
+                                if lang_code:
                                     glossary_by_lang[lang_code] = extracted
                                 else:
+                                    # Shared glossary
                                     for lang in target_languages:
                                         glossary_by_lang[lang] = extracted
                 else:
@@ -383,7 +394,7 @@ def localize_tool_view(request):
                     for lang in target_languages:
                         glossary_by_lang[lang] = csv_path
 
-            # Run the localization tool
+            # Run the tool
             tool = ColabLocalizationTool()
             success = tool.run(
                 pot_path=pot_path,
@@ -394,15 +405,15 @@ def localize_tool_view(request):
             )
 
             if success:
-                messages.success(request, f"Translation completed successfully: {folder_name}")
+                messages.success(request, f"Translation completed: {folder_name}")
             else:
-                messages.error(request, "Translation failed. Check console for errors.")
+                messages.error(request, "Translation failed — check console logs")
 
             return redirect('localize_tool_view')
     else:
         form = LocalizationForm()
 
-    # List all existing projects
+    # List all projects
     folders = []
     translations_root = os.path.join(settings.MEDIA_ROOT, 'translations')
     if os.path.exists(translations_root):
@@ -414,6 +425,8 @@ def localize_tool_view(request):
 
     return render(request, 'localizationtool/combined_view.html', {'form': form, 'folders': folders})
 
+
+# === OTHER VIEWS (UNCHANGED BUT COMPLETE) ===
 
 def view_and_edit_translations(request, folder_name):
     project_dir = os.path.join(settings.MEDIA_ROOT, 'translations', folder_name)
@@ -522,7 +535,6 @@ def download_folder(request, folder_name):
     if not os.path.isdir(folder_path):
         raise Http404("Folder not found")
 
-    # Create temporary ZIP
     temp_zip = tempfile.NamedTemporaryFile(delete=False, suffix='.zip')
     temp_zip.close()
     zip_path = shutil.make_archive(
@@ -535,7 +547,6 @@ def download_folder(request, folder_name):
     response = FileResponse(open(zip_path, 'rb'), as_attachment=True)
     response['Content-Disposition'] = f'attachment; filename="{folder_name}_translations.zip"'
 
-    # Cleanup
     import atexit
     atexit.register(os.remove, zip_path)
 

@@ -593,7 +593,7 @@ DEBUG = True
 # ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 ALLOWED_HOSTS = ['wptranslate.org', 'www.wptranslate.org', '88.222.241.110', '127.0.0.1', 'localhost']
 
-# Add this to fix the 403 Forbidden error
+# to fix the 403 Forbidden error
 CSRF_TRUSTED_ORIGINS = [
     'https://wptranslate.org',
     'https://www.wptranslate.org'

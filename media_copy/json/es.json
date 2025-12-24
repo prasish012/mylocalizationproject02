@@ -1,0 +1,4322 @@
+{
+  "": {
+    "lang": "es",
+    "plural_forms": "nplurals=2; plural=(n != 1);"
+  },
+  "%1$s by %2$s.": [
+    "★ %1$s por %2$s."
+  ],
+  "%1$s done.": [
+    "★ %1$s hecho."
+  ],
+  "%1$s thought on &ldquo;%2$s&rdquo;": [
+    "★ %1$s pensó en &ldquo;%2$s&rdquo;",
+    "★ %1$s pensamientos sobre &ldquo;%2$s&rdquo;"
+  ],
+  "%1$s thoughts on &ldquo;%2$s&rdquo;": "%1$s pensamientos sobre &ldquo;%2$s&rdquo;",
+  "%1$s, %2$s": [
+    "○ %1$s, %2$s"
+  ],
+  "%d item": [
+    "★ %d elemento",
+    "★ %d elementos"
+  ],
+  "%d items": "%d elementos",
+  "%s ago": [
+    "★ hace %s"
+  ],
+  "%s comment": [
+    "★ %s comentario",
+    "★ %s comentarios"
+  ],
+  "%s comments": "%s comentarios",
+  "%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently.": [
+    "★ %s ya está activo. Estamos aquí para ayudarte a convertir tus ideas en un sitio web bonito y profesional, con rapidez y confianza."
+  ],
+  "%s minute read": [
+    "★ Lectura de %s minutos",
+    "★ %s minutos de lectura"
+  ],
+  "%s minutes read": "%s minutos de lectura",
+  "(Last updated: %s)": [
+    "○ (Última actualización: %s)"
+  ],
+  "-- Select --": [
+    "★ -- Seleccionar --"
+  ],
+  "12 hours": [
+    "★ 12 horas"
+  ],
+  "24 hours": [
+    "★ 24 horas"
+  ],
+  "3 Columns Post Grid": [
+    "○ Cuadrícula de publicaciones de 3 columnas"
+  ],
+  "3 Columns Post Grid - 2": [
+    "○ Cuadrícula de publicaciones de 3 columnas - 2"
+  ],
+  "3 Columns Post Grid with Background": [
+    "○ Cuadrícula de publicaciones de 3 columnas con fondo"
+  ],
+  "3 Columns Post Grid with Dark Background": [
+    "○ Cuadrícula de publicaciones de 3 columnas con fondo oscuro"
+  ],
+  "404 Not Found": [
+    "★ 404 No encontrado"
+  ],
+  "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
+    "○ Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones."
+  ],
+  "AF themes": [
+    "○ temas de AF"
+  ],
+  "AFT Author Info": [
+    "○ Información del autor de AFT"
+  ],
+  "AFT Express Posts List": [
+    "○ Lista de publicaciones de AFT Express"
+  ],
+  "AFT Post Double Columns": [
+    "○ Columnas dobles de poste de popa"
+  ],
+  "AFT Post Grid": [
+    "○ Cuadrícula de postes de popa"
+  ],
+  "AFT Post List": [
+    "○ Lista de publicaciones de AFT"
+  ],
+  "AFT Post Single Column": [
+    "○ Columna única del poste de popa"
+  ],
+  "AFT Posts Slider": [
+    "○ Control deslizante de publicaciones AFT"
+  ],
+  "AFT Social Contacts": [
+    "○ Contactos sociales de la AFT"
+  ],
+  "AFT Trending News": [
+    "○ Noticias de actualidad de la AFT"
+  ],
+  "AJAX Refresh + Caching for Post Analytics": [
+    "○ Actualización de AJAX + almacenamiento en caché para análisis de publicaciones"
+  ],
+  "About Author": [
+    "★ Sobre el autor"
+  ],
+  "About the Author": [
+    "★ Acerca del autor"
+  ],
+  "Above Site Title": [
+    "○ Arriba del título del sitio"
+  ],
+  "Above/Below Banner Widget Areas": [
+    "○ Áreas de widgets encima/debajo del banner"
+  ],
+  "Action failed. Please refresh the page and retry.": [
+    "★ Acción fallida. Por favor, refresca la página e inténtalo de nuevo."
+  ],
+  "Activate": [
+    "★ Activar"
+  ],
+  "Activate %2$s": [
+    "★ Activar %2$s"
+  ],
+  "Activated": [
+    "★ Activados"
+  ],
+  "Active": [
+    "★ Activos"
+  ],
+  "Ad Placement Areas (Header, Content, Footer, Archive)": [
+    "○ Áreas de ubicación de anuncios (encabezado, contenido, pie de página, archivo)"
+  ],
+  "Add Element": [
+    "★ Agregar elemento"
+  ],
+  "Add widget to display . %s": [
+    "○ Agregar widget para mostrar. %s"
+  ],
+  "Add widgets for frontpage banner section advertisement.": [
+    "○ Agregue widgets para publicidad en la sección de banner de la página principal."
+  ],
+  "Add widgets for main sidebar.": [
+    "★ Añade widgets para la barra lateral principal."
+  ],
+  "Add widgets for off-canvas section.": [
+    "★ Añade widgets para la sección fuera del lienzo."
+  ],
+  "Add widgets to front-page contents section.": [
+    "★ Añade widgets a la sección de contenido de la portada."
+  ],
+  "Add widgets to front-page sidebar section.": [
+    "★ Añade widgets a la sección de la barra lateral de la portada."
+  ],
+  "Additional Menu Locations (incl. Top Menu Element)": [
+    "○ Ubicaciones de menú adicionales (incluido el elemento del menú superior)"
+  ],
+  "Advanced Color Controls (Global Options)": [
+    "○ Controles de color avanzados (opciones globales)"
+  ],
+  "Advanced Custom Widgets Count (15+ Layouts)": [
+    "○ Recuento de widgets personalizados avanzados (más de 15 diseños)"
+  ],
+  "Advanced Typography Style (Google & System Fonts - GDPR Friendly)": [
+    "○ Estilo de tipografía avanzada (Google y fuentes del sistema, compatible con GDPR)"
+  ],
+  "Advanced Widgets (Carousel, Express, Tabs)": [
+    "○ Widgets avanzados (carrusel, Express, pestañas)"
+  ],
+  "Advertisement": [
+    "★ Publicidad"
+  ],
+  "After Content": [
+    "★ Después del contenido"
+  ],
+  "Ago Date Format": [
+    "★ Formato tiempo pasado"
+  ],
+  "Ajax Results Dropdown": [
+    "○ Menú desplegable de resultados de Ajax"
+  ],
+  "All (Pages, Posts, etc)": [
+    "○ Todo (páginas, publicaciones, etc.)"
+  ],
+  "All <span class=\"count\">(%s)</span>": [
+    "★ Todo <span class=\"count\">(%s)</span>",
+    "★ Todo <span class=\"count\">(%s)</span>"
+  ],
+  "All Themes Plan": [
+    "★ Plan All Themes"
+  ],
+  "All installations and activations have been completed.": [
+    "★ Todas las instalaciones y activaciones han sido completadas."
+  ],
+  "All installations have been completed.": [
+    "★ Todas las instalaciones han sido completadas."
+  ],
+  "All plugins installed and activated successfully. %1$s": [
+    "★ Todos los plugin instalados y activados correctamente. %1$s"
+  ],
+  "Also Show Content Image in Archive": [
+    "★ Mostrar también la imagen del contenido en el archivo"
+  ],
+  "An error occurred while installing %1$s: <strong>%2$s</strong>.": [
+    "★ A ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+  ],
+  "Archive Options": [
+    "○ Opciones de archivo"
+  ],
+  "Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed": [
+    "○ Diseños de publicaciones de archivo Cuadrícula, mosaico, mampostería, lista alternativa, derecha, mixto"
+  ],
+  "Archive Post Layouts List & Full": [
+    "○ Lista de diseños de publicaciones de archivo y completa"
+  ],
+  "Archive Settings": [
+    "★ Ajustes del archivo"
+  ],
+  "Archive layout": [
+    "★ Plantilla de pagina de archivo"
+  ],
+  "Archives": [
+    "★ Archivo"
+  ],
+  "Are you sure you want to install this plugin?": [
+    "★ ¿Estás seguro de querer instalar este plugin?"
+  ],
+  "Author Box Basic": [
+    "○ Cuadro de autor básico"
+  ],
+  "Author Box with Donate Link, Website & Author Posts": [
+    "○ Cuadro de autor con enlace de donación, sitio web y publicaciones de autor"
+  ],
+  "Author Icon": [
+    "○ Icono de autor"
+  ],
+  "Author and Date Settings": [
+    "★ Ajustes de autor y fecha"
+  ],
+  "Available version:": [
+    "★ Versión disponible:"
+  ],
+  "Banner Advertisement": [
+    "★ Banner publicitario"
+  ],
+  "Banner Post Filter: Category & Tag": [
+    "○ Filtro de publicación de banner: categoría y etiqueta"
+  ],
+  "Banner Post Filter: Views & Comments": [
+    "○ Filtro de publicación de banner: vistas y comentarios"
+  ],
+  "Basic Color Controls": [
+    "○ Controles de color básicos"
+  ],
+  "Basic Custom Widgets (5+ Layouts)": [
+    "○ Widgets personalizados básicos (más de 5 diseños)"
+  ],
+  "Basic Typography Style": [
+    "○ Estilo de tipografía básica"
+  ],
+  "Before Content": [
+    "★ Antes del contenido"
+  ],
+  "Begin activating plugin": [
+    "★ Comenzar a activar el complemento",
+    "★ Comience a activar complementos"
+  ],
+  "Begin activating plugins": "Comience a activar complementos",
+  "Begin installing plugin": [
+    "★ Comience a instalar el complemento",
+    "★ Comience a instalar complementos"
+  ],
+  "Begin installing plugins": "Comience a instalar complementos",
+  "Begin updating plugin": [
+    "★ Comenzar a actualizar el complemento",
+    "★ Comenzar a actualizar complementos"
+  ],
+  "Begin updating plugins": "Comenzar a actualizar complementos",
+  "Beta": [
+    "○ Beta"
+  ],
+  "Blank Canvas": [
+    "★ Lienzo en blanco"
+  ],
+  "Block Patterns": [
+    "★ Patrones de bloques"
+  ],
+  "Blockspare": [
+    "○ Bloques de repuesto"
+  ],
+  "Blockspare plugin version should be more than %s.": [
+    "★ La versión del plugin Blockspare debe ser superior a %s."
+  ],
+  "Body Background Color": [
+    "★ Color de fondo del cuerpo"
+  ],
+  "Body Background Color (Dark Mode)": [
+    "○ Color de fondo del cuerpo (modo oscuro)"
+  ],
+  "Body Background Color (Dark Mode) will be applied for this mode.": [
+    "○ Para este modo se aplicará el color de fondo del cuerpo (modo oscuro)."
+  ],
+  "Bottom": [
+    "★ Inferior"
+  ],
+  "Breadcrumb Options": [
+    "★ Opciones de las migas de pan"
+  ],
+  "Breadcrumbs": [
+    "★ Ruta de navegación"
+  ],
+  "Breaking News": [
+    "★ Noticias de última hora"
+  ],
+  "Browse:": [
+    "★ Examinar:"
+  ],
+  "By": [
+    "★ por"
+  ],
+  "Categories": [
+    "★ Categorías"
+  ],
+  "Categories Settings": [
+    "★ Ajustes de categorías"
+  ],
+  "Categories to be displayed": [
+    "○ Categorías a mostrar"
+  ],
+  "Category": [
+    "★ Categoría"
+  ],
+  "Category Color 1": [
+    "★ Color de la categoría 1"
+  ],
+  "Category Color 2": [
+    "★ Color de la categoría 2"
+  ],
+  "Category Color 3": [
+    "★ Color de la categoría 3"
+  ],
+  "Category Color Options": [
+    "○ Opciones de color de categoría"
+  ],
+  "Category-wise Post Layout (Category Specific)": [
+    "○ Diseño de publicación por categoría (categoría específica)"
+  ],
+  "Category-wise Post Layout (Global Only)": [
+    "○ Diseño de publicación por categorías (solo global)"
+  ],
+  "Centralized Ads Management Panel": [
+    "○ Panel de gestión de anuncios centralizado"
+  ],
+  "Centralized Advertisement Support": [
+    "○ Soporte publicitario centralizado"
+  ],
+  "Centralized Site Analytics Page (Tabbed UI)": [
+    "○ Página centralizada de análisis del sitio (IU con pestañas)"
+  ],
+  "Change Log": [
+    "○ Registro de cambios"
+  ],
+  "Change the color setting provide with the Theme.": [
+    "○ Cambie la configuración de color proporcionada con el tema."
+  ],
+  "Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top Posts": [
+    "○ Gráficos de publicaciones, comentarios, reacciones, enlaces, autores, categorías, etiquetas, publicaciones principales"
+  ],
+  "Cheatin&#8217; huh?": [
+    "★ Haciendo trampas, ¿eh?"
+  ],
+  "Choose Image": [
+    "★ Elegir una imagen"
+  ],
+  "Choose an Element": [
+    "○ Elige un elemento"
+  ],
+  "Choose date format": [
+    "○ Elige el formato de fecha"
+  ],
+  "Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n      Setup is simple — no coding required.": [
+    "★ Elige de entre más de 100 sitios iniciales diseñados para blogs, revistas, empresas y mucho más. La instalación es sencilla: no necesitas programar."
+  ],
+  "Claim Your Discount": [
+    "★ Solicita tu descuento"
+  ],
+  "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": [
+    "○ Haga clic en la configuración <span class=\"dashicons dashicons-admin-generic\"></span> en cada elemento para personalizar su configuración."
+  ],
+  "Close choose element modal": [
+    "○ Cerrar elegir elemento modal"
+  ],
+  "Color Class": [
+    "★ Clase del color"
+  ],
+  "Color Options": [
+    "★ Opciones del color"
+  ],
+  "Comment Count": [
+    "★ Recuento de comentarios"
+  ],
+  "Comment Page %s": [
+    "★ Página %s de comentarios"
+  ],
+  "Comments are closed.": [
+    "★ Los comentarios están cerrados."
+  ],
+  "Configure Element": [
+    "○ Configurar elemento"
+  ],
+  "Connect to Us": [
+    "★ Contacta con nosotros"
+  ],
+  "Connect with Us": [
+    "★ Contacta con nosotros"
+  ],
+  "Content - Primary Sidebar": [
+    "★ Contenido - Barra lateral principal"
+  ],
+  "Content - Primary sidebar": [
+    "★ Contenido - Barra lateral principal"
+  ],
+  "Content Options": [
+    "★ Opciones de contenido"
+  ],
+  "Content View": [
+    "○ Vista de contenido"
+  ],
+  "Content, menus, normal texts and paragraphs, etc": [
+    "○ Contenidos, menús, textos y párrafos normales, etc."
+  ],
+  "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": [
+    "★ Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+  ],
+  "Copy link to clipboard": [
+    "○ Copiar enlace al portapapeles"
+  ],
+  "Copyright": [
+    "○ Derechos de autor"
+  ],
+  "Copyright &copy; {year} All rights reserved.": [
+    "★ Copyright &copy; {year} All rights reserved."
+  ],
+  "Copyright Text": [
+    "★ Texto del copyright"
+  ],
+  "Create dynamic footer effortlessly with drag-and-drop builder.": [
+    "○ Cree un pie de página dinámico sin esfuerzo con el generador de arrastrar y soltar."
+  ],
+  "Create dynamic header effortlessly with drag-and-drop builder.": [
+    "○ Cree encabezados dinámicos sin esfuerzo con el generador de arrastrar y soltar."
+  ],
+  "Custom CSS Output Minified": [
+    "○ Salida CSS personalizada minimizada"
+  ],
+  "Custom CSS Output Optimized with Mobile Spacing": [
+    "○ Salida CSS personalizada optimizada con espaciado móvil"
+  ],
+  "Custom HTML": [
+    "★ HTML personalizado"
+  ],
+  "Custom Link": [
+    "★ Enlace personalizado"
+  ],
+  "Custom Options": [
+    "○ Opciones personalizadas"
+  ],
+  "Custom link": [
+    "○ Enlace personalizado"
+  ],
+  "Customize": [
+    "★ Personalizar"
+  ],
+  "Customize the blog layout desgin.": [
+    "○ Personaliza el diseño del blog."
+  ],
+  "Customizer Options for Builder Elements": [
+    "○ Opciones de personalizador para elementos del constructor"
+  ],
+  "DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": [
+    "○ DISEÑE SITIOS WEB PERFECTOS DE BLOG, NOTICIAS O REVISTAS Elespare es un complemento de WordPress simple pero efectivo que le permite usar Elementor para crear encabezados, pies de página y contenidos fantásticos de sitios web con opciones altamente personalizadas de forma GRATUITA."
+  ],
+  "Dark": [
+    "★ Oscuro"
+  ],
+  "Dark/Light Frontend Switch": [
+    "○ Interruptor frontal oscuro/claro"
+  ],
+  "Dark/Light Site Mode": [
+    "○ Modo de sitio oscuro/claro"
+  ],
+  "Dashboard": [
+    "★ Escritorio"
+  ],
+  "Date": [
+    "★ Fecha"
+  ],
+  "Date Format": [
+    "★ Formato de fecha"
+  ],
+  "Default": [
+    "★ Defecto"
+  ],
+  "Defined Links": [
+    "○ Enlaces definidos"
+  ],
+  "Descriptions": [
+    "★ Descripciones"
+  ],
+  "Desktop": [
+    "★ Escritorio"
+  ],
+  "Device view controls": [
+    "○ Controles de vista del dispositivo"
+  ],
+  "Disable": [
+    "★ Desactivar"
+  ],
+  "Disable Emoji Script": [
+    "★ Desactivar el script de emojis"
+  ],
+  "Disable Image Tint/Overlay": [
+    "○ Desactivar tinte/superposición de imagen"
+  ],
+  "Disable Main Banner on Blog": [
+    "★ Desactivar el banner principal en el blog"
+  ],
+  "Disable Sticky Header": [
+    "○ Deshabilitar encabezado fijo"
+  ],
+  "Disable WordPress Emojis (GDPR Friendly)": [
+    "○ Deshabilitar los emojis de WordPress (compatible con GDPR)"
+  ],
+  "Dismiss this notice": [
+    "★ Descartar este aviso"
+  ],
+  "Displays Express Posts from selected categories.": [
+    "★ Muestra entradas exprés de las categorías seleccionadas."
+  ],
+  "Displays author info.": [
+    "★ Muestra información del autor."
+  ],
+  "Displays grid from selected categories.": [
+    "★ Muestra una cuadrícula a partir de las categorías seleccionadas."
+  ],
+  "Displays items on footer first column.": [
+    "★ Muestra elementos en la primera columna del pie de página."
+  ],
+  "Displays items on footer second column.": [
+    "★ Muestra elementos en la segunda columna del pie de página."
+  ],
+  "Displays items on footer third column.": [
+    "★ Muestra elementos en la tercera columna del pie de página."
+  ],
+  "Displays posts single column from selected categories.": [
+    "★ Muestra en una columna las entradas de la categorías seleccionadas."
+  ],
+  "Displays posts slider from selected category.": [
+    "★ Muestra el carrusel de entradas de la categoría seleccionada."
+  ],
+  "Displays social contacts lists from selected settings.": [
+    "★ Muestra listas de contactos sociales de los ajustes seleccionados."
+  ],
+  "Docs": [
+    "★ Documentación"
+  ],
+  "Documentation": [
+    "★ Documentación"
+  ],
+  "Easily build and customize your pages with a vast library of Gutenberg blocks and patterns, perfect for blogs, magazines, and business sites. Add post grids, sliders, and carousels without touching a single line of code. Import demo data and effortlessly create multilingual, visually appealing pages with complete flexibility.": [
+    "○ Cree y personalice fácilmente sus páginas con una amplia biblioteca de bloques y patrones de Gutenberg, perfecta para blogs, revistas y sitios comerciales. Agregue cuadrículas de publicaciones, controles deslizantes y carruseles sin tocar una sola línea de código. Importe datos de demostración y cree sin esfuerzo páginas multilingües visualmente atractivas con total flexibilidad."
+  ],
+  "Easy Website Building with Zero Code": [
+    "○ Creación sencilla de sitios web con código cero"
+  ],
+  "Edit <span class=\"screen-reader-text\">%s</span>": [
+    "★ Editar <span class=\"screen-reader-text\">%s</span>"
+  ],
+  "Editor's Picks": [
+    "★ Selecciones del editor"
+  ],
+  "Editor's Picks Section": [
+    "★ Sección de selección del editor"
+  ],
+  "Element Settings": [
+    "○ Configuración de elementos"
+  ],
+  "Elementor Kits": [
+    "○ Kits de elementos"
+  ],
+  "Elespare": [
+    "○ Elespare"
+  ],
+  "Elespare plugin version should be more than %s.": [
+    "★ La versión del plugin Elespare debe ser superior a %s."
+  ],
+  "Enable": [
+    "★ Activar"
+  ],
+  "Enable ": [
+    "★ Activar"
+  ],
+  "Enable %s Builder": [
+    "○ Habilitar el generador %s"
+  ],
+  "Enable Custom Menu Section": [
+    "★ Activar sección de menú personalizado"
+  ],
+  "Enable Featured Post Section": [
+    "★ Activar sección de entrada destacada"
+  ],
+  "Enable Flash News": [
+    "○ Habilitar noticias flash"
+  ],
+  "Enable Main Banner Section": [
+    "★ Activar la sección del banner principal"
+  ],
+  "Enable Post List Section": [
+    "○ Habilitar sección de lista de publicaciones"
+  ],
+  "Enable Preloader": [
+    "★ Activar precarga"
+  ],
+  "Enable Related Posts": [
+    "★ Activar las entradas relacionadas"
+  ],
+  "Error - unable to verify nonce, please try again.": [
+    "★ Error: no se puede verificar el nonce, inténtalo de nuevo."
+  ],
+  "Excerpt Settings": [
+    "★ Ajustes de extractos"
+  ],
+  "Express / 3 Column Posts Section": [
+    "○ Sección de publicaciones exprés / 3 columnas"
+  ],
+  "Express Grid": [
+    "★ Cuadrícula exprés"
+  ],
+  "Express Tile": [
+    "★ Azulejos exprés"
+  ],
+  "External Source": [
+    "★ Fuente externa"
+  ],
+  "F": [
+    "★ V"
+  ],
+  "Facebook": [
+    "○ Facebook"
+  ],
+  "Featured Categories": [
+    "○ Categorías destacadas"
+  ],
+  "Featured Image Width": [
+    "★ Ancho de la imagen destacada"
+  ],
+  "Featured News": [
+    "★ Noticias destacadas"
+  ],
+  "Featured Pages": [
+    "★ Páginas destacadas"
+  ],
+  "Featured Posts": [
+    "★ Entradas destacadas"
+  ],
+  "Featured Videos Section (Custom Field + Responsive)": [
+    "○ Sección de vídeos destacados (campo personalizado + responsivo)"
+  ],
+  "Features": [
+    "★ Características"
+  ],
+  "Filter Posts By": [
+    "★ Filtrar publicaciones por"
+  ],
+  "Flash Posts Category": [
+    "★ Categoría de entradas flash"
+  ],
+  "Font Family Section": [
+    "★ Sección de familia de fuentes"
+  ],
+  "Fonts & Typography": [
+    "★ Fuentes y tipografía"
+  ],
+  "Fonts Source": [
+    "○ Fuente de fuentes"
+  ],
+  "Footer": [
+    "★ Pie de página"
+  ],
+  "Footer Background Image": [
+    "★ Imagen de fondo del pie de página"
+  ],
+  "Footer Builder": [
+    "★ Maquetador del pie de página"
+  ],
+  "Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)": [
+    "○ Elementos del generador de pie de página (navegación, widgets, HTML personalizado, texto dinámico)"
+  ],
+  "Footer Layout": [
+    "★ Disposición del pie de página"
+  ],
+  "Footer Menu": [
+    "★ Menú del pie de página"
+  ],
+  "Footer Options": [
+    "★ Opciones del pie de página"
+  ],
+  "Footer Widget 1": [
+    "★ Widget 1 de pie de página"
+  ],
+  "Footer Widget 2": [
+    "★ Widget 2 de pie de página"
+  ],
+  "Footer Widget 3": [
+    "★ Widget 3 de pie de página"
+  ],
+  "Free": [
+    "★ Gratis"
+  ],
+  "Free Live Chat using 3CX": [
+    "★ Chat en vivo gratuito con 3CX"
+  ],
+  "Free Theme Tone (Default)": [
+    "○ Tono de tema gratuito (predeterminado)"
+  ],
+  "Free vs Pro": [
+    "★ Gratis vs Pro"
+  ],
+  "From WordPress Settings": [
+    "★ Desde los ajustes de WordPress"
+  ],
+  "Front-page Banner Layouts Advanced (30+ Layouts)": [
+    "○ Diseños de banner de portada avanzados (más de 30 diseños)"
+  ],
+  "Front-page Banner Layouts Basic (5+ Layouts)": [
+    "○ Diseños de banner de portada básicos (más de 5 diseños)"
+  ],
+  "Front-page Content Alignment": [
+    "○ Alineación del contenido de la página principal"
+  ],
+  "Front-page Content Display": [
+    "○ Visualización de contenido en la página principal"
+  ],
+  "Front-page Content Section": [
+    "★ Sección de contenido de la portada"
+  ],
+  "Front-page Layout Settings": [
+    "○ Configuración de diseño de página principal"
+  ],
+  "Front-page Option": [
+    "○ Opción de portada"
+  ],
+  "Front-page Options": [
+    "○ Opciones de portada"
+  ],
+  "Front-page Sidebar Section": [
+    "★ Sección de la barra lateral de la portada"
+  ],
+  "Front-page Widgets": [
+    "○ Widgets de portada"
+  ],
+  "Front-page layout with Popular Tag, Breaking News, Feature News can be set.": [
+    "○ Se puede configurar el diseño de la página principal con etiquetas populares, noticias de última hora y noticias destacadas."
+  ],
+  "Full": [
+    "★ Lleno"
+  ],
+  "Full - Default": [
+    "○ Completo - Predeterminado"
+  ],
+  "Full Content": [
+    "★ Contenido completo"
+  ],
+  "Full width content": [
+    "★ Contenido de ancho completo"
+  ],
+  "GDPR friendly & better performance": [
+    "★ Respetuoso con la GDPR y mejor rendimiento"
+  ],
+  "General": [
+    "○ General"
+  ],
+  "Get Started": [
+    "★ Iniciar"
+  ],
+  "Get Starter Sites": [
+    "★ Obtén sitios de inicio"
+  ],
+  "Get over 1000 ready-to-import Starter Sites instantly and build modern websites in minutes, not in weeks.": [
+    "○ Obtenga más de 1000 sitios de inicio listos para importar al instante y cree sitios web modernos en minutos, no en semanas."
+  ],
+  "Get started": [
+    "★ Primeros pasos"
+  ],
+  "Global Content Alignment": [
+    "★ Alineación global del contenido"
+  ],
+  "Global Excerpt Read More": [
+    "★ Leer más global del extracto"
+  ],
+  "Global Settings": [
+    "★ Ajustes globales"
+  ],
+  "Go to option": [
+    "★ Ir a la opción"
+  ],
+  "Got any support queries?": [
+    "★ ¿Tienes alguna consulta de soporte?"
+  ],
+  "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme..": [
+    "○ ¿Tiene alguna pregunta sobre soporte técnico del tema, encontró un error o recibió algunos comentarios? El mejor lugar para realizar su consulta es el foro de soporte dedicado al tema."
+  ],
+  "Gutenberg & Page Builders Compatibility": [
+    "○ Compatibilidad con Gutenberg y creadores de páginas"
+  ],
+  "HTML Content": [
+    "★ Contenido HTML"
+  ],
+  "Have Queries?": [
+    "★ ¿Tienes consultas que hacer?"
+  ],
+  "Header": [
+    "★ Cabecera"
+  ],
+  "Header & Footer Builder (Drag-and-Drop)": [
+    "○ Generador de encabezados y pies de página (arrastrar y soltar)"
+  ],
+  "Header Advertisement": [
+    "★ Publicidad de la cabecera"
+  ],
+  "Header Advertisement Widget Area": [
+    "○ Área de widget de anuncio de encabezado"
+  ],
+  "Header Background": [
+    "★ Fondo de la cabecera"
+  ],
+  "Header Banner Ad Section": [
+    "○ Sección de anuncios de banner de encabezado"
+  ],
+  "Header Builder": [
+    "★ Maquetador de la cabecera"
+  ],
+  "Header Image Mode": [
+    "★ Modo de imagen de la cabecera"
+  ],
+  "Header Options": [
+    "★ Opciones de la cabecera"
+  ],
+  "Header Section Advertisement": [
+    "★ Sección de anuncio en la cabecera"
+  ],
+  "Header Settings": [
+    "★ Ajustes de cabecera"
+  ],
+  "Hello ": [
+    "○ Hola"
+  ],
+  "Hide": [
+    "★ Ocultar"
+  ],
+  "Hide Builder": [
+    "★ Ocultar el maquetador"
+  ],
+  "Hide Theme Credit Link": [
+    "○ Ocultar enlace de crédito del tema"
+  ],
+  "Hide builder panel": [
+    "○ Ocultar panel de construcción"
+  ],
+  "Hide footer Menu Section": [
+    "★ Ocultar sección de menú de pie de página"
+  ],
+  "Home": [
+    "★ Inicio"
+  ],
+  "Home Content - Home Sidebar": [
+    "★ Contenido de inicio - Barra lateral de la página de inicio"
+  ],
+  "Home Sidebar - Home Content": [
+    "★ Barra lateral de inicio - Contenido de la página de inicio"
+  ],
+  "Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we hope you are loving it! We would appreciate it if you can give us %3$sreview and rating%4$s on WordPress.org! We'll continue to develop exciting new features for free in the future by sharing the love!": [
+    "○ ¡Hola, %1$s! Hemos notado que has estado usando %2$s desde hace algún tiempo, ¡esperamos que te guste! ¡Le agradeceríamos que nos pudiera brindar una revisión y calificación de %3$s%4$s en WordPress.org! ¡Continuaremos desarrollando nuevas e interesantes funciones de forma gratuita en el futuro compartiendo nuestro amor!"
+  ],
+  "I've already done.": [
+    "★ Ya lo he hecho."
+  ],
+  "If there is no Post Featured image set": [
+    "★ Si no hay establecida una imagen destacada de la entrada"
+  ],
+  "Image Alignment": [
+    "★ Alineación de la imagen"
+  ],
+  "Image Async Decoding": [
+    "○ Decodificación asíncrona de imágenes"
+  ],
+  "Image Lazy Loading": [
+    "○ Carga diferida de imágenes"
+  ],
+  "Image visibility may vary as per the mode": [
+    "★ La visibilidad de la imagen puede variar según el modo"
+  ],
+  "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!": [
+    "★ ¡Importa un sitio de inicio, personalízalo y publícalo en 3 sencillos pasos!"
+  ],
+  "Improved Font Loading Partial": [
+    "○ Carga de fuentes mejorada parcial"
+  ],
+  "Improved Font Loading System/Google Switch + Preconnect": [
+    "○ Sistema de carga de fuentes mejorado/Google Switch + Preconexión"
+  ],
+  "Install": [
+    "★ Instalar"
+  ],
+  "Install %2$s": [
+    "★ Instalar %2$s"
+  ],
+  "Install Now": [
+    "★ Instalar ahora"
+  ],
+  "Install Plugins": [
+    "★ Instalar plugins"
+  ],
+  "Install Required Plugins": [
+    "★ Instalar plugins requeridos"
+  ],
+  "Install/Update Status||%1$s, %2$s": [
+    "○ %1$s, %2$s"
+  ],
+  "Installed But Not Activated": [
+    "★ Instalado pero no activado"
+  ],
+  "Installed version:": [
+    "★ Versión instalada:"
+  ],
+  "Installing Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando plugin %1$s (%2$d/%3$d)"
+  ],
+  "Installing Plugin: %s": [
+    "★ Instalando plugin: %s"
+  ],
+  "Installing and Activating Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando y activando plugin %1$s (%2$d/%3$d)"
+  ],
+  "Invalid security token.": [
+    "★ Token de seguridad no válido."
+  ],
+  "It has different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": [
+    "○ Tiene diferentes widgets para el autor de la publicación, autor selectivo por identificación y autor personalizado. También proporciona códigos cortos para el perfil del autor."
+  ],
+  "It looks like nothing was found at this location. Maybe try one of the links below or a search?": [
+    "★ Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+  ],
+  "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": [
+    "★ Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+  ],
+  "JetPack": [
+    "○ JetPack"
+  ],
+  "Jetpack Share Buttons Placement": [
+    "○ Ubicación de los botones Compartir de Jetpack"
+  ],
+  "Large Post with Background": [
+    "○ Publicación grande con fondo"
+  ],
+  "Large Post with Dark Background": [
+    "○ Publicación grande con fondo oscuro"
+  ],
+  "Large Posts": [
+    "○ Publicaciones grandes"
+  ],
+  "Large Posts - 2": [
+    "○ Publicaciones grandes - 2"
+  ],
+  "Layout Options": [
+    "★ Opciones de estructura"
+  ],
+  "Leave a comment": [
+    "★ Deja un comentario"
+  ],
+  "Left": [
+    "★ Izquierda"
+  ],
+  "Light": [
+    "★ Clara"
+  ],
+  "Light/Dark Button": [
+    "★ Botón claro/oscuro"
+  ],
+  "Link": [
+    "★ Enlace"
+  ],
+  "Link Color": [
+    "★ Color del enlace"
+  ],
+  "Link Hover Color": [
+    "★ Color del enlace al pasar el cursor"
+  ],
+  "Link copied to clipboard!": [
+    "○ ¡Enlace copiado al portapapeles!"
+  ],
+  "Live Editing in Customizer": [
+    "○ Edición en vivo en el Personalizador"
+  ],
+  "Live search results": [
+    "○ Resultados de búsqueda en vivo"
+  ],
+  "Mailchimp Subscribe Box": [
+    "○ Cuadro de suscripción de Mailchimp"
+  ],
+  "Main Banner": [
+    "★ Banner principal"
+  ],
+  "Main Banner Background Image": [
+    "★ Imagen de fondo del banner principal"
+  ],
+  "Main Banner Options": [
+    "★ Opciones del banner principal"
+  ],
+  "Main News": [
+    "★ Noticias principales"
+  ],
+  "Main News Section ": [
+    "★ Sección principal de noticias"
+  ],
+  "Main Sidebar": [
+    "★ Barra lateral principal"
+  ],
+  "Make Sidebar Sticky": [
+    "★ Hacer que la barra lateral sea fija"
+  ],
+  "Manage Date": [
+    "○ Administrar fecha"
+  ],
+  "Manage menu": [
+    "○ Administrar menú"
+  ],
+  "Manage widgets": [
+    "○ Administrar widgets"
+  ],
+  "Maybe Later": [
+    "★ Quizá más tarde"
+  ],
+  "Minimum required version:": [
+    "★ Versión mínima requerida:"
+  ],
+  "Minute %s": [
+    "★ Minuto %s"
+  ],
+  "Minutes Read Count": [
+    "★ Recuento de minutos de lectura"
+  ],
+  "More": [
+    "★ Más"
+  ],
+  "More Details": [
+    "★ Más detalles"
+  ],
+  "Multilingual & RTL Support": [
+    "○ Soporte multilingüe y RTL"
+  ],
+  "Multiple Header Layouts (10+ including Centered & Compressed)": [
+    "○ Múltiples diseños de encabezado (más de 10, incluidos centrado y comprimido)"
+  ],
+  "Name": [
+    "★ Nombre"
+  ],
+  "NavXT": [
+    "○ NavXT"
+  ],
+  "Navigation": [
+    "★ Navegación"
+  ],
+  "Need Help?": [
+    "★ ¿Necesitas ayuda?"
+  ],
+  "Next": [
+    "★ Siguiente"
+  ],
+  "Next: %s": [
+    "○ Siguiente: %s"
+  ],
+  "No Sidebar": [
+    "★ Sin barra lateral"
+  ],
+  "No action taken. Plugin %1$s was already active.": [
+    "★ No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+  ],
+  "No menu assigned": [
+    "○ No hay menú asignado"
+  ],
+  "No plugins are available to be activated at this time.": [
+    "★ No hay plugins disponibles para activar en este momento."
+  ],
+  "No plugins are available to be installed at this time.": [
+    "★ No hay plugins disponibles para instalar en este momento."
+  ],
+  "No plugins are available to be updated at this time.": [
+    "★ No hay plugins disponibles para actualizar en este momento."
+  ],
+  "No plugins to install, update or activate.": [
+    "★ No hay plugins para instalar, actualizar o activar."
+  ],
+  "No plugins were selected to be activated. No action taken.": [
+    "★ No se han seleccionado plugins para activar. No se realizará ninguna acción."
+  ],
+  "No plugins were selected to be installed. No action taken.": [
+    "★ No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+  ],
+  "No plugins were selected to be updated. No action taken.": [
+    "★ No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+  ],
+  "No results found.": [
+    "★ No se han encontrado resultados."
+  ],
+  "None": [
+    "★ Ninguno"
+  ],
+  "Not Installed": [
+    "★ No instalado"
+  ],
+  "Nothing Found": [
+    "★ Nada encontrado"
+  ],
+  "Number of Categories": [
+    "○ Número de categorías"
+  ],
+  "Off Canvas": [
+    "★ Fuera del lienzo"
+  ],
+  "Off Canvas Drawer Menu Section": [
+    "○ Sección de menú del cajón fuera del lienzo"
+  ],
+  "Off Canvas Widget Area": [
+    "★ Área de widgets fuera del lienzo"
+  ],
+  "One thought on &ldquo;%1$s&rdquo;": [
+    "★ Un comentario sobre &ldquo;%1$s&rdquo;"
+  ],
+  "One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare.": [
+    "★ Importación de demos con un clic, listo para el editor de bloques, ¡no necesitas código! Construido con Blockspare."
+  ],
+  "One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare.": [
+    "★ ¡Importación con un clic, maquetador de cabeceras/pies de página, compatibilidad con multiidioma! Funciona gracias a Elespare."
+  ],
+  "Only Home Content": [
+    "★ Solo el contenido de la página de inicio"
+  ],
+  "Oops! That page can&rsquo;t be found.": [
+    "★ ¡Vaya! No se ha podido encontrar esa página."
+  ],
+  "Open Off-Canvas Navigation": [
+    "○ Abrir navegación fuera del lienzo"
+  ],
+  "Open search form": [
+    "○ Abrir formulario de búsqueda"
+  ],
+  "Order 1": [
+    "★ Orden 1"
+  ],
+  "Order 2": [
+    "★ Orden 2"
+  ],
+  "Order 3": [
+    "○ Orden 3"
+  ],
+  "Original": [
+    "○ Original"
+  ],
+  "Page %s": [
+    "★ Página %s"
+  ],
+  "Page Builder Full Width": [
+    "★ Ancho total de Page Builder"
+  ],
+  "Page Contents & Front-page Widgets": [
+    "○ Contenidos de la página y widgets de la página principal"
+  ],
+  "Pages:": [
+    "★ Páginas:"
+  ],
+  "Pagination Ajax Load More & Infinite Scroll": [
+    "○ Paginación Ajax Cargar más y desplazamiento infinito"
+  ],
+  "Pagination Numeric": [
+    "○ Paginación numérica"
+  ],
+  "Please check our full documentation for detailed information on how to setup and customize the theme.": [
+    "○ Consulte nuestra documentación completa para obtener información detallada sobre cómo configurar y personalizar el tema."
+  ],
+  "Please contact the administrator of this site for help.": [
+    "★ Por favor, contacta con el administrador de este sitio para ayuda."
+  ],
+  "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.": [
+    "★ Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+  ],
+  "Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default": [
+    "★ Por favor, asegúrate de que has activado las migas de pan del plugin antes de elegir otras que no sean las migas de pan por defecto"
+  ],
+  "Please go to Customize>Front-page Options for Homepage.": [
+    "○ Vaya a Personalizar>Opciones de página principal para la página de inicio."
+  ],
+  "Please go to Customize>Themes Options for Single Post/Page.": [
+    "★ Por favor, ve a Personalizar>Opciones del tema para entrada/página individual."
+  ],
+  "Plugin": [
+    "○ Complemento"
+  ],
+  "Plugin activated successfully.": [
+    "★ Plugin activado correctamente."
+  ],
+  "Plugin activation failed.": [
+    "★ Falló la activación del plugin."
+  ],
+  "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.": [
+    "★ Plugin no activado. Una versión superior de %s es necesaria para este tema. Por favor actualiza el plugin."
+  ],
+  "Popular": [
+    "★ Populares"
+  ],
+  "Popular Tags": [
+    "★ Etiquetas populares"
+  ],
+  "Position": [
+    "★ Posición"
+  ],
+  "Post Badge Taxonomy (Breaking, Premium)": [
+    "○ Taxonomía de la insignia de publicación (Última hora, Premium)"
+  ],
+  "Post Carousel": [
+    "★ Carrusel de entradas"
+  ],
+  "Post Categories": [
+    "★ Categorías de entrada"
+  ],
+  "Post Excerpt": [
+    "★ Extracto de la entrada"
+  ],
+  "Post Express / Grid / Tabbed Widgets": [
+    "○ Post Express / Cuadrícula / Widgets con pestañas"
+  ],
+  "Post Grid": [
+    "★ Cuadrícula de entradas"
+  ],
+  "Post Grid - 2": [
+    "○ Cuadrícula de publicaciones - 2"
+  ],
+  "Post Grid with Background": [
+    "○ Publicar cuadrícula con fondo"
+  ],
+  "Post Grid with Dark Background": [
+    "○ Cuadrícula de publicaciones con fondo oscuro"
+  ],
+  "Post List": [
+    "★ Lista de entradas"
+  ],
+  "Post List - 2": [
+    "○ Lista de publicaciones - 2"
+  ],
+  "Post List with Background": [
+    "○ Lista de publicaciones con fondo"
+  ],
+  "Post List with Dark Background": [
+    "○ Lista de publicaciones con fondo oscuro"
+  ],
+  "Post Reaction Feature (Animated, Localized, Color Custom)": [
+    "○ Función posterior a la reacción (animada, localizada, color personalizado)"
+  ],
+  "Post Slider": [
+    "★ Carrusel de entradas"
+  ],
+  "Post Subtitle Field": [
+    "○ Campo de subtítulo de publicación"
+  ],
+  "Post list Section Title %d": [
+    "○ Lista de publicaciones Título de la sección %d"
+  ],
+  "Post navigation": [
+    "★ Navegación de entradas"
+  ],
+  "Posts": [
+    "★ Entradas"
+  ],
+  "Posts Carousel Section": [
+    "○ Sección Carrusel de Publicaciones"
+  ],
+  "Posts List": [
+    "★ Lista de entradas"
+  ],
+  "Posts List Section": [
+    "○ Sección de lista de publicaciones"
+  ],
+  "Posts Section Title": [
+    "★ Título de la sección de entradas"
+  ],
+  "Power Bundle": [
+    "○ Paquete de energía"
+  ],
+  "Powerful Gutenberg Blocks & Patterns": [
+    "○ Potentes bloques y patrones de Gutenberg"
+  ],
+  "Pre-Packaged": [
+    "★ Pre-empaquetado"
+  ],
+  "Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": [
+    "○ Tonos temáticos premium (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)"
+  ],
+  "Previous": [
+    "★ Anterior"
+  ],
+  "Previous: %s": [
+    "○ Anterior: %s"
+  ],
+  "Primary Color Section ": [
+    "★ Color principal de sección"
+  ],
+  "Primary Font": [
+    "★ Fuente principal"
+  ],
+  "Primary Menu": [
+    "★ Menú principal"
+  ],
+  "Primary Menu Section": [
+    "○ Sección del menú principal"
+  ],
+  "Primary Sidebar - Content": [
+    "★ Barra lateral principal - Contenido"
+  ],
+  "Primary menu": [
+    "★ Menú principal"
+  ],
+  "Primary sidebar - Content": [
+    "★ Barra lateral principal - Contenido"
+  ],
+  "Priority Support (Faster Response)": [
+    "○ Soporte prioritario (respuesta más rápida)"
+  ],
+  "Pro": [
+    "○ Pro"
+  ],
+  "Professional Sites with Elementor": [
+    "○ Sitios profesionales con Elementor"
+  ],
+  "Profile image": [
+    "★ Imagen de perfil"
+  ],
+  "Promotion": [
+    "○ Promoción"
+  ],
+  "Rank Math": [
+    "○ Clasificar Matemáticas"
+  ],
+  "Rate This Theme": [
+    "○ Califica este tema"
+  ],
+  "Read More": [
+    "★ Leer más"
+  ],
+  "Read more about %s": [
+    "★ Lee más sobre %s"
+  ],
+  "Reading Progress Bar": [
+    "★ Barra de progreso de lectura"
+  ],
+  "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": [
+    "★ ¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+  ],
+  "Recent": [
+    "★ Recientes"
+  ],
+  "Recommended": [
+    "★ Recomendado"
+  ],
+  "Recommended Size %1$s px X %2$s px": [
+    "★ Tamaño recomendado %1$s px X %2$s px"
+  ],
+  "Related Posts Settings": [
+    "★ Ajustes de Entradas Relacionadas"
+  ],
+  "Related Stories": [
+    "○ Historias relacionadas"
+  ],
+  "Remind me later": [
+    "★ Recuérdamelo más tarde"
+  ],
+  "Remove Element": [
+    "○ Eliminar elemento"
+  ],
+  "Remove||X": [
+    "○ incógnita"
+  ],
+  "Required": [
+    "★ Necesario"
+  ],
+  "Required Update not Available": [
+    "★ Actualización requerida no disponible"
+  ],
+  "Requires Update": [
+    "★ Requiere actualización"
+  ],
+  "Responsive Layout": [
+    "★ Diseño apaptable"
+  ],
+  "Return to Required Plugins Installer": [
+    "★ Regresar al instalador de plugins requeridos"
+  ],
+  "Return to the Dashboard": [
+    "★ Volver al escritorio"
+  ],
+  "ReviewNews": [
+    "○ reseñaNoticias"
+  ],
+  "ReviewNews Pro": [
+    "○ RevisiónNoticias Pro"
+  ],
+  "ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 50+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": [
+    "○ ReviewNews es un tema de WordPress dinámico, ultrarrápido y muy versátil creado para sitios web de noticias, revistas, blogs, negocios y comercio electrónico en todo el mundo. Con su potente CREADOR DE ENCABEZADOS Y PIES DE PIE que funciona perfectamente con el Editor de bloques, GUTENBERG, ELEMENTOR, BRIZY, DIVI y otros creadores de páginas populares, puede diseñar DISEÑOS PROFESIONALES fácilmente arrastrando y soltando, sin necesidad de codificación. Equipado con más de 50 SITIOS INICIALES, más de 30 WIDGETS PERSONALIZADOS, PATRONES DE BLOQUES AVANZADOS, OPCIONES DE DISEÑO FLEXIBLES, SOPORTE AMP e INTEGRACIÓN COMPLETA DE WOOCOMMERCE, es perfecto para todo, desde periódicos en línea, sitios corporativos o de ONG y portales educativos o culturales hasta blogs personales, portafolios y revistas de estilo de vida. ReviewNews está totalmente optimizado para SEO, CORE WEB VITALS, VELOCIDAD y DISEÑO RESPONSIVO, lo que garantiza una CARGA RÁPIDA y un rendimiento excelente en todos los dispositivos. Construido con ACCESIBILIDAD WCAG, CUMPLIMIENTO GDPR y CÓDIGO LIMPIO Y LIGERO, ofrece estabilidad a largo plazo y altas PUNTUACIONES DE GOOGLE PAGESPEED. MULTILINGÜE y RTL READY, con contenido de demostración en inglés, español, alemán, francés, japonés, chino y árabe, ReviewNews es un TEMA verdaderamente GLOBAL, A PRUEBA DE FUTURO, diseñado para creadores, editores y empresas que valoran el ESTILO, la ESCALABILIDAD y el RENDIMIENTO en todos los mercados. Explore todas las funciones en https://afthemes.com/products/reviewnews"
+  ],
+  "Right": [
+    "★ Derecha"
+  ],
+  "Rotating Ads with Split Option": [
+    "○ Anuncios rotativos con opción de división"
+  ],
+  "SEO Ready Basic": [
+    "○ Preparado para SEO Básico"
+  ],
+  "SEO Ready with Open Graph Enhancements": [
+    "○ Preparado para SEO con mejoras de Open Graph"
+  ],
+  "Scroll to Top Position": [
+    "○ Desplácese hasta la posición superior"
+  ],
+  "Searc Form": [
+    "○ Formulario de búsqueda"
+  ],
+  "Search": [
+    "★ Buscar"
+  ],
+  "Search Options": [
+    "○ Opciones de búsqueda"
+  ],
+  "Search Results": [
+    "★ Resultados de la búsqueda"
+  ],
+  "Search Results for: %s": [
+    "★ Resultados de la búsqueda: %s"
+  ],
+  "Search results for: %s": [
+    "★ Resultados de la búsqueda de: %s"
+  ],
+  "Searching...": [
+    "○ Búsqueda..."
+  ],
+  "Secondary Color": [
+    "★ Color secundario"
+  ],
+  "Secondary Color Section ": [
+    "★ Color secundario de sección"
+  ],
+  "Secondary Font": [
+    "★ Fuente secundaria"
+  ],
+  "Section %d": [
+    "○ Sección %d"
+  ],
+  "Section 1": [
+    "★ Sección 1"
+  ],
+  "Section 2": [
+    "★ Sección 2"
+  ],
+  "Section 3": [
+    "○ Sección 3"
+  ],
+  "Section 4": [
+    "○ Sección 4"
+  ],
+  "Section Title": [
+    "★ Título de la sección"
+  ],
+  "Section Title ": [
+    "★ Título de la sección"
+  ],
+  "Section Title Designs (Multiple Styles)": [
+    "○ Diseños de títulos de sección (varios estilos)"
+  ],
+  "Select": [
+    "★ Selecciona"
+  ],
+  "Select ": [
+    "★ Seleccionar"
+  ],
+  "Select Breadcrumbs": [
+    "★ Seleccionar las migas de pan"
+  ],
+  "Select Category": [
+    "★ Seleccionar la categoría"
+  ],
+  "Select Category 1": [
+    "★ Selecciona la categoría 1"
+  ],
+  "Select Category 2": [
+    "★ Selecciona la categoría 2"
+  ],
+  "Select Image": [
+    "★ Seleccionar imagen"
+  ],
+  "Select Main Banner Layout": [
+    "★ Selecciona la estructura del banner principal"
+  ],
+  "Select Main Banner Order": [
+    "★ Elige el orden del banner principal"
+  ],
+  "Select Menu": [
+    "★ Seleccionar menú"
+  ],
+  "Select Tag": [
+    "★ Seleccionar etiqueta"
+  ],
+  "Select Widget": [
+    "○ Seleccionar widget"
+  ],
+  "Select category": [
+    "★ Seleccionar categoría"
+  ],
+  "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer.": [
+    "★ Selecciona la clase del color de las categoría. Puedes establecer el color apropiado de las categorías en la sección «Categorías» del personalizador del tema."
+  ],
+  "Select category to be shown on featured section ": [
+    "★ Selecciona la categoría que se mostrará en la sección destacada"
+  ],
+  "Select category to be shown on main slider section": [
+    "★ Elige la categoría que mostrar en la sección de carrusel principal"
+  ],
+  "Select category to be shown on trending posts ": [
+    "★ Selecciona la categoría que mostrar en las entradas destacadas"
+  ],
+  "Select content view for archive": [
+    "○ Seleccionar vista de contenido para archivar"
+  ],
+  "Select frontpage content alignment": [
+    "★ Selecciona la alineación del contenido de la página de inicio"
+  ],
+  "Select frontpage content display": [
+    "○ Seleccionar visualización del contenido de la página principal"
+  ],
+  "Select image alignment for archive": [
+    "○ Seleccionar alineación de imagen para archivar"
+  ],
+  "Select layout for archive": [
+    "★ Seleccionar la estructura del archivo"
+  ],
+  "Select search results for archive": [
+    "○ Seleccionar resultados de búsqueda para archivo"
+  ],
+  "Select tag to be shown on main slider section": [
+    "★ Elige la etiqueta que mostrar en la sección de carrusel principal"
+  ],
+  "Selecting different categories can be done for different section.": [
+    "○ Se pueden seleccionar diferentes categorías para diferentes secciones."
+  ],
+  "Set as Background": [
+    "★ Establecer como fondo"
+  ],
+  "Set as global layout": [
+    "★ Seleccionar como diseño general"
+  ],
+  "Set for better performance": [
+    "○ Configurado para un mejor rendimiento"
+  ],
+  "Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed and more.": [
+    "○ Configure el diseño global, la ruta de navegación, la barra lateral, la publicación única, es posible que se haya perdido y más."
+  ],
+  "Set the Homepage as a static page to create own homepage using widgets.": [
+    "○ Configure la página de inicio como una página estática para crear su propia página de inicio utilizando widgets."
+  ],
+  "Set the footer type, number of columns, spacing and colors.": [
+    "★ Establece el tipo de pie de página, el número de columnas, el espaciado y los colores."
+  ],
+  "Set the theme header type, set the colors, spacing, alignment and more.": [
+    "○ Establezca el tipo de encabezado del tema, establezca los colores, el espaciado, la alineación y más."
+  ],
+  "Set to enhance rendering speed": [
+    "○ Configurado para mejorar la velocidad de renderizado"
+  ],
+  "Show": [
+    "★ Mostrar"
+  ],
+  "Show Above Footer": [
+    "★ Mostrar sobre el pie de página"
+  ],
+  "Show All": [
+    "○ Mostrar todo"
+  ],
+  "Show Author Bio under Content": [
+    "○ Mostrar biografía del autor en Contenido"
+  ],
+  "Show Date": [
+    "★ Mostrar fecha"
+  ],
+  "Show Featured Image": [
+    "★ Mostrar la imagen destacada"
+  ],
+  "Show Full Image (Background)": [
+    "○ Mostrar imagen completa (fondo)"
+  ],
+  "Show Gravatar": [
+    "★ Mostrar Gravatar"
+  ],
+  "Show Icon": [
+    "★ Mostrar el icono"
+  ],
+  "Show Primary Menu Description": [
+    "○ Mostrar descripción del menú principal"
+  ],
+  "Show Tags under Content": [
+    "★ Mostrar etiquetas bajo el contenido"
+  ],
+  "Show Time": [
+    "★ Mostrar tiempo"
+  ],
+  "Show Top Header": [
+    "★ Mostrar cabecera superior"
+  ],
+  "Show breadcrumbs": [
+    "★ Mostrar las migas de pan"
+  ],
+  "Sidebar Options": [
+    "★ Opciones de barra lateral"
+  ],
+  "Sidebar Settings": [
+    "★ Ajustes de barra lateral"
+  ],
+  "Sidebar Sticky Position": [
+    "★ Posición de la barra lateral fija"
+  ],
+  "Single Column": [
+    "★ Columna única"
+  ],
+  "Single Column - 2": [
+    "○ Columna única - 2"
+  ],
+  "Single Content Mode": [
+    "○ Modo de contenido único"
+  ],
+  "Single Post": [
+    "★ Entrada individual"
+  ],
+  "Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, Links, Top Domains)": [
+    "○ Metabox de análisis de publicación única (vistas, reacciones, recuento de palabras, tiempo de lectura, enlaces, dominios principales)"
+  ],
+  "Single Post Column with Background": [
+    "○ Columna de publicación única con fondo"
+  ],
+  "Single Post Column with Dark Background": [
+    "○ Columna de publicación única con fondo oscuro"
+  ],
+  "Site & Logo": [
+    "○ Sitio y logotipo"
+  ],
+  "Site Color Mode": [
+    "★ Modo de color del sitio"
+  ],
+  "Site Identity": [
+    "★ Identidad del sitio"
+  ],
+  "Site Mode": [
+    "○ Modo de sitio"
+  ],
+  "Site Mode Switch": [
+    "○ Cambio de modo de sitio"
+  ],
+  "Site Title Size": [
+    "★ Tamaño del título del sitio"
+  ],
+  "Site Title/Tagline Color": [
+    "★ Color del título y la descripción corta del sitio"
+  ],
+  "Site title, post titles, widgets titles, etc": [
+    "○ Título del sitio, títulos de publicaciones, títulos de widgets, etc."
+  ],
+  "Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, Authors, Reactions, Comments, Word Count, Read Time)": [
+    "○ Métricas de todo el sitio (publicaciones, páginas, medios, publicaciones principales, categorías, etiquetas, autores, reacciones, comentarios, recuento de palabras, tiempo de lectura)"
+  ],
+  "Skip to content": [
+    "★ Saltar al contenido"
+  ],
+  "Slider and Double Tiles": [
+    "○ Control deslizante y mosaicos dobles"
+  ],
+  "Slider and Double Trending": [
+    "○ Control deslizante y doble tendencia"
+  ],
+  "Slider, Tiles and Trending": [
+    "○ Control deslizante, mosaicos y tendencias"
+  ],
+  "Social Menu": [
+    "★ Menú social"
+  ],
+  "Social Share Options": [
+    "○ Opciones para compartir en redes sociales"
+  ],
+  "Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings.": [
+    "★ El menú social no está configurado. Necesitas crear el menú y asignarlo al «Menú social» en los ajustes de menús."
+  ],
+  "Something went wrong with the plugin API.": [
+    "★ Algo salió mal con la API del plugin."
+  ],
+  "Sorry, but nothing matched your search terms. Please try again with some different keywords.": [
+    "★ Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+  ],
+  "Sorry, you are not allowed to activate plugins on this site.": [
+    "★ Lo siento, no tienes permiso para activar plugins en este sitio."
+  ],
+  "Sorry, you are not allowed to install plugins on this site.": [
+    "★ Lo siento, no tienes permiso para instalar plugins en este sitio."
+  ],
+  "Source": [
+    "★ Origen"
+  ],
+  "Source & Sponsor Custom Field": [
+    "○ Campo personalizado de fuente y patrocinador"
+  ],
+  "Spacious": [
+    "○ Espacioso"
+  ],
+  "Standard Support": [
+    "○ Soporte estándar"
+  ],
+  "Start Customizing": [
+    "★ Empieza a personalizar"
+  ],
+  "Start with Demo Sites": [
+    "○ Comience con sitios de demostración"
+  ],
+  "Starter Sites": [
+    "★ Sitios de inicio"
+  ],
+  "Starter Sites Import": [
+    "○ Importación de sitios de inicio"
+  ],
+  "Static Front Page": [
+    "○ Portada estática"
+  ],
+  "Status": [
+    "★ Estado"
+  ],
+  "Sticky Header Option Advanced Behavior & Layout Support": [
+    "○ Opción de encabezado fijo Soporte avanzado de comportamiento y diseño"
+  ],
+  "Sticky Header Option Basic": [
+    "○ Opción de encabezado fijo básica"
+  ],
+  "Sticky header works only with builder at bottom.": [
+    "○ El encabezado adhesivo solo funciona con el constructor en la parte inferior."
+  ],
+  "Subscribe": [
+    "★ Suscríbete"
+  ],
+  "Support": [
+    "★ Soporte"
+  ],
+  "Sure thing": [
+    "★ Por supuesto"
+  ],
+  "System Fonts": [
+    "★ Fuentes del sistema"
+  ],
+  "TGMPA v%s": [
+    "○ TGMPA v%s"
+  ],
+  "Tag": [
+    "★ Etiqueta"
+  ],
+  "TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool": [
+    "○ TemplateSpare - Creador de sitios web sin código - Importación/exportación con 1 clic y herramienta de migración completa del sitio"
+  ],
+  "TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool. Get ready-to-use Starter Sites instantly and build modern websites in minutes.": [
+    "○ TemplateSpare - Creador de sitios web sin código - Importación/exportación con 1 clic y herramienta de migración completa del sitio. Obtenga sitios de inicio listos para usar al instante y cree sitios web modernos en minutos."
+  ],
+  "Templatespare": [
+    "○ Plantilla de repuesto"
+  ],
+  "Thank you for installing [theme] — a fast, flexible, and user-friendly theme for blogs, news sites, and magazines. Get started quickly with our 100+ one-click starter sites — no coding needed.": [
+    "○ Gracias por instalar [tema], un tema rápido, flexible y fácil de usar para blogs, sitios de noticias y revistas. Comience rápidamente con nuestros más de 100 sitios de inicio con un solo clic, sin necesidad de codificación."
+  ],
+  "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.": [
+    "★ La acción «Primeros pasos» instalará/activará los plugins Templatespare y Blockspare para sitios de inicio y plantillas."
+  ],
+  "The Templatespare plugin should be updated to the latest version": [
+    "★ El plugin Templatespare debe actualizarse a la última versión"
+  ],
+  "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": [
+    "★ El siguiente complemento debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+    "★ Los siguientes complementos deben actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s."
+  ],
+  "The following plugin was activated successfully:": [
+    "★ El siguiente complemento se activó exitosamente:",
+    "★ Los siguientes complementos se activaron exitosamente:"
+  ],
+  "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.": "Los siguientes complementos deben actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+  "The following plugins were activated successfully:": "Los siguientes complementos se activaron exitosamente:",
+  "The following recommended plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento recomendado está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+  ],
+  "The following recommended plugins are currently inactive: %1$s.": "Los siguientes complementos recomendados están actualmente inactivos: %1$s.",
+  "The following required plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento requerido está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos obligatorios están actualmente inactivos: %1$s."
+  ],
+  "The following required plugins are currently inactive: %1$s.": "Los siguientes complementos obligatorios están actualmente inactivos: %1$s.",
+  "The installation and activation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación y activación se está iniciando. Este proceso puede tardar varios minutos en algunos sistemas de hospedaje, así que por favor se paciente."
+  ],
+  "The installation of %1$s failed.": [
+    "★ La instalación de %1$s ha fallado."
+  ],
+  "The installation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación ha comenzado. Este proceso puede tardar un poco según el alojamiento, por favor se paciente."
+  ],
+  "The remote plugin package consists of more than one file, but the files are not packaged in a folder.": [
+    "★ El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+  ],
+  "The remote plugin package does not contain a folder with the desired slug and renaming did not work.": [
+    "★ El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+  ],
+  "Theme": [
+    "★ Tema"
+  ],
+  "Theme Fonts": [
+    "○ Fuentes temáticas"
+  ],
+  "Theme Option": [
+    "○ Opción de tema"
+  ],
+  "Theme Options": [
+    "★ Opciones de tema"
+  ],
+  "Theme dashboard": [
+    "★ Escritorio del tema"
+  ],
+  "There are one or more required or recommended plugins to install, update or activate.": [
+    "★ Hay uno o más plugins necesarios o recomendados a instalar, actualizar o activar."
+  ],
+  "There are updates available for the following plugins: %1$s.": "Hay actualizaciones disponibles para los siguientes complementos: %1$s.",
+  "There is an update available for: %1$s.": [
+    "★ Hay una actualización disponible para: %1$s.",
+    "★ Hay actualizaciones disponibles para los siguientes complementos: %1$s."
+  ],
+  "This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": [
+    "○ Este complemento gratuito ofrece una solución gratuita de chat en vivo para que los visitantes de su sitio web se comuniquen con usted a través de un chat en vivo o una llamada en vivo, ¡todo gratis! Interactúe con sus clientes y aumente las ventas."
+  ],
+  "This plugin needs to be updated to be compatible with your theme.": [
+    "★ Este plugin debe actualizarse para que sea compatible con tu tema."
+  ],
+  "This theme recommends the following plugin: %1$s.": [
+    "★ Este tema recomienda el siguiente complemento: %1$s.",
+    "★ Este tema recomienda los siguientes complementos: %1$s."
+  ],
+  "This theme recommends the following plugins: %1$s.": "Este tema recomienda los siguientes complementos: %1$s.",
+  "This theme requires the following plugin: %1$s.": [
+    "★ Este tema requiere el siguiente complemento: %1$s.",
+    "★ Este tema requiere los siguientes complementos: %1$s."
+  ],
+  "This theme requires the following plugins: %1$s.": "Este tema requiere los siguientes complementos: %1$s.",
+  "This widget area is used in the mobile off-canvas panel. %s": [
+    "○ Esta área de widgets se utiliza en el panel móvil fuera del lienzo. %s"
+  ],
+  "Three Columns": [
+    "★ Tres columnas"
+  ],
+  "Three Columns Posts": [
+    "○ Publicaciones de tres columnas"
+  ],
+  "Ticker News": [
+    "★ Teletipo de noticias"
+  ],
+  "Time Format": [
+    "★ Formato de hora"
+  ],
+  "Title": [
+    "★ Título"
+  ],
+  "To Activate <span class=\"count\">(%s)</span>": [
+    "★ Para activar <span class=\"count\">(%s)</span>",
+    "★ Para activar <span class=\"count\">(%s)</span>"
+  ],
+  "To Install <span class=\"count\">(%s)</span>": [
+    "★ Para instalar <span class=\"count\">(%s)</span>",
+    "★ Para instalar <span class=\"count\">(%s)</span>"
+  ],
+  "Top": [
+    "★ Superior"
+  ],
+  "Top Header Menu": [
+    "★ Menú de cabecera superior"
+  ],
+  "Top Header Section": [
+    "★ Sección de cabecera superior"
+  ],
+  "Top Navigation": [
+    "★ Navegación superior"
+  ],
+  "Top One Category": [
+    "○ Una categoría superior"
+  ],
+  "Transform your blog, news, or magazine website with 35+ advanced Elementor widgets and 350+ customizable templates. Easily create headers, footers, post grids, sliders, and carousels with a fast-loading and SEO-optimized structure. Import demo content with a single click and enjoy codeless customization to craft your perfect site, no matter the language.": [
+    "○ Transforme el sitio web de su blog, noticias o revista con más de 35 widgets avanzados de Elementor y más de 350 plantillas personalizables. Cree fácilmente encabezados, pies de página, cuadrículas de publicaciones, controles deslizantes y carruseles con una estructura de carga rápida y optimizada para SEO. Importe contenido de demostración con un solo clic y disfrute de una personalización sin código para crear su sitio perfecto, sin importar el idioma."
+  ],
+  "Trending Now": [
+    "★ Tendencias Ahora"
+  ],
+  "Trending Posts Carousel (Tag, Views)": [
+    "○ Carrusel de publicaciones de tendencia (etiqueta, vistas)"
+  ],
+  "Trending Posts in Single Post": [
+    "○ Publicaciones de tendencia en una sola publicación"
+  ],
+  "Trending Section": [
+    "★ Sección tendencias"
+  ],
+  "Twitter": [
+    "○ Gorjeo"
+  ],
+  "Type": [
+    "★ Tipo"
+  ],
+  "URL Link": [
+    "★ URL del enlace"
+  ],
+  "Unified Chart Styles and Colors": [
+    "○ Estilos y colores de gráficos unificados"
+  ],
+  "Unlock Pro Features": [
+    "★ Desbloquear funciones Pro"
+  ],
+  "Update": [
+    "★ Actualizar"
+  ],
+  "Update %2$s": [
+    "★ Actualizar %2$s"
+  ],
+  "Update Available <span class=\"count\">(%s)</span>": [
+    "★ Actualización disponible <span class=\"count\">(%s)</span>",
+    "★ Actualización disponible <span class=\"count\">(%s)</span>"
+  ],
+  "Update Blockspare": [
+    "○ Actualizar bloques de repuesto"
+  ],
+  "Update Blockspare Pro": [
+    "○ Actualizar Blockspare Pro"
+  ],
+  "Update Elespare": [
+    "○ Actualizar Elespare"
+  ],
+  "Update Elespare Pro": [
+    "○ Actualizar Elespare Pro"
+  ],
+  "Update Required": [
+    "★ Requerida actualización"
+  ],
+  "Update Templatespare": [
+    "○ Actualizar plantilla de repuesto"
+  ],
+  "Update recommended": [
+    "★ Actualización recomendada"
+  ],
+  "Updating Plugin %1$s (%2$d/%3$d)": [
+    "★ Actualizando plugin %1$s (%2$d/%3$d)"
+  ],
+  "Updating Plugin: %s": [
+    "★ Actualizando el plugin: %s"
+  ],
+  "Upgrade Now": [
+    "★ Actualiza ahora"
+  ],
+  "Upgrade message from the plugin author:": [
+    "★ Mensaje de actualización del autor del plugin:"
+  ],
+  "Upgrade to Pro": [
+    "★ Actualizar a la versión Pro"
+  ],
+  "Upload": [
+    "★ Subir un archivo"
+  ],
+  "Uppercase Site Title and Tagline": [
+    "★ Mayúsculas de título y descripción del sitio"
+  ],
+  "Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Utilice AF Companion para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo."
+  ],
+  "Useful Plugins": [
+    "★ Plugins útiles"
+  ],
+  "Version": [
+    "★ Versión"
+  ],
+  "Video": [
+    "★ Vídeo"
+  ],
+  "Video  Tutorials": [
+    "○ Tutoriales en vídeo"
+  ],
+  "Video Tutorials": [
+    "★ Vídeotutoriales"
+  ],
+  "View": [
+    "★ Ver"
+  ],
+  "View All Posts": [
+    "★ Ver todas las entradas"
+  ],
+  "View Demos": [
+    "★ Ver las demostraciones"
+  ],
+  "View More": [
+    "★ Ver más"
+  ],
+  "View all results for \"%s\"": [
+    "○ Ver todos los resultados para \"%s\""
+  ],
+  "View all search results": [
+    "○ Ver todos los resultados de búsqueda"
+  ],
+  "View your shopping cart": [
+    "★ Ver tu cesta de la compra"
+  ],
+  "Visit Website": [
+    "○ Visitar sitio web"
+  ],
+  "W": [
+    "★ X"
+  ],
+  "WP Post Author": [
+    "○ Autor de la publicación de WP"
+  ],
+  "Watch out the videos for an easy learning on Customizing the Theme .": [
+    "○ Mire los videos para aprender fácilmente sobre cómo personalizar el tema."
+  ],
+  "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": [
+    "○ Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado."
+  ],
+  "We mainly focus on quality code and elegant design with incredible support. Our WordPress themes and plugins empower you to create an elegant, professional, and easy-to-maintain website in no time at all. Even on mobile and tablet screens, your website will look great": [
+    "★ Nos centramos principalmente en un código de calidad y un diseño elegante con un soporte increíble. Nuestros temas y plugins de WordPress te permiten crear un sitio elegante, profesional y fácil de mantener en muy poco tiempo. Incluso en pantallas de móviles y tabletas, tu web se verá genial"
+  ],
+  "Week %s": [
+    "★ Semana %s"
+  ],
+  "Welcome to ": [
+    "○ Bienvenido a"
+  ],
+  "Whether you're just starting or customizing your site.": [
+    "★ Tanto si estás empezando como si estás personalizando tu sitio."
+  ],
+  "Widget 1": [
+    "○ Dispositivo 1"
+  ],
+  "Widget 2": [
+    "○ Dispositivo 2"
+  ],
+  "Widget 3": [
+    "○ Dispositivo 3"
+  ],
+  "Widget Areas Banner, Featured, Inline": [
+    "○ Banner de áreas de widgets, destacados, en línea"
+  ],
+  "Widget Areas Header, Front-page, Sidebar, Footer": [
+    "○ Áreas de widgets Encabezado, Portada, Barra lateral, Pie de página"
+  ],
+  "Widgets Area": [
+    "○ Área de widgets"
+  ],
+  "Widgets can be added on all the section provide by the Theme.": [
+    "○ Se pueden agregar widgets en todas las secciones proporcionadas por el tema."
+  ],
+  "WooCommerce Support": [
+    "○ Soporte de WooCommerce"
+  ],
+  "WordPress Default Date Format": [
+    "★ Formato de fecha por defecto de WordPress"
+  ],
+  "WordPress Repository": [
+    "★ Repositorio WordPress"
+  ],
+  "X": [
+    "○ incógnita"
+  ],
+  "Y": [
+    "★ A"
+  ],
+  "Yoast SEO": [
+    "○ Yoast SEO"
+  ],
+  "You May Have Missed": [
+    "★ Te pueden interesar"
+  ],
+  "You can change Menu from menu panel. %s": [
+    "○ Puede cambiar el menú desde el panel de menú. %s"
+  ],
+  "You can change Site Identity from %s.": [
+    "○ Puede cambiar la identidad del sitio desde %s."
+  ],
+  "You can change date from general settings (Settings > General > Date Format). %s": [
+    "○ Puede cambiar la fecha desde la configuración general (Configuración > General > Formato de fecha). %s"
+  ],
+  "You can easily place your promotional banners within your header section.": [
+    "○ Puede colocar fácilmente sus banners promocionales dentro de la sección de encabezado."
+  ],
+  "You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": [
+    "○ Puede diseñar diseños complicados para su sitio web en solo unos minutos con nuestros bloques adaptables e inventivos."
+  ],
+  "YouTube": [
+    "○ YouTube"
+  ],
+  "YouTube Video Slider Widget": [
+    "○ Widget deslizante de vídeo de YouTube"
+  ],
+  "Your email": [
+    "★ Tu correo electrónico"
+  ],
+  "Your name": [
+    "★ Tu nombre"
+  ],
+  "Your website": [
+    "○ Tu sitio web"
+  ],
+  "and": [
+    "★ y"
+  ],
+  "as in: \"version nr unknown\"||unknown": [
+    "★ desconocida"
+  ],
+  "breadcrumbs aria label||Breadcrumbs": [
+    "★ Ruta de navegación"
+  ],
+  "close Off-Canvas Navigation": [
+    "○ cerrar navegación fuera del lienzo"
+  ],
+  "comments title||%1$s thought on &ldquo;%2$s&rdquo;": [
+    "★ %1$s pensó en &ldquo;%2$s&rdquo;",
+    "★ %1$s pensamientos sobre &ldquo;%2$s&rdquo;"
+  ],
+  "daily archives date format||j": [
+    "○ j"
+  ],
+  "g a": [
+    "★ H"
+  ],
+  "g:i a": [
+    "○ g: yo un"
+  ],
+  "grid": [
+    "○ red"
+  ],
+  "hour archives time format||g a": [
+    "★ H"
+  ],
+  "https://afthemes.com/products/reviewnews/": [
+    "○ https://afthemes.com/products/reviewnews/"
+  ],
+  "https://www.afthemes.com/": [
+    "○ https://www.afthemes.com/"
+  ],
+  "i": [
+    "○ i"
+  ],
+  "j": [
+    "○ j"
+  ],
+  "live": [
+    "○ vivir"
+  ],
+  "minute and hour archives time format||g:i a": [
+    "○ g: yo un"
+  ],
+  "minute archives time format||i": [
+    "○ i"
+  ],
+  "monthly archives date format||F": [
+    "★ V"
+  ],
+  "plugin A *and* plugin B||and": [
+    "★ y"
+  ],
+  "plugins||All <span class=\"count\">(%s)</span>": [
+    "★ Todo <span class=\"count\">(%s)</span>",
+    "★ Todo <span class=\"count\">(%s)</span>"
+  ],
+  "pro": [
+    "○ pro"
+  ],
+  "unknown": [
+    "★ desconocida"
+  ],
+  "weekly archives date format||W": [
+    "★ X"
+  ],
+  "yearly archives date format||Y": [
+    "★ A"
+  ],
+  "||%1$s by %2$s.": [
+    "★ %1$s por %2$s."
+  ],
+  "||%1$s done.": [
+    "★ %1$s hecho."
+  ],
+  "||%d item": [
+    "★ %d elemento",
+    "★ %d elementos"
+  ],
+  "||%s ago": [
+    "★ hace %s"
+  ],
+  "||%s comment": [
+    "★ %s comentario",
+    "★ %s comentarios"
+  ],
+  "||%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently.": [
+    "★ %s ya está activo. Estamos aquí para ayudarte a convertir tus ideas en un sitio web bonito y profesional, con rapidez y confianza."
+  ],
+  "||%s minute read": [
+    "★ Lectura de %s minutos",
+    "★ %s minutos de lectura"
+  ],
+  "||(Last updated: %s)": [
+    "○ (Última actualización: %s)"
+  ],
+  "||-- Select --": [
+    "★ -- Seleccionar --"
+  ],
+  "||12 hours": [
+    "★ 12 horas"
+  ],
+  "||24 hours": [
+    "★ 24 horas"
+  ],
+  "||3 Columns Post Grid": [
+    "○ Cuadrícula de publicaciones de 3 columnas"
+  ],
+  "||3 Columns Post Grid - 2": [
+    "○ Cuadrícula de publicaciones de 3 columnas - 2"
+  ],
+  "||3 Columns Post Grid with Background": [
+    "○ Cuadrícula de publicaciones de 3 columnas con fondo"
+  ],
+  "||3 Columns Post Grid with Dark Background": [
+    "○ Cuadrícula de publicaciones de 3 columnas con fondo oscuro"
+  ],
+  "||404 Not Found": [
+    "★ 404 No encontrado"
+  ],
+  "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
+    "○ Una hermosa colección de bloques de Gutenberg de las últimas publicaciones para WordPress, que le ayuda a diseñar la cuadrícula de publicaciones, la lista de publicaciones, el diseño completo de las publicaciones, el diseño avanzado de publicaciones exprés y los diseños de mosaicos de sus publicaciones."
+  ],
+  "||AF themes": [
+    "○ temas de AF"
+  ],
+  "||AFT Author Info": [
+    "○ Información del autor de AFT"
+  ],
+  "||AFT Express Posts List": [
+    "○ Lista de publicaciones de AFT Express"
+  ],
+  "||AFT Post Double Columns": [
+    "○ Columnas dobles de poste de popa"
+  ],
+  "||AFT Post Grid": [
+    "○ Cuadrícula de postes de popa"
+  ],
+  "||AFT Post List": [
+    "○ Lista de publicaciones de AFT"
+  ],
+  "||AFT Post Single Column": [
+    "○ Columna única del poste de popa"
+  ],
+  "||AFT Posts Slider": [
+    "○ Control deslizante de publicaciones AFT"
+  ],
+  "||AFT Social Contacts": [
+    "○ Contactos sociales de la AFT"
+  ],
+  "||AFT Trending News": [
+    "○ Noticias de actualidad de la AFT"
+  ],
+  "||AJAX Refresh + Caching for Post Analytics": [
+    "○ Actualización de AJAX + almacenamiento en caché para análisis de publicaciones"
+  ],
+  "||About Author": [
+    "★ Sobre el autor"
+  ],
+  "||About the Author": [
+    "★ Acerca del autor"
+  ],
+  "||Above Site Title": [
+    "○ Arriba del título del sitio"
+  ],
+  "||Above/Below Banner Widget Areas": [
+    "○ Áreas de widgets encima/debajo del banner"
+  ],
+  "||Action failed. Please refresh the page and retry.": [
+    "★ Acción fallida. Por favor, refresca la página e inténtalo de nuevo."
+  ],
+  "||Activate": [
+    "★ Activar"
+  ],
+  "||Activate %2$s": [
+    "★ Activar %2$s"
+  ],
+  "||Activated": [
+    "★ Activados"
+  ],
+  "||Active": [
+    "★ Activos"
+  ],
+  "||Ad Placement Areas (Header, Content, Footer, Archive)": [
+    "○ Áreas de ubicación de anuncios (encabezado, contenido, pie de página, archivo)"
+  ],
+  "||Add Element": [
+    "★ Agregar elemento"
+  ],
+  "||Add widget to display . %s": [
+    "○ Agregar widget para mostrar. %s"
+  ],
+  "||Add widgets for frontpage banner section advertisement.": [
+    "○ Agregue widgets para publicidad en la sección de banner de la página principal."
+  ],
+  "||Add widgets for main sidebar.": [
+    "★ Añade widgets para la barra lateral principal."
+  ],
+  "||Add widgets for off-canvas section.": [
+    "★ Añade widgets para la sección fuera del lienzo."
+  ],
+  "||Add widgets to front-page contents section.": [
+    "★ Añade widgets a la sección de contenido de la portada."
+  ],
+  "||Add widgets to front-page sidebar section.": [
+    "★ Añade widgets a la sección de la barra lateral de la portada."
+  ],
+  "||Additional Menu Locations (incl. Top Menu Element)": [
+    "○ Ubicaciones de menú adicionales (incluido el elemento del menú superior)"
+  ],
+  "||Advanced Color Controls (Global Options)": [
+    "○ Controles de color avanzados (opciones globales)"
+  ],
+  "||Advanced Custom Widgets Count (15+ Layouts)": [
+    "○ Recuento de widgets personalizados avanzados (más de 15 diseños)"
+  ],
+  "||Advanced Typography Style (Google & System Fonts - GDPR Friendly)": [
+    "○ Estilo de tipografía avanzada (Google y fuentes del sistema, compatible con GDPR)"
+  ],
+  "||Advanced Widgets (Carousel, Express, Tabs)": [
+    "○ Widgets avanzados (carrusel, Express, pestañas)"
+  ],
+  "||Advertisement": [
+    "★ Publicidad"
+  ],
+  "||After Content": [
+    "★ Después del contenido"
+  ],
+  "||Ago Date Format": [
+    "★ Formato tiempo pasado"
+  ],
+  "||Ajax Results Dropdown": [
+    "○ Menú desplegable de resultados de Ajax"
+  ],
+  "||All (Pages, Posts, etc)": [
+    "○ Todo (páginas, publicaciones, etc.)"
+  ],
+  "||All Themes Plan": [
+    "★ Plan All Themes"
+  ],
+  "||All installations and activations have been completed.": [
+    "★ Todas las instalaciones y activaciones han sido completadas."
+  ],
+  "||All installations have been completed.": [
+    "★ Todas las instalaciones han sido completadas."
+  ],
+  "||All plugins installed and activated successfully. %1$s": [
+    "★ Todos los plugin instalados y activados correctamente. %1$s"
+  ],
+  "||Also Show Content Image in Archive": [
+    "★ Mostrar también la imagen del contenido en el archivo"
+  ],
+  "||An error occurred while installing %1$s: <strong>%2$s</strong>.": [
+    "★ A ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+  ],
+  "||Archive Options": [
+    "○ Opciones de archivo"
+  ],
+  "||Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed": [
+    "○ Diseños de publicaciones de archivo Cuadrícula, mosaico, mampostería, lista alternativa, derecha, mixto"
+  ],
+  "||Archive Post Layouts List & Full": [
+    "○ Lista de diseños de publicaciones de archivo y completa"
+  ],
+  "||Archive Settings": [
+    "★ Ajustes del archivo"
+  ],
+  "||Archive layout": [
+    "★ Plantilla de pagina de archivo"
+  ],
+  "||Archives": [
+    "★ Archivo"
+  ],
+  "||Are you sure you want to install this plugin?": [
+    "★ ¿Estás seguro de querer instalar este plugin?"
+  ],
+  "||Author Box Basic": [
+    "○ Cuadro de autor básico"
+  ],
+  "||Author Box with Donate Link, Website & Author Posts": [
+    "○ Cuadro de autor con enlace de donación, sitio web y publicaciones de autor"
+  ],
+  "||Author Icon": [
+    "○ Icono de autor"
+  ],
+  "||Author and Date Settings": [
+    "★ Ajustes de autor y fecha"
+  ],
+  "||Available version:": [
+    "★ Versión disponible:"
+  ],
+  "||Banner Advertisement": [
+    "★ Banner publicitario"
+  ],
+  "||Banner Post Filter: Category & Tag": [
+    "○ Filtro de publicación de banner: categoría y etiqueta"
+  ],
+  "||Banner Post Filter: Views & Comments": [
+    "○ Filtro de publicación de banner: vistas y comentarios"
+  ],
+  "||Basic Color Controls": [
+    "○ Controles de color básicos"
+  ],
+  "||Basic Custom Widgets (5+ Layouts)": [
+    "○ Widgets personalizados básicos (más de 5 diseños)"
+  ],
+  "||Basic Typography Style": [
+    "○ Estilo de tipografía básica"
+  ],
+  "||Before Content": [
+    "★ Antes del contenido"
+  ],
+  "||Begin activating plugin": [
+    "★ Comenzar a activar el complemento",
+    "★ Comience a activar complementos"
+  ],
+  "||Begin installing plugin": [
+    "★ Comience a instalar el complemento",
+    "★ Comience a instalar complementos"
+  ],
+  "||Begin updating plugin": [
+    "★ Comenzar a actualizar el complemento",
+    "★ Comenzar a actualizar complementos"
+  ],
+  "||Beta": [
+    "○ Beta"
+  ],
+  "||Blank Canvas": [
+    "★ Lienzo en blanco"
+  ],
+  "||Block Patterns": [
+    "★ Patrones de bloques"
+  ],
+  "||Blockspare": [
+    "○ Bloques de repuesto"
+  ],
+  "||Blockspare plugin version should be more than %s.": [
+    "★ La versión del plugin Blockspare debe ser superior a %s."
+  ],
+  "||Body Background Color": [
+    "★ Color de fondo del cuerpo"
+  ],
+  "||Body Background Color (Dark Mode)": [
+    "○ Color de fondo del cuerpo (modo oscuro)"
+  ],
+  "||Body Background Color (Dark Mode) will be applied for this mode.": [
+    "○ Para este modo se aplicará el color de fondo del cuerpo (modo oscuro)."
+  ],
+  "||Bottom": [
+    "★ Inferior"
+  ],
+  "||Breadcrumb Options": [
+    "★ Opciones de las migas de pan"
+  ],
+  "||Breaking News": [
+    "★ Noticias de última hora"
+  ],
+  "||Browse:": [
+    "★ Examinar:"
+  ],
+  "||By": [
+    "★ por"
+  ],
+  "||Categories": [
+    "★ Categorías"
+  ],
+  "||Categories Settings": [
+    "★ Ajustes de categorías"
+  ],
+  "||Categories to be displayed": [
+    "○ Categorías a mostrar"
+  ],
+  "||Category": [
+    "★ Categoría"
+  ],
+  "||Category Color 1": [
+    "★ Color de la categoría 1"
+  ],
+  "||Category Color 2": [
+    "★ Color de la categoría 2"
+  ],
+  "||Category Color 3": [
+    "★ Color de la categoría 3"
+  ],
+  "||Category Color Options": [
+    "○ Opciones de color de categoría"
+  ],
+  "||Category-wise Post Layout (Category Specific)": [
+    "○ Diseño de publicación por categoría (categoría específica)"
+  ],
+  "||Category-wise Post Layout (Global Only)": [
+    "○ Diseño de publicación por categorías (solo global)"
+  ],
+  "||Centralized Ads Management Panel": [
+    "○ Panel de gestión de anuncios centralizado"
+  ],
+  "||Centralized Advertisement Support": [
+    "○ Soporte publicitario centralizado"
+  ],
+  "||Centralized Site Analytics Page (Tabbed UI)": [
+    "○ Página centralizada de análisis del sitio (IU con pestañas)"
+  ],
+  "||Change Log": [
+    "○ Registro de cambios"
+  ],
+  "||Change the color setting provide with the Theme.": [
+    "○ Cambie la configuración de color proporcionada con el tema."
+  ],
+  "||Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top Posts": [
+    "○ Gráficos de publicaciones, comentarios, reacciones, enlaces, autores, categorías, etiquetas, publicaciones principales"
+  ],
+  "||Cheatin&#8217; huh?": [
+    "★ Haciendo trampas, ¿eh?"
+  ],
+  "||Choose Image": [
+    "★ Elegir una imagen"
+  ],
+  "||Choose an Element": [
+    "○ Elige un elemento"
+  ],
+  "||Choose date format": [
+    "○ Elige el formato de fecha"
+  ],
+  "||Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n      Setup is simple — no coding required.": [
+    "★ Elige de entre más de 100 sitios iniciales diseñados para blogs, revistas, empresas y mucho más. La instalación es sencilla: no necesitas programar."
+  ],
+  "||Claim Your Discount": [
+    "★ Solicita tu descuento"
+  ],
+  "||Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": [
+    "○ Haga clic en la configuración <span class=\"dashicons dashicons-admin-generic\"></span> en cada elemento para personalizar su configuración."
+  ],
+  "||Close choose element modal": [
+    "○ Cerrar elegir elemento modal"
+  ],
+  "||Color Class": [
+    "★ Clase del color"
+  ],
+  "||Color Options": [
+    "★ Opciones del color"
+  ],
+  "||Comment Count": [
+    "★ Recuento de comentarios"
+  ],
+  "||Comment Page %s": [
+    "★ Página %s de comentarios"
+  ],
+  "||Comments are closed.": [
+    "★ Los comentarios están cerrados."
+  ],
+  "||Configure Element": [
+    "○ Configurar elemento"
+  ],
+  "||Connect to Us": [
+    "★ Contacta con nosotros"
+  ],
+  "||Connect with Us": [
+    "★ Contacta con nosotros"
+  ],
+  "||Content - Primary Sidebar": [
+    "★ Contenido - Barra lateral principal"
+  ],
+  "||Content - Primary sidebar": [
+    "★ Contenido - Barra lateral principal"
+  ],
+  "||Content Options": [
+    "★ Opciones de contenido"
+  ],
+  "||Content View": [
+    "○ Vista de contenido"
+  ],
+  "||Content, menus, normal texts and paragraphs, etc": [
+    "○ Contenidos, menús, textos y párrafos normales, etc."
+  ],
+  "||Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": [
+    "★ Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+  ],
+  "||Copy link to clipboard": [
+    "○ Copiar enlace al portapapeles"
+  ],
+  "||Copyright": [
+    "○ Derechos de autor"
+  ],
+  "||Copyright &copy; {year} All rights reserved.": [
+    "★ Copyright &copy; {year} All rights reserved."
+  ],
+  "||Copyright Text": [
+    "★ Texto del copyright"
+  ],
+  "||Create dynamic footer effortlessly with drag-and-drop builder.": [
+    "○ Cree un pie de página dinámico sin esfuerzo con el generador de arrastrar y soltar."
+  ],
+  "||Create dynamic header effortlessly with drag-and-drop builder.": [
+    "○ Cree encabezados dinámicos sin esfuerzo con el generador de arrastrar y soltar."
+  ],
+  "||Custom CSS Output Minified": [
+    "○ Salida CSS personalizada minimizada"
+  ],
+  "||Custom CSS Output Optimized with Mobile Spacing": [
+    "○ Salida CSS personalizada optimizada con espaciado móvil"
+  ],
+  "||Custom HTML": [
+    "★ HTML personalizado"
+  ],
+  "||Custom Link": [
+    "★ Enlace personalizado"
+  ],
+  "||Custom Options": [
+    "○ Opciones personalizadas"
+  ],
+  "||Custom link": [
+    "○ Enlace personalizado"
+  ],
+  "||Customize": [
+    "★ Personalizar"
+  ],
+  "||Customize the blog layout desgin.": [
+    "○ Personaliza el diseño del blog."
+  ],
+  "||Customizer Options for Builder Elements": [
+    "○ Opciones de personalizador para elementos del constructor"
+  ],
+  "||DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": [
+    "○ DISEÑE SITIOS WEB PERFECTOS DE BLOG, NOTICIAS O REVISTAS Elespare es un complemento de WordPress simple pero efectivo que le permite usar Elementor para crear encabezados, pies de página y contenidos fantásticos de sitios web con opciones altamente personalizadas de forma GRATUITA."
+  ],
+  "||Dark": [
+    "★ Oscuro"
+  ],
+  "||Dark/Light Frontend Switch": [
+    "○ Interruptor frontal oscuro/claro"
+  ],
+  "||Dark/Light Site Mode": [
+    "○ Modo de sitio oscuro/claro"
+  ],
+  "||Dashboard": [
+    "★ Escritorio"
+  ],
+  "||Date": [
+    "★ Fecha"
+  ],
+  "||Date Format": [
+    "★ Formato de fecha"
+  ],
+  "||Default": [
+    "★ Defecto"
+  ],
+  "||Defined Links": [
+    "○ Enlaces definidos"
+  ],
+  "||Descriptions": [
+    "★ Descripciones"
+  ],
+  "||Desktop": [
+    "★ Escritorio"
+  ],
+  "||Device view controls": [
+    "○ Controles de vista del dispositivo"
+  ],
+  "||Disable": [
+    "★ Desactivar"
+  ],
+  "||Disable Emoji Script": [
+    "★ Desactivar el script de emojis"
+  ],
+  "||Disable Image Tint/Overlay": [
+    "○ Desactivar tinte/superposición de imagen"
+  ],
+  "||Disable Main Banner on Blog": [
+    "★ Desactivar el banner principal en el blog"
+  ],
+  "||Disable Sticky Header": [
+    "○ Deshabilitar encabezado fijo"
+  ],
+  "||Disable WordPress Emojis (GDPR Friendly)": [
+    "○ Deshabilitar los emojis de WordPress (compatible con GDPR)"
+  ],
+  "||Dismiss this notice": [
+    "★ Descartar este aviso"
+  ],
+  "||Displays Express Posts from selected categories.": [
+    "★ Muestra entradas exprés de las categorías seleccionadas."
+  ],
+  "||Displays author info.": [
+    "★ Muestra información del autor."
+  ],
+  "||Displays grid from selected categories.": [
+    "★ Muestra una cuadrícula a partir de las categorías seleccionadas."
+  ],
+  "||Displays items on footer first column.": [
+    "★ Muestra elementos en la primera columna del pie de página."
+  ],
+  "||Displays items on footer second column.": [
+    "★ Muestra elementos en la segunda columna del pie de página."
+  ],
+  "||Displays items on footer third column.": [
+    "★ Muestra elementos en la tercera columna del pie de página."
+  ],
+  "||Displays posts single column from selected categories.": [
+    "★ Muestra en una columna las entradas de la categorías seleccionadas."
+  ],
+  "||Displays posts slider from selected category.": [
+    "★ Muestra el carrusel de entradas de la categoría seleccionada."
+  ],
+  "||Displays social contacts lists from selected settings.": [
+    "★ Muestra listas de contactos sociales de los ajustes seleccionados."
+  ],
+  "||Docs": [
+    "★ Documentación"
+  ],
+  "||Documentation": [
+    "★ Documentación"
+  ],
+  "||Easily build and customize your pages with a vast library of Gutenberg blocks and patterns, perfect for blogs, magazines, and business sites. Add post grids, sliders, and carousels without touching a single line of code. Import demo data and effortlessly create multilingual, visually appealing pages with complete flexibility.": [
+    "○ Cree y personalice fácilmente sus páginas con una amplia biblioteca de bloques y patrones de Gutenberg, perfecta para blogs, revistas y sitios comerciales. Agregue cuadrículas de publicaciones, controles deslizantes y carruseles sin tocar una sola línea de código. Importe datos de demostración y cree sin esfuerzo páginas multilingües visualmente atractivas con total flexibilidad."
+  ],
+  "||Easy Website Building with Zero Code": [
+    "○ Creación sencilla de sitios web con código cero"
+  ],
+  "||Edit <span class=\"screen-reader-text\">%s</span>": [
+    "★ Editar <span class=\"screen-reader-text\">%s</span>"
+  ],
+  "||Editor's Picks": [
+    "★ Selecciones del editor"
+  ],
+  "||Editor's Picks Section": [
+    "★ Sección de selección del editor"
+  ],
+  "||Element Settings": [
+    "○ Configuración de elementos"
+  ],
+  "||Elementor Kits": [
+    "○ Kits de elementos"
+  ],
+  "||Elespare": [
+    "○ Elespare"
+  ],
+  "||Elespare plugin version should be more than %s.": [
+    "★ La versión del plugin Elespare debe ser superior a %s."
+  ],
+  "||Enable": [
+    "★ Activar"
+  ],
+  "||Enable ": [
+    "★ Activar"
+  ],
+  "||Enable %s Builder": [
+    "○ Habilitar el generador %s"
+  ],
+  "||Enable Custom Menu Section": [
+    "★ Activar sección de menú personalizado"
+  ],
+  "||Enable Featured Post Section": [
+    "★ Activar sección de entrada destacada"
+  ],
+  "||Enable Flash News": [
+    "○ Habilitar noticias flash"
+  ],
+  "||Enable Main Banner Section": [
+    "★ Activar la sección del banner principal"
+  ],
+  "||Enable Post List Section": [
+    "○ Habilitar sección de lista de publicaciones"
+  ],
+  "||Enable Preloader": [
+    "★ Activar precarga"
+  ],
+  "||Enable Related Posts": [
+    "★ Activar las entradas relacionadas"
+  ],
+  "||Error - unable to verify nonce, please try again.": [
+    "★ Error: no se puede verificar el nonce, inténtalo de nuevo."
+  ],
+  "||Excerpt Settings": [
+    "★ Ajustes de extractos"
+  ],
+  "||Express / 3 Column Posts Section": [
+    "○ Sección de publicaciones exprés / 3 columnas"
+  ],
+  "||Express Grid": [
+    "★ Cuadrícula exprés"
+  ],
+  "||Express Tile": [
+    "★ Azulejos exprés"
+  ],
+  "||External Source": [
+    "★ Fuente externa"
+  ],
+  "||Facebook": [
+    "○ Facebook"
+  ],
+  "||Featured Categories": [
+    "○ Categorías destacadas"
+  ],
+  "||Featured Image Width": [
+    "★ Ancho de la imagen destacada"
+  ],
+  "||Featured News": [
+    "★ Noticias destacadas"
+  ],
+  "||Featured Pages": [
+    "★ Páginas destacadas"
+  ],
+  "||Featured Posts": [
+    "★ Entradas destacadas"
+  ],
+  "||Featured Videos Section (Custom Field + Responsive)": [
+    "○ Sección de vídeos destacados (campo personalizado + responsivo)"
+  ],
+  "||Features": [
+    "★ Características"
+  ],
+  "||Filter Posts By": [
+    "★ Filtrar publicaciones por"
+  ],
+  "||Flash Posts Category": [
+    "★ Categoría de entradas flash"
+  ],
+  "||Font Family Section": [
+    "★ Sección de familia de fuentes"
+  ],
+  "||Fonts & Typography": [
+    "★ Fuentes y tipografía"
+  ],
+  "||Fonts Source": [
+    "○ Fuente de fuentes"
+  ],
+  "||Footer": [
+    "★ Pie de página"
+  ],
+  "||Footer Background Image": [
+    "★ Imagen de fondo del pie de página"
+  ],
+  "||Footer Builder": [
+    "★ Maquetador del pie de página"
+  ],
+  "||Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)": [
+    "○ Elementos del generador de pie de página (navegación, widgets, HTML personalizado, texto dinámico)"
+  ],
+  "||Footer Layout": [
+    "★ Disposición del pie de página"
+  ],
+  "||Footer Menu": [
+    "★ Menú del pie de página"
+  ],
+  "||Footer Options": [
+    "★ Opciones del pie de página"
+  ],
+  "||Footer Widget 1": [
+    "★ Widget 1 de pie de página"
+  ],
+  "||Footer Widget 2": [
+    "★ Widget 2 de pie de página"
+  ],
+  "||Footer Widget 3": [
+    "★ Widget 3 de pie de página"
+  ],
+  "||Free": [
+    "★ Gratis"
+  ],
+  "||Free Live Chat using 3CX": [
+    "★ Chat en vivo gratuito con 3CX"
+  ],
+  "||Free Theme Tone (Default)": [
+    "○ Tono de tema gratuito (predeterminado)"
+  ],
+  "||Free vs Pro": [
+    "★ Gratis vs Pro"
+  ],
+  "||From WordPress Settings": [
+    "★ Desde los ajustes de WordPress"
+  ],
+  "||Front-page Banner Layouts Advanced (30+ Layouts)": [
+    "○ Diseños de banner de portada avanzados (más de 30 diseños)"
+  ],
+  "||Front-page Banner Layouts Basic (5+ Layouts)": [
+    "○ Diseños de banner de portada básicos (más de 5 diseños)"
+  ],
+  "||Front-page Content Alignment": [
+    "○ Alineación del contenido de la página principal"
+  ],
+  "||Front-page Content Display": [
+    "○ Visualización de contenido en la página principal"
+  ],
+  "||Front-page Content Section": [
+    "★ Sección de contenido de la portada"
+  ],
+  "||Front-page Layout Settings": [
+    "○ Configuración de diseño de página principal"
+  ],
+  "||Front-page Option": [
+    "○ Opción de portada"
+  ],
+  "||Front-page Options": [
+    "○ Opciones de portada"
+  ],
+  "||Front-page Sidebar Section": [
+    "★ Sección de la barra lateral de la portada"
+  ],
+  "||Front-page Widgets": [
+    "○ Widgets de portada"
+  ],
+  "||Front-page layout with Popular Tag, Breaking News, Feature News can be set.": [
+    "○ Se puede configurar el diseño de la página principal con etiquetas populares, noticias de última hora y noticias destacadas."
+  ],
+  "||Full": [
+    "★ Lleno"
+  ],
+  "||Full - Default": [
+    "○ Completo - Predeterminado"
+  ],
+  "||Full Content": [
+    "★ Contenido completo"
+  ],
+  "||Full width content": [
+    "★ Contenido de ancho completo"
+  ],
+  "||GDPR friendly & better performance": [
+    "★ Respetuoso con la GDPR y mejor rendimiento"
+  ],
+  "||General": [
+    "○ General"
+  ],
+  "||Get Started": [
+    "★ Iniciar"
+  ],
+  "||Get Starter Sites": [
+    "★ Obtén sitios de inicio"
+  ],
+  "||Get over 1000 ready-to-import Starter Sites instantly and build modern websites in minutes, not in weeks.": [
+    "○ Obtenga más de 1000 sitios de inicio listos para importar al instante y cree sitios web modernos en minutos, no en semanas."
+  ],
+  "||Get started": [
+    "★ Primeros pasos"
+  ],
+  "||Global Content Alignment": [
+    "★ Alineación global del contenido"
+  ],
+  "||Global Excerpt Read More": [
+    "★ Leer más global del extracto"
+  ],
+  "||Global Settings": [
+    "★ Ajustes globales"
+  ],
+  "||Go to option": [
+    "★ Ir a la opción"
+  ],
+  "||Got any support queries?": [
+    "★ ¿Tienes alguna consulta de soporte?"
+  ],
+  "||Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme..": [
+    "○ ¿Tiene alguna pregunta sobre soporte técnico del tema, encontró un error o recibió algunos comentarios? El mejor lugar para realizar su consulta es el foro de soporte dedicado al tema."
+  ],
+  "||Gutenberg & Page Builders Compatibility": [
+    "○ Compatibilidad con Gutenberg y creadores de páginas"
+  ],
+  "||HTML Content": [
+    "★ Contenido HTML"
+  ],
+  "||Have Queries?": [
+    "★ ¿Tienes consultas que hacer?"
+  ],
+  "||Header": [
+    "★ Cabecera"
+  ],
+  "||Header & Footer Builder (Drag-and-Drop)": [
+    "○ Generador de encabezados y pies de página (arrastrar y soltar)"
+  ],
+  "||Header Advertisement": [
+    "★ Publicidad de la cabecera"
+  ],
+  "||Header Advertisement Widget Area": [
+    "○ Área de widget de anuncio de encabezado"
+  ],
+  "||Header Background": [
+    "★ Fondo de la cabecera"
+  ],
+  "||Header Banner Ad Section": [
+    "○ Sección de anuncios de banner de encabezado"
+  ],
+  "||Header Builder": [
+    "★ Maquetador de la cabecera"
+  ],
+  "||Header Image Mode": [
+    "★ Modo de imagen de la cabecera"
+  ],
+  "||Header Options": [
+    "★ Opciones de la cabecera"
+  ],
+  "||Header Section Advertisement": [
+    "★ Sección de anuncio en la cabecera"
+  ],
+  "||Header Settings": [
+    "★ Ajustes de cabecera"
+  ],
+  "||Hello ": [
+    "○ Hola"
+  ],
+  "||Hide": [
+    "★ Ocultar"
+  ],
+  "||Hide Builder": [
+    "★ Ocultar el maquetador"
+  ],
+  "||Hide Theme Credit Link": [
+    "○ Ocultar enlace de crédito del tema"
+  ],
+  "||Hide builder panel": [
+    "○ Ocultar panel de construcción"
+  ],
+  "||Hide footer Menu Section": [
+    "★ Ocultar sección de menú de pie de página"
+  ],
+  "||Home": [
+    "★ Inicio"
+  ],
+  "||Home Content - Home Sidebar": [
+    "★ Contenido de inicio - Barra lateral de la página de inicio"
+  ],
+  "||Home Sidebar - Home Content": [
+    "★ Barra lateral de inicio - Contenido de la página de inicio"
+  ],
+  "||Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we hope you are loving it! We would appreciate it if you can give us %3$sreview and rating%4$s on WordPress.org! We'll continue to develop exciting new features for free in the future by sharing the love!": [
+    "○ ¡Hola, %1$s! Hemos notado que has estado usando %2$s desde hace algún tiempo, ¡esperamos que te guste! ¡Le agradeceríamos que nos pudiera brindar una revisión y calificación de %3$s%4$s en WordPress.org! ¡Continuaremos desarrollando nuevas e interesantes funciones de forma gratuita en el futuro compartiendo nuestro amor!"
+  ],
+  "||I've already done.": [
+    "★ Ya lo he hecho."
+  ],
+  "||If there is no Post Featured image set": [
+    "★ Si no hay establecida una imagen destacada de la entrada"
+  ],
+  "||Image Alignment": [
+    "★ Alineación de la imagen"
+  ],
+  "||Image Async Decoding": [
+    "○ Decodificación asíncrona de imágenes"
+  ],
+  "||Image Lazy Loading": [
+    "○ Carga diferida de imágenes"
+  ],
+  "||Image visibility may vary as per the mode": [
+    "★ La visibilidad de la imagen puede variar según el modo"
+  ],
+  "||Import a Starter Site, Personalize, and Live it in 3 Easy Steps!": [
+    "★ ¡Importa un sitio de inicio, personalízalo y publícalo en 3 sencillos pasos!"
+  ],
+  "||Improved Font Loading Partial": [
+    "○ Carga de fuentes mejorada parcial"
+  ],
+  "||Improved Font Loading System/Google Switch + Preconnect": [
+    "○ Sistema de carga de fuentes mejorado/Google Switch + Preconexión"
+  ],
+  "||Install": [
+    "★ Instalar"
+  ],
+  "||Install %2$s": [
+    "★ Instalar %2$s"
+  ],
+  "||Install Now": [
+    "★ Instalar ahora"
+  ],
+  "||Install Plugins": [
+    "★ Instalar plugins"
+  ],
+  "||Install Required Plugins": [
+    "★ Instalar plugins requeridos"
+  ],
+  "||Installed But Not Activated": [
+    "★ Instalado pero no activado"
+  ],
+  "||Installed version:": [
+    "★ Versión instalada:"
+  ],
+  "||Installing Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando plugin %1$s (%2$d/%3$d)"
+  ],
+  "||Installing Plugin: %s": [
+    "★ Instalando plugin: %s"
+  ],
+  "||Installing and Activating Plugin %1$s (%2$d/%3$d)": [
+    "★ Instalando y activando plugin %1$s (%2$d/%3$d)"
+  ],
+  "||Invalid security token.": [
+    "★ Token de seguridad no válido."
+  ],
+  "||It has different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": [
+    "○ Tiene diferentes widgets para el autor de la publicación, autor selectivo por identificación y autor personalizado. También proporciona códigos cortos para el perfil del autor."
+  ],
+  "||It looks like nothing was found at this location. Maybe try one of the links below or a search?": [
+    "★ Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+  ],
+  "||It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": [
+    "★ Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+  ],
+  "||JetPack": [
+    "○ JetPack"
+  ],
+  "||Jetpack Share Buttons Placement": [
+    "○ Ubicación de los botones Compartir de Jetpack"
+  ],
+  "||Large Post with Background": [
+    "○ Publicación grande con fondo"
+  ],
+  "||Large Post with Dark Background": [
+    "○ Publicación grande con fondo oscuro"
+  ],
+  "||Large Posts": [
+    "○ Publicaciones grandes"
+  ],
+  "||Large Posts - 2": [
+    "○ Publicaciones grandes - 2"
+  ],
+  "||Layout Options": [
+    "★ Opciones de estructura"
+  ],
+  "||Leave a comment": [
+    "★ Deja un comentario"
+  ],
+  "||Left": [
+    "★ Izquierda"
+  ],
+  "||Light": [
+    "★ Clara"
+  ],
+  "||Light/Dark Button": [
+    "★ Botón claro/oscuro"
+  ],
+  "||Link": [
+    "★ Enlace"
+  ],
+  "||Link Color": [
+    "★ Color del enlace"
+  ],
+  "||Link Hover Color": [
+    "★ Color del enlace al pasar el cursor"
+  ],
+  "||Link copied to clipboard!": [
+    "○ ¡Enlace copiado al portapapeles!"
+  ],
+  "||Live Editing in Customizer": [
+    "○ Edición en vivo en el Personalizador"
+  ],
+  "||Live search results": [
+    "○ Resultados de búsqueda en vivo"
+  ],
+  "||Mailchimp Subscribe Box": [
+    "○ Cuadro de suscripción de Mailchimp"
+  ],
+  "||Main Banner": [
+    "★ Banner principal"
+  ],
+  "||Main Banner Background Image": [
+    "★ Imagen de fondo del banner principal"
+  ],
+  "||Main Banner Options": [
+    "★ Opciones del banner principal"
+  ],
+  "||Main News": [
+    "★ Noticias principales"
+  ],
+  "||Main News Section ": [
+    "★ Sección principal de noticias"
+  ],
+  "||Main Sidebar": [
+    "★ Barra lateral principal"
+  ],
+  "||Make Sidebar Sticky": [
+    "★ Hacer que la barra lateral sea fija"
+  ],
+  "||Manage Date": [
+    "○ Administrar fecha"
+  ],
+  "||Manage menu": [
+    "○ Administrar menú"
+  ],
+  "||Manage widgets": [
+    "○ Administrar widgets"
+  ],
+  "||Maybe Later": [
+    "★ Quizá más tarde"
+  ],
+  "||Minimum required version:": [
+    "★ Versión mínima requerida:"
+  ],
+  "||Minute %s": [
+    "★ Minuto %s"
+  ],
+  "||Minutes Read Count": [
+    "★ Recuento de minutos de lectura"
+  ],
+  "||More": [
+    "★ Más"
+  ],
+  "||More Details": [
+    "★ Más detalles"
+  ],
+  "||Multilingual & RTL Support": [
+    "○ Soporte multilingüe y RTL"
+  ],
+  "||Multiple Header Layouts (10+ including Centered & Compressed)": [
+    "○ Múltiples diseños de encabezado (más de 10, incluidos centrado y comprimido)"
+  ],
+  "||Name": [
+    "★ Nombre"
+  ],
+  "||NavXT": [
+    "○ NavXT"
+  ],
+  "||Navigation": [
+    "★ Navegación"
+  ],
+  "||Need Help?": [
+    "★ ¿Necesitas ayuda?"
+  ],
+  "||Next": [
+    "★ Siguiente"
+  ],
+  "||Next: %s": [
+    "○ Siguiente: %s"
+  ],
+  "||No Sidebar": [
+    "★ Sin barra lateral"
+  ],
+  "||No action taken. Plugin %1$s was already active.": [
+    "★ No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+  ],
+  "||No menu assigned": [
+    "○ No hay menú asignado"
+  ],
+  "||No plugins are available to be activated at this time.": [
+    "★ No hay plugins disponibles para activar en este momento."
+  ],
+  "||No plugins are available to be installed at this time.": [
+    "★ No hay plugins disponibles para instalar en este momento."
+  ],
+  "||No plugins are available to be updated at this time.": [
+    "★ No hay plugins disponibles para actualizar en este momento."
+  ],
+  "||No plugins to install, update or activate.": [
+    "★ No hay plugins para instalar, actualizar o activar."
+  ],
+  "||No plugins were selected to be activated. No action taken.": [
+    "★ No se han seleccionado plugins para activar. No se realizará ninguna acción."
+  ],
+  "||No plugins were selected to be installed. No action taken.": [
+    "★ No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+  ],
+  "||No plugins were selected to be updated. No action taken.": [
+    "★ No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+  ],
+  "||No results found.": [
+    "★ No se han encontrado resultados."
+  ],
+  "||None": [
+    "★ Ninguno"
+  ],
+  "||Not Installed": [
+    "★ No instalado"
+  ],
+  "||Nothing Found": [
+    "★ Nada encontrado"
+  ],
+  "||Number of Categories": [
+    "○ Número de categorías"
+  ],
+  "||Off Canvas": [
+    "★ Fuera del lienzo"
+  ],
+  "||Off Canvas Drawer Menu Section": [
+    "○ Sección de menú del cajón fuera del lienzo"
+  ],
+  "||Off Canvas Widget Area": [
+    "★ Área de widgets fuera del lienzo"
+  ],
+  "||One thought on &ldquo;%1$s&rdquo;": [
+    "★ Un comentario sobre &ldquo;%1$s&rdquo;"
+  ],
+  "||One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare.": [
+    "★ Importación de demos con un clic, listo para el editor de bloques, ¡no necesitas código! Construido con Blockspare."
+  ],
+  "||One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare.": [
+    "★ ¡Importación con un clic, maquetador de cabeceras/pies de página, compatibilidad con multiidioma! Funciona gracias a Elespare."
+  ],
+  "||Only Home Content": [
+    "★ Solo el contenido de la página de inicio"
+  ],
+  "||Oops! That page can&rsquo;t be found.": [
+    "★ ¡Vaya! No se ha podido encontrar esa página."
+  ],
+  "||Open Off-Canvas Navigation": [
+    "○ Abrir navegación fuera del lienzo"
+  ],
+  "||Open search form": [
+    "○ Abrir formulario de búsqueda"
+  ],
+  "||Order 1": [
+    "★ Orden 1"
+  ],
+  "||Order 2": [
+    "★ Orden 2"
+  ],
+  "||Order 3": [
+    "○ Orden 3"
+  ],
+  "||Original": [
+    "○ Original"
+  ],
+  "||Page %s": [
+    "★ Página %s"
+  ],
+  "||Page Builder Full Width": [
+    "★ Ancho total de Page Builder"
+  ],
+  "||Page Contents & Front-page Widgets": [
+    "○ Contenidos de la página y widgets de la página principal"
+  ],
+  "||Pages:": [
+    "★ Páginas:"
+  ],
+  "||Pagination Ajax Load More & Infinite Scroll": [
+    "○ Paginación Ajax Cargar más y desplazamiento infinito"
+  ],
+  "||Pagination Numeric": [
+    "○ Paginación numérica"
+  ],
+  "||Please check our full documentation for detailed information on how to setup and customize the theme.": [
+    "○ Consulte nuestra documentación completa para obtener información detallada sobre cómo configurar y personalizar el tema."
+  ],
+  "||Please contact the administrator of this site for help.": [
+    "★ Por favor, contacta con el administrador de este sitio para ayuda."
+  ],
+  "||Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.": [
+    "★ Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+  ],
+  "||Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default": [
+    "★ Por favor, asegúrate de que has activado las migas de pan del plugin antes de elegir otras que no sean las migas de pan por defecto"
+  ],
+  "||Please go to Customize>Front-page Options for Homepage.": [
+    "○ Vaya a Personalizar>Opciones de página principal para la página de inicio."
+  ],
+  "||Please go to Customize>Themes Options for Single Post/Page.": [
+    "★ Por favor, ve a Personalizar>Opciones del tema para entrada/página individual."
+  ],
+  "||Plugin": [
+    "○ Complemento"
+  ],
+  "||Plugin activated successfully.": [
+    "★ Plugin activado correctamente."
+  ],
+  "||Plugin activation failed.": [
+    "★ Falló la activación del plugin."
+  ],
+  "||Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.": [
+    "★ Plugin no activado. Una versión superior de %s es necesaria para este tema. Por favor actualiza el plugin."
+  ],
+  "||Popular": [
+    "★ Populares"
+  ],
+  "||Popular Tags": [
+    "★ Etiquetas populares"
+  ],
+  "||Position": [
+    "★ Posición"
+  ],
+  "||Post Badge Taxonomy (Breaking, Premium)": [
+    "○ Taxonomía de la insignia de publicación (Última hora, Premium)"
+  ],
+  "||Post Carousel": [
+    "★ Carrusel de entradas"
+  ],
+  "||Post Categories": [
+    "★ Categorías de entrada"
+  ],
+  "||Post Excerpt": [
+    "★ Extracto de la entrada"
+  ],
+  "||Post Express / Grid / Tabbed Widgets": [
+    "○ Post Express / Cuadrícula / Widgets con pestañas"
+  ],
+  "||Post Grid": [
+    "★ Cuadrícula de entradas"
+  ],
+  "||Post Grid - 2": [
+    "○ Cuadrícula de publicaciones - 2"
+  ],
+  "||Post Grid with Background": [
+    "○ Publicar cuadrícula con fondo"
+  ],
+  "||Post Grid with Dark Background": [
+    "○ Cuadrícula de publicaciones con fondo oscuro"
+  ],
+  "||Post List": [
+    "★ Lista de entradas"
+  ],
+  "||Post List - 2": [
+    "○ Lista de publicaciones - 2"
+  ],
+  "||Post List with Background": [
+    "○ Lista de publicaciones con fondo"
+  ],
+  "||Post List with Dark Background": [
+    "○ Lista de publicaciones con fondo oscuro"
+  ],
+  "||Post Reaction Feature (Animated, Localized, Color Custom)": [
+    "○ Función posterior a la reacción (animada, localizada, color personalizado)"
+  ],
+  "||Post Slider": [
+    "★ Carrusel de entradas"
+  ],
+  "||Post Subtitle Field": [
+    "○ Campo de subtítulo de publicación"
+  ],
+  "||Post list Section Title %d": [
+    "○ Lista de publicaciones Título de la sección %d"
+  ],
+  "||Post navigation": [
+    "★ Navegación de entradas"
+  ],
+  "||Posts": [
+    "★ Entradas"
+  ],
+  "||Posts Carousel Section": [
+    "○ Sección Carrusel de Publicaciones"
+  ],
+  "||Posts List": [
+    "★ Lista de entradas"
+  ],
+  "||Posts List Section": [
+    "○ Sección de lista de publicaciones"
+  ],
+  "||Posts Section Title": [
+    "★ Título de la sección de entradas"
+  ],
+  "||Power Bundle": [
+    "○ Paquete de energía"
+  ],
+  "||Powerful Gutenberg Blocks & Patterns": [
+    "○ Potentes bloques y patrones de Gutenberg"
+  ],
+  "||Pre-Packaged": [
+    "★ Pre-empaquetado"
+  ],
+  "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": [
+    "○ Tonos temáticos premium (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)"
+  ],
+  "||Previous": [
+    "★ Anterior"
+  ],
+  "||Previous: %s": [
+    "○ Anterior: %s"
+  ],
+  "||Primary Color Section ": [
+    "★ Color principal de sección"
+  ],
+  "||Primary Font": [
+    "★ Fuente principal"
+  ],
+  "||Primary Menu": [
+    "★ Menú principal"
+  ],
+  "||Primary Menu Section": [
+    "○ Sección del menú principal"
+  ],
+  "||Primary Sidebar - Content": [
+    "★ Barra lateral principal - Contenido"
+  ],
+  "||Primary menu": [
+    "★ Menú principal"
+  ],
+  "||Primary sidebar - Content": [
+    "★ Barra lateral principal - Contenido"
+  ],
+  "||Priority Support (Faster Response)": [
+    "○ Soporte prioritario (respuesta más rápida)"
+  ],
+  "||Pro": [
+    "○ Pro"
+  ],
+  "||Professional Sites with Elementor": [
+    "○ Sitios profesionales con Elementor"
+  ],
+  "||Profile image": [
+    "★ Imagen de perfil"
+  ],
+  "||Promotion": [
+    "○ Promoción"
+  ],
+  "||Rank Math": [
+    "○ Clasificar Matemáticas"
+  ],
+  "||Rate This Theme": [
+    "○ Califica este tema"
+  ],
+  "||Read More": [
+    "★ Leer más"
+  ],
+  "||Read more about %s": [
+    "★ Lee más sobre %s"
+  ],
+  "||Reading Progress Bar": [
+    "★ Barra de progreso de lectura"
+  ],
+  "||Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": [
+    "★ ¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+  ],
+  "||Recent": [
+    "★ Recientes"
+  ],
+  "||Recommended": [
+    "★ Recomendado"
+  ],
+  "||Recommended Size %1$s px X %2$s px": [
+    "★ Tamaño recomendado %1$s px X %2$s px"
+  ],
+  "||Related Posts Settings": [
+    "★ Ajustes de Entradas Relacionadas"
+  ],
+  "||Related Stories": [
+    "○ Historias relacionadas"
+  ],
+  "||Remind me later": [
+    "★ Recuérdamelo más tarde"
+  ],
+  "||Remove Element": [
+    "○ Eliminar elemento"
+  ],
+  "||Required": [
+    "★ Necesario"
+  ],
+  "||Required Update not Available": [
+    "★ Actualización requerida no disponible"
+  ],
+  "||Requires Update": [
+    "★ Requiere actualización"
+  ],
+  "||Responsive Layout": [
+    "★ Diseño apaptable"
+  ],
+  "||Return to Required Plugins Installer": [
+    "★ Regresar al instalador de plugins requeridos"
+  ],
+  "||Return to the Dashboard": [
+    "★ Volver al escritorio"
+  ],
+  "||ReviewNews": [
+    "○ reseñaNoticias"
+  ],
+  "||ReviewNews Pro": [
+    "○ RevisiónNoticias Pro"
+  ],
+  "||ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 50+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": [
+    "○ ReviewNews es un tema de WordPress dinámico, ultrarrápido y muy versátil creado para sitios web de noticias, revistas, blogs, negocios y comercio electrónico en todo el mundo. Con su potente CREADOR DE ENCABEZADOS Y PIES DE PIE que funciona perfectamente con el Editor de bloques, GUTENBERG, ELEMENTOR, BRIZY, DIVI y otros creadores de páginas populares, puede diseñar DISEÑOS PROFESIONALES fácilmente arrastrando y soltando, sin necesidad de codificación. Equipado con más de 50 SITIOS INICIALES, más de 30 WIDGETS PERSONALIZADOS, PATRONES DE BLOQUES AVANZADOS, OPCIONES DE DISEÑO FLEXIBLES, SOPORTE AMP e INTEGRACIÓN COMPLETA DE WOOCOMMERCE, es perfecto para todo, desde periódicos en línea, sitios corporativos o de ONG y portales educativos o culturales hasta blogs personales, portafolios y revistas de estilo de vida. ReviewNews está totalmente optimizado para SEO, CORE WEB VITALS, VELOCIDAD y DISEÑO RESPONSIVO, lo que garantiza una CARGA RÁPIDA y un rendimiento excelente en todos los dispositivos. Construido con ACCESIBILIDAD WCAG, CUMPLIMIENTO GDPR y CÓDIGO LIMPIO Y LIGERO, ofrece estabilidad a largo plazo y altas PUNTUACIONES DE GOOGLE PAGESPEED. MULTILINGÜE y RTL READY, con contenido de demostración en inglés, español, alemán, francés, japonés, chino y árabe, ReviewNews es un TEMA verdaderamente GLOBAL, A PRUEBA DE FUTURO, diseñado para creadores, editores y empresas que valoran el ESTILO, la ESCALABILIDAD y el RENDIMIENTO en todos los mercados. Explore todas las funciones en https://afthemes.com/products/reviewnews"
+  ],
+  "||Right": [
+    "★ Derecha"
+  ],
+  "||Rotating Ads with Split Option": [
+    "○ Anuncios rotativos con opción de división"
+  ],
+  "||SEO Ready Basic": [
+    "○ Preparado para SEO Básico"
+  ],
+  "||SEO Ready with Open Graph Enhancements": [
+    "○ Preparado para SEO con mejoras de Open Graph"
+  ],
+  "||Scroll to Top Position": [
+    "○ Desplácese hasta la posición superior"
+  ],
+  "||Searc Form": [
+    "○ Formulario de búsqueda"
+  ],
+  "||Search": [
+    "★ Buscar"
+  ],
+  "||Search Options": [
+    "○ Opciones de búsqueda"
+  ],
+  "||Search Results": [
+    "★ Resultados de la búsqueda"
+  ],
+  "||Search Results for: %s": [
+    "★ Resultados de la búsqueda: %s"
+  ],
+  "||Search results for: %s": [
+    "★ Resultados de la búsqueda de: %s"
+  ],
+  "||Searching...": [
+    "○ Búsqueda..."
+  ],
+  "||Secondary Color": [
+    "★ Color secundario"
+  ],
+  "||Secondary Color Section ": [
+    "★ Color secundario de sección"
+  ],
+  "||Secondary Font": [
+    "★ Fuente secundaria"
+  ],
+  "||Section %d": [
+    "○ Sección %d"
+  ],
+  "||Section 1": [
+    "★ Sección 1"
+  ],
+  "||Section 2": [
+    "★ Sección 2"
+  ],
+  "||Section 3": [
+    "○ Sección 3"
+  ],
+  "||Section 4": [
+    "○ Sección 4"
+  ],
+  "||Section Title": [
+    "★ Título de la sección"
+  ],
+  "||Section Title ": [
+    "★ Título de la sección"
+  ],
+  "||Section Title Designs (Multiple Styles)": [
+    "○ Diseños de títulos de sección (varios estilos)"
+  ],
+  "||Select": [
+    "★ Selecciona"
+  ],
+  "||Select ": [
+    "★ Seleccionar"
+  ],
+  "||Select Breadcrumbs": [
+    "★ Seleccionar las migas de pan"
+  ],
+  "||Select Category": [
+    "★ Seleccionar la categoría"
+  ],
+  "||Select Category 1": [
+    "★ Selecciona la categoría 1"
+  ],
+  "||Select Category 2": [
+    "★ Selecciona la categoría 2"
+  ],
+  "||Select Image": [
+    "★ Seleccionar imagen"
+  ],
+  "||Select Main Banner Layout": [
+    "★ Selecciona la estructura del banner principal"
+  ],
+  "||Select Main Banner Order": [
+    "★ Elige el orden del banner principal"
+  ],
+  "||Select Menu": [
+    "★ Seleccionar menú"
+  ],
+  "||Select Tag": [
+    "★ Seleccionar etiqueta"
+  ],
+  "||Select Widget": [
+    "○ Seleccionar widget"
+  ],
+  "||Select category": [
+    "★ Seleccionar categoría"
+  ],
+  "||Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer.": [
+    "★ Selecciona la clase del color de las categoría. Puedes establecer el color apropiado de las categorías en la sección «Categorías» del personalizador del tema."
+  ],
+  "||Select category to be shown on featured section ": [
+    "★ Selecciona la categoría que se mostrará en la sección destacada"
+  ],
+  "||Select category to be shown on main slider section": [
+    "★ Elige la categoría que mostrar en la sección de carrusel principal"
+  ],
+  "||Select category to be shown on trending posts ": [
+    "★ Selecciona la categoría que mostrar en las entradas destacadas"
+  ],
+  "||Select content view for archive": [
+    "○ Seleccionar vista de contenido para archivar"
+  ],
+  "||Select frontpage content alignment": [
+    "★ Selecciona la alineación del contenido de la página de inicio"
+  ],
+  "||Select frontpage content display": [
+    "○ Seleccionar visualización del contenido de la página principal"
+  ],
+  "||Select image alignment for archive": [
+    "○ Seleccionar alineación de imagen para archivar"
+  ],
+  "||Select layout for archive": [
+    "★ Seleccionar la estructura del archivo"
+  ],
+  "||Select search results for archive": [
+    "○ Seleccionar resultados de búsqueda para archivo"
+  ],
+  "||Select tag to be shown on main slider section": [
+    "★ Elige la etiqueta que mostrar en la sección de carrusel principal"
+  ],
+  "||Selecting different categories can be done for different section.": [
+    "○ Se pueden seleccionar diferentes categorías para diferentes secciones."
+  ],
+  "||Set as Background": [
+    "★ Establecer como fondo"
+  ],
+  "||Set as global layout": [
+    "★ Seleccionar como diseño general"
+  ],
+  "||Set for better performance": [
+    "○ Configurado para un mejor rendimiento"
+  ],
+  "||Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed and more.": [
+    "○ Configure el diseño global, la ruta de navegación, la barra lateral, la publicación única, es posible que se haya perdido y más."
+  ],
+  "||Set the Homepage as a static page to create own homepage using widgets.": [
+    "○ Configure la página de inicio como una página estática para crear su propia página de inicio utilizando widgets."
+  ],
+  "||Set the footer type, number of columns, spacing and colors.": [
+    "★ Establece el tipo de pie de página, el número de columnas, el espaciado y los colores."
+  ],
+  "||Set the theme header type, set the colors, spacing, alignment and more.": [
+    "○ Establezca el tipo de encabezado del tema, establezca los colores, el espaciado, la alineación y más."
+  ],
+  "||Set to enhance rendering speed": [
+    "○ Configurado para mejorar la velocidad de renderizado"
+  ],
+  "||Show": [
+    "★ Mostrar"
+  ],
+  "||Show Above Footer": [
+    "★ Mostrar sobre el pie de página"
+  ],
+  "||Show All": [
+    "○ Mostrar todo"
+  ],
+  "||Show Author Bio under Content": [
+    "○ Mostrar biografía del autor en Contenido"
+  ],
+  "||Show Date": [
+    "★ Mostrar fecha"
+  ],
+  "||Show Featured Image": [
+    "★ Mostrar la imagen destacada"
+  ],
+  "||Show Full Image (Background)": [
+    "○ Mostrar imagen completa (fondo)"
+  ],
+  "||Show Gravatar": [
+    "★ Mostrar Gravatar"
+  ],
+  "||Show Icon": [
+    "★ Mostrar el icono"
+  ],
+  "||Show Primary Menu Description": [
+    "○ Mostrar descripción del menú principal"
+  ],
+  "||Show Tags under Content": [
+    "★ Mostrar etiquetas bajo el contenido"
+  ],
+  "||Show Time": [
+    "★ Mostrar tiempo"
+  ],
+  "||Show Top Header": [
+    "★ Mostrar cabecera superior"
+  ],
+  "||Show breadcrumbs": [
+    "★ Mostrar las migas de pan"
+  ],
+  "||Sidebar Options": [
+    "★ Opciones de barra lateral"
+  ],
+  "||Sidebar Settings": [
+    "★ Ajustes de barra lateral"
+  ],
+  "||Sidebar Sticky Position": [
+    "★ Posición de la barra lateral fija"
+  ],
+  "||Single Column": [
+    "★ Columna única"
+  ],
+  "||Single Column - 2": [
+    "○ Columna única - 2"
+  ],
+  "||Single Content Mode": [
+    "○ Modo de contenido único"
+  ],
+  "||Single Post": [
+    "★ Entrada individual"
+  ],
+  "||Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, Links, Top Domains)": [
+    "○ Metabox de análisis de publicación única (vistas, reacciones, recuento de palabras, tiempo de lectura, enlaces, dominios principales)"
+  ],
+  "||Single Post Column with Background": [
+    "○ Columna de publicación única con fondo"
+  ],
+  "||Single Post Column with Dark Background": [
+    "○ Columna de publicación única con fondo oscuro"
+  ],
+  "||Site & Logo": [
+    "○ Sitio y logotipo"
+  ],
+  "||Site Color Mode": [
+    "★ Modo de color del sitio"
+  ],
+  "||Site Identity": [
+    "★ Identidad del sitio"
+  ],
+  "||Site Mode": [
+    "○ Modo de sitio"
+  ],
+  "||Site Mode Switch": [
+    "○ Cambio de modo de sitio"
+  ],
+  "||Site Title Size": [
+    "★ Tamaño del título del sitio"
+  ],
+  "||Site Title/Tagline Color": [
+    "★ Color del título y la descripción corta del sitio"
+  ],
+  "||Site title, post titles, widgets titles, etc": [
+    "○ Título del sitio, títulos de publicaciones, títulos de widgets, etc."
+  ],
+  "||Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, Authors, Reactions, Comments, Word Count, Read Time)": [
+    "○ Métricas de todo el sitio (publicaciones, páginas, medios, publicaciones principales, categorías, etiquetas, autores, reacciones, comentarios, recuento de palabras, tiempo de lectura)"
+  ],
+  "||Skip to content": [
+    "★ Saltar al contenido"
+  ],
+  "||Slider and Double Tiles": [
+    "○ Control deslizante y mosaicos dobles"
+  ],
+  "||Slider and Double Trending": [
+    "○ Control deslizante y doble tendencia"
+  ],
+  "||Slider, Tiles and Trending": [
+    "○ Control deslizante, mosaicos y tendencias"
+  ],
+  "||Social Menu": [
+    "★ Menú social"
+  ],
+  "||Social Share Options": [
+    "○ Opciones para compartir en redes sociales"
+  ],
+  "||Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings.": [
+    "★ El menú social no está configurado. Necesitas crear el menú y asignarlo al «Menú social» en los ajustes de menús."
+  ],
+  "||Something went wrong with the plugin API.": [
+    "★ Algo salió mal con la API del plugin."
+  ],
+  "||Sorry, but nothing matched your search terms. Please try again with some different keywords.": [
+    "★ Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+  ],
+  "||Sorry, you are not allowed to activate plugins on this site.": [
+    "★ Lo siento, no tienes permiso para activar plugins en este sitio."
+  ],
+  "||Sorry, you are not allowed to install plugins on this site.": [
+    "★ Lo siento, no tienes permiso para instalar plugins en este sitio."
+  ],
+  "||Source": [
+    "★ Origen"
+  ],
+  "||Source & Sponsor Custom Field": [
+    "○ Campo personalizado de fuente y patrocinador"
+  ],
+  "||Spacious": [
+    "○ Espacioso"
+  ],
+  "||Standard Support": [
+    "○ Soporte estándar"
+  ],
+  "||Start Customizing": [
+    "★ Empieza a personalizar"
+  ],
+  "||Start with Demo Sites": [
+    "○ Comience con sitios de demostración"
+  ],
+  "||Starter Sites": [
+    "★ Sitios de inicio"
+  ],
+  "||Starter Sites Import": [
+    "○ Importación de sitios de inicio"
+  ],
+  "||Static Front Page": [
+    "○ Portada estática"
+  ],
+  "||Status": [
+    "★ Estado"
+  ],
+  "||Sticky Header Option Advanced Behavior & Layout Support": [
+    "○ Opción de encabezado fijo Soporte avanzado de comportamiento y diseño"
+  ],
+  "||Sticky Header Option Basic": [
+    "○ Opción de encabezado fijo básica"
+  ],
+  "||Sticky header works only with builder at bottom.": [
+    "○ El encabezado adhesivo solo funciona con el constructor en la parte inferior."
+  ],
+  "||Subscribe": [
+    "★ Suscríbete"
+  ],
+  "||Support": [
+    "★ Soporte"
+  ],
+  "||Sure thing": [
+    "★ Por supuesto"
+  ],
+  "||System Fonts": [
+    "★ Fuentes del sistema"
+  ],
+  "||TGMPA v%s": [
+    "○ TGMPA v%s"
+  ],
+  "||Tag": [
+    "★ Etiqueta"
+  ],
+  "||TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool": [
+    "○ TemplateSpare - Creador de sitios web sin código - Importación/exportación con 1 clic y herramienta de migración completa del sitio"
+  ],
+  "||TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool. Get ready-to-use Starter Sites instantly and build modern websites in minutes.": [
+    "○ TemplateSpare - Creador de sitios web sin código - Importación/exportación con 1 clic y herramienta de migración completa del sitio. Obtenga sitios de inicio listos para usar al instante y cree sitios web modernos en minutos."
+  ],
+  "||Templatespare": [
+    "○ Plantilla de repuesto"
+  ],
+  "||Thank you for installing [theme] — a fast, flexible, and user-friendly theme for blogs, news sites, and magazines. Get started quickly with our 100+ one-click starter sites — no coding needed.": [
+    "○ Gracias por instalar [tema], un tema rápido, flexible y fácil de usar para blogs, sitios de noticias y revistas. Comience rápidamente con nuestros más de 100 sitios de inicio con un solo clic, sin necesidad de codificación."
+  ],
+  "||The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.": [
+    "★ La acción «Primeros pasos» instalará/activará los plugins Templatespare y Blockspare para sitios de inicio y plantillas."
+  ],
+  "||The Templatespare plugin should be updated to the latest version": [
+    "★ El plugin Templatespare debe actualizarse a la última versión"
+  ],
+  "||The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": [
+    "★ El siguiente complemento debe actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s.",
+    "★ Los siguientes complementos deben actualizarse a su última versión para garantizar la máxima compatibilidad con este tema: %1$s."
+  ],
+  "||The following plugin was activated successfully:": [
+    "★ El siguiente complemento se activó exitosamente:",
+    "★ Los siguientes complementos se activaron exitosamente:"
+  ],
+  "||The following recommended plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento recomendado está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos recomendados están actualmente inactivos: %1$s."
+  ],
+  "||The following required plugin is currently inactive: %1$s.": [
+    "★ El siguiente complemento requerido está actualmente inactivo: %1$s.",
+    "★ Los siguientes complementos obligatorios están actualmente inactivos: %1$s."
+  ],
+  "||The installation and activation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación y activación se está iniciando. Este proceso puede tardar varios minutos en algunos sistemas de hospedaje, así que por favor se paciente."
+  ],
+  "||The installation of %1$s failed.": [
+    "★ La instalación de %1$s ha fallado."
+  ],
+  "||The installation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ El proceso de instalación ha comenzado. Este proceso puede tardar un poco según el alojamiento, por favor se paciente."
+  ],
+  "||The remote plugin package consists of more than one file, but the files are not packaged in a folder.": [
+    "★ El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+  ],
+  "||The remote plugin package does not contain a folder with the desired slug and renaming did not work.": [
+    "★ El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+  ],
+  "||Theme": [
+    "★ Tema"
+  ],
+  "||Theme Fonts": [
+    "○ Fuentes temáticas"
+  ],
+  "||Theme Option": [
+    "○ Opción de tema"
+  ],
+  "||Theme Options": [
+    "★ Opciones de tema"
+  ],
+  "||Theme dashboard": [
+    "★ Escritorio del tema"
+  ],
+  "||There are one or more required or recommended plugins to install, update or activate.": [
+    "★ Hay uno o más plugins necesarios o recomendados a instalar, actualizar o activar."
+  ],
+  "||There is an update available for: %1$s.": [
+    "★ Hay una actualización disponible para: %1$s.",
+    "★ Hay actualizaciones disponibles para los siguientes complementos: %1$s."
+  ],
+  "||This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": [
+    "○ Este complemento gratuito ofrece una solución gratuita de chat en vivo para que los visitantes de su sitio web se comuniquen con usted a través de un chat en vivo o una llamada en vivo, ¡todo gratis! Interactúe con sus clientes y aumente las ventas."
+  ],
+  "||This plugin needs to be updated to be compatible with your theme.": [
+    "★ Este plugin debe actualizarse para que sea compatible con tu tema."
+  ],
+  "||This theme recommends the following plugin: %1$s.": [
+    "★ Este tema recomienda el siguiente complemento: %1$s.",
+    "★ Este tema recomienda los siguientes complementos: %1$s."
+  ],
+  "||This theme requires the following plugin: %1$s.": [
+    "★ Este tema requiere el siguiente complemento: %1$s.",
+    "★ Este tema requiere los siguientes complementos: %1$s."
+  ],
+  "||This widget area is used in the mobile off-canvas panel. %s": [
+    "○ Esta área de widgets se utiliza en el panel móvil fuera del lienzo. %s"
+  ],
+  "||Three Columns": [
+    "★ Tres columnas"
+  ],
+  "||Three Columns Posts": [
+    "○ Publicaciones de tres columnas"
+  ],
+  "||Ticker News": [
+    "★ Teletipo de noticias"
+  ],
+  "||Time Format": [
+    "★ Formato de hora"
+  ],
+  "||Title": [
+    "★ Título"
+  ],
+  "||To Activate <span class=\"count\">(%s)</span>": [
+    "★ Para activar <span class=\"count\">(%s)</span>",
+    "★ Para activar <span class=\"count\">(%s)</span>"
+  ],
+  "||To Install <span class=\"count\">(%s)</span>": [
+    "★ Para instalar <span class=\"count\">(%s)</span>",
+    "★ Para instalar <span class=\"count\">(%s)</span>"
+  ],
+  "||Top": [
+    "★ Superior"
+  ],
+  "||Top Header Menu": [
+    "★ Menú de cabecera superior"
+  ],
+  "||Top Header Section": [
+    "★ Sección de cabecera superior"
+  ],
+  "||Top Navigation": [
+    "★ Navegación superior"
+  ],
+  "||Top One Category": [
+    "○ Una categoría superior"
+  ],
+  "||Transform your blog, news, or magazine website with 35+ advanced Elementor widgets and 350+ customizable templates. Easily create headers, footers, post grids, sliders, and carousels with a fast-loading and SEO-optimized structure. Import demo content with a single click and enjoy codeless customization to craft your perfect site, no matter the language.": [
+    "○ Transforme el sitio web de su blog, noticias o revista con más de 35 widgets avanzados de Elementor y más de 350 plantillas personalizables. Cree fácilmente encabezados, pies de página, cuadrículas de publicaciones, controles deslizantes y carruseles con una estructura de carga rápida y optimizada para SEO. Importe contenido de demostración con un solo clic y disfrute de una personalización sin código para crear su sitio perfecto, sin importar el idioma."
+  ],
+  "||Trending Now": [
+    "★ Tendencias Ahora"
+  ],
+  "||Trending Posts Carousel (Tag, Views)": [
+    "○ Carrusel de publicaciones de tendencia (etiqueta, vistas)"
+  ],
+  "||Trending Posts in Single Post": [
+    "○ Publicaciones de tendencia en una sola publicación"
+  ],
+  "||Trending Section": [
+    "★ Sección tendencias"
+  ],
+  "||Twitter": [
+    "○ Gorjeo"
+  ],
+  "||Type": [
+    "★ Tipo"
+  ],
+  "||URL Link": [
+    "★ URL del enlace"
+  ],
+  "||Unified Chart Styles and Colors": [
+    "○ Estilos y colores de gráficos unificados"
+  ],
+  "||Unlock Pro Features": [
+    "★ Desbloquear funciones Pro"
+  ],
+  "||Update": [
+    "★ Actualizar"
+  ],
+  "||Update %2$s": [
+    "★ Actualizar %2$s"
+  ],
+  "||Update Available <span class=\"count\">(%s)</span>": [
+    "★ Actualización disponible <span class=\"count\">(%s)</span>",
+    "★ Actualización disponible <span class=\"count\">(%s)</span>"
+  ],
+  "||Update Blockspare": [
+    "○ Actualizar bloques de repuesto"
+  ],
+  "||Update Blockspare Pro": [
+    "○ Actualizar Blockspare Pro"
+  ],
+  "||Update Elespare": [
+    "○ Actualizar Elespare"
+  ],
+  "||Update Elespare Pro": [
+    "○ Actualizar Elespare Pro"
+  ],
+  "||Update Required": [
+    "★ Requerida actualización"
+  ],
+  "||Update Templatespare": [
+    "○ Actualizar plantilla de repuesto"
+  ],
+  "||Update recommended": [
+    "★ Actualización recomendada"
+  ],
+  "||Updating Plugin %1$s (%2$d/%3$d)": [
+    "★ Actualizando plugin %1$s (%2$d/%3$d)"
+  ],
+  "||Updating Plugin: %s": [
+    "★ Actualizando el plugin: %s"
+  ],
+  "||Upgrade Now": [
+    "★ Actualiza ahora"
+  ],
+  "||Upgrade message from the plugin author:": [
+    "★ Mensaje de actualización del autor del plugin:"
+  ],
+  "||Upgrade to Pro": [
+    "★ Actualizar a la versión Pro"
+  ],
+  "||Upload": [
+    "★ Subir un archivo"
+  ],
+  "||Uppercase Site Title and Tagline": [
+    "★ Mayúsculas de título y descripción del sitio"
+  ],
+  "||Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Utilice AF Companion para importar rápidamente contenido de demostración en vivo, widgets y configuraciones. Este complemento brinda un diseño fundamental para crear su sitio web y acelerar el proceso de desarrollo."
+  ],
+  "||Useful Plugins": [
+    "★ Plugins útiles"
+  ],
+  "||Version": [
+    "★ Versión"
+  ],
+  "||Video": [
+    "★ Vídeo"
+  ],
+  "||Video  Tutorials": [
+    "○ Tutoriales en vídeo"
+  ],
+  "||Video Tutorials": [
+    "★ Vídeotutoriales"
+  ],
+  "||View": [
+    "★ Ver"
+  ],
+  "||View All Posts": [
+    "★ Ver todas las entradas"
+  ],
+  "||View Demos": [
+    "★ Ver las demostraciones"
+  ],
+  "||View More": [
+    "★ Ver más"
+  ],
+  "||View all results for \"%s\"": [
+    "○ Ver todos los resultados para \"%s\""
+  ],
+  "||View all search results": [
+    "○ Ver todos los resultados de búsqueda"
+  ],
+  "||View your shopping cart": [
+    "★ Ver tu cesta de la compra"
+  ],
+  "||Visit Website": [
+    "○ Visitar sitio web"
+  ],
+  "||WP Post Author": [
+    "○ Autor de la publicación de WP"
+  ],
+  "||Watch out the videos for an easy learning on Customizing the Theme .": [
+    "○ Mire los videos para aprender fácilmente sobre cómo personalizar el tema."
+  ],
+  "||We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": [
+    "○ Creamos una hermosa serie de bloques Gutenberg de secciones de página para contenido de WordPress para ayudarlo a crear rápidamente el sitio web que siempre ha deseado."
+  ],
+  "||We mainly focus on quality code and elegant design with incredible support. Our WordPress themes and plugins empower you to create an elegant, professional, and easy-to-maintain website in no time at all. Even on mobile and tablet screens, your website will look great": [
+    "★ Nos centramos principalmente en un código de calidad y un diseño elegante con un soporte increíble. Nuestros temas y plugins de WordPress te permiten crear un sitio elegante, profesional y fácil de mantener en muy poco tiempo. Incluso en pantallas de móviles y tabletas, tu web se verá genial"
+  ],
+  "||Week %s": [
+    "★ Semana %s"
+  ],
+  "||Welcome to ": [
+    "○ Bienvenido a"
+  ],
+  "||Whether you're just starting or customizing your site.": [
+    "★ Tanto si estás empezando como si estás personalizando tu sitio."
+  ],
+  "||Widget 1": [
+    "○ Dispositivo 1"
+  ],
+  "||Widget 2": [
+    "○ Dispositivo 2"
+  ],
+  "||Widget 3": [
+    "○ Dispositivo 3"
+  ],
+  "||Widget Areas Banner, Featured, Inline": [
+    "○ Banner de áreas de widgets, destacados, en línea"
+  ],
+  "||Widget Areas Header, Front-page, Sidebar, Footer": [
+    "○ Áreas de widgets Encabezado, Portada, Barra lateral, Pie de página"
+  ],
+  "||Widgets Area": [
+    "○ Área de widgets"
+  ],
+  "||Widgets can be added on all the section provide by the Theme.": [
+    "○ Se pueden agregar widgets en todas las secciones proporcionadas por el tema."
+  ],
+  "||WooCommerce Support": [
+    "○ Soporte de WooCommerce"
+  ],
+  "||WordPress Default Date Format": [
+    "★ Formato de fecha por defecto de WordPress"
+  ],
+  "||WordPress Repository": [
+    "★ Repositorio WordPress"
+  ],
+  "||Yoast SEO": [
+    "○ Yoast SEO"
+  ],
+  "||You May Have Missed": [
+    "★ Te pueden interesar"
+  ],
+  "||You can change Menu from menu panel. %s": [
+    "○ Puede cambiar el menú desde el panel de menú. %s"
+  ],
+  "||You can change Site Identity from %s.": [
+    "○ Puede cambiar la identidad del sitio desde %s."
+  ],
+  "||You can change date from general settings (Settings > General > Date Format). %s": [
+    "○ Puede cambiar la fecha desde la configuración general (Configuración > General > Formato de fecha). %s"
+  ],
+  "||You can easily place your promotional banners within your header section.": [
+    "○ Puede colocar fácilmente sus banners promocionales dentro de la sección de encabezado."
+  ],
+  "||You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": [
+    "○ Puede diseñar diseños complicados para su sitio web en solo unos minutos con nuestros bloques adaptables e inventivos."
+  ],
+  "||YouTube": [
+    "○ YouTube"
+  ],
+  "||YouTube Video Slider Widget": [
+    "○ Widget deslizante de vídeo de YouTube"
+  ],
+  "||Your email": [
+    "★ Tu correo electrónico"
+  ],
+  "||Your name": [
+    "★ Tu nombre"
+  ],
+  "||Your website": [
+    "○ Tu sitio web"
+  ],
+  "||close Off-Canvas Navigation": [
+    "○ cerrar navegación fuera del lienzo"
+  ],
+  "||grid": [
+    "○ red"
+  ],
+  "||https://afthemes.com/products/reviewnews/": [
+    "○ https://afthemes.com/products/reviewnews/"
+  ],
+  "||https://www.afthemes.com/": [
+    "○ https://www.afthemes.com/"
+  ],
+  "||live": [
+    "○ vivir"
+  ],
+  "||pro": [
+    "○ pro"
+  ],
+  "||⭐ Rate This Theme": [
+    "★ ⭐ Valora este tema"
+  ],
+  "||👋 Welcome, and Thank You!": [
+    "★ 👋 ¡Te damos la bienvenida y gracias!"
+  ],
+  "||🚀 Start With One Click": [
+    "★ 🚀 Empieza con un clic"
+  ],
+  "||🤝 We're Here for You": [
+    "★ 🤝 Estamos aquí para ti"
+  ],
+  "⭐ Rate This Theme": [
+    "★ ⭐ Valora este tema"
+  ],
+  "👋 Welcome, and Thank You!": [
+    "★ 👋 ¡Te damos la bienvenida y gracias!"
+  ],
+  "🚀 Start With One Click": [
+    "★ 🚀 Empieza con un clic"
+  ],
+  "🤝 We're Here for You": [
+    "★ 🤝 Estamos aquí para ti"
+  ]
+}

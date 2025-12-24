@@ -11883,7 +11883,7 @@
 
 
 # localizationtool/localization_logic.py
-# FINAL MASTER VERSION — All features + Language folders + No crashes (December 23, 2025)
+# FINAL PERFECT VERSION — Language folders + file filtering by language code + No mixing (Dec 24, 2025)
 
 import polib
 import csv
@@ -11897,16 +11897,9 @@ from django.conf import settings
 from charset_normalizer import from_path
 from deep_translator import GoogleTranslator as _GoogleTranslator
 
-try:
-    from babel.core import Locale
-except ImportError:
-    Locale = None
-
-
 class _Translator:
     def translate(self, texts: List[str], target_lang: str) -> List[str]:
         raise NotImplementedError
-
 
 class GoogleTranslatorEngine(_Translator):
     _SEP = "|||INVISIBLE|||"
@@ -11926,7 +11919,6 @@ class GoogleTranslatorEngine(_Translator):
         except:
             pass
         return [str(_GoogleTranslator(source='auto', target=target_lang).translate(t)) for t in texts]
-
 
 class ColabLocalizationTool:
     def __init__(self):
@@ -11991,6 +11983,8 @@ class ColabLocalizationTool:
             "nl": "nplurals=2; plural=(n != 1);",
             "it": "nplurals=2; plural=(n != 1);",
             "ja": "nplurals=1; plural=0;",
+            "hi": "nplurals=2; plural=(n != 1);",
+            "ne": "nplurals=2; plural=(n != 1);",
         }
 
     def _display_status(self, message):
@@ -12092,38 +12086,34 @@ class ColabLocalizationTool:
                 continue
         return glossary_lookup
 
-    def _load_pos_from_folder(self, folder_path: str) -> Dict[Tuple[str, str], str]:
+    # FINAL FIX: Only load .po files that contain the correct language code
+    def _load_pos_from_folder(self, folder_path: str, lang_code: str) -> Dict[Tuple[str, str], str]:
         lookup = {}
         if not folder_path or not os.path.exists(folder_path):
             return lookup
 
+        lang_pattern = f"-{lang_code}."
+        print(f"Loading .po files for '{lang_code}' from folder (only files containing '{lang_pattern}')")
+
         for root, _, files in os.walk(folder_path):
             for file in files:
-                if file.endswith('.po'):
+                if file.lower().endswith('.po') and lang_pattern in file.lower():
                     file_path = os.path.join(root, file)
                     try:
                         detection = from_path(file_path).best()
                         encoding = detection.encoding if detection else 'utf-8'
                         po = polib.pofile(file_path, encoding=encoding)
                         for entry in po:
-                            if entry.msgstr:
+                            if entry.msgstr.strip():
                                 key = (entry.msgid, entry.msgctxt or '')
-                                cleaned = self._clean_translated_text(entry.msgstr)
+                                cleaned = self._clean_translated_text(entry.msgstr.strip())
                                 if self._placeholders_are_valid(entry.msgid, cleaned):
                                     lookup[key] = cleaned
-                    except:
-                        for enc in ['utf-8', 'latin1', 'cp1252', 'windows-1252']:
-                            try:
-                                po = polib.pofile(file_path, encoding=enc)
-                                for entry in po:
-                                    if entry.msgstr:
-                                        key = (entry.msgid, entry.msgctxt or '')
-                                        cleaned = self._clean_translated_text(entry.msgstr)
-                                        if self._placeholders_are_valid(entry.msgid, cleaned):
-                                            lookup[key] = cleaned
-                                break
-                            except:
-                                continue
+                        print(f"   ✓ Loaded: {file} ({len(lookup)} strings so far)")
+                    except Exception as e:
+                        print(f"   ✗ Failed to load {file}: {e}")
+
+        print(f"   → Final: {len(lookup)} strings loaded for {lang_code}")
         return lookup
 
     def _process_translation(self, memory: Dict, pot_entry: polib.POEntry, glossary_lookup: Dict, existing_po_lookup: Dict, target_language: str):
@@ -12166,7 +12156,7 @@ class ColabLocalizationTool:
             self._counts["reused_glossary"] += 1
             return gloss, "Glossary"
 
-        # 5. Existing PO from folder
+        # 5. Existing PO from correct folder
         key = (msgid, msgctxt)
         if key in existing_po_lookup:
             existing = existing_po_lookup[key]
@@ -12183,7 +12173,7 @@ class ColabLocalizationTool:
         return fb, "Google Translate"
 
     def _plural_header_for_lang(self, lang: str) -> str:
-        return self.plural_forms_header.get(lang, self.plural_forms_header.get(lang.split('_')[0], "nplurals=2; plural=(n != 1);"))
+        return self.plural_forms_header.get(lang, "nplurals=2; plural=(n != 1);")
 
     def _pluralize_entry(self, memory: Dict, entry: polib.POEntry, target_language: str) -> Dict[int, str]:
         header = self._plural_header_for_lang(target_language)
@@ -12229,13 +12219,13 @@ class ColabLocalizationTool:
         try:
             pot_file = polib.pofile(pot_path)
 
-            # Load existing translations per language
+            # Load per-language existing POs with filtering
             existing_by_lang = {}
             for lang in target_languages:
                 folder = zip_paths_by_lang.get(lang)
                 if folder:
                     self._display_status(f"Loading existing translations for {lang.upper()} from folder")
-                    existing_by_lang[lang] = self._load_pos_from_folder(folder)
+                    existing_by_lang[lang] = self._load_pos_from_folder(folder, lang)
                 else:
                     existing_by_lang[lang] = {}
 
