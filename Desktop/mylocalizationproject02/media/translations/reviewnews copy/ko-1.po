@@ -1,0 +1,3179 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-30 08:03:29+0000\n"
+"PO-Revision-Date: 2025-10-30 08:03:29+0000\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+#: inc/hooks/hook-patterns.php:15
+msgid "ReviewNews"
+msgstr "리뷰뉴스"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/reviewnews/"
+msgstr "https://afthemes.com/products/reviewnews/"
+
+#. Description of the theme
+msgid ""
+"ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme "
+"made for News, Magazine, Blog, Business, and eCommerce websites across the "
+"world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with "
+"the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page "
+"builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no "
+"coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, "
+"ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL "
+"WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers,"
+" corporate or NGO sites, and educational or cultural portals to personal "
+"blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized "
+"for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST "
+"LOADING and excellent performance on all devices. Built with WCAG "
+"ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-"
+"term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY,"
+" with demo content in English, Spanish, German, French, Japanese, Chinese, "
+"and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for "
+"creators, publishers, and businesses who value STYLE, SCALABILITY, and "
+"PERFORMANCE across every market. Explore all features at "
+"https://afthemes.com/products/reviewnews"
+msgstr ""
+"ReviewNews는 전 세계 뉴스, 잡지, 블로그, 비즈니스 및 전자상거래 웹사이트를 위해 제작된 역동적이고 매우 빠르며 다재다능한 "
+"WordPress 테마입니다. Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI 및 기타 인기 있는 "
+"페이지 빌더와 원활하게 작동하는 강력한 HEADER & FOOTER BUILDER를 사용하면 코딩 없이 드래그 앤 드롭을 사용하여 쉽게 "
+"전문적인 레이아웃을 디자인할 수 있습니다. 100개 이상의 스타터 사이트, 30개 이상의 사용자 정의 위젯, 고급 블록 패턴, 유연한 "
+"레이아웃 옵션, AMP 지원 및 완전한 WOOCOMMERCE 통합으로 가득 차 있어 온라인 신문, 기업 또는 NGO 사이트, 교육 또는 "
+"문화 포털부터 개인 블로그, 포트폴리오 및 라이프스타일 잡지에 이르기까지 모든 것에 적합합니다. ReviewNews는 SEO, CORE "
+"WEB VITALS, SPEED 및 RESPONSIVE DESIGN에 완벽하게 최적화되어 모든 장치에서 빠른 로딩과 탁월한 성능을 "
+"보장합니다. WCAG ACCESSIBILITY, GDPR 규정 준수, LIGHTWEIGHT, CLEAN CODE로 구축되어 장기적인 "
+"안정성과 높은 GOOGLE PAGESPEED 점수를 제공합니다. 다중 언어 및 RTL 지원, 영어, 스페인어, 독일어, 프랑스어, "
+"일본어, 중국어 및 아랍어로 된 데모 콘텐츠를 갖춘 ReviewNews는 모든 시장에서 스타일, 확장성 및 성능을 중시하는 제작자, "
+"출판사 및 기업을 위해 설계된 진정한 글로벌 미래 지향적 테마입니다. "
+"https://afthemes.com/products/reviewnews에서 모든 기능을 살펴보세요."
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "AF 테마"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "이런! 해당 페이지를 찾을 수 없습니다."
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr "이 위치에서는 아무것도 발견되지 않은 것 같습니다. 아래 링크 중 하나를 시도해 보거나 검색해 보세요."
+
+#: admin-dashboard/admin_dashboard.php:118
+#: admin-dashboard/admin_dashboard.php:119
+msgid "Dashboard"
+msgstr "계기반"
+
+#: admin-dashboard/admin_dashboard.php:131
+#: admin-dashboard/admin_dashboard.php:132
+msgid "Customize"
+msgstr "사용자 정의"
+
+#: admin-dashboard/admin_dashboard.php:141
+#: admin-dashboard/admin_dashboard.php:142
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Builder"
+msgstr "헤더 빌더"
+
+#: admin-dashboard/admin_dashboard.php:151
+#: admin-dashboard/admin_dashboard.php:152
+#: inc/customizer/builder/class-header-footer-builder.php:46
+#: admin-dashboard/src/components/json/home-content.js:68
+msgid "Footer Builder"
+msgstr "바닥글 작성기"
+
+#: admin-dashboard/admin_dashboard.php:162
+#: admin-dashboard/admin_dashboard.php:163
+msgid "Starter Sites"
+msgstr "스타터 사이트"
+
+#: admin-dashboard/admin_dashboard.php:172
+#: admin-dashboard/admin_dashboard.php:173
+msgid "Elementor Kits"
+msgstr "엘레멘터 키트"
+
+#: admin-dashboard/admin_dashboard.php:182
+#: admin-dashboard/admin_dashboard.php:183
+msgid "Block Patterns"
+msgstr "블록 패턴"
+
+#: admin-dashboard/admin_dashboard.php:195
+#: admin-dashboard/src/components/json/dashboard-content.js:26
+#: admin-dashboard/src/components/json/freepro-content.js:110
+msgid "Upgrade to Pro"
+msgstr "프로로 업그레이드"
+
+#: admin-dashboard/admin_dashboard.php:196 inc/customizer/customizer.php:198
+msgid "Upgrade Now"
+msgstr "지금 업그레이드"
+
+#: admin-dashboard/admin_dashboard.php:245
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "Templatespare 플러그인을 최신 버전으로 업데이트해야 합니다."
+
+#: admin-dashboard/admin_dashboard.php:248
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr "간단한 3단계로 시작 사이트 가져오기, 개인화 및 활용이 가능합니다!"
+
+#: admin-dashboard/admin_dashboard.php:314
+msgid "Blockspare plugin version should be more than %s."
+msgstr "Blockspare 플러그인 버전은 %s 이상이어야 합니다."
+
+#: admin-dashboard/admin_dashboard.php:319
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr "원클릭 데모 가져오기, 블록 편집기 준비, 코드 필요 없음! Blockspare로 구축되었습니다."
+
+#: admin-dashboard/admin_dashboard.php:388
+msgid "Elespare plugin version should be more than %s."
+msgstr "Elespare 플러그인 버전은 %s 이상이어야 합니다."
+
+#: admin-dashboard/admin_dashboard.php:389
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr "원클릭 가져오기, 머리글/바닥글 작성, 다국어 지원! Elespare에 의해 구동됩니다."
+
+#: admin-dashboard/admin_dashboard.php:464
+msgid "Are you sure you want to install this plugin?"
+msgstr "이 플러그인을 설치하시겠습니까?"
+
+#: admin-dashboard/admin_dashboard.php:465
+#: admin-dashboard/rest-api/api-request.php:29
+msgid "Install Now"
+msgstr "지금 설치"
+
+#: admin-dashboard/admin_dashboard.php:466
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "활성화"
+
+#: admin-dashboard/admin_dashboard.php:467
+#: admin-dashboard/rest-api/api-request.php:70
+msgid "Activated"
+msgstr "활성화됨"
+
+#: admin-dashboard/admin_dashboard.php:563
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgid "Get Starter Sites"
+msgstr "시작 사이트 받기"
+
+#: admin-dashboard/admin_dashboard.php:568
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+#: admin-dashboard/src/components/blockspare.demo.js:13
+#: admin-dashboard/src/components/elespare-demo.js:13
+#: admin-dashboard/src/components/templatespare-demo.js:13
+msgid "Get Started"
+msgstr "시작하기"
+
+#: admin-dashboard/admin_dashboard.php:569
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr "\"시작하기\" 작업은 시작 사이트 및 템플릿용 템플릿 예비 및 블록 예비 플러그인을 설치/활성화합니다."
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "에 의해"
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgid "More Details"
+msgstr "자세한 내용"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgid "👋 Welcome, and Thank You!"
+msgstr "👋 환영합니다. 감사합니다!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgid ""
+"%s is now active. We're here to help you turn your ideas into a beautiful, "
+"professional website — quickly and confidently."
+msgstr ""
+"%s이 이제 활성화되었습니다. 우리는 귀하의 아이디어를 빠르고 자신 있게 아름답고 전문적인 웹사이트로 전환할 수 있도록 도와드립니다."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197
+msgid "🚀 Start With One Click"
+msgstr "🚀 원클릭으로 시작하세요"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+"블로그, 잡지, 비즈니스 등을 위해 설계된 100개 이상의 시작 사이트 중에서 선택하세요. 설정은 간단합니다. 코딩이 필요하지 않습니다."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgid "View Demos"
+msgstr "데모 보기"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgid "Theme dashboard"
+msgstr "테마 대시보드"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+msgid "🤝 We're Here for You"
+msgstr "🤝 우리는 당신을 위해 여기 있습니다"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+msgid "Whether you're just starting or customizing your site."
+msgstr "이제 막 사이트를 시작하든, 사이트를 맞춤설정하든 상관없습니다."
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "선적 서류 비치"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgid "Video Tutorials"
+msgstr "비디오 튜토리얼"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "지원하다"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+msgid "⭐ Rate This Theme"
+msgstr "⭐ 이 테마를 평가해 주세요"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "죄송합니다. 이 사이트에는 플러그인을 설치할 수 없습니다."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgid "Error - unable to verify nonce, please try again."
+msgstr "오류 - Nonce를 확인할 수 없습니다. 다시 시도해 주세요."
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "죄송합니다. 이 사이트에서는 플러그인을 활성화할 수 없습니다."
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&ldquo;%1$s&rdquo;에 대한 한 가지 생각"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;에 대한 %1$s의 생각"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "댓글이 닫혀있습니다."
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:164 inc/customizer/builder/builder-structure.php:381
+msgid "%1$s by %2$s."
+msgstr "%2$s의 %1$s입니다."
+
+#: functions.php:84 inc/class-amp-compatible.php:152
+#: inc/customizer/builder/builder-structure.php:199
+#: inc/hooks/hook-header-section.php:68
+msgid "Primary Menu"
+msgstr "기본 메뉴"
+
+#: functions.php:85 inc/customizer/builder/options.php:266
+#: inc/customizer/builder/options.php:271
+#: inc/customizer/builder/options.php:392
+#: inc/customizer/builder/options.php:397
+msgid "Social Menu"
+msgstr "소셜 메뉴"
+
+#: functions.php:86
+msgid "Footer Menu"
+msgstr "바닥글 메뉴"
+
+#: header.php:52
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: inc/class-amp-compatible.php:190 inc/class-amp-compatible.php:194
+#: inc/hooks/hook-header-section.php:100 inc/hooks/hook-header-section.php:101
+msgid "Open search form"
+msgstr "검색 양식 열기"
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"설정을 맞춤설정하려면 각 요소에서 <span class=\"dashicons dashicons-admin-generic\"></span>"
+" 설정을 클릭하세요."
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr "빌더 패널 숨기기"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr "빌더 숨기기"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr "장치 보기 컨트롤"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr "요소를 선택하세요"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr "요소 모달 선택 닫기"
+
+#: inc/customizer/builder/class-header-footer-builder.php:84
+msgid "Footer Layout"
+msgstr "바닥글 레이아웃"
+
+#: inc/customizer/builder/class-header-footer-builder.php:97
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr "드래그 앤 드롭 빌더를 사용하여 손쉽게 동적 헤더를 생성하세요."
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Header"
+msgstr "헤더"
+
+#: inc/customizer/builder/class-header-footer-builder.php:100
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr "드래그 앤 드롭 빌더를 사용하여 손쉽게 동적 바닥글을 만드세요."
+
+#: inc/customizer/builder/class-header-footer-builder.php:101
+#: inc/customizer/theme-options.php:1407
+msgid "Footer"
+msgstr "보행인"
+
+#: inc/customizer/builder/class-header-footer-builder.php:117
+msgid "Enable %s Builder"
+msgstr "%s 빌더 활성화"
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Add Element"
+msgstr "요소 추가"
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Remove Element"
+msgstr "요소 제거"
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Configure Element"
+msgstr "요소 구성"
+
+#: inc/customizer/builder/class-header-footer-builder.php:283
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: inc/customizer/builder/class-header-footer-builder.php:284
+msgid "Element Settings"
+msgstr "요소 설정"
+
+#: inc/customizer/builder/header-builder-structure.php:188
+msgid "close Off-Canvas Navigation"
+msgstr "캔버스 외부 탐색 닫기"
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:473
+msgid "Site & Logo"
+msgstr "사이트 및 로고"
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:479
+#: inc/customizer/builder/options.php:485
+msgid "Site Identity"
+msgstr "사이트 아이덴티티"
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:484
+msgid "You can change Site Identity from %s."
+msgstr "%s에서 사이트 ID를 변경할 수 있습니다."
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:493
+#: inc/customizer/builder/options.php:498
+msgid "Promotion"
+msgstr "홍보"
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:511
+msgid "Off Canvas"
+msgstr "오프 캔버스"
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:516
+msgid "Off Canvas Widget Area"
+msgstr "오프 캔버스 위젯 영역"
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:521
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr "이 위젯 영역은 모바일 오프 캔버스 패널에서 사용됩니다. %s"
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:465
+#: inc/customizer/builder/options.php:522
+msgid "Manage widgets"
+msgstr "위젯 관리"
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:530
+msgid "Primary menu"
+msgstr "기본 메뉴"
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:346
+#: inc/customizer/builder/options.php:535
+#: inc/customizer/builder/options.php:556
+#: inc/customizer/builder/options.php:582
+msgid "Select Menu"
+msgstr "메뉴 선택"
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:278
+#: inc/customizer/builder/options.php:353
+#: inc/customizer/builder/options.php:404
+#: inc/customizer/builder/options.php:542
+#: inc/customizer/builder/options.php:563
+msgid "You can change Menu from menu panel. %s"
+msgstr "메뉴 패널에서 메뉴를 변경할 수 있습니다. %s"
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:279
+#: inc/customizer/builder/options.php:354
+#: inc/customizer/builder/options.php:405
+#: inc/customizer/builder/options.php:543
+#: inc/customizer/builder/options.php:564
+msgid "Manage menu"
+msgstr "메뉴 관리"
+
+#: inc/customizer/builder/options.php:167
+msgid "Date"
+msgstr "날짜"
+
+#: inc/customizer/builder/options.php:172
+msgid "Choose date format"
+msgstr "날짜 형식 선택"
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:179
+msgid ""
+"You can change date from general settings (Settings > General > Date "
+"Format). %s"
+msgstr "일반 설정(설정 > 일반 > 날짜 형식)에서 날짜를 변경할 수 있습니다. %s"
+
+#: inc/customizer/builder/options.php:180
+msgid "Manage Date"
+msgstr "날짜 관리"
+
+#: inc/customizer/builder/options.php:186
+#: inc/customizer/builder/options.php:551
+msgid "Top Navigation"
+msgstr "상위 탐색"
+
+#: inc/customizer/builder/options.php:202
+#: inc/customizer/builder/options.php:232
+#: inc/customizer/builder/options.php:296
+#: inc/customizer/builder/options.php:312
+#: inc/customizer/builder/options.php:328
+msgid "pro"
+msgstr "찬성"
+
+#: inc/customizer/builder/options.php:208
+#: inc/customizer/builder/options.php:213
+msgid "Site Mode"
+msgstr "사이트 모드"
+
+#: inc/customizer/builder/options.php:222
+#: inc/customizer/builder/options.php:362
+msgid "Custom HTML"
+msgstr "맞춤 HTML"
+
+#: inc/customizer/builder/options.php:227
+#: inc/customizer/builder/options.php:367
+msgid "HTML Content"
+msgstr "HTML 콘텐츠"
+
+#: inc/customizer/builder/options.php:238
+msgid "Search"
+msgstr "찾다"
+
+#: inc/customizer/builder/options.php:243
+msgid "Searc Form"
+msgstr "검색 양식"
+
+#: inc/customizer/builder/options.php:252
+msgid "Custom Link"
+msgstr "맞춤 링크"
+
+#: inc/customizer/builder/options.php:257
+msgid "Custom link"
+msgstr "맞춤 링크"
+
+#: inc/customizer/builder/options.php:260
+msgid "live"
+msgstr "살다"
+
+#: inc/customizer/builder/options.php:285
+#: inc/customizer/builder/options.php:414
+msgid "Widget 1"
+msgstr "위젯 1"
+
+#: inc/customizer/builder/options.php:290
+#: inc/customizer/builder/options.php:306
+#: inc/customizer/builder/options.php:322
+#: inc/customizer/builder/options.php:419
+#: inc/customizer/builder/options.php:437
+#: inc/customizer/builder/options.php:458
+msgid "Select Widget"
+msgstr "위젯 선택"
+
+#: inc/customizer/builder/options.php:301
+#: inc/customizer/builder/options.php:432
+msgid "Widget 2"
+msgstr "위젯 2"
+
+#: inc/customizer/builder/options.php:317
+#: inc/customizer/builder/options.php:453
+msgid "Widget 3"
+msgstr "위젯 3"
+
+#: inc/customizer/builder/options.php:341
+msgid "Navigation"
+msgstr "항해"
+
+#: inc/customizer/builder/options.php:372
+#: admin-dashboard/src/components/nav-content/free-pro.js:11
+msgid "Pro"
+msgstr "찬성"
+
+#: inc/customizer/builder/options.php:379
+msgid "Copyright"
+msgstr "저작권"
+
+#: inc/customizer/builder/options.php:425
+#: inc/customizer/builder/options.php:443
+#: inc/customizer/builder/options.php:464
+msgid "Add widget to display . %s"
+msgstr "표시할 위젯을 추가합니다. %s"
+
+#: inc/customizer/builder/options.php:488
+#: inc/customizer/builder/options.php:503
+#: inc/customizer/builder/options.php:525
+#: inc/customizer/builder/options.php:546
+#: inc/customizer/builder/options.php:567
+msgid "Beta"
+msgstr "베타"
+
+#: inc/customizer/builder/options.php:587
+msgid "No menu assigned"
+msgstr "할당된 메뉴 없음"
+
+#: inc/customizer/customizer-control.php:186
+msgid "-- Select --"
+msgstr "-- 선택하다 --"
+
+#: inc/customizer/customizer-default.php:51
+msgid "Subscribe"
+msgstr "구독하다"
+
+#: inc/customizer/customizer-default.php:63
+msgid "Popular Tags"
+msgstr "인기 태그"
+
+#: inc/customizer/customizer-default.php:69
+#: inc/customizer/frontpage-options.php:37
+msgid "Breaking News"
+msgstr "속보"
+
+#: inc/customizer/customizer-default.php:76
+msgid "Posts List Section"
+msgstr "게시물 목록 섹션"
+
+#: inc/customizer/customizer-default.php:78
+msgid "General"
+msgstr "일반적인"
+
+#: inc/customizer/customizer-default.php:80
+#: inc/widgets/widgets-common-functions.php:111
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "업데이트"
+
+#: inc/customizer/customizer-default.php:82
+msgid "More"
+msgstr "더"
+
+#: inc/customizer/customizer-default.php:99
+msgid "Main News"
+msgstr "주요뉴스"
+
+#: inc/customizer/customizer-default.php:101
+#: inc/customizer/customizer-default.php:120
+msgid "Trending Now"
+msgstr "지금 인기 급상승"
+
+#: inc/customizer/customizer-default.php:115
+msgid "Editor's Picks"
+msgstr "에디터 추천"
+
+#: inc/customizer/customizer-default.php:134
+#: inc/customizer/frontpage-options.php:717
+msgid "Featured Posts"
+msgstr "추천 게시물"
+
+#: inc/customizer/customizer-default.php:141
+msgid "Featured Categories"
+msgstr "주요 카테고리"
+
+#: inc/customizer/customizer-default.php:142
+msgid "Featured Pages"
+msgstr "주요 페이지"
+
+#: inc/customizer/customizer-default.php:143
+msgid "Custom Options"
+msgstr "맞춤 옵션"
+
+#: inc/customizer/customizer-default.php:146
+msgid "Post list Section Title %d"
+msgstr "게시물 목록 섹션 제목 %d"
+
+#: inc/customizer/customizer-default.php:152
+msgid "View More"
+msgstr "더 많이 보기"
+
+#: inc/customizer/customizer-default.php:175
+msgid "Read More"
+msgstr "자세히 알아보기"
+
+#: inc/customizer/customizer-default.php:218
+msgid "Related Stories"
+msgstr "관련 기사"
+
+#: inc/customizer/customizer-default.php:229
+#: inc/customizer/theme-options.php:1337
+msgid "You May Have Missed"
+msgstr "당신은 놓쳤을 수도 있습니다"
+
+#: inc/customizer/customizer-default.php:233
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr "저작권 &복사; {year} 모든 권리 보유."
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr "본문 배경색"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr "사이트 제목 크기"
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr "대문자 사이트 제목 및 태그라인"
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr "사이트 제목/태그라인 색상"
+
+#: inc/customizer/customizer.php:149
+msgid "Header Image Mode"
+msgstr "헤더 이미지 모드"
+
+#: inc/customizer/customizer.php:150
+msgid "Image visibility may vary as per the mode"
+msgstr "이미지 가시성은 모드에 따라 다를 수 있습니다."
+
+#: inc/customizer/customizer.php:154
+msgid "Above Site Title"
+msgstr "사이트 제목 위"
+
+#: inc/customizer/customizer.php:155
+msgid "Set as Background"
+msgstr "배경으로 설정"
+
+#: inc/customizer/customizer.php:156
+msgid "Show Full Image (Background)"
+msgstr "전체 이미지 표시(배경)"
+
+#: inc/customizer/customizer.php:176
+msgid "Disable Image Tint/Overlay"
+msgstr "이미지 색조/오버레이 비활성화"
+
+#: inc/customizer/customizer.php:197
+msgid "ReviewNews Pro"
+msgstr "리뷰뉴스 프로"
+
+#: inc/customizer/font-color-options.php:23
+msgid "Site Color Mode"
+msgstr "사이트 색상 모드"
+
+#: inc/customizer/font-color-options.php:27
+msgid "Light"
+msgstr "빛"
+
+#: inc/customizer/font-color-options.php:28
+msgid "Dark"
+msgstr "어두운"
+
+#: inc/customizer/font-color-options.php:45
+msgid "Primary Color Section "
+msgstr "기본 색상 섹션"
+
+#: inc/customizer/font-color-options.php:66
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr "이 모드에서는 본체 배경색(다크 모드)이 적용됩니다."
+
+#: inc/customizer/font-color-options.php:89
+msgid "Body Background Color (Dark Mode)"
+msgstr "본체 배경색(다크 모드)"
+
+#: inc/customizer/font-color-options.php:112
+msgid "Secondary Color Section "
+msgstr "보조 색상 섹션"
+
+#: inc/customizer/font-color-options.php:136
+msgid "Secondary Color"
+msgstr "보조 색상"
+
+#: inc/customizer/font-color-options.php:151
+msgid "Fonts & Typography"
+msgstr "글꼴 및 타이포그래피"
+
+#: inc/customizer/font-color-options.php:174
+msgid "Font Family Section"
+msgstr "글꼴군 섹션"
+
+#: inc/customizer/font-color-options.php:197
+msgid "Fonts Source"
+msgstr "글꼴 소스"
+
+#: inc/customizer/font-color-options.php:201
+msgid "Theme Fonts"
+msgstr "테마 글꼴"
+
+#: inc/customizer/font-color-options.php:202
+msgid "System Fonts"
+msgstr "시스템 글꼴"
+
+#: inc/customizer/font-color-options.php:218
+msgid "Font Family"
+msgstr "글꼴군"
+
+#: inc/customizer/frontpage-options.php:24
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Main Banner Options"
+msgstr "메인 배너 옵션"
+
+#: inc/customizer/frontpage-options.php:67
+msgid "Enable Flash News"
+msgstr "플래시 뉴스 활성화"
+
+#: inc/customizer/frontpage-options.php:86
+#: inc/customizer/frontpage-options.php:264
+#: inc/customizer/frontpage-options.php:409
+#: inc/customizer/frontpage-options.php:569
+#: inc/customizer/frontpage-options.php:761
+msgid "Section Title "
+msgstr "섹션 제목"
+
+#: inc/customizer/frontpage-options.php:110
+msgid "Flash Posts Category"
+msgstr "플래시 게시물 카테고리"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select category to be shown on trending posts "
+msgstr "인기 게시물에 표시할 카테고리를 선택하세요."
+
+#: inc/customizer/frontpage-options.php:131 inc/hooks/patterns/block-2.php:9
+msgid "Main Banner"
+msgstr "메인배너"
+
+#: inc/customizer/frontpage-options.php:153
+msgid "Enable Main Banner Section"
+msgstr "메인 배너 섹션 활성화"
+
+#: inc/customizer/frontpage-options.php:178
+msgid "Main Banner Background Image"
+msgstr "메인 배너 배경 이미지"
+
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/theme-options.php:205 inc/customizer/theme-options.php:1433
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "권장 크기 %1$s픽셀 X %2$s픽셀"
+
+#: inc/customizer/frontpage-options.php:207
+msgid "Select Main Banner Order"
+msgstr "메인 배너 순서 선택"
+
+#: inc/customizer/frontpage-options.php:211
+msgid "Order 1"
+msgstr "주문 1"
+
+#: inc/customizer/frontpage-options.php:212
+msgid "Order 2"
+msgstr "주문 2"
+
+#: inc/customizer/frontpage-options.php:213
+msgid "Order 3"
+msgstr "주문 3"
+
+#: inc/customizer/frontpage-options.php:245
+msgid "Main News Section "
+msgstr "주요 뉴스 섹션"
+
+#: inc/customizer/frontpage-options.php:289
+#: inc/customizer/frontpage-options.php:439
+#: inc/customizer/frontpage-options.php:598
+msgid "Filter Posts By"
+msgstr "게시물 필터링 기준"
+
+#: inc/customizer/frontpage-options.php:293
+#: inc/customizer/frontpage-options.php:443
+#: inc/customizer/frontpage-options.php:602
+#: inc/customizer/frontpage-options.php:900
+msgid "Category"
+msgstr "범주"
+
+#: inc/customizer/frontpage-options.php:294
+#: inc/customizer/frontpage-options.php:444
+#: inc/customizer/frontpage-options.php:603
+msgid "Tag"
+msgstr "꼬리표"
+
+#: inc/customizer/frontpage-options.php:317
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:139
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: inc/customizer/frontpage-options.php:318
+msgid "Select category to be shown on main slider section"
+msgstr "메인 슬라이더 섹션에 표시할 카테고리를 선택하세요."
+
+#: inc/customizer/frontpage-options.php:350
+#: inc/customizer/frontpage-options.php:506
+#: inc/customizer/frontpage-options.php:666
+msgid "Select Tag"
+msgstr "태그 선택"
+
+#: inc/customizer/frontpage-options.php:351
+msgid "Select tag to be shown on main slider section"
+msgstr "기본 슬라이더 섹션에 표시할 태그를 선택하세요."
+
+#: inc/customizer/frontpage-options.php:384
+msgid "Editor's Picks Section"
+msgstr "편집자 추천 섹션"
+
+#: inc/customizer/frontpage-options.php:473
+#: inc/customizer/frontpage-options.php:633
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "선택하다"
+
+#: inc/customizer/frontpage-options.php:544
+msgid "Trending Section"
+msgstr "트렌드 섹션"
+
+#: inc/customizer/frontpage-options.php:604
+msgid "Comment Count"
+msgstr "댓글 수"
+
+#: inc/customizer/frontpage-options.php:605
+msgid "View Count"
+msgstr "조회수"
+
+#: inc/customizer/frontpage-options.php:701
+msgid "Front-page Options"
+msgstr "첫 페이지 옵션"
+
+#: inc/customizer/frontpage-options.php:741
+msgid "Enable Featured Post Section"
+msgstr "추천 게시물 섹션 활성화"
+
+#: inc/customizer/frontpage-options.php:786
+msgid "Select "
+msgstr "선택하다"
+
+#: inc/customizer/frontpage-options.php:787
+#: inc/customizer/frontpage-options.php:901
+msgid "Select category to be shown on featured section "
+msgstr "추천 섹션에 표시할 카테고리를 선택하세요."
+
+#: inc/customizer/frontpage-options.php:808
+msgid "Posts List"
+msgstr "게시물 목록"
+
+#: inc/customizer/frontpage-options.php:829
+msgid "Enable Post List Section"
+msgstr "게시물 목록 섹션 활성화"
+
+#: inc/customizer/frontpage-options.php:854
+msgid "Section %d"
+msgstr "섹션 %d"
+
+#: inc/customizer/frontpage-options.php:875
+msgid "Section Title"
+msgstr "섹션 제목"
+
+#: inc/customizer/frontpage-options.php:918
+msgid "Front-page Layout Settings"
+msgstr "첫 페이지 레이아웃 설정"
+
+#: inc/customizer/frontpage-options.php:940
+msgid "Front-page Content Display"
+msgstr "첫 페이지 콘텐츠 표시"
+
+#: inc/customizer/frontpage-options.php:941
+msgid "Select frontpage content display"
+msgstr "첫 페이지 콘텐츠 표시 선택"
+
+#: inc/customizer/frontpage-options.php:946
+msgid "Front-page Widgets"
+msgstr "첫 페이지 위젯"
+
+#: inc/customizer/frontpage-options.php:947
+msgid "Page Contents & Front-page Widgets"
+msgstr "페이지 콘텐츠 및 첫 페이지 위젯"
+
+#: inc/customizer/frontpage-options.php:966
+msgid "Front-page Content Alignment"
+msgstr "첫 페이지 내용 정렬"
+
+#: inc/customizer/frontpage-options.php:967
+msgid "Select frontpage content alignment"
+msgstr "첫 페이지 콘텐츠 정렬 선택"
+
+#: inc/customizer/frontpage-options.php:971
+msgid "Home Content - Home Sidebar"
+msgstr "홈 콘텐츠 - 홈 사이드바"
+
+#: inc/customizer/frontpage-options.php:972
+msgid "Home Sidebar - Home Content"
+msgstr "홈 사이드바 - 홈 콘텐츠"
+
+#: inc/customizer/frontpage-options.php:973
+msgid "Only Home Content"
+msgstr "홈 콘텐츠만"
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr "헤더 옵션"
+
+#: inc/customizer/theme-options.php:48
+msgid "Header Settings"
+msgstr "헤더 설정"
+
+#: inc/customizer/theme-options.php:70
+msgid "Site Mode Switch"
+msgstr "사이트 모드 스위치"
+
+#: inc/customizer/theme-options.php:75
+msgid "Enable"
+msgstr "할 수 있게 하다"
+
+#: inc/customizer/theme-options.php:76 inc/customizer/theme-options.php:420
+#: inc/customizer/theme-options.php:447 inc/customizer/theme-options.php:474
+msgid "Disable"
+msgstr "장애를 입히다"
+
+#: inc/customizer/theme-options.php:94
+msgid "Disable Sticky Header"
+msgstr "고정 헤더 비활성화"
+
+#: inc/customizer/theme-options.php:98
+msgid "Sticky header works only with builder at bottom."
+msgstr "고정 헤더는 하단의 빌더에서만 작동합니다."
+
+#: inc/customizer/theme-options.php:116
+msgid "Top Header Section"
+msgstr "상단 헤더 섹션"
+
+#: inc/customizer/theme-options.php:138
+msgid "Show Top Header"
+msgstr "상단 헤더 표시"
+
+#: inc/customizer/theme-options.php:154 inc/customizer/theme-options.php:177
+msgid "Header Advertisement"
+msgstr "헤더 광고"
+
+#: inc/customizer/theme-options.php:204
+msgid "Header Section Advertisement"
+msgstr "헤더 섹션 광고"
+
+#: inc/customizer/theme-options.php:228
+msgid "URL Link"
+msgstr "URL 링크"
+
+#: inc/customizer/theme-options.php:240
+msgid "Theme Options"
+msgstr "테마 옵션"
+
+#: inc/customizer/theme-options.php:255
+msgid "Breadcrumb Options"
+msgstr "탐색경로 옵션"
+
+#: inc/customizer/theme-options.php:277
+msgid "Show breadcrumbs"
+msgstr "탐색경로 표시"
+
+#: inc/customizer/theme-options.php:297
+msgid "Select Breadcrumbs"
+msgstr "탐색경로 선택"
+
+#: inc/customizer/theme-options.php:298
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr "기본 이외의 항목을 선택하기 전에 플러그인의 탐색경로를 활성화했는지 확인하세요."
+
+#: inc/customizer/theme-options.php:303 inc/customizer/theme-options.php:926
+#: inc/hooks/hook-meta.php:80
+msgid "Default"
+msgstr "기본"
+
+#: inc/customizer/theme-options.php:304
+msgid "Yoast SEO"
+msgstr "요스트 SEO"
+
+#: inc/customizer/theme-options.php:305
+msgid "Rank Math"
+msgstr "순위 수학"
+
+#: inc/customizer/theme-options.php:306
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/theme-options.php:325
+msgid "Global Settings"
+msgstr "전역 설정"
+
+#: inc/customizer/theme-options.php:347
+msgid "Enable Preloader"
+msgstr "프리로더 활성화"
+
+#: inc/customizer/theme-options.php:368
+msgid "Disable Emoji Script"
+msgstr "이모티콘 스크립트 비활성화"
+
+#: inc/customizer/theme-options.php:369
+msgid "GDPR friendly & better performance"
+msgstr "GDPR 친화적이고 더 나은 성능"
+
+#: inc/customizer/theme-options.php:389
+msgid "Global Content Alignment"
+msgstr "글로벌 콘텐츠 정렬"
+
+#: inc/customizer/theme-options.php:393
+msgid "Content - Primary sidebar"
+msgstr "콘텐츠 - 기본 사이드바"
+
+#: inc/customizer/theme-options.php:394
+msgid "Primary sidebar - Content"
+msgstr "기본 사이드바 - 콘텐츠"
+
+#: inc/customizer/theme-options.php:395
+msgid "Full width content"
+msgstr "전폭 콘텐츠"
+
+#: inc/customizer/theme-options.php:414
+msgid "Also Show Content Image in Archive"
+msgstr "아카이브에 콘텐츠 이미지도 표시"
+
+#: inc/customizer/theme-options.php:415
+msgid "If there is no Post Featured image set"
+msgstr "설정된 게시물 추천 이미지가 없는 경우"
+
+#: inc/customizer/theme-options.php:419 inc/customizer/theme-options.php:446
+#: inc/customizer/theme-options.php:473
+msgid "Enable "
+msgstr "할 수 있게 하다"
+
+#: inc/customizer/theme-options.php:441
+msgid "Image Lazy Loading"
+msgstr "이미지 지연 로딩"
+
+#: inc/customizer/theme-options.php:442
+msgid "Set for better performance"
+msgstr "더 나은 성능을 위해 설정"
+
+#: inc/customizer/theme-options.php:468
+msgid "Image Async Decoding"
+msgstr "이미지 비동기 디코딩"
+
+#: inc/customizer/theme-options.php:469
+msgid "Set to enhance rendering speed"
+msgstr "렌더링 속도를 향상하도록 설정"
+
+#: inc/customizer/theme-options.php:496
+msgid "Scroll to Top Position"
+msgstr "상단 위치로 스크롤"
+
+#: inc/customizer/theme-options.php:501 inc/customizer/theme-options.php:1203
+msgid "Right"
+msgstr "오른쪽"
+
+#: inc/customizer/theme-options.php:502 inc/customizer/theme-options.php:1202
+msgid "Left"
+msgstr "왼쪽"
+
+#: inc/customizer/theme-options.php:514
+msgid "Categories Settings"
+msgstr "카테고리 설정"
+
+#: inc/customizer/theme-options.php:535
+msgid "Post Categories"
+msgstr "게시물 카테고리"
+
+#: inc/customizer/theme-options.php:539 inc/customizer/theme-options.php:693
+msgid "Show"
+msgstr "보여주다"
+
+#: inc/customizer/theme-options.php:540 inc/customizer/theme-options.php:694
+msgid "Hide"
+msgstr "숨다"
+
+#: inc/customizer/theme-options.php:561
+msgid "Categories to be displayed"
+msgstr "표시할 카테고리"
+
+#: inc/customizer/theme-options.php:565
+msgid "Show All"
+msgstr "모두 표시"
+
+#: inc/customizer/theme-options.php:566
+msgid "Top One Category"
+msgstr "상위 1개 카테고리"
+
+#: inc/customizer/theme-options.php:587
+msgid "Number of Categories"
+msgstr "카테고리 수"
+
+#: inc/customizer/theme-options.php:599
+msgid "Author and Date Settings"
+msgstr "작성자 및 날짜 설정"
+
+#: inc/customizer/theme-options.php:621
+msgid "Author Icon"
+msgstr "작성자 아이콘"
+
+#: inc/customizer/theme-options.php:625
+msgid "Show Gravatar"
+msgstr "그라바타 표시"
+
+#: inc/customizer/theme-options.php:626
+msgid "Show Icon"
+msgstr "아이콘 표시"
+
+#: inc/customizer/theme-options.php:627 inc/customizer/theme-options.php:1021
+#: inc/customizer/theme-options.php:1233
+msgid "None"
+msgstr "없음"
+
+#: inc/customizer/theme-options.php:648
+msgid "Date Format"
+msgstr "날짜 형식"
+
+#: inc/customizer/theme-options.php:652
+msgid "WordPress Default Date Format"
+msgstr "WordPress 기본 날짜 형식"
+
+#: inc/customizer/theme-options.php:653
+msgid "Ago Date Format"
+msgstr "전 날짜 형식"
+
+#: inc/customizer/theme-options.php:667 inc/customizer/theme-options.php:689
+msgid "Minutes Read Count"
+msgstr "읽기 시간(분)"
+
+#: inc/customizer/theme-options.php:707
+msgid "Excerpt Settings"
+msgstr "발췌 설정"
+
+#: inc/customizer/theme-options.php:730
+msgid "Global Excerpt Read More"
+msgstr "글로벌 발췌 자세히 보기"
+
+#: inc/customizer/theme-options.php:753
+msgid "Primary Menu Section"
+msgstr "기본 메뉴 섹션"
+
+#: inc/customizer/theme-options.php:773
+msgid "Show Primary Menu Description"
+msgstr "기본 메뉴 설명 표시"
+
+#: inc/customizer/theme-options.php:793
+msgid "Enable Custom Menu Section"
+msgstr "사용자 정의 메뉴 섹션 활성화"
+
+#: inc/customizer/theme-options.php:816 inc/customizer/theme-options.php:1105
+#: inc/widgets/widget-author-info.php:139
+#: inc/widgets/widget-express-posts-list.php:135
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr "제목"
+
+#: inc/customizer/theme-options.php:837
+msgid "Link"
+msgstr "링크"
+
+#: inc/customizer/theme-options.php:853
+msgid "Single Post"
+msgstr "단일 게시물"
+
+#: inc/customizer/theme-options.php:874
+msgid "Show Featured Image"
+msgstr "주요 이미지 표시"
+
+#: inc/customizer/theme-options.php:895
+msgid "Featured Image Width"
+msgstr "주요 이미지 너비"
+
+#: inc/customizer/theme-options.php:899
+msgid "Full - Default"
+msgstr "전체 - 기본값"
+
+#: inc/customizer/theme-options.php:900
+msgid "Original"
+msgstr "원래의"
+
+#: inc/customizer/theme-options.php:921
+msgid "Single Content Mode"
+msgstr "단일 콘텐츠 모드"
+
+#: inc/customizer/theme-options.php:927 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr "넓다"
+
+#: inc/customizer/theme-options.php:951
+msgid "Show Author Bio under Content"
+msgstr "콘텐츠 아래에 작성자 약력 표시"
+
+#: inc/customizer/theme-options.php:972
+msgid "Show Tags under Content"
+msgstr "콘텐츠 아래에 태그 표시"
+
+#: inc/customizer/theme-options.php:995
+msgid "Social Share Options"
+msgstr "소셜 공유 옵션"
+
+#: inc/customizer/theme-options.php:1015
+msgid "Defined Links"
+msgstr "정의된 링크"
+
+#: inc/customizer/theme-options.php:1019
+msgid "Theme"
+msgstr "주제"
+
+#: inc/customizer/theme-options.php:1020
+msgid "JetPack"
+msgstr "제트팩"
+
+#: inc/customizer/theme-options.php:1038
+msgid "Position"
+msgstr "위치"
+
+#: inc/customizer/theme-options.php:1042
+msgid "Before Content"
+msgstr "콘텐츠 전"
+
+#: inc/customizer/theme-options.php:1043
+msgid "After Content"
+msgstr "내용 이후"
+
+#: inc/customizer/theme-options.php:1064
+msgid "Related Posts Settings"
+msgstr "관련 게시물 설정"
+
+#: inc/customizer/theme-options.php:1085
+msgid "Enable Related Posts"
+msgstr "관련 게시물 활성화"
+
+#: inc/customizer/theme-options.php:1126
+msgid "Archive Settings"
+msgstr "아카이브 설정"
+
+#: inc/customizer/theme-options.php:1148
+msgid "Disable Main Banner on Blog"
+msgstr "블로그의 기본 배너 비활성화"
+
+#: inc/customizer/theme-options.php:1169
+msgid "Archive layout"
+msgstr "아카이브 레이아웃"
+
+#: inc/customizer/theme-options.php:1170
+msgid "Select layout for archive"
+msgstr "보관할 레이아웃 선택"
+
+#: inc/customizer/theme-options.php:1175
+msgid "grid"
+msgstr "그리드"
+
+#: inc/customizer/theme-options.php:1176 inc/hooks/patterns/full.php:9
+msgid "Full"
+msgstr "가득한"
+
+#: inc/customizer/theme-options.php:1197
+msgid "Image Alignment"
+msgstr "이미지 정렬"
+
+#: inc/customizer/theme-options.php:1198
+msgid "Select image alignment for archive"
+msgstr "보관할 이미지 정렬 선택"
+
+#: inc/customizer/theme-options.php:1226
+msgid "Content View"
+msgstr "콘텐츠 보기"
+
+#: inc/customizer/theme-options.php:1227
+msgid "Select content view for archive"
+msgstr "보관할 콘텐츠 보기 선택"
+
+#: inc/customizer/theme-options.php:1231
+msgid "Post Excerpt"
+msgstr "게시물 발췌"
+
+#: inc/customizer/theme-options.php:1232
+msgid "Full Content"
+msgstr "전체 콘텐츠"
+
+#: inc/customizer/theme-options.php:1253
+msgid "Search Results"
+msgstr "검색결과"
+
+#: inc/customizer/theme-options.php:1254
+msgid "Select search results for archive"
+msgstr "아카이브에 대한 검색 결과 선택"
+
+#: inc/customizer/theme-options.php:1258
+msgid "All (Pages, Posts, etc)"
+msgstr "모두(페이지, 게시물 등)"
+
+#: inc/customizer/theme-options.php:1259
+msgid "Posts"
+msgstr "게시물"
+
+#: inc/customizer/theme-options.php:1273
+msgid "Sidebar Settings"
+msgstr "사이드바 설정"
+
+#: inc/customizer/theme-options.php:1295
+msgid "Make Sidebar Sticky"
+msgstr "사이드바를 고정되게 만들기"
+
+#: inc/customizer/theme-options.php:1316
+msgid "Sidebar Sticky Position"
+msgstr "사이드바 고정 위치"
+
+#: inc/customizer/theme-options.php:1320
+msgid "Top"
+msgstr "맨 위"
+
+#: inc/customizer/theme-options.php:1321
+msgid "Bottom"
+msgstr "맨 아래"
+
+#: inc/customizer/theme-options.php:1357
+msgid "Show Above Footer"
+msgstr "바닥글 위에 표시"
+
+#: inc/customizer/theme-options.php:1377
+msgid "Posts Section Title"
+msgstr "게시물 섹션 제목"
+
+#: inc/customizer/theme-options.php:1396
+msgid "Footer Options"
+msgstr "바닥글 옵션"
+
+#: inc/customizer/theme-options.php:1432
+msgid "Footer Background Image"
+msgstr "바닥글 배경 이미지"
+
+#: inc/customizer/theme-options.php:1457
+msgid "Copyright Text"
+msgstr "저작권 텍스트"
+
+#: inc/customizer/theme-options.php:1479
+msgid "Hide footer Menu Section"
+msgstr "바닥글 메뉴 섹션 숨기기"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: template-parts/content-page.php:27 template-parts/content.php:57
+msgid "Pages:"
+msgstr "페이지:"
+
+#: inc/hooks/blocks/block-header-layout-default.php:82
+msgid "Open Off-Canvas Navigation"
+msgstr "캔버스 외부 탐색 열기"
+
+#: inc/hooks/hook-header-section.php:272
+msgid "Light/Dark Button"
+msgstr "밝음/어두움 버튼"
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "레이아웃 옵션"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "콘텐츠 옵션"
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr "전역 레이아웃으로 설정"
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "사용자 정의>단일 게시물/페이지 테마 옵션으로 이동하세요."
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr "사이드바 옵션"
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr "콘텐츠 - 기본 사이드바"
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr "기본 사이드바 - 콘텐츠"
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr "사이드바 없음"
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr "사용자 정의>홈페이지 첫 페이지 옵션으로 이동하세요."
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:224
+msgid "Category Color 1"
+msgstr "카테고리 색상 1"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:225
+msgid "Category Color 2"
+msgstr "카테고리 색상 2"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:226
+msgid "Category Color 3"
+msgstr "카테고리 색상 3"
+
+#: inc/hooks/hook-meta.php:192 inc/hooks/hook-meta.php:220
+msgid "Color Class"
+msgstr "색상 클래스"
+
+#: inc/hooks/hook-meta.php:198 inc/hooks/hook-meta.php:236
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr "카테고리 색상 클래스를 선택하세요. 테마 사용자 정의 도구의 \"카테고리\" 섹션에서 적절한 카테고리 색상을 설정할 수 있습니다."
+
+#: inc/hooks/hook-tgm.php:19
+msgid "Templatespare"
+msgstr "템플릿 예비"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "Elespare"
+msgstr "엘레스페어"
+
+#: inc/hooks/hook-tgm.php:29
+msgid "Blockspare"
+msgstr "블록스페어"
+
+#: inc/hooks/hook-tgm.php:34
+msgid "WP Post Author"
+msgstr "WP 포스트 작성자"
+
+#: inc/hooks/hook-tgm.php:39
+msgid "Free Live Chat using 3CX"
+msgstr "3CX를 사용한 무료 라이브 채팅"
+
+#: inc/hooks/patterns/bg-large-post.php:9
+msgid "Large Post with Background"
+msgstr "배경이 있는 대형 게시물"
+
+#: inc/hooks/patterns/bg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Background"
+msgstr "배경이 있는 3개 기둥 기둥 그리드"
+
+#: inc/hooks/patterns/bg-post-grid.php:9
+msgid "Post Grid with Background"
+msgstr "배경이 있는 기둥 그리드"
+
+#: inc/hooks/patterns/bg-post-list.php:9
+msgid "Post List with Background"
+msgstr "배경이 있는 게시물 목록"
+
+#: inc/hooks/patterns/bg-single-post-column.php:9
+msgid "Single Post Column with Background"
+msgstr "배경이 있는 단일 기둥 열"
+
+#: inc/hooks/patterns/block-1.php:9
+msgid "Ticker News"
+msgstr "티커 뉴스"
+
+#: inc/hooks/patterns/block-3.php:9 inc/hooks/patterns/block-3.php:16
+#: inc/hooks/patterns/full.php:20
+msgid "Featured News"
+msgstr "주요 뉴스"
+
+#: inc/hooks/patterns/block-4.php:9
+msgid "Three Columns Posts"
+msgstr "세 개의 열 게시물"
+
+#: inc/hooks/patterns/block-4.php:16 inc/hooks/patterns/full.php:56
+msgid "Three Columns"
+msgstr "세 개의 열"
+
+#: inc/hooks/patterns/block-5.php:9 inc/hooks/patterns/block-5.php:16
+#: inc/hooks/patterns/full.php:142
+msgid "Post Carousel"
+msgstr "포스트 캐러셀"
+
+#: inc/hooks/patterns/dbg-large-post.php:9
+msgid "Large Post with Dark Background"
+msgstr "어두운 배경의 대형 기둥"
+
+#: inc/hooks/patterns/dbg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Dark Background"
+msgstr "어두운 배경의 3열 기둥 그리드"
+
+#: inc/hooks/patterns/dbg-post-grid.php:9
+msgid "Post Grid with Dark Background"
+msgstr "어두운 배경의 기둥 그리드"
+
+#: inc/hooks/patterns/dbg-post-list.php:9
+msgid "Post List with Dark Background"
+msgstr "어두운 배경의 게시물 목록"
+
+#: inc/hooks/patterns/dbg-single-post-column.php:9
+msgid "Single Post Column with Dark Background"
+msgstr "어두운 배경의 단일 기둥 열"
+
+#: inc/hooks/patterns/full.php:31 inc/hooks/patterns/section-2.php:19
+msgid "Express Grid"
+msgstr "익스프레스 그리드"
+
+#: inc/hooks/patterns/full.php:41 inc/hooks/patterns/section-2.php:29
+#: inc/widgets/widget-author-info.php:139
+msgid "About Author"
+msgstr "저자 소개"
+
+#: inc/hooks/patterns/full.php:47 inc/hooks/patterns/section-2.php:35
+msgid ""
+"We mainly focus on quality code and elegant design with incredible support. "
+"Our WordPress themes and plugins empower you to create an elegant, "
+"professional, and easy-to-maintain website in no time at all. Even on mobile"
+" and tablet screens, your website will look great"
+msgstr ""
+"우리는 주로 놀라운 지원을 통해 고품질 코드와 우아한 디자인에 중점을 둡니다. 당사의 WordPress 테마 및 플러그인을 사용하면 "
+"우아하고 전문적이며 유지 관리가 쉬운 웹사이트를 단시간에 만들 수 있습니다. 모바일 및 태블릿 화면에서도 웹사이트가 멋지게 보입니다."
+
+#: inc/hooks/patterns/full.php:66 inc/hooks/patterns/section-3.php:19
+msgid "Post Slider"
+msgstr "포스트 슬라이더"
+
+#: inc/hooks/patterns/full.php:74 inc/hooks/patterns/full.php:180
+#: inc/hooks/patterns/section-3.php:27 inc/hooks/patterns/section-4.php:46
+#: inc/hooks/patterns/theme-block-7.php:9
+msgid "Post Grid"
+msgstr "포스트 그리드"
+
+#: inc/hooks/patterns/full.php:84 inc/hooks/patterns/section-3.php:37
+#: inc/hooks/patterns/theme-block-10.php:9
+msgid "Post List"
+msgstr "게시물 목록"
+
+#: inc/hooks/patterns/full.php:92 inc/hooks/patterns/section-3.php:45
+msgid "Connect to Us"
+msgstr "우리에게 연결"
+
+#: inc/hooks/patterns/full.php:130 inc/hooks/patterns/full.php:170
+#: inc/hooks/patterns/section-3.php:83 inc/hooks/patterns/section-4.php:36
+msgid "Advertisement"
+msgstr "광고"
+
+#: inc/hooks/patterns/full.php:152 inc/hooks/patterns/section-4.php:18
+msgid "Express Tile"
+msgstr "익스프레스 타일"
+
+#: inc/hooks/patterns/full.php:160 inc/hooks/patterns/section-4.php:26
+#: inc/hooks/patterns/theme-block-9.php:9
+msgid "Single Column"
+msgstr "단일 열"
+
+#: inc/hooks/patterns/full.php:188 inc/hooks/patterns/section-4.php:54
+msgid "Categories"
+msgstr "카테고리"
+
+#: inc/hooks/patterns/section-1.php:9
+msgid "Section 1"
+msgstr "섹션 1"
+
+#: inc/hooks/patterns/section-2.php:9
+msgid "Section 2"
+msgstr "섹션 2"
+
+#: inc/hooks/patterns/section-3.php:9
+msgid "Section 3"
+msgstr "섹션 3"
+
+#: inc/hooks/patterns/section-4.php:9
+msgid "Section 4"
+msgstr "섹션 4"
+
+#: inc/hooks/patterns/theme-block-6-2.php:9
+msgid "3 Columns Post Grid - 2"
+msgstr "3개 열 기둥 그리드 - 2"
+
+#: inc/hooks/patterns/theme-block-6.php:9
+msgid "3 Columns Post Grid"
+msgstr "3열 기둥 그리드"
+
+#: inc/hooks/patterns/theme-block-7-2.php:9
+msgid "Post Grid - 2"
+msgstr "포스트 그리드 - 2"
+
+#: inc/hooks/patterns/theme-block-8-2.php:9
+msgid "Large Posts - 2"
+msgstr "대형 기둥 - 2"
+
+#: inc/hooks/patterns/theme-block-8.php:9
+msgid "Large Posts"
+msgstr "대형 게시물"
+
+#: inc/hooks/patterns/theme-block-9-2.php:9
+msgid "Single Column - 2"
+msgstr "단일 열 - 2"
+
+#: inc/hooks/patterns/theme-block-10-2.php:9
+msgid "Post List - 2"
+msgstr "게시물 목록 - 2"
+
+#. Translators: %1$s current user display name.
+#: inc/review.php:74
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we"
+" hope you are loving it! We would appreciate it if you can give us "
+"%3$sreview and rating%4$s on WordPress.org! We'll continue to develop "
+"exciting new features for free in the future by sharing the love!"
+msgstr ""
+"안녕하세요, %1$s! 귀하가 한동안 %2$s을 사용해 오신 것을 확인했습니다. 마음에 드셨으면 좋겠습니다! WordPress.org에서"
+" %3$s리뷰 및 평점%4$s을 보내주시면 감사하겠습니다! 우리는 앞으로도 사랑을 공유함으로써 흥미로운 새로운 기능을 무료로 계속 개발할"
+" 것입니다!"
+
+#: inc/review.php:88
+msgid "Sure thing"
+msgstr "확실한 것"
+
+#: inc/review.php:93
+msgid "Remind me later"
+msgstr "나중에 알림"
+
+#: inc/review.php:98
+msgid "I've already done."
+msgstr "나는 이미 했어."
+
+#: inc/review.php:103
+msgid "Got any support queries?"
+msgstr "지원 문의사항이 있으신가요?"
+
+#: inc/template-functions.php:579 inc/template-functions.php:581
+msgid "Read more about %s"
+msgstr "%s에 대해 자세히 알아보세요."
+
+#: inc/template-functions.php:623
+msgid "Previous"
+msgstr "이전의"
+
+#: inc/template-functions.php:624
+msgid "Next"
+msgstr "다음"
+
+#: inc/template-functions.php:652
+msgid "%s min read"
+msgstr "%s분 읽음"
+
+#: inc/template-functions.php:789
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s댓글"
+
+#: inc/template-functions.php:845
+msgid "Copy link to clipboard"
+msgstr "링크를 클립보드에 복사"
+
+#: inc/template-functions.php:845
+msgid "Link copied to clipboard!"
+msgstr "링크가 클립보드에 복사되었습니다!"
+
+#: inc/template-functions.php:1138
+msgid "About the Author"
+msgstr "저자 소개"
+
+#: inc/template-functions.php:1166
+msgid "Visit Website"
+msgstr "웹사이트 방문"
+
+#: inc/template-functions.php:1172
+msgid "View All Posts"
+msgstr "모든 게시물 보기"
+
+#: inc/template-functions.php:1223
+msgid "Your name"
+msgstr "당신의 이름"
+
+#: inc/template-functions.php:1231
+msgid "Your email"
+msgstr "귀하의 이메일"
+
+#: inc/template-functions.php:1239
+msgid "Your website"
+msgstr "귀하의 웹사이트"
+
+#: inc/template-functions.php:1247
+msgid "Leave a comment"
+msgstr "댓글을 남겨주세요"
+
+#: inc/template-tags.php:148 inc/template-tags.php:233
+msgid "(Last Updated: %s)"
+msgstr "(최종 업데이트: %s)"
+
+#: inc/template-tags.php:259
+msgid "ago"
+msgstr "~ 전에"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:287 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> 수정"
+
+#: inc/upgrade.php:69 inc/upgrade.php:89
+msgid "Action failed. Please refresh the page and retry."
+msgstr "작업이 실패했습니다. 페이지를 새로고침하고 다시 시도하세요."
+
+#: inc/upgrade.php:73 inc/upgrade.php:93
+msgid "Cheatin&#8217; huh?"
+msgstr "치틴&#8217; 뭐?"
+
+#: inc/upgrade.php:194
+msgid "Claim Your Discount"
+msgstr "할인을 받으세요"
+
+#: inc/upgrade.php:199
+msgid "Power Bundle"
+msgstr "파워 번들"
+
+#: inc/upgrade.php:204
+msgid "All Themes Plan"
+msgstr "모든 테마 계획"
+
+#: inc/upgrade.php:209
+msgid "Maybe Later"
+msgstr "어쩌면 나중에"
+
+#: inc/upgrade.php:214
+msgid "Have Queries?"
+msgstr "문의사항이 있으신가요?"
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "작성자 정보를 표시합니다."
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFT Author Info"
+msgstr "AFT 작성자 정보"
+
+#: inc/widgets/widget-author-info.php:141
+msgid "Profile image"
+msgstr "프로필 이미지"
+
+#: inc/widgets/widget-author-info.php:142
+msgid "Name"
+msgstr "이름"
+
+#: inc/widgets/widget-author-info.php:143
+msgid "Descriptions"
+msgstr "설명"
+
+#: inc/widgets/widget-author-info.php:144
+msgid "Facebook"
+msgstr "페이스북"
+
+#: inc/widgets/widget-author-info.php:145
+msgid "Twitter"
+msgstr "지저귀다"
+
+#: inc/widgets/widget-author-info.php:146
+msgid "YouTube"
+msgstr "유튜브"
+
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "선택한 카테고리의 빠른 게시물을 표시합니다."
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFT Express Posts List"
+msgstr "AFT Express 게시물 목록"
+
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "선택한 범주의 그리드를 표시합니다."
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFT Post Double Columns"
+msgstr "AFT 포스트 이중 기둥"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "카테고리 1을 선택하세요"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "카테고리 2를 선택하세요"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFT Post Grid"
+msgstr "AFT 포스트 그리드"
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFT Post List"
+msgstr "AFT 게시물 목록"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr "선택한 카테고리의 게시물을 단일 열로 표시합니다."
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFT Post Single Column"
+msgstr "AFT 포스트 단일 컬럼"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "선택한 카테고리의 게시물 슬라이더를 표시합니다."
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFT Posts Slider"
+msgstr "AFT 포스트 슬라이더"
+
+#: inc/widgets/widget-posts-slider.php:113
+msgid "Select category"
+msgstr "카테고리 선택"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "선택한 설정의 소셜 연락처 목록을 표시합니다."
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFT Social Contacts"
+msgstr "AFT 소셜 연락처"
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "우리와 연결"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr "소셜 메뉴가 설정되지 않았습니다. 메뉴 설정에서 메뉴를 생성하고 소셜 메뉴에 할당해야 합니다."
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFT Trending News"
+msgstr "AFT 동향 뉴스"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "업로드"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "이미지 선택"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "이미지 선택"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "엑스"
+
+#: inc/widgets/widgets-common-functions.php:86
+msgid "Recent"
+msgstr "최근의"
+
+#: inc/widgets/widgets-common-functions.php:99
+msgid "Popular"
+msgstr "인기 있는"
+
+#: inc/widgets/widgets-register-sidebars.php:11
+msgid "Header Banner Ad Section"
+msgstr "헤더 배너 광고 섹션"
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "첫 페이지 배너 섹션 광고용 위젯을 추가합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Off Canvas Drawer Menu Section"
+msgstr "오프 캔버스 서랍 메뉴 섹션"
+
+#: inc/widgets/widgets-register-sidebars.php:25
+msgid "Add widgets for off-canvas section."
+msgstr "캔버스 외부 섹션에 위젯을 추가합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:33
+msgid "Main Sidebar"
+msgstr "메인 사이드바"
+
+#: inc/widgets/widgets-register-sidebars.php:35
+msgid "Add widgets for main sidebar."
+msgstr "메인 사이드바에 위젯을 추가하세요."
+
+#: inc/widgets/widgets-register-sidebars.php:43
+msgid "Front-page Content Section"
+msgstr "첫 페이지 콘텐츠 섹션"
+
+#: inc/widgets/widgets-register-sidebars.php:45
+msgid "Add widgets to front-page contents section."
+msgstr "첫 페이지 콘텐츠 섹션에 위젯을 추가합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Front-page Sidebar Section"
+msgstr "첫 페이지 사이드바 섹션"
+
+#: inc/widgets/widgets-register-sidebars.php:55
+msgid "Add widgets to front-page sidebar section."
+msgstr "첫 페이지 사이드바 섹션에 위젯을 추가합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:65
+msgid "Footer Widget 1"
+msgstr "바닥글 위젯 1"
+
+#: inc/widgets/widgets-register-sidebars.php:67
+msgid "Displays items on footer first column."
+msgstr "바닥글 첫 번째 열에 항목을 표시합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:76
+msgid "Footer Widget 2"
+msgstr "바닥글 위젯 2"
+
+#: inc/widgets/widgets-register-sidebars.php:78
+msgid "Displays items on footer second column."
+msgstr "바닥글 두 번째 열에 항목을 표시합니다."
+
+#: inc/widgets/widgets-register-sidebars.php:86
+msgid "Footer Widget 3"
+msgstr "바닥글 위젯 3"
+
+#: inc/widgets/widgets-register-sidebars.php:88
+msgid "Displays items on footer third column."
+msgstr "바닥글 세 번째 열에 항목을 표시합니다."
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "장바구니 보기"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 항목"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "먹다:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "이동 경로"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "집"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 찾을 수 없음"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "아카이브"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "검색 결과: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "댓글 페이지 %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "분 %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "주 %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "그:나"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "나"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "가"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "와이"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "에프"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "여"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "필수 플러그인 설치"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "플러그인 설치"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "플러그인 설치 중: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "플러그인 업데이트 중: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "플러그인 API에 문제가 발생했습니다."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "이 테마에는 %1$s 플러그인이 필요합니다."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "이 테마에서는 %1$s 플러그인을 권장합니다."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "이 테마와의 호환성을 최대화하려면 다음 플러그인을 최신 버전으로 업데이트해야 합니다: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "다음 플러그인에 사용 가능한 업데이트가 있습니다: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "다음 필수 플러그인은 현재 비활성 상태입니다: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "다음 권장 플러그인은 현재 비활성화되어 있습니다: %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "플러그인 설치 시작"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "플러그인 업데이트 시작"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "플러그인 활성화 시작"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "필수 플러그인 설치 프로그램으로 돌아가기"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "대시보드로 돌아가기"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "플러그인이 활성화되었습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "다음 플러그인이 성공적으로 활성화되었습니다:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "아무런 조치도 취하지 않았습니다. 플러그인 %1$s이 이미 활성화되었습니다."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "플러그인이 활성화되지 않았습니다. 이 테마를 사용하려면 %s의 상위 버전이 필요합니다. 플러그인을 업데이트해주세요."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "모든 플러그인이 성공적으로 설치 및 활성화되었습니다. %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "이 알림 닫기"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "설치, 업데이트 또는 활성화할 필수 또는 권장 플러그인이 하나 이상 있습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "도움이 필요하면 이 사이트의 관리자에게 문의하세요."
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "테마와 호환되도록 하려면 이 플러그인을 업데이트해야 합니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "업데이트 필요"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "원격 플러그인 패키지에 원하는 슬러그가 있는 폴더가 포함되어 있지 않으며 이름 변경이 작동하지 않습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "플러그인 제공업체에 연락하여 WordPress 지침에 따라 플러그인을 패키징하도록 요청하세요."
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "원격 플러그인 패키지는 두 개 이상의 파일로 구성되어 있지만 파일이 폴더에 패키지되어 있지 않습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "그리고"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "필수의"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "추천"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 저장소"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "외부 소스"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "사전 포장됨"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "설치되지 않음"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "설치되었지만 활성화되지 않음"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "활동적인"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "필수 업데이트를 사용할 수 없음"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "업데이트 필요"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "업데이트 권장"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "모든 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>을 설치하려면"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "사용 가능한 <span class=\"count\">(%s)</span> 업데이트"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>을 활성화하려면"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "알려지지 않은"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "설치된 버전:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "최소 필수 버전:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "사용 가능한 버전:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "설치, 업데이트 또는 활성화할 플러그인이 없습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "플러그인"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "원천"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "유형"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "버전"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "상태"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s 설치"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 업데이트"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 활성화"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "플러그인 작성자의 업그레이드 메시지:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "설치하다"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "설치할 플러그인을 선택하지 않았습니다. 아무런 조치도 취하지 않았습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "업데이트하도록 선택된 플러그인이 없습니다. 아무런 조치도 취하지 않았습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "현재는 설치할 수 있는 플러그인이 없습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "현재 업데이트할 수 있는 플러그인이 없습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "활성화할 플러그인을 선택하지 않았습니다. 아무런 조치도 취하지 않았습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "현재 활성화할 수 있는 플러그인이 없습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "플러그인 활성화에 실패했습니다."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인 %1$s 업데이트 중(%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s 설치 중 오류가 발생했습니다: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s 설치에 실패했습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr "설치 및 활성화 프로세스가 시작됩니다. 일부 호스트에서는 이 프로세스에 시간이 걸릴 수 있으므로 잠시 기다려 주십시오."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "%1$s이 완료되었습니다."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "모든 설치 및 활성화가 완료되었습니다."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인 %1$s 설치 및 활성화(%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "설치 프로세스가 시작됩니다. 일부 호스트에서는 이 프로세스에 시간이 걸릴 수 있으므로 잠시 기다려 주십시오."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "모든 설치가 완료되었습니다."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "플러그인 %1$s 설치(%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "빈 캔버스"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "페이지 빌더 전체 너비"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "검색 결과: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "아무것도 찾지 못했습니다"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 게시물을 게시할 준비가 되셨나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "죄송합니다. 검색어와 일치하는 내용이 없습니다. 다른 키워드를 사용하여 다시 시도해 보세요."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "당신이 찾고 있는 것을 찾을 수 없는 것 같습니다. 아마도 검색이 도움이 될 수 있습니다."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:20
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "계속 읽기<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:43
+msgid "Previous: %s"
+msgstr "이전: %s"
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:48
+msgid "Next: %s"
+msgstr "다음: %s"
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:52
+msgid "Post navigation"
+msgstr "게시물 탐색"
+
+#: admin-dashboard/src/components/blockspare.demo.js:18
+msgid "Update Blockspare Pro"
+msgstr "Blockspare Pro 업데이트"
+
+#: admin-dashboard/src/components/blockspare.demo.js:20
+msgid "Update Blockspare"
+msgstr "블록스페어 업데이트"
+
+#: admin-dashboard/src/components/blockspare.demo.js:33
+msgid "Powerful Gutenberg Blocks & Patterns"
+msgstr "강력한 구텐베르크 블록 및 패턴"
+
+#: admin-dashboard/src/components/blockspare.demo.js:36
+msgid ""
+"Easily build and customize your pages with a vast library of Gutenberg "
+"blocks and patterns, perfect for blogs, magazines, and business sites. Add "
+"post grids, sliders, and carousels without touching a single line of code. "
+"Import demo data and effortlessly create multilingual, visually appealing "
+"pages with complete flexibility."
+msgstr ""
+"블로그, 잡지, 비즈니스 사이트에 적합한 구텐베르그 블록 및 패턴의 방대한 라이브러리를 사용하여 페이지를 쉽게 만들고 사용자 정의할 수 "
+"있습니다. 코드 한 줄도 건드리지 않고 포스트 그리드, 슬라이더, 캐러셀을 추가하세요. 데모 데이터를 가져와 완벽한 유연성을 갖춘 "
+"시각적으로 매력적인 다국어 페이지를 손쉽게 생성하세요."
+
+#: admin-dashboard/src/components/dashboard-content.js:33
+msgid "Hello "
+msgstr "안녕하세요"
+
+#: admin-dashboard/src/components/dashboard-content.js:35
+msgid "Welcome to "
+msgstr "에 오신 것을 환영합니다"
+
+#: admin-dashboard/src/components/dashboard-content.js:37
+#: admin-dashboard/src/components/nav-content/free-pro.js:10
+msgid "Free"
+msgstr "무료"
+
+#: admin-dashboard/src/components/dashboard-content.js:49
+msgid "Start with Demo Sites"
+msgstr "데모 사이트로 시작"
+
+#: admin-dashboard/src/components/dashboard-content.js:56
+msgid "Start Customizing"
+msgstr "커스터마이징 시작"
+
+#: admin-dashboard/src/components/elespare-demo.js:18
+msgid "Update Elespare Pro"
+msgstr "Elespare Pro 업데이트"
+
+#: admin-dashboard/src/components/elespare-demo.js:20
+msgid "Update Elespare"
+msgstr "업데이트 Elespare"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Professional Sites with Elementor"
+msgstr "Elementor가 포함된 전문 ​​사이트"
+
+#: admin-dashboard/src/components/elespare-demo.js:37
+msgid ""
+"Transform your blog, news, or magazine website with 35+ advanced Elementor "
+"widgets and 350+ customizable templates. Easily create headers, footers, "
+"post grids, sliders, and carousels with a fast-loading and SEO-optimized "
+"structure. Import demo content with a single click and enjoy codeless "
+"customization to craft your perfect site, no matter the language."
+msgstr ""
+"35개 이상의 고급 Elementor 위젯과 350개 이상의 사용자 정의 가능한 템플릿을 사용하여 블로그, 뉴스 또는 잡지 웹사이트를 "
+"혁신하세요. 빠른 로딩과 SEO에 최적화된 구조로 머리글, 바닥글, 포스트 그리드, 슬라이더, 캐러셀을 쉽게 생성할 수 있습니다. 한 "
+"번의 클릭으로 데모 콘텐츠를 가져오고 코드 없는 사용자 정의를 통해 언어에 관계없이 완벽한 사이트를 만들 수 있습니다."
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"Thank you for installing [theme] — a fast, flexible, and user-friendly theme"
+" for blogs, news sites, and magazines. Get started quickly with our 100+ "
+"one-click starter sites — no coding needed."
+msgstr ""
+"블로그, 뉴스 사이트, 잡지를 위한 빠르고 유연하며 사용자 친화적인 테마인 [theme]을(를) 설치해 주셔서 감사합니다. 100개 "
+"이상의 원클릭 시작 사이트로 빠르게 시작하세요. 코딩이 필요하지 않습니다."
+
+#: admin-dashboard/src/components/json/dashboard-content.js:9
+msgid "Unlock Pro Features"
+msgstr "Pro 기능 잠금 해제"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:14
+msgid "Docs"
+msgstr "문서"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:18
+#: admin-dashboard/src/components/json/dashboard-content.js:28
+msgid "Need Help?"
+msgstr "도움이 필요하신가요?"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:22
+msgid "Rate This Theme"
+msgstr "이 테마를 평가해 주세요"
+
+#: admin-dashboard/src/components/json/freepro-content.js:5
+msgid "Starter Sites Import"
+msgstr "스타터 사이트 가져오기"
+
+#: admin-dashboard/src/components/json/freepro-content.js:6
+msgid "Live Editing in Customizer"
+msgstr "Customizer에서 실시간 편집"
+
+#: admin-dashboard/src/components/json/freepro-content.js:7
+msgid "Dark/Light Site Mode"
+msgstr "다크/라이트 사이트 모드"
+
+#: admin-dashboard/src/components/json/freepro-content.js:8
+msgid "Dark/Light Frontend Switch"
+msgstr "다크/라이트 프런트엔드 스위치"
+
+#: admin-dashboard/src/components/json/freepro-content.js:9
+msgid "Responsive Layout"
+msgstr "반응형 레이아웃"
+
+#: admin-dashboard/src/components/json/freepro-content.js:10
+msgid "Disable WordPress Emojis (GDPR Friendly)"
+msgstr "WordPress Emojis 비활성화(GDPR 친화적)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:13
+msgid "Basic Typography Style"
+msgstr "기본 타이포그래피 스타일"
+
+#: admin-dashboard/src/components/json/freepro-content.js:14
+msgid "Advanced Typography Style (Google & System Fonts - GDPR Friendly)"
+msgstr "고급 타이포그래피 스타일(Google 및 시스템 글꼴 - GDPR 친화적)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:15
+msgid "Basic Color Controls"
+msgstr "기본 색상 제어"
+
+#: admin-dashboard/src/components/json/freepro-content.js:16
+msgid "Advanced Color Controls (Global Options)"
+msgstr "고급 색상 제어(전역 옵션)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:17
+msgid "Category Color Options"
+msgstr "카테고리 색상 옵션"
+
+#: admin-dashboard/src/components/json/freepro-content.js:18
+msgid "Hide Theme Credit Link"
+msgstr "테마 크레딧 링크 숨기기"
+
+#: admin-dashboard/src/components/json/freepro-content.js:19
+msgid "Custom CSS Output Minified"
+msgstr "사용자 정의 CSS 출력이 축소되었습니다."
+
+#: admin-dashboard/src/components/json/freepro-content.js:20
+msgid "Custom CSS Output Optimized with Mobile Spacing"
+msgstr "모바일 간격으로 최적화된 사용자 정의 CSS 출력"
+
+#: admin-dashboard/src/components/json/freepro-content.js:21
+msgid "Improved Font Loading Partial"
+msgstr "향상된 글꼴 로딩 부분"
+
+#: admin-dashboard/src/components/json/freepro-content.js:22
+msgid "Improved Font Loading System/Google Switch + Preconnect"
+msgstr "향상된 글꼴 로딩 시스템/Google 스위치 + 사전 연결"
+
+#: admin-dashboard/src/components/json/freepro-content.js:25
+msgid "Top Header Menu"
+msgstr "상단 헤더 메뉴"
+
+#: admin-dashboard/src/components/json/freepro-content.js:26
+msgid "Multiple Header Layouts (10+ including Centered & Compressed)"
+msgstr "다중 헤더 레이아웃(중앙 및 압축 포함 10개 이상)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:27
+msgid "Sticky Header Option Basic"
+msgstr "고정 헤더 옵션 기본"
+
+#: admin-dashboard/src/components/json/freepro-content.js:28
+msgid "Sticky Header Option Advanced Behavior & Layout Support"
+msgstr "고정 헤더 옵션 고급 동작 및 레이아웃 지원"
+
+#: admin-dashboard/src/components/json/freepro-content.js:29
+msgid "Header Advertisement Widget Area"
+msgstr "헤더 광고 위젯 영역"
+
+#: admin-dashboard/src/components/json/freepro-content.js:30
+msgid "Header & Footer Builder (Drag-and-Drop)"
+msgstr "머리글 및 바닥글 작성기(끌어서 놓기)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:31
+msgid "Customizer Options for Builder Elements"
+msgstr "빌더 요소에 대한 사용자 정의 옵션"
+
+#: admin-dashboard/src/components/json/freepro-content.js:32
+msgid ""
+"Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)"
+msgstr "바닥글 작성기 요소(탐색, 위젯, 사용자 정의 HTML, 동적 텍스트)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:33
+msgid "Additional Menu Locations (incl. Top Menu Element)"
+msgstr "추가 메뉴 위치(상위 메뉴 요소 포함)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:36
+msgid "Front-page Banner Layouts Basic (5+ Layouts)"
+msgstr "첫 페이지 배너 레이아웃 기본(5개 이상의 레이아웃)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:37
+msgid "Front-page Banner Layouts Advanced (30+ Layouts)"
+msgstr "첫 페이지 배너 레이아웃 고급(30개 이상의 레이아웃)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:38
+msgid "Banner Post Filter: Category & Tag"
+msgstr "배너 게시물 필터: 카테고리 및 태그"
+
+#: admin-dashboard/src/components/json/freepro-content.js:39
+msgid "Banner Post Filter: Views & Comments"
+msgstr "배너 게시물 필터: 조회수 및 댓글"
+
+#: admin-dashboard/src/components/json/freepro-content.js:40
+msgid "Above/Below Banner Widget Areas"
+msgstr "배너 위젯 영역 위/아래"
+
+#: admin-dashboard/src/components/json/freepro-content.js:43
+msgid "Featured Videos Section (Custom Field + Responsive)"
+msgstr "추천 동영상 섹션(사용자 정의 필드 + 반응형)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:44
+msgid "Express / 3 Column Posts Section"
+msgstr "Express / 3열 포스트 섹션"
+
+#: admin-dashboard/src/components/json/freepro-content.js:45
+msgid "Posts Carousel Section"
+msgstr "게시물 회전식 섹션"
+
+#: admin-dashboard/src/components/json/freepro-content.js:46
+msgid "Reading Progress Bar"
+msgstr "읽기 진행률 표시줄"
+
+#: admin-dashboard/src/components/json/freepro-content.js:49
+msgid "Post Subtitle Field"
+msgstr "게시물 자막 필드"
+
+#: admin-dashboard/src/components/json/freepro-content.js:50
+msgid "Source & Sponsor Custom Field"
+msgstr "소스 및 스폰서 사용자 정의 필드"
+
+#: admin-dashboard/src/components/json/freepro-content.js:51
+msgid "Post Badge Taxonomy (Breaking, Premium)"
+msgstr "게시물 배지 분류(속보, 프리미엄)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:52
+msgid "Post Reaction Feature (Animated, Localized, Color Custom)"
+msgstr "사후 반응 기능(애니메이션, 현지화, 색상 사용자 정의)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:53
+msgid "Author Box Basic"
+msgstr "작성자 상자 기본"
+
+#: admin-dashboard/src/components/json/freepro-content.js:54
+msgid "Author Box with Donate Link, Website & Author Posts"
+msgstr "기부 링크, 웹사이트, 작성자 게시물이 포함된 작성자 상자"
+
+#: admin-dashboard/src/components/json/freepro-content.js:55
+msgid "Trending Posts in Single Post"
+msgstr "단일 게시물의 인기 게시물"
+
+#: admin-dashboard/src/components/json/freepro-content.js:56
+msgid "Jetpack Share Buttons Placement"
+msgstr "Jetpack 공유 버튼 배치"
+
+#: admin-dashboard/src/components/json/freepro-content.js:57
+msgid "Mailchimp Subscribe Box"
+msgstr "메일침프 구독 상자"
+
+#: admin-dashboard/src/components/json/freepro-content.js:58
+msgid ""
+"Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, "
+"Links, Top Domains)"
+msgstr "단일 게시물 분석 메타박스(조회수, 반응수, 단어 수, 읽기 시간, 링크, 상위 도메인)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:59
+msgid "AJAX Refresh + Caching for Post Analytics"
+msgstr "AJAX 새로 고침 + 사후 분석을 위한 캐싱"
+
+#: admin-dashboard/src/components/json/freepro-content.js:62
+msgid "Centralized Site Analytics Page (Tabbed UI)"
+msgstr "중앙 집중식 사이트 분석 페이지(탭 UI)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:63
+msgid ""
+"Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, "
+"Authors, Reactions, Comments, Word Count, Read Time)"
+msgstr "사이트 전체 지표(게시물, 페이지, 미디어, 인기 게시물, 카테고리, 태그, 작성자, 반응, 댓글, 단어 수, 읽기 시간)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:64
+msgid ""
+"Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top"
+" Posts"
+msgstr "게시물, 댓글, 반응, 링크, 작성자, 카테고리, 태그, 인기 게시물에 대한 차트"
+
+#: admin-dashboard/src/components/json/freepro-content.js:65
+msgid "Unified Chart Styles and Colors"
+msgstr "통합 차트 스타일 및 색상"
+
+#: admin-dashboard/src/components/json/freepro-content.js:68
+msgid "Archive Post Layouts List & Full"
+msgstr "아카이브 게시물 레이아웃 목록 및 전체"
+
+#: admin-dashboard/src/components/json/freepro-content.js:69
+msgid "Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed"
+msgstr "아카이브 포스트 레이아웃 그리드, 타일, 벽돌, 목록 Alt, 오른쪽, 혼합"
+
+#: admin-dashboard/src/components/json/freepro-content.js:70
+msgid "Category-wise Post Layout (Global Only)"
+msgstr "카테고리별 게시물 레이아웃(글로벌 전용)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:71
+msgid "Category-wise Post Layout (Category Specific)"
+msgstr "카테고리별 게시물 레이아웃(카테고리별)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:72
+msgid "Pagination Numeric"
+msgstr "페이지 매김 숫자"
+
+#: admin-dashboard/src/components/json/freepro-content.js:73
+msgid "Pagination Ajax Load More & Infinite Scroll"
+msgstr "페이지 매김 Ajax 더 많이 로드 및 무한 스크롤"
+
+#: admin-dashboard/src/components/json/freepro-content.js:76
+msgid "Basic Custom Widgets (5+ Layouts)"
+msgstr "기본 맞춤 위젯(5개 이상의 레이아웃)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:77
+msgid "Advanced Custom Widgets Count (15+ Layouts)"
+msgstr "고급 사용자 정의 위젯 수(15개 이상의 레이아웃)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:78
+msgid "Section Title Designs (Multiple Styles)"
+msgstr "섹션 제목 디자인(다중 스타일)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:79
+msgid "Trending Posts Carousel (Tag, Views)"
+msgstr "인기 게시물 캐러셀(태그, 조회수)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:80
+msgid "YouTube Video Slider Widget"
+msgstr "YouTube 비디오 슬라이더 위젯"
+
+#: admin-dashboard/src/components/json/freepro-content.js:81
+msgid "Post Express / Grid / Tabbed Widgets"
+msgstr "Post Express/그리드/탭 위젯"
+
+#: admin-dashboard/src/components/json/freepro-content.js:84
+msgid "Centralized Advertisement Support"
+msgstr "중앙 집중식 광고 지원"
+
+#: admin-dashboard/src/components/json/freepro-content.js:85
+msgid "Rotating Ads with Split Option"
+msgstr "분할 옵션을 사용한 광고 순환"
+
+#: admin-dashboard/src/components/json/freepro-content.js:86
+msgid "Ad Placement Areas (Header, Content, Footer, Archive)"
+msgstr "광고 배치 영역(머리글, 내용, 바닥글, 아카이브)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:87
+msgid "Centralized Ads Management Panel"
+msgstr "중앙 집중식 광고 관리 패널"
+
+#: admin-dashboard/src/components/json/freepro-content.js:90
+msgid "Widget Areas Header, Front-page, Sidebar, Footer"
+msgstr "위젯 영역 헤더, 전면 페이지, 사이드바, 바닥글"
+
+#: admin-dashboard/src/components/json/freepro-content.js:91
+msgid "Widget Areas Banner, Featured, Inline"
+msgstr "위젯 영역 배너, 추천, 인라인"
+
+#: admin-dashboard/src/components/json/freepro-content.js:92
+msgid "Advanced Widgets (Carousel, Express, Tabs)"
+msgstr "고급 위젯(회전판, Express, 탭)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:95
+msgid "Free Theme Tone (Default)"
+msgstr "무료 테마 톤(기본값)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:96
+msgid ""
+"Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, "
+"ReviewNews, NewsLight, NewsMore, SideNews)"
+msgstr ""
+"프리미엄 테마 톤(BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, "
+"NewsLight, NewsMore, SideNews)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:99
+msgid "Gutenberg & Page Builders Compatibility"
+msgstr "구텐베르크 및 페이지 빌더 호환성"
+
+#: admin-dashboard/src/components/json/freepro-content.js:100
+msgid "Multilingual & RTL Support"
+msgstr "다국어 및 RTL 지원"
+
+#: admin-dashboard/src/components/json/freepro-content.js:101
+msgid "WooCommerce Support"
+msgstr "WooCommerce 지원"
+
+#: admin-dashboard/src/components/json/freepro-content.js:102
+msgid "SEO Ready Basic"
+msgstr "SEO 준비 기본"
+
+#: admin-dashboard/src/components/json/freepro-content.js:103
+msgid "SEO Ready with Open Graph Enhancements"
+msgstr "오픈 그래프 개선으로 SEO 준비 완료"
+
+#: admin-dashboard/src/components/json/freepro-content.js:106
+msgid "Standard Support"
+msgstr "표준 지원"
+
+#: admin-dashboard/src/components/json/freepro-content.js:107
+msgid "Priority Support (Faster Response)"
+msgstr "우선 지원(더 빠른 응답)"
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "테마 헤더 유형을 설정하고 색상, 간격, 정렬 등을 설정하세요."
+
+#: admin-dashboard/src/components/json/home-content.js:12
+msgid "Banner Advertisement"
+msgstr "배너광고"
+
+#: admin-dashboard/src/components/json/home-content.js:13
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr "헤더 섹션에 프로모션 배너를 쉽게 배치할 수 있습니다."
+
+#: admin-dashboard/src/components/json/home-content.js:19
+msgid "Color Options"
+msgstr "색상 옵션"
+
+#: admin-dashboard/src/components/json/home-content.js:20
+msgid "Change the color setting provide with the Theme."
+msgstr "테마와 함께 제공되는 색상 설정을 변경합니다."
+
+#: admin-dashboard/src/components/json/home-content.js:27
+msgid "Selecting different categories can be done for different section."
+msgstr "섹션마다 다른 카테고리를 선택할 수 있습니다."
+
+#: admin-dashboard/src/components/json/home-content.js:33
+msgid "Front-page Option"
+msgstr "첫 페이지 옵션"
+
+#: admin-dashboard/src/components/json/home-content.js:34
+msgid ""
+"Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr "인기 태그, 속보, 특집 뉴스가 포함된 첫 페이지 레이아웃을 설정할 수 있습니다."
+
+#: admin-dashboard/src/components/json/home-content.js:40
+msgid "Static Front Page"
+msgstr "정적 전면 페이지"
+
+#: admin-dashboard/src/components/json/home-content.js:41
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr "위젯을 사용하여 자신만의 홈페이지를 만들려면 홈페이지를 정적 페이지로 설정하세요."
+
+#: admin-dashboard/src/components/json/home-content.js:47
+msgid "Widgets Area"
+msgstr "위젯 영역"
+
+#: admin-dashboard/src/components/json/home-content.js:48
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "테마에서 제공하는 모든 섹션에 위젯을 추가할 수 있습니다."
+
+#: admin-dashboard/src/components/json/home-content.js:54
+msgid "Archive Options"
+msgstr "아카이브 옵션"
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Customize the blog layout desgin."
+msgstr "블로그 레이아웃 디자인을 사용자 정의하세요."
+
+#: admin-dashboard/src/components/json/home-content.js:61
+msgid "Theme Option"
+msgstr "테마 옵션"
+
+#: admin-dashboard/src/components/json/home-content.js:62
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr "전역 레이아웃, 이동 경로, 사이드바, 단일 게시물 등을 설정하세요. 놓쳤을 수도 있습니다."
+
+#: admin-dashboard/src/components/json/home-content.js:69
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "바닥글 유형, 열 수, 간격 및 색상을 설정합니다."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "보다"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr "테마를 설정하고 사용자 정의하는 방법에 대한 자세한 내용은 전체 설명서를 확인하세요."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"테마 지원 질문이 있거나 버그를 발견했거나 피드백이 있습니까? 질문을 하기 가장 좋은 곳은 해당 테마에 대한 전용 지원 포럼입니다."
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "비디오 튜토리얼"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "동영상"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "테마 사용자 정의에 대한 쉬운 학습을 위해 비디오를 시청하십시오."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:6
+msgid ""
+"TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool. Get ready-to-use Starter Sites instantly and build "
+"modern websites in minutes."
+msgstr ""
+"TemplateSpare - 코드 없는 웹사이트 빌더 - 원클릭 가져오기/내보내기 및 전체 사이트 마이그레이션 도구입니다. 즉시 사용할 "
+"수 있는 스타터 사이트를 얻고 몇 분 안에 최신 웹사이트를 구축하세요."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:13
+msgid ""
+"It has different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"게시물 작성자, ID별 선택 작성자, 맞춤 작성자에 대한 다양한 위젯이 있습니다. 또한 작성자 프로필에 대한 단축 코드도 제공합니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:20
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"AF Companion을 사용하면 라이브 데모 콘텐츠, 위젯, 설정을 신속하게 가져올 수 있습니다. 이 플러그인은 웹사이트를 구축하고 "
+"개발 프로세스를 가속화하기 위한 기본 레이아웃을 제공합니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:27
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"완벽한 블로그, 뉴스 또는 잡지 웹 사이트 디자인 Elespare는 Elementor를 사용하여 무료로 고도의 사용자 정의 옵션을 갖춘 "
+"환상적인 머리글, 바닥글 및 콘텐츠를 만들 수 있는 간단하면서도 효과적인 WordPress 플러그인입니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:34
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr "적응력 있고 창의적인 블록을 사용하면 단 몇 분만에 웹사이트의 복잡한 레이아웃을 디자인할 수 있습니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:42
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"게시물 그리드, 게시물 목록, 전체 게시물 레이아웃, 고급 빠른 게시물 디자인 및 게시물의 타일 레이아웃을 디자인하는 데 도움이 되는 "
+"WordPress용 최신 게시물 Gutenberg 블록의 아름다운 컬렉션입니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:49
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"우리는 WordPress 콘텐츠에 대한 일련의 아름다운 페이지 섹션 Gutenberg 블록을 구축하여 귀하가 항상 원했던 웹 사이트를 "
+"빠르게 생성하는 데 도움을 줍니다."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:57
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"이 무료 플러그인은 웹사이트 방문자가 라이브 채팅이나 라이브 통화를 통해 귀하에게 연락할 수 있는 무료 라이브 채팅 솔루션을 제공합니다."
+" 모두 무료입니다! 고객과 소통하고 매출을 높이세요."
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:68
+msgid ""
+"TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool"
+msgstr "TemplateSpare - 코드 없는 웹사이트 빌더 - 원클릭 가져오기/내보내기 및 전체 사이트 마이그레이션 도구"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:72
+msgid ""
+"Get over 1000 ready-to-import Starter Sites instantly and build modern "
+"websites in minutes, not in weeks."
+msgstr "즉시 가져올 수 있는 1000개 이상의 스타터 사이트를 확보하고 몇 주가 아닌 몇 분 만에 최신 웹사이트를 구축하세요."
+
+#: admin-dashboard/src/components/main.js:54
+msgid "Get started"
+msgstr "시작하기"
+
+#: admin-dashboard/src/components/main.js:63
+msgid "Useful Plugins"
+msgstr "유용한 플러그인"
+
+#: admin-dashboard/src/components/main.js:71
+msgid "Free vs Pro"
+msgstr "무료 대 프로"
+
+#: admin-dashboard/src/components/main.js:79
+msgid "Change Log"
+msgstr "변경 로그"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:9
+msgid "Features"
+msgstr "특징"
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr "옵션으로 이동"
+
+#: admin-dashboard/src/components/templatespare-demo.js:17
+msgid "Update Templatespare"
+msgstr "템플릿 예비 업데이트"
+
+#: admin-dashboard/src/components/templatespare-demo.js:29
+msgid "Easy Website Building with Zero Code"
+msgstr "코드가 필요 없는 간편한 웹사이트 구축"

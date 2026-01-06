@@ -1,0 +1,2411 @@
+{
+  "": {
+    "lang": "ru"
+  },
+  "%1$s thought on &ldquo;%2$s&rdquo;": "%1$s подумал о &ldquo;%2$s&rdquo;",
+  "%1$s thoughts on &ldquo;%2$s&rdquo;": "%1$s мысли о &ldquo;%2$s&rdquo;",
+  "%d item": "%d предмет",
+  "%d items": "%d предметов",
+  "%s comment": "%s комментарий",
+  "%s comments": "%s комментариев",
+  "%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently.": "%s теперь активен. Мы здесь, чтобы помочь вам превратить ваши идеи в красивый профессиональный веб-сайт — быстро и уверенно.",
+  "%s minute read": "%s минута чтения",
+  "%s minutes read": "%s минут чтения",
+  "12 hours": "12 часов",
+  "24 hours": "24 часа",
+  "3 Columns Post Grid": "Сетка из 3 столбцов",
+  "3 Columns Post Grid - 2": "Сетка из 3 столбцов - 2",
+  "3 Columns Post Grid with Background": "Сетка из 3 столбцов с фоном",
+  "3 Columns Post Grid with Dark Background": "Сетка из 3 столбцов с темным фоном",
+  "A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": "Прекрасная коллекция последних блоков постов Гутенберга для WordPress, которая поможет вам создать сетку постов, список постов, полный макет постов, расширенный дизайн экспресс-постов и мозаичный макет ваших постов.",
+  "AJAX Refresh + Caching for Post Analytics": "Обновление AJAX + кеширование для пост-аналитики",
+  "Above/Below Banner Widget Areas": "Области виджетов над/ниже баннера",
+  "Ad Placement Areas (Header, Content, Footer, Archive)": "Области размещения рекламы (шапка, контент, нижний колонтитул, архив)",
+  "Add widget to display . %s": "Добавьте виджет для отображения. %s",
+  "Additional Menu Locations (incl. Top Menu Element)": "Дополнительные местоположения меню (включая элемент верхнего меню)",
+  "Advanced Color Controls (Global Options)": "Расширенные элементы управления цветом (глобальные параметры)",
+  "Advanced Custom Widgets Count (15+ Layouts)": "Расширенное количество пользовательских виджетов (более 15 макетов)",
+  "Advanced Typography Style (Google & System Fonts - GDPR Friendly)": "Расширенный стиль оформления (Google и системные шрифты – соответствие GDPR)",
+  "Advanced Widgets (Carousel, Express, Tabs)": "Расширенные виджеты (карусель, экспресс, вкладки)",
+  "Ajax Results Dropdown": "Раскрывающийся список результатов Ajax",
+  "All (Pages, Posts, etc)": "Все (страницы, публикации и т. д.)",
+  "All <span class=\"count\">(%s)</span>": "Все <span class=\"count\">(%s)</span>",
+  "Also Show Content Image in Archive": "Также показывать изображение контента в архиве",
+  "Archive Options": "Параметры архива",
+  "Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed": "Макеты записей архива: Сетка, Плитка, Кладка, Список Alt, Справа, Смешанный",
+  "Archive Post Layouts List & Full": "Архив списка макетов постов и полный",
+  "Author Box Basic": "Ящик автора Базовый",
+  "Author Box with Donate Link, Website & Author Posts": "Авторский ящик со ссылкой для пожертвований, веб-сайтом и сообщениями автора",
+  "Author and Date Settings": "Настройки автора и даты",
+  "Banner Advertisement": "Баннерная реклама",
+  "Banner Post Filter: Category & Tag": "Баннерный фильтр сообщений: категория и тег",
+  "Banner Post Filter: Views & Comments": "Баннерный фильтр сообщений: просмотры и комментарии",
+  "Basic Color Controls": "Основные элементы управления цветом",
+  "Basic Custom Widgets (5+ Layouts)": "Базовые пользовательские виджеты (более 5 макетов)",
+  "Basic Typography Style": "Базовый стиль типографики",
+  "Begin activating plugin": "Начать активацию плагина",
+  "Begin activating plugins": "Начните активировать плагины",
+  "Begin installing plugin": "Начать установку плагина",
+  "Begin installing plugins": "Начать установку плагинов",
+  "Begin updating plugin": "Начать обновление плагина",
+  "Begin updating plugins": "Начать обновление плагинов",
+  "Blockspare plugin version should be more than %s.": "Версия плагина Blockspare должна быть больше %s.",
+  "Category Color Options": "Категория Варианты цвета",
+  "Category-wise Post Layout (Category Specific)": "Макет публикации по категориям (для конкретной категории)",
+  "Category-wise Post Layout (Global Only)": "Макет публикации по категориям (только глобально)",
+  "Centralized Ads Management Panel": "Централизованная панель управления рекламой",
+  "Centralized Advertisement Support": "Централизованная рекламная поддержка",
+  "Centralized Site Analytics Page (Tabbed UI)": "Страница централизованной аналитики сайта (пользовательский интерфейс с вкладками)",
+  "Change Log": "Журнал изменений",
+  "Change the color setting provide with the Theme.": "Измените настройку цвета, предоставляемую темой.",
+  "Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top Posts": "Графики публикаций, комментариев, реакций, ссылок, авторов, категорий, тегов, популярных сообщений",
+  "Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n      Setup is simple — no coding required.": "Выбирайте из более чем 100 стартовых сайтов, предназначенных для блогов, журналов, бизнеса и многого другого. Настройка проста — кодирование не требуется.",
+  "Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": "Нажмите на настройку <span class=\"dashicons Dashicons-admin-generic\"></span> на каждом элементе, чтобы настроить его параметры.",
+  "Close choose element modal": "Закрыть модальное окно выбора элемента",
+  "Configure Element": "Настроить элемент",
+  "Content, menus, normal texts and paragraphs, etc": "Контент, меню, обычные тексты и абзацы и т. д.",
+  "Create dynamic footer effortlessly with drag-and-drop builder.": "Легко создавайте динамический нижний колонтитул с помощью конструктора с возможностью перетаскивания.",
+  "Create dynamic header effortlessly with drag-and-drop builder.": "Легко создавайте динамический заголовок с помощью конструктора перетаскивания.",
+  "Custom CSS Output Minified": "Минимизированный вывод пользовательского CSS",
+  "Custom CSS Output Optimized with Mobile Spacing": "Пользовательский вывод CSS, оптимизированный с помощью мобильного интервала",
+  "Customize the blog layout desgin.": "Настройте дизайн макета блога.",
+  "Customizer Options for Builder Elements": "Параметры настройки для элементов Builder",
+  "DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": "СОЗДАВАЙТЕ ИДЕАЛЬНЫЙ ВЕБ-САЙТ БЛОГА, НОВОСТЕЙ ИЛИ ЖУРНАЛА Elespare — это простой, но эффективный плагин WordPress, который позволяет вам использовать Elementor для БЕСПЛАТНОГО создания фантастических верхнего, нижнего колонтитула и содержимого веб-сайтов с широкими возможностями настройки.",
+  "Dark/Light Frontend Switch": "Переключатель темного/светлого интерфейса",
+  "Dark/Light Site Mode": "Режим темного/светлого объекта",
+  "Defined Links": "Определенные ссылки",
+  "Device view controls": "Элементы управления представлением устройства",
+  "Disable WordPress Emojis (GDPR Friendly)": "Отключить эмодзи WordPress (согласно GDPR)",
+  "Docs": "Документы",
+  "Easily build and customize your pages with a vast library of Gutenberg blocks and patterns, perfect for blogs, magazines, and business sites. Add post grids, sliders, and carousels without touching a single line of code. Import demo data and effortlessly create multilingual, visually appealing pages with complete flexibility.": "Легко создавайте и настраивайте свои страницы с помощью обширной библиотеки блоков и шаблонов Gutenberg, идеально подходящих для блогов, журналов и бизнес-сайтов. Добавляйте сетки публикаций, слайдеры и карусели, не затрагивая ни единой строки кода. Импортируйте демонстрационные данные и легко создавайте многоязычные, визуально привлекательные страницы с полной гибкостью.",
+  "Easy Website Building with Zero Code": "Простое создание веб-сайта с нулевым кодом",
+  "Elespare plugin version should be more than %s.": "Версия плагина Elespare должна быть больше %s.",
+  "Enable %s Builder": "Включить %s Builder",
+  "Express / 3 Column Posts Section": "Экспресс / Раздел постов в 3 колонки",
+  "Express Grid": "Экспресс-сетка",
+  "Express Tile": "Экспресс Плитка",
+  "Featured Videos Section (Custom Field + Responsive)": "Раздел избранных видео (настраиваемое поле + адаптивный)",
+  "Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)": "Элементы нижнего колонтитула (навигация, виджеты, пользовательский HTML, динамический текст)",
+  "Free Theme Tone (Default)": "Бесплатный тон темы (по умолчанию)",
+  "From WordPress Settings": "Из настроек WordPress",
+  "Front-page Banner Layouts Advanced (30+ Layouts)": "Расширенные макеты баннеров на главной странице (более 30 макетов)",
+  "Front-page Banner Layouts Basic (5+ Layouts)": "Базовые макеты баннеров на главной странице (5+ макетов)",
+  "Front-page Layout Settings": "Настройки макета главной страницы",
+  "Front-page Option": "Вариант на главной странице",
+  "Front-page Options": "Параметры главной страницы",
+  "Front-page layout with Popular Tag, Breaking News, Feature News can be set.": "Можно настроить макет главной страницы с популярными тегами, последними новостями и тематическим новостями.",
+  "GDPR friendly & better performance": "Совместимость с GDPR и лучшая производительность",
+  "Get over 1000 ready-to-import Starter Sites instantly and build modern websites in minutes, not in weeks.": "Мгновенно получите более 1000 готовых к импорту стартовых сайтов и создавайте современные веб-сайты за считанные минуты, а не недели.",
+  "Go to option": "Перейти к опции",
+  "Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme..": "Есть вопрос по поддержке темы, обнаружена ошибка или есть отзывы? Лучшее место, где можно задать свой вопрос, — это специальный форум поддержки этой темы.",
+  "Gutenberg & Page Builders Compatibility": "Совместимость Гутенберга и конструкторов страниц",
+  "Header & Footer Builder (Drag-and-Drop)": "Конструктор верхнего и нижнего колонтитула (перетаскивание)",
+  "Header Advertisement Widget Area": "Область виджета рекламы в заголовке",
+  "Header Banner Ad Section": "Раздел баннерной рекламы в заголовке",
+  "Header Image Mode": "Режим изображения заголовка",
+  "Hello ": "Привет",
+  "Hide Theme Credit Link": "Скрыть кредитную ссылку на тему",
+  "Hide builder panel": "Скрыть панель конструктора",
+  "If there is no Post Featured image set": "Если нет набора избранных изображений для публикации",
+  "Image Async Decoding": "Асинхронное декодирование изображений",
+  "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!": "Импортируйте стартовый сайт, персонализируйте его и живите за 3 простых шага!",
+  "Improved Font Loading Partial": "Улучшенная частичная загрузка шрифтов",
+  "Improved Font Loading System/Google Switch + Preconnect": "Улучшенная система загрузки шрифтов/Google Switch + Preconnect",
+  "Install/Update Status||%1$s, %2$s": [
+    "★ %1$s, %2$s"
+  ],
+  "It has different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": "Он имеет различные виджеты для автора сообщения, выборочного автора по идентификатору и пользовательского автора. Он также предоставляет короткие коды для профиля автора.",
+  "Jetpack Share Buttons Placement": "Расположение кнопок общего доступа Jetpack",
+  "Large Post with Background": "Большой пост с фоном",
+  "Large Posts - 2": "Большие посты - 2",
+  "Live Editing in Customizer": "Живое редактирование в Customizer",
+  "Live search results": "Результаты живого поиска",
+  "Mailchimp Subscribe Box": "Ящик для подписки Mailchimp",
+  "Manage Date": "Управление датой",
+  "Multilingual & RTL Support": "Многоязычная поддержка и поддержка RTL",
+  "Multiple Header Layouts (10+ including Centered & Compressed)": "Несколько макетов заголовков (более 10, включая центрированный и сжатый)",
+  "Need Help?": "Нужна помощь?",
+  "No results found.": "Результаты не найдены.",
+  "Off Canvas Drawer Menu Section": "Раздел меню «Выдвижной ящик холста»",
+  "Off Canvas Widget Area": "Область виджетов за пределами холста",
+  "One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare.": "Импорт демо в один клик, редактор блоков готов, код не требуется! Построен с помощью Blockspare.",
+  "One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare.": "Импорт в один клик, построитель верхнего и нижнего колонтитула, многоязычная поддержка! При поддержке Elespare.",
+  "Pagination Ajax Load More & Infinite Scroll": "Пагинация Ajax Загрузить больше и бесконечная прокрутка",
+  "Pagination Numeric": "Числовая нумерация страниц",
+  "Please check our full documentation for detailed information on how to setup and customize the theme.": "Пожалуйста, ознакомьтесь с нашей полной документацией для получения подробной информации о том, как установить и настроить тему.",
+  "Post Badge Taxonomy (Breaking, Premium)": "Таксономия почтовых значков (Breaking, Premium)",
+  "Post Express / Grid / Tabbed Widgets": "Post Express / Сетка / Виджеты с вкладками",
+  "Post Grid - 2": "Почтовая сетка - 2",
+  "Post Grid with Dark Background": "Сетка сообщений с темным фоном",
+  "Post List with Dark Background": "Список сообщений с темным фоном",
+  "Post Reaction Feature (Animated, Localized, Color Custom)": "Функция пост-реакции (анимированная, локализованная, с пользовательским цветом)",
+  "Post Subtitle Field": "Поле субтитров публикации",
+  "Posts Carousel Section": "Раздел карусели сообщений",
+  "Power Bundle": "Силовой пакет",
+  "Powerful Gutenberg Blocks & Patterns": "Мощные блоки и шаблоны Гутенберга",
+  "Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": "Премиум-темы (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)",
+  "Primary Menu Section": "Основной раздел меню",
+  "Priority Support (Faster Response)": "Приоритетная поддержка (более быстрое реагирование)",
+  "Professional Sites with Elementor": "Профессиональные сайты с Elementor",
+  "Rate This Theme": "Оцените эту тему",
+  "Reading Progress Bar": "Чтение индикатора выполнения",
+  "Remove Element": "Удалить элемент",
+  "Remove||X": [
+    "★ X"
+  ],
+  "Responsive Layout": "Адаптивный макет",
+  "ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 50+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": "ReviewNews — это динамичная, сверхбыстрая и универсальная тема WordPress, созданная для веб-сайтов новостей, журналов, блогов, бизнеса и электронной коммерции по всему миру. Благодаря мощному ПОСТРОИТЕЛЮ HEADER & FOOTER BUILDER, который без проблем работает с редактором блоков, GUTENBERG, ELEMENTOR, BRIZY, DIVI и другими популярными конструкторами страниц, вы можете легко создавать ПРОФЕССИОНАЛЬНЫЕ МАКЕТЫ с помощью перетаскивания — кодирование не требуется. Благодаря более чем 50 НАЧАЛЬНЫМ САЙТАМ, 30+ ПОЛЬЗОВАТЕЛЬСКИМ ВИДЖЕТАМ, РАСШИРЕННЫМ ШАБЛОНАМ БЛОКОВ, ГИБКИМ ОПЦИЯМ Макета, ПОДДЕРЖКЕ AMP и ПОЛНОЙ ИНТЕГРАЦИИ WOOCOMMERCE, он идеально подходит для всего: от интернет-газет, корпоративных сайтов или сайтов НПО, образовательных или культурных порталов до личных блогов, портфолио и журналов о стиле жизни. ReviewNews полностью оптимизирован для SEO, ОСНОВНЫХ ВЕБ-ПИТАНСТВ, СКОРОСТИ и АДАПТИВНОГО ДИЗАЙНА, обеспечивая БЫСТРУЮ ЗАГРУЗКУ и отличную производительность на всех устройствах. Созданный с учетом ДОСТУПНОСТИ WCAG, СООТВЕТСТВИЯ GDPR и ЛЕГКОГО, ЧИСТОГО КОДА, он обеспечивает долгосрочную стабильность и высокие оценки GOOGLE PAGESPEED. МНОГОЯЗЫЧНАЯ и ГОТОВАЯ RTL, с демонстрационным контентом на английском, испанском, немецком, французском, японском, китайском и арабском языках, ReviewNews — это действительно ГЛОБАЛЬНАЯ, ПЕРСПЕКТИВНАЯ ТЕМА, предназначенная для авторов, издателей и компаний, которые ценят СТИЛЬ, МАСШТАБИРУЕМОСТЬ и ПРОИЗВОДИТЕЛЬНОСТЬ на всех рынках. Ознакомьтесь со всеми функциями на https://afthemes.com/products/reviewnews.",
+  "Rotating Ads with Split Option": "Ротация объявлений с возможностью разделения",
+  "SEO Ready Basic": "SEO-готовность: базовый уровень",
+  "SEO Ready with Open Graph Enhancements": "Готовность к SEO с улучшениями Open Graph",
+  "Search Options": "Параметры поиска",
+  "Searching...": "Идет поиск...",
+  "Section Title Designs (Multiple Styles)": "Дизайн заголовков разделов (несколько стилей)",
+  "Select search results for archive": "Выберите результаты поиска для архива",
+  "Selecting different categories can be done for different section.": "Выбор разных категорий можно сделать для разных разделов.",
+  "Set for better performance": "Настройка для лучшей производительности",
+  "Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed and more.": "Установите глобальный макет, навигационную цепочку, боковую панель, одну публикацию, возможно, вы пропустили и многое другое.",
+  "Set the Homepage as a static page to create own homepage using widgets.": "Установите домашнюю страницу как статическую, чтобы создать собственную домашнюю страницу с помощью виджетов.",
+  "Set the theme header type, set the colors, spacing, alignment and more.": "Установите тип заголовка темы, установите цвета, интервалы, выравнивание и многое другое.",
+  "Set to enhance rendering speed": "Установлено для повышения скорости рендеринга.",
+  "Show Author Bio under Content": "Показать биографию автора под контентом",
+  "Show Date": "Показать дату",
+  "Show Time": "Время для шоу",
+  "Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, Links, Top Domains)": "Метабокс аналитики отдельных публикаций (просмотры, реакции, количество слов, время чтения, ссылки, популярные домены)",
+  "Single Post Column with Background": "Один столбец сообщений с фоном",
+  "Single Post Column with Dark Background": "Один столбец сообщений с темным фоном",
+  "Site title, post titles, widgets titles, etc": "Заголовок сайта, заголовки сообщений, заголовки виджетов и т. д.",
+  "Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, Authors, Reactions, Comments, Word Count, Read Time)": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+  "Slider and Double Tiles": "Слайдер и двойные плитки",
+  "Slider and Double Trending": "Слайдер и двойной тренд",
+  "Slider, Tiles and Trending": "Слайдер, плитки и тенденции",
+  "Source & Sponsor Custom Field": "Пользовательское поле источника и спонсора",
+  "Standard Support": "Стандартная поддержка",
+  "Start with Demo Sites": "Начните с демонстрационных сайтов",
+  "Starter Sites Import": "Импорт стартовых сайтов",
+  "Static Front Page": "Статическая главная страница",
+  "Sticky Header Option Advanced Behavior & Layout Support": "Опция закрепления заголовка. Расширенное поведение и поддержка макета.",
+  "Sticky Header Option Basic": "Базовый вариант закрепления заголовка",
+  "Sticky header works only with builder at bottom.": "Прикрепленный заголовок работает только с конструктором внизу.",
+  "TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool": "TemplateSpare — конструктор веб-сайтов без кода — инструмент импорта/экспорта и полной миграции сайта в один клик",
+  "TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool. Get ready-to-use Starter Sites instantly and build modern websites in minutes.": "TemplateSpare — конструктор веб-сайтов без кода — инструмент импорта/экспорта и полной миграции сайта в один клик. Мгновенно получайте готовые к использованию стартовые сайты и создавайте современные веб-сайты за считанные минуты.",
+  "Thank you for installing [theme] — a fast, flexible, and user-friendly theme for blogs, news sites, and magazines. Get started quickly with our 100+ one-click starter sites — no coding needed.": "Благодарим вас за установку [темы] — быстрой, гибкой и удобной темы для блогов, новостных сайтов и журналов. Начните быстро с помощью наших более чем 100 стартовых сайтов в один клик — кодирование не требуется.",
+  "The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.": "Действие «Начать» установит/активирует плагины Templatespare и Blockspare для стартовых сайтов и шаблонов.",
+  "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": "Следующий плагин необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s.",
+  "The following plugin was activated successfully:": "Следующий плагин был успешно активирован:",
+  "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s.": "Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s.",
+  "The following plugins were activated successfully:": "Следующие плагины были успешно активированы:",
+  "The following recommended plugin is currently inactive: %1$s.": "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s.",
+  "The following recommended plugins are currently inactive: %1$s.": "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s.",
+  "The following required plugin is currently inactive: %1$s.": "Следующий обязательный плагин в настоящее время неактивен: %1$s.",
+  "The following required plugins are currently inactive: %1$s.": "Следующие необходимые плагины в настоящее время неактивны: %1$s.",
+  "Theme Option": "Вариант темы",
+  "There are updates available for the following plugins: %1$s.": "Доступны обновления для следующих плагинов: %1$s.",
+  "There is an update available for: %1$s.": "Доступно обновление для: %1$s.",
+  "This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": "Этот бесплатный плагин предлагает бесплатное решение для онлайн-чата, позволяющее посетителям вашего сайта связаться с вами через онлайн-чат или онлайн-звонок — и все это бесплатно! Взаимодействуйте со своими клиентами и увеличивайте продажи.",
+  "This theme recommends the following plugin: %1$s.": "Эта тема рекомендует следующий плагин: %1$s.",
+  "This theme recommends the following plugins: %1$s.": "Эта тема рекомендует следующие плагины: %1$s.",
+  "This theme requires the following plugin: %1$s.": "Для этой темы требуется следующий плагин: %1$s.",
+  "This theme requires the following plugins: %1$s.": "Для этой темы требуются следующие плагины: %1$s.",
+  "This widget area is used in the mobile off-canvas panel. %s": "Эта область виджетов используется на мобильной панели вне холста. %s",
+  "Time Format": "Формат времени",
+  "To Activate <span class=\"count\">(%s)</span>": "Чтобы активировать <span class=\"count\">(%s)</span>",
+  "To Install <span class=\"count\">(%s)</span>": "Чтобы установить <span class=\"count\">(%s)</span>",
+  "Top Header Menu": "Меню верхнего заголовка",
+  "Transform your blog, news, or magazine website with 35+ advanced Elementor widgets and 350+ customizable templates. Easily create headers, footers, post grids, sliders, and carousels with a fast-loading and SEO-optimized structure. Import demo content with a single click and enjoy codeless customization to craft your perfect site, no matter the language.": "Преобразите свой блог, новостной сайт или веб-сайт журнала с помощью более 35 расширенных виджетов Elementor и более 350 настраиваемых шаблонов. Легко создавайте верхние и нижние колонтитулы, сетки публикаций, слайдеры и карусели с быстрой загрузкой и оптимизированной для SEO структурой. Импортируйте демонстрационный контент одним щелчком мыши и наслаждайтесь настройкой без кода, чтобы создать идеальный сайт, независимо от языка.",
+  "Trending Posts Carousel (Tag, Views)": "Карусель трендовых публикаций (теги, просмотры)",
+  "Trending Posts in Single Post": "Популярные публикации в одном сообщении",
+  "Unified Chart Styles and Colors": "Унифицированные стили и цвета диаграмм",
+  "Update Available <span class=\"count\">(%s)</span>": "Доступно обновление <span class=\"count\">(%s)</span>",
+  "Update Blockspare": "Обновить резервный блок",
+  "Update Blockspare Pro": "Обновите Blockspare Pro",
+  "Update Elespare": "Обновить Элеспар",
+  "Update Elespare Pro": "Обновите Elespare Pro",
+  "Update Templatespare": "Обновить шаблон",
+  "Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": "Используйте AF Companion для быстрого импорта демонстрационного контента, виджетов и настроек. Этот плагин предоставляет базовую структуру для создания вашего веб-сайта и ускоряет процесс разработки.",
+  "Video  Tutorials": "Видеоуроки",
+  "View": "Вид",
+  "View all results for \"%s\"": "Просмотреть все результаты по запросу \"%s\"",
+  "View all search results": "Посмотреть все результаты поиска",
+  "Watch out the videos for an easy learning on Customizing the Theme .": "Посмотрите видеоролики, чтобы легко научиться настройке темы.",
+  "We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": "Мы создаем красивую серию блоков разделов страниц Gutenberg для контента WordPress, чтобы помочь вам быстро создать веб-сайт, о котором вы всегда мечтали.",
+  "Welcome to ": "Добро пожаловать в",
+  "Whether you're just starting or customizing your site.": "Независимо от того, начинаете ли вы или настраиваете свой сайт.",
+  "Widget Areas Banner, Featured, Inline": "Баннер областей виджетов, избранные, встроенные",
+  "Widget Areas Header, Front-page, Sidebar, Footer": "Области виджетов: заголовок, главная страница, боковая панель, нижний колонтитул",
+  "Widgets Area": "Область виджетов",
+  "Widgets can be added on all the section provide by the Theme.": "Виджеты можно добавлять во все разделы темы.",
+  "WooCommerce Support": "Поддержка WooCommerce",
+  "You can change Menu from menu panel. %s": "Вы можете изменить меню с панели меню. %s",
+  "You can change Site Identity from %s.": "Вы можете изменить идентификатор сайта с %s.",
+  "You can change date from general settings (Settings > General > Date Format). %s": "Вы можете изменить дату в общих настройках («Настройки» > «Основные» > «Формат даты»). %s",
+  "You can easily place your promotional banners within your header section.": "Вы можете легко разместить рекламные баннеры в разделе заголовка.",
+  "You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": "Вы можете создать сложные макеты для своего сайта всего за несколько минут с помощью наших адаптируемых и изобретательных блоков.",
+  "YouTube Video Slider Widget": "Виджет слайдера видео YouTube",
+  "as in: \"version nr unknown\"||unknown": [
+    "★ неизвестна"
+  ],
+  "breadcrumbs aria label||Breadcrumbs": [
+    "★ Навигационные цепочки"
+  ],
+  "close Off-Canvas Navigation": "закрыть Навигация за пределами холста",
+  "comments title||%1$s thought on &ldquo;%2$s&rdquo;": [
+    "★ %1$s подумал о &ldquo;%2$s&rdquo;",
+    "★ %1$s мысли о &ldquo;%2$s&rdquo;",
+    "★ %1$s мысли о &ldquo;%2$s&rdquo;"
+  ],
+  "daily archives date format||j": [
+    "★ j"
+  ],
+  "hour archives time format||g a": [
+    "★ H"
+  ],
+  "minute and hour archives time format||g:i a": [
+    "★ H:i"
+  ],
+  "minute archives time format||i": [
+    "★ i"
+  ],
+  "monthly archives date format||F": [
+    "★ F"
+  ],
+  "plugin A *and* plugin B||and": [
+    "★ и"
+  ],
+  "plugins||All <span class=\"count\">(%s)</span>": [
+    "★ Все <span class=\"count\">(%s)</span>",
+    "★ Все <span class=\"count\">(%s)</span>",
+    "★ Все <span class=\"count\">(%s)</span>"
+  ],
+  "weekly archives date format||W": [
+    "★ W"
+  ],
+  "yearly archives date format||Y": [
+    "★ Y"
+  ],
+  "||%1$s by %2$s.": [
+    "★ %1$s от %2$s."
+  ],
+  "||%1$s done.": [
+    "★ %1$s готов."
+  ],
+  "||%d item": [
+    "★ %d предмет",
+    "★ %d предметов",
+    "★ %d предметов"
+  ],
+  "||%s ago": [
+    "★ %s назад"
+  ],
+  "||%s comment": [
+    "★ %s комментарий",
+    "★ %s комментариев",
+    "★ %s комментариев"
+  ],
+  "||%s is now active. We're here to help you turn your ideas into a beautiful, professional website — quickly and confidently.": [
+    "○ %s теперь активен. Мы здесь, чтобы помочь вам превратить ваши идеи в красивый профессиональный веб-сайт — быстро и уверенно."
+  ],
+  "||%s minute read": [
+    "★ %s минута чтения",
+    "★ %s минут чтения",
+    "★ %s минут чтения"
+  ],
+  "||(Last updated: %s)": [
+    "★ (Последнее обновление: %s)"
+  ],
+  "||-- Select --": [
+    "★ -- Выбрать --"
+  ],
+  "||12 hours": [
+    "○ 12 часов"
+  ],
+  "||24 hours": [
+    "○ 24 часа"
+  ],
+  "||3 Columns Post Grid": [
+    "○ Сетка из 3 столбцов"
+  ],
+  "||3 Columns Post Grid - 2": [
+    "○ Сетка из 3 столбцов - 2"
+  ],
+  "||3 Columns Post Grid with Background": [
+    "○ Сетка из 3 столбцов с фоном"
+  ],
+  "||3 Columns Post Grid with Dark Background": [
+    "○ Сетка из 3 столбцов с темным фоном"
+  ],
+  "||404 Not Found": [
+    "★ 404 не найдено"
+  ],
+  "||A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts.": [
+    "○ Прекрасная коллекция последних блоков постов Гутенберга для WordPress, которая поможет вам создать сетку постов, список постов, полный макет постов, расширенный дизайн экспресс-постов и мозаичный макет ваших постов."
+  ],
+  "||AF themes": [
+    "★ AF themes"
+  ],
+  "||AFT Author Info": [
+    "★ AFT инфо об авторе"
+  ],
+  "||AFT Express Posts List": [
+    "★ AFT экспресс-сетка записей"
+  ],
+  "||AFT Post Double Columns": [
+    "★ AFT отдельный столбец записи"
+  ],
+  "||AFT Post Grid": [
+    "★ AFT сетка записи"
+  ],
+  "||AFT Post List": [
+    "★ AFT список записи"
+  ],
+  "||AFT Post Single Column": [
+    "★ AFT отдельный столбец записи"
+  ],
+  "||AFT Posts Slider": [
+    "★ AFT слайдер записей"
+  ],
+  "||AFT Social Contacts": [
+    "★ AFT Социальные контакты"
+  ],
+  "||AFT Trending News": [
+    "★ AFT трендовые новости"
+  ],
+  "||AJAX Refresh + Caching for Post Analytics": [
+    "○ Обновление AJAX + кеширование для пост-аналитики"
+  ],
+  "||About Author": [
+    "★ Про автора"
+  ],
+  "||About the Author": [
+    "★ Об авторе"
+  ],
+  "||Above Site Title": [
+    "★ Выше названия сайта"
+  ],
+  "||Above/Below Banner Widget Areas": [
+    "○ Области виджетов над/ниже баннера"
+  ],
+  "||Action failed. Please refresh the page and retry.": [
+    "★ Действие не удалось. Обновите страницу и попробуйте снова."
+  ],
+  "||Activate": [
+    "★ Активировать"
+  ],
+  "||Activate %2$s": [
+    "★ Активировать %2$s"
+  ],
+  "||Activated": [
+    "★ Активировано"
+  ],
+  "||Active": [
+    "★ Активен"
+  ],
+  "||Ad Placement Areas (Header, Content, Footer, Archive)": [
+    "○ Области размещения рекламы (шапка, контент, нижний колонтитул, архив)"
+  ],
+  "||Add Element": [
+    "★ Добавить элемент"
+  ],
+  "||Add widget to display . %s": [
+    "○ Добавьте виджет для отображения. %s"
+  ],
+  "||Add widgets for frontpage banner section advertisement.": [
+    "★ Добавить виджеты для рекламы раздела баннеров на главной странице."
+  ],
+  "||Add widgets for main sidebar.": [
+    "★ Добавить виджеты для главной области виджетов."
+  ],
+  "||Add widgets for off-canvas section.": [
+    "★ Добавить виджеты для раздела, скрытого за пределами экрана."
+  ],
+  "||Add widgets to front-page contents section.": [
+    "★ Добавить виджеты в раздел содержимого главной страницы."
+  ],
+  "||Add widgets to front-page sidebar section.": [
+    "★ Добавить виджеты в раздел области виджетов на главной странице."
+  ],
+  "||Additional Menu Locations (incl. Top Menu Element)": [
+    "○ Дополнительные местоположения меню (включая элемент верхнего меню)"
+  ],
+  "||Advanced Color Controls (Global Options)": [
+    "○ Расширенные элементы управления цветом (глобальные параметры)"
+  ],
+  "||Advanced Custom Widgets Count (15+ Layouts)": [
+    "○ Расширенное количество пользовательских виджетов (более 15 макетов)"
+  ],
+  "||Advanced Typography Style (Google & System Fonts - GDPR Friendly)": [
+    "○ Расширенный стиль оформления (Google и системные шрифты – соответствие GDPR)"
+  ],
+  "||Advanced Widgets (Carousel, Express, Tabs)": [
+    "○ Расширенные виджеты (карусель, экспресс, вкладки)"
+  ],
+  "||Advertisement": [
+    "★ Реклама"
+  ],
+  "||After Content": [
+    "★ Ниже содержимого"
+  ],
+  "||Ago Date Format": [
+    "★ Формат даты тому назад"
+  ],
+  "||Ajax Results Dropdown": [
+    "○ Раскрывающийся список результатов Ajax"
+  ],
+  "||All (Pages, Posts, etc)": [
+    "○ Все (страницы, публикации и т. д.)"
+  ],
+  "||All Themes Plan": [
+    "★ План по всем темам"
+  ],
+  "||All installations and activations have been completed.": [
+    "★ Все процедуры установки и активации завершены."
+  ],
+  "||All installations have been completed.": [
+    "★ Все установки завершены."
+  ],
+  "||All plugins installed and activated successfully. %1$s": [
+    "★ Все плагины были успешно установлены и активированы. %1$s"
+  ],
+  "||Also Show Content Image in Archive": [
+    "○ Также показывать изображение контента в архиве"
+  ],
+  "||An error occurred while installing %1$s: <strong>%2$s</strong>.": [
+    "★ Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+  ],
+  "||Archive Options": [
+    "○ Параметры архива"
+  ],
+  "||Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed": [
+    "○ Макеты записей архива: Сетка, Плитка, Кладка, Список Alt, Справа, Смешанный"
+  ],
+  "||Archive Post Layouts List & Full": [
+    "○ Архив списка макетов постов и полный"
+  ],
+  "||Archive Settings": [
+    "★ Настройки архива"
+  ],
+  "||Archive layout": [
+    "★ Раскладка архива"
+  ],
+  "||Archives": [
+    "★ Архивы"
+  ],
+  "||Are you sure you want to install this plugin?": [
+    "★ Вы уверены, что хотите установить версию plugin?"
+  ],
+  "||Author Box Basic": [
+    "○ Ящик автора Базовый"
+  ],
+  "||Author Box with Donate Link, Website & Author Posts": [
+    "○ Авторский ящик со ссылкой для пожертвований, веб-сайтом и сообщениями автора"
+  ],
+  "||Author Icon": [
+    "★ Значок автора"
+  ],
+  "||Author and Date Settings": [
+    "○ Настройки автора и даты"
+  ],
+  "||Available version:": [
+    "★ Доступная версия:"
+  ],
+  "||Banner Advertisement": [
+    "○ Баннерная реклама"
+  ],
+  "||Banner Post Filter: Category & Tag": [
+    "○ Баннерный фильтр сообщений: категория и тег"
+  ],
+  "||Banner Post Filter: Views & Comments": [
+    "○ Баннерный фильтр сообщений: просмотры и комментарии"
+  ],
+  "||Basic Color Controls": [
+    "○ Основные элементы управления цветом"
+  ],
+  "||Basic Custom Widgets (5+ Layouts)": [
+    "○ Базовые пользовательские виджеты (более 5 макетов)"
+  ],
+  "||Basic Typography Style": [
+    "○ Базовый стиль типографики"
+  ],
+  "||Before Content": [
+    "★ Выше содержимого"
+  ],
+  "||Begin activating plugin": [
+    "★ Начать активацию плагина",
+    "★ Начните активировать плагины",
+    "★ Начните активировать плагины"
+  ],
+  "||Begin installing plugin": [
+    "★ Начать установку плагина",
+    "★ Начать установку плагинов",
+    "★ Начать установку плагинов"
+  ],
+  "||Begin updating plugin": [
+    "★ Начать обновление плагина",
+    "★ Начать обновление плагинов",
+    "★ Начать обновление плагинов"
+  ],
+  "||Beta": [
+    "★ Бета"
+  ],
+  "||Blank Canvas": [
+    "★ Чистый холст"
+  ],
+  "||Block Patterns": [
+    "★ Паттерны блока"
+  ],
+  "||Blockspare": [
+    "★ Blockspare"
+  ],
+  "||Blockspare plugin version should be more than %s.": [
+    "○ Версия плагина Blockspare должна быть больше %s."
+  ],
+  "||Body Background Color": [
+    "★ Цвет фона основной части"
+  ],
+  "||Body Background Color (Dark Mode)": [
+    "★ Цвет фона основного текста (темный режим)"
+  ],
+  "||Body Background Color (Dark Mode) will be applied for this mode.": [
+    "★ Цвет фона основного текста (темный режим) будет применен для этого режима."
+  ],
+  "||Bottom": [
+    "★ Снизу"
+  ],
+  "||Breadcrumb Options": [
+    "★ Параметры навигационной цепочки"
+  ],
+  "||Breaking News": [
+    "★ Срочные новости"
+  ],
+  "||Browse:": [
+    "★ Просмотреть:"
+  ],
+  "||By": [
+    "★ От"
+  ],
+  "||Categories": [
+    "★ Категории"
+  ],
+  "||Categories Settings": [
+    "★ Настройки рубрик"
+  ],
+  "||Categories to be displayed": [
+    "★ Рубрики, которые будут отображаться"
+  ],
+  "||Category": [
+    "★ Категория"
+  ],
+  "||Category Color 1": [
+    "★ Цвет 1 рубрики"
+  ],
+  "||Category Color 2": [
+    "★ Цвет 2 рубрики"
+  ],
+  "||Category Color 3": [
+    "★ Цвет 3 рубрики"
+  ],
+  "||Category Color Options": [
+    "○ Категория Варианты цвета"
+  ],
+  "||Category-wise Post Layout (Category Specific)": [
+    "○ Макет публикации по категориям (для конкретной категории)"
+  ],
+  "||Category-wise Post Layout (Global Only)": [
+    "○ Макет публикации по категориям (только глобально)"
+  ],
+  "||Centralized Ads Management Panel": [
+    "○ Централизованная панель управления рекламой"
+  ],
+  "||Centralized Advertisement Support": [
+    "○ Централизованная рекламная поддержка"
+  ],
+  "||Centralized Site Analytics Page (Tabbed UI)": [
+    "○ Страница централизованной аналитики сайта (пользовательский интерфейс с вкладками)"
+  ],
+  "||Change Log": [
+    "○ Журнал изменений"
+  ],
+  "||Change the color setting provide with the Theme.": [
+    "○ Измените настройку цвета, предоставляемую темой."
+  ],
+  "||Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top Posts": [
+    "○ Графики публикаций, комментариев, реакций, ссылок, авторов, категорий, тегов, популярных сообщений"
+  ],
+  "||Cheatin&#8217; huh?": [
+    "★ Эй! Жульничаем?"
+  ],
+  "||Choose Image": [
+    "★ Выбрать изображение"
+  ],
+  "||Choose an Element": [
+    "★ Щелкните элемент"
+  ],
+  "||Choose date format": [
+    "★ Выбрать формат даты"
+  ],
+  "||Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n      Setup is simple — no coding required.": [
+    "○ Выбирайте из более чем 100 стартовых сайтов, предназначенных для блогов, журналов, бизнеса и многого другого. Настройка проста — кодирование не требуется."
+  ],
+  "||Claim Your Discount": [
+    "★ Запросить скидку"
+  ],
+  "||Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> on each element to customize its settings.": [
+    "○ Нажмите на настройку <span class=\"dashicons Dashicons-admin-generic\"></span> на каждом элементе, чтобы настроить его параметры."
+  ],
+  "||Close choose element modal": [
+    "○ Закрыть модальное окно выбора элемента"
+  ],
+  "||Color Class": [
+    "★ Класс цвета"
+  ],
+  "||Color Options": [
+    "★ Варианты цвета"
+  ],
+  "||Comment Count": [
+    "★ Количество комментариев"
+  ],
+  "||Comment Page %s": [
+    "★ Страница комментария %s"
+  ],
+  "||Comments are closed.": [
+    "★ Комментарии закрыты."
+  ],
+  "||Configure Element": [
+    "○ Настроить элемент"
+  ],
+  "||Connect to Us": [
+    "★ Связь с нами"
+  ],
+  "||Connect with Us": [
+    "★ Свяжитесь с нами"
+  ],
+  "||Content - Primary Sidebar": [
+    "★ Содержимое - основная область виджетов"
+  ],
+  "||Content - Primary sidebar": [
+    "★ Содержимое - основная область виджетов"
+  ],
+  "||Content Options": [
+    "★ Настройки содержимого"
+  ],
+  "||Content View": [
+    "★ Просмотр содержимого"
+  ],
+  "||Content, menus, normal texts and paragraphs, etc": [
+    "○ Контент, меню, обычные тексты и абзацы и т. д."
+  ],
+  "||Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>": [
+    "★ Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+  ],
+  "||Copy link to clipboard": [
+    "★ Скопировать ссылку в буфер обмена"
+  ],
+  "||Copyright": [
+    "★ Copyright"
+  ],
+  "||Copyright &copy; {year} All rights reserved.": [
+    "★ Авторское право &copy; {year} Все права зарезервированы."
+  ],
+  "||Copyright Text": [
+    "★ Текст авторского права"
+  ],
+  "||Create dynamic footer effortlessly with drag-and-drop builder.": [
+    "○ Легко создавайте динамический нижний колонтитул с помощью конструктора с возможностью перетаскивания."
+  ],
+  "||Create dynamic header effortlessly with drag-and-drop builder.": [
+    "○ Легко создавайте динамический заголовок с помощью конструктора перетаскивания."
+  ],
+  "||Custom CSS Output Minified": [
+    "○ Минимизированный вывод пользовательского CSS"
+  ],
+  "||Custom CSS Output Optimized with Mobile Spacing": [
+    "○ Пользовательский вывод CSS, оптимизированный с помощью мобильного интервала"
+  ],
+  "||Custom HTML": [
+    "★ Произвольный HTML"
+  ],
+  "||Custom Link": [
+    "★ Пользовательская ссылка"
+  ],
+  "||Custom Options": [
+    "★ Пользовательские параметры"
+  ],
+  "||Custom link": [
+    "★ Пользовательская ссылка"
+  ],
+  "||Customize": [
+    "★ Customize"
+  ],
+  "||Customize the blog layout desgin.": [
+    "○ Настройте дизайн макета блога."
+  ],
+  "||Customizer Options for Builder Elements": [
+    "○ Параметры настройки для элементов Builder"
+  ],
+  "||DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. ": [
+    "○ СОЗДАВАЙТЕ ИДЕАЛЬНЫЙ ВЕБ-САЙТ БЛОГА, НОВОСТЕЙ ИЛИ ЖУРНАЛА Elespare — это простой, но эффективный плагин WordPress, который позволяет вам использовать Elementor для БЕСПЛАТНОГО создания фантастических верхнего, нижнего колонтитула и содержимого веб-сайтов с широкими возможностями настройки."
+  ],
+  "||Dark": [
+    "★ Тёмный"
+  ],
+  "||Dark/Light Frontend Switch": [
+    "○ Переключатель темного/светлого интерфейса"
+  ],
+  "||Dark/Light Site Mode": [
+    "○ Режим темного/светлого объекта"
+  ],
+  "||Dashboard": [
+    "★ Dashboard"
+  ],
+  "||Date": [
+    "★ Дата"
+  ],
+  "||Date Format": [
+    "★ Формат даты"
+  ],
+  "||Default": [
+    "★ По умолчанию"
+  ],
+  "||Defined Links": [
+    "○ Определенные ссылки"
+  ],
+  "||Descriptions": [
+    "★ Описания"
+  ],
+  "||Desktop": [
+    "★ Компьютер"
+  ],
+  "||Device view controls": [
+    "○ Элементы управления представлением устройства"
+  ],
+  "||Disable": [
+    "★ Отключить"
+  ],
+  "||Disable Emoji Script": [
+    "★ Отключить скрипт Emoji"
+  ],
+  "||Disable Image Tint/Overlay": [
+    "★ Отключить оттенок/наложение изображения"
+  ],
+  "||Disable Main Banner on Blog": [
+    "★ Отключить главный баннер на блоге"
+  ],
+  "||Disable Sticky Header": [
+    "★ Отключить прикрепленный заголовок"
+  ],
+  "||Disable WordPress Emojis (GDPR Friendly)": [
+    "○ Отключить эмодзи WordPress (согласно GDPR)"
+  ],
+  "||Dismiss this notice": [
+    "★ Отклонить это уведомление"
+  ],
+  "||Displays Express Posts from selected categories.": [
+    "★ Отображает экспресс-записи из выбранных рубрик."
+  ],
+  "||Displays author info.": [
+    "★ Отображать информацию об авторе."
+  ],
+  "||Displays grid from selected categories.": [
+    "★ Отображает сетку из выбранных рубрик."
+  ],
+  "||Displays items on footer first column.": [
+    "★ Отображать элементы в 1-м столбце подвала."
+  ],
+  "||Displays items on footer second column.": [
+    "★ Отображать элементы во 2-м столбце подвала."
+  ],
+  "||Displays items on footer third column.": [
+    "★ Отображать элементы в 3-м столбце подвала."
+  ],
+  "||Displays posts single column from selected categories.": [
+    "★ Отображает записи в отдельном столбце из выбранных рубрики."
+  ],
+  "||Displays posts slider from selected category.": [
+    "★ Отображать слайдер записи из выбранной рубрики."
+  ],
+  "||Displays social contacts lists from selected settings.": [
+    "★ Отображать списки социальных контактов из выбранных настроек."
+  ],
+  "||Docs": [
+    "○ Документы"
+  ],
+  "||Documentation": [
+    "★ Документация"
+  ],
+  "||Easily build and customize your pages with a vast library of Gutenberg blocks and patterns, perfect for blogs, magazines, and business sites. Add post grids, sliders, and carousels without touching a single line of code. Import demo data and effortlessly create multilingual, visually appealing pages with complete flexibility.": [
+    "○ Легко создавайте и настраивайте свои страницы с помощью обширной библиотеки блоков и шаблонов Gutenberg, идеально подходящих для блогов, журналов и бизнес-сайтов. Добавляйте сетки публикаций, слайдеры и карусели, не затрагивая ни единой строки кода. Импортируйте демонстрационные данные и легко создавайте многоязычные, визуально привлекательные страницы с полной гибкостью."
+  ],
+  "||Easy Website Building with Zero Code": [
+    "○ Простое создание веб-сайта с нулевым кодом"
+  ],
+  "||Edit <span class=\"screen-reader-text\">%s</span>": [
+    "★ Изменить <span class=\"screen-reader-text\">%s</span>"
+  ],
+  "||Editor's Picks": [
+    "★ Выбор редактора"
+  ],
+  "||Editor's Picks Section": [
+    "★ Раздел Editor Picks"
+  ],
+  "||Element Settings": [
+    "★ Настройки элемента"
+  ],
+  "||Elementor Kits": [
+    "★ Elementor Kits"
+  ],
+  "||Elespare": [
+    "★ Elespare"
+  ],
+  "||Elespare plugin version should be more than %s.": [
+    "○ Версия плагина Elespare должна быть больше %s."
+  ],
+  "||Enable": [
+    "★ Включить"
+  ],
+  "||Enable ": [
+    "★ Включить"
+  ],
+  "||Enable %s Builder": [
+    "○ Включить %s Builder"
+  ],
+  "||Enable Custom Menu Section": [
+    "★ Включить раздел пользовательского банера"
+  ],
+  "||Enable Featured Post Section": [
+    "★ Включить раздел Рекомендуемые записи"
+  ],
+  "||Enable Flash News": [
+    "★ Включить флэш-новости"
+  ],
+  "||Enable Main Banner Section": [
+    "★ Раздел баннера"
+  ],
+  "||Enable Post List Section": [
+    "★ Включить раздел списка записей"
+  ],
+  "||Enable Preloader": [
+    "★ Анимация загрузки"
+  ],
+  "||Enable Related Posts": [
+    "★ Включить связанные записи"
+  ],
+  "||Error - unable to verify nonce, please try again.": [
+    "★ Ошибка - не удалось проверить nonce, попробуйте еще раз."
+  ],
+  "||Excerpt Settings": [
+    "★ Настройки отрывка"
+  ],
+  "||Express / 3 Column Posts Section": [
+    "○ Экспресс / Раздел постов в 3 колонки"
+  ],
+  "||Express Grid": [
+    "○ Экспресс-сетка"
+  ],
+  "||Express Tile": [
+    "○ Экспресс Плитка"
+  ],
+  "||External Source": [
+    "★ Внешний источник"
+  ],
+  "||Facebook": [
+    "★ Facebook"
+  ],
+  "||Featured Categories": [
+    "★ Рекомендуемые рубрики"
+  ],
+  "||Featured Image Width": [
+    "★ Ширина изображения записи"
+  ],
+  "||Featured News": [
+    "★ Избранные новости"
+  ],
+  "||Featured Pages": [
+    "★ Рекомендуемые страницы"
+  ],
+  "||Featured Posts": [
+    "★ Избранные записи"
+  ],
+  "||Featured Videos Section (Custom Field + Responsive)": [
+    "○ Раздел избранных видео (настраиваемое поле + адаптивный)"
+  ],
+  "||Features": [
+    "★ Возможности"
+  ],
+  "||Filter Posts By": [
+    "★ Фильтровать записи по"
+  ],
+  "||Flash Posts Category": [
+    "★ Рубрика флэш-записи"
+  ],
+  "||Font Family Section": [
+    "★ Раздел семейства шрифтов"
+  ],
+  "||Fonts & Typography": [
+    "★ Шрифты и типографика"
+  ],
+  "||Fonts Source": [
+    "★ Источник шрифта"
+  ],
+  "||Footer": [
+    "★ Подвал"
+  ],
+  "||Footer Background Image": [
+    "★ Фоновое изображение подвала"
+  ],
+  "||Footer Builder": [
+    "★ Footer Builder"
+  ],
+  "||Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)": [
+    "○ Элементы нижнего колонтитула (навигация, виджеты, пользовательский HTML, динамический текст)"
+  ],
+  "||Footer Layout": [
+    "★ Макет подвала"
+  ],
+  "||Footer Menu": [
+    "★ Нижнее меню"
+  ],
+  "||Footer Options": [
+    "★ Настройки нижнего блока"
+  ],
+  "||Footer Widget 1": [
+    "★ Виджет подвала 1"
+  ],
+  "||Footer Widget 2": [
+    "★ Виджет подвала 2"
+  ],
+  "||Footer Widget 3": [
+    "★ Виджет подвала 3"
+  ],
+  "||Free": [
+    "★ Бесплатно"
+  ],
+  "||Free Live Chat using 3CX": [
+    "★ Free Live Chat using 3CX"
+  ],
+  "||Free Theme Tone (Default)": [
+    "○ Бесплатный тон темы (по умолчанию)"
+  ],
+  "||Free vs Pro": [
+    "★ Бесплатная или платная"
+  ],
+  "||From WordPress Settings": [
+    "○ Из настроек WordPress"
+  ],
+  "||Front-page Banner Layouts Advanced (30+ Layouts)": [
+    "○ Расширенные макеты баннеров на главной странице (более 30 макетов)"
+  ],
+  "||Front-page Banner Layouts Basic (5+ Layouts)": [
+    "○ Базовые макеты баннеров на главной странице (5+ макетов)"
+  ],
+  "||Front-page Content Alignment": [
+    "★ Выравнивание содержимого главной страницы"
+  ],
+  "||Front-page Content Display": [
+    "★ Раздел Содержимое главной страницы"
+  ],
+  "||Front-page Content Section": [
+    "★ Раздел Содержимое главной страницы"
+  ],
+  "||Front-page Layout Settings": [
+    "○ Настройки макета главной страницы"
+  ],
+  "||Front-page Option": [
+    "○ Вариант на главной странице"
+  ],
+  "||Front-page Options": [
+    "○ Параметры главной страницы"
+  ],
+  "||Front-page Sidebar Section": [
+    "★ Раздел область виджетов главной страницы"
+  ],
+  "||Front-page Widgets": [
+    "★ Виджеты Титульной страницы"
+  ],
+  "||Front-page layout with Popular Tag, Breaking News, Feature News can be set.": [
+    "○ Можно настроить макет главной страницы с популярными тегами, последними новостями и тематическим новостями."
+  ],
+  "||Full": [
+    "★ По ширине"
+  ],
+  "||Full - Default": [
+    "★ Полностью (по-умолчанию)"
+  ],
+  "||Full Content": [
+    "★ Полное"
+  ],
+  "||Full width content": [
+    "★ Содержимое на всю ширину"
+  ],
+  "||GDPR friendly & better performance": [
+    "○ Совместимость с GDPR и лучшая производительность"
+  ],
+  "||General": [
+    "★ Общие"
+  ],
+  "||Get Started": [
+    "★ Get Started"
+  ],
+  "||Get Starter Sites": [
+    "★ Получить стартовые сайты"
+  ],
+  "||Get over 1000 ready-to-import Starter Sites instantly and build modern websites in minutes, not in weeks.": [
+    "○ Мгновенно получите более 1000 готовых к импорту стартовых сайтов и создавайте современные веб-сайты за считанные минуты, а не недели."
+  ],
+  "||Get started": [
+    "★ Приступить"
+  ],
+  "||Global Content Alignment": [
+    "★ Глобальное выравнивание содержимого"
+  ],
+  "||Global Excerpt Read More": [
+    "★ Глобальный отрывок Читать далее"
+  ],
+  "||Global Settings": [
+    "★ Глобальные настройки"
+  ],
+  "||Go to option": [
+    "○ Перейти к опции"
+  ],
+  "||Got any support queries?": [
+    "★ Есть вопросы в службу поддержки?"
+  ],
+  "||Got theme support question or found bug or got some feedbacks? Best place to ask your query is the dedicated Support forum for the theme..": [
+    "○ Есть вопрос по поддержке темы, обнаружена ошибка или есть отзывы? Лучшее место, где можно задать свой вопрос, — это специальный форум поддержки этой темы."
+  ],
+  "||Gutenberg & Page Builders Compatibility": [
+    "○ Совместимость Гутенберга и конструкторов страниц"
+  ],
+  "||HTML Content": [
+    "★ HTML-содержимое"
+  ],
+  "||Have Queries?": [
+    "★ Есть вопросы?"
+  ],
+  "||Header": [
+    "★ Заголовок"
+  ],
+  "||Header & Footer Builder (Drag-and-Drop)": [
+    "○ Конструктор верхнего и нижнего колонтитула (перетаскивание)"
+  ],
+  "||Header Advertisement": [
+    "★ Реклама в заголовке"
+  ],
+  "||Header Advertisement Widget Area": [
+    "○ Область виджета рекламы в заголовке"
+  ],
+  "||Header Background": [
+    "★ Фон хедера"
+  ],
+  "||Header Banner Ad Section": [
+    "○ Раздел баннерной рекламы в заголовке"
+  ],
+  "||Header Builder": [
+    "★ Header Builder"
+  ],
+  "||Header Image Mode": [
+    "○ Режим изображения заголовка"
+  ],
+  "||Header Options": [
+    "★ Настройки заголовка"
+  ],
+  "||Header Section Advertisement": [
+    "★ Реклама в разделе заголовка"
+  ],
+  "||Header Settings": [
+    "★ Настройки шапки"
+  ],
+  "||Hello ": [
+    "○ Привет"
+  ],
+  "||Hide": [
+    "★ Скрыть"
+  ],
+  "||Hide Builder": [
+    "★ Скрыть конструктор"
+  ],
+  "||Hide Theme Credit Link": [
+    "○ Скрыть кредитную ссылку на тему"
+  ],
+  "||Hide builder panel": [
+    "○ Скрыть панель конструктора"
+  ],
+  "||Hide footer Menu Section": [
+    "★ Скрыть раздел нижнего меню"
+  ],
+  "||Home": [
+    "★ Главная"
+  ],
+  "||Home Content - Home Sidebar": [
+    "★ Содержимое главной страницы - область виджетов главной"
+  ],
+  "||Home Sidebar - Home Content": [
+    "★ Область виджетов главной - содержимое главной"
+  ],
+  "||Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we hope you are loving it! We would appreciate it if you can give us %3$sreview and rating%4$s on WordPress.org! We'll continue to develop exciting new features for free in the future by sharing the love!": [
+    "★ Привет, %1$s! Мы заметили, что вы уже некоторое время используете %2$s, и мы надеемся, что вам это нравится! Мы будем признательны, если вы %3$s поставите нам 5 звезд на WordPress.org%4$s! В будущем мы продолжим бесплатно разрабатывать новые захватывающие функции, делясь любовью!"
+  ],
+  "||I've already done.": [
+    "★ Я уже сделал."
+  ],
+  "||If there is no Post Featured image set": [
+    "○ Если нет набора избранных изображений для публикации"
+  ],
+  "||Image Alignment": [
+    "★ Выравнивание изображения"
+  ],
+  "||Image Async Decoding": [
+    "○ Асинхронное декодирование изображений"
+  ],
+  "||Image Lazy Loading": [
+    "★ Ленивая загрузка изображений"
+  ],
+  "||Image visibility may vary as per the mode": [
+    "★ Видимость изображения может варьироваться в зависимости от режима"
+  ],
+  "||Import a Starter Site, Personalize, and Live it in 3 Easy Steps!": [
+    "○ Импортируйте стартовый сайт, персонализируйте его и живите за 3 простых шага!"
+  ],
+  "||Improved Font Loading Partial": [
+    "○ Улучшенная частичная загрузка шрифтов"
+  ],
+  "||Improved Font Loading System/Google Switch + Preconnect": [
+    "○ Улучшенная система загрузки шрифтов/Google Switch + Preconnect"
+  ],
+  "||Install": [
+    "★ Установить"
+  ],
+  "||Install %2$s": [
+    "★ Установить %2$s"
+  ],
+  "||Install Now": [
+    "★ Установить"
+  ],
+  "||Install Plugins": [
+    "★ Установить плагины"
+  ],
+  "||Install Required Plugins": [
+    "★ Установить требуемые плагины"
+  ],
+  "||Installed But Not Activated": [
+    "★ Установлен, но не активирован"
+  ],
+  "||Installed version:": [
+    "★ Установленная версия:"
+  ],
+  "||Installing Plugin %1$s (%2$d/%3$d)": [
+    "★ Установка плагина %1$s (%2$d/%3$d)"
+  ],
+  "||Installing Plugin: %s": [
+    "★ Установка плагина: %s"
+  ],
+  "||Installing and Activating Plugin %1$s (%2$d/%3$d)": [
+    "★ Установка и активация плагина %1$s (%2$d/%3$d)"
+  ],
+  "||Invalid security token.": [
+    "★ Недействительный токен безопасности."
+  ],
+  "||It has different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile.": [
+    "○ Он имеет различные виджеты для автора сообщения, выборочного автора по идентификатору и пользовательского автора. Он также предоставляет короткие коды для профиля автора."
+  ],
+  "||It looks like nothing was found at this location. Maybe try one of the links below or a search?": [
+    "★ По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+  ],
+  "||It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.": [
+    "★ Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+  ],
+  "||JetPack": [
+    "★ Jetpack"
+  ],
+  "||Jetpack Share Buttons Placement": [
+    "○ Расположение кнопок общего доступа Jetpack"
+  ],
+  "||Large Post with Background": [
+    "○ Большой пост с фоном"
+  ],
+  "||Large Post with Dark Background": [
+    "★ Большой заголовок с тёмным фоном"
+  ],
+  "||Large Posts": [
+    "★ Большие записи"
+  ],
+  "||Large Posts - 2": [
+    "○ Большие посты - 2"
+  ],
+  "||Layout Options": [
+    "★ Настройки Макета"
+  ],
+  "||Leave a comment": [
+    "★ Оставьте комментарий"
+  ],
+  "||Left": [
+    "★ Слева"
+  ],
+  "||Light": [
+    "★ Светлая"
+  ],
+  "||Light/Dark Button": [
+    "★ Кнопка: светлая/темная"
+  ],
+  "||Link": [
+    "★ Ссылка"
+  ],
+  "||Link Color": [
+    "★ Цвет ссылки"
+  ],
+  "||Link Hover Color": [
+    "★ Цвет ссылки при наведении"
+  ],
+  "||Link copied to clipboard!": [
+    "★ Ссылка скопирована в буфер обмена"
+  ],
+  "||Live Editing in Customizer": [
+    "○ Живое редактирование в Customizer"
+  ],
+  "||Live search results": [
+    "○ Результаты живого поиска"
+  ],
+  "||Mailchimp Subscribe Box": [
+    "○ Ящик для подписки Mailchimp"
+  ],
+  "||Main Banner": [
+    "★ Основной баннер"
+  ],
+  "||Main Banner Background Image": [
+    "★ Фоновое изображение главного баннера"
+  ],
+  "||Main Banner Options": [
+    "★ Настройки основного баннера"
+  ],
+  "||Main News": [
+    "★ Основные новости"
+  ],
+  "||Main News Section ": [
+    "★ Раздел главных новостей"
+  ],
+  "||Main Sidebar": [
+    "★ Основная область виджетов"
+  ],
+  "||Make Sidebar Sticky": [
+    "★ Сделать область виджетов прикрепленной"
+  ],
+  "||Manage Date": [
+    "○ Управление датой"
+  ],
+  "||Manage menu": [
+    "★ Управление меню"
+  ],
+  "||Manage widgets": [
+    "★ Управление виджетами"
+  ],
+  "||Maybe Later": [
+    "★ Может быть позже"
+  ],
+  "||Minimum required version:": [
+    "★ Миним. необходимая версия:"
+  ],
+  "||Minute %s": [
+    "★ %s за минуту"
+  ],
+  "||Minutes Read Count": [
+    "★ Подсчёт минут чтения"
+  ],
+  "||More": [
+    "★ Больше"
+  ],
+  "||More Details": [
+    "★ Подробнее"
+  ],
+  "||Multilingual & RTL Support": [
+    "○ Многоязычная поддержка и поддержка RTL"
+  ],
+  "||Multiple Header Layouts (10+ including Centered & Compressed)": [
+    "○ Несколько макетов заголовков (более 10, включая центрированный и сжатый)"
+  ],
+  "||Name": [
+    "★ Название"
+  ],
+  "||NavXT": [
+    "★ NavXT"
+  ],
+  "||Navigation": [
+    "★ Навигация"
+  ],
+  "||Need Help?": [
+    "○ Нужна помощь?"
+  ],
+  "||Next": [
+    "★ Далее"
+  ],
+  "||Next: %s": [
+    "★ Следующий: %s"
+  ],
+  "||No Sidebar": [
+    "★ Без области виджетов"
+  ],
+  "||No action taken. Plugin %1$s was already active.": [
+    "★ Действие не требовалось. Плагин %1$s уже активен."
+  ],
+  "||No menu assigned": [
+    "★ Меню не назначено"
+  ],
+  "||No plugins are available to be activated at this time.": [
+    "★ Сейчас нет доступных плагинов для активации."
+  ],
+  "||No plugins are available to be installed at this time.": [
+    "★ Сейчас нет доступных плагинов для установки."
+  ],
+  "||No plugins are available to be updated at this time.": [
+    "★ Сейчас нет доступных плагинов для обновления."
+  ],
+  "||No plugins to install, update or activate.": [
+    "★ Нет плагинов для установки, обновления или активации."
+  ],
+  "||No plugins were selected to be activated. No action taken.": [
+    "★ Не выбрано плагинов для активации. Действий не требуется."
+  ],
+  "||No plugins were selected to be installed. No action taken.": [
+    "★ Не выбрано плагинов для установки. Действий не требуется."
+  ],
+  "||No plugins were selected to be updated. No action taken.": [
+    "★ Не выбрано плагинов для обновления. Действий не требуется."
+  ],
+  "||No results found.": [
+    "○ Результаты не найдены."
+  ],
+  "||None": [
+    "★ Ничего"
+  ],
+  "||Not Installed": [
+    "★ Не установлен"
+  ],
+  "||Nothing Found": [
+    "★ Ничего не найдено"
+  ],
+  "||Number of Categories": [
+    "★ Кол-во рубрик"
+  ],
+  "||Off Canvas": [
+    "★ Вне экрана (Off Canvas)"
+  ],
+  "||Off Canvas Drawer Menu Section": [
+    "○ Раздел меню «Выдвижной ящик холста»"
+  ],
+  "||Off Canvas Widget Area": [
+    "○ Область виджетов за пределами холста"
+  ],
+  "||One thought on &ldquo;%1$s&rdquo;": [
+    "★ Один комментарий к &ldquo;%1$s&rdquo;"
+  ],
+  "||One-click Demo Import, Block Editor Ready, No Code Required! Built with Blockspare.": [
+    "○ Импорт демо в один клик, редактор блоков готов, код не требуется! Построен с помощью Blockspare."
+  ],
+  "||One-click Import, Header/Footer Builder, Multilingual Support! Powered by Elespare.": [
+    "○ Импорт в один клик, построитель верхнего и нижнего колонтитула, многоязычная поддержка! При поддержке Elespare."
+  ],
+  "||Only Home Content": [
+    "★ Только содержимое главной"
+  ],
+  "||Oops! That page can&rsquo;t be found.": [
+    "★ Упс! Страница не найдена."
+  ],
+  "||Open Off-Canvas Navigation": [
+    "★ Включить Canvas Navigation"
+  ],
+  "||Open search form": [
+    "★ Открыть строку поиска"
+  ],
+  "||Order 1": [
+    "★ Порядок 1"
+  ],
+  "||Order 2": [
+    "★ Порядок 2"
+  ],
+  "||Order 3": [
+    "★ Порядок 3"
+  ],
+  "||Original": [
+    "★ Оригинальный"
+  ],
+  "||Page %s": [
+    "★ Страница %s"
+  ],
+  "||Page Builder Full Width": [
+    "★ Конструктор страницы - полная ширина"
+  ],
+  "||Page Contents & Front-page Widgets": [
+    "★ Содержимое страницы и виджеты главной страницы"
+  ],
+  "||Pages:": [
+    "★ Страницы:"
+  ],
+  "||Pagination Ajax Load More & Infinite Scroll": [
+    "○ Пагинация Ajax Загрузить больше и бесконечная прокрутка"
+  ],
+  "||Pagination Numeric": [
+    "○ Числовая нумерация страниц"
+  ],
+  "||Please check our full documentation for detailed information on how to setup and customize the theme.": [
+    "○ Пожалуйста, ознакомьтесь с нашей полной документацией для получения подробной информации о том, как установить и настроить тему."
+  ],
+  "||Please contact the administrator of this site for help.": [
+    "★ Обратитесь за помощью к администратору этого сайта."
+  ],
+  "||Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines.": [
+    "★ Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+  ],
+  "||Please ensure that you have enabled the plugin's breadcrumbs before choosing other than Default": [
+    "★ Убедитесь, что вы включили навигационные цепочки плагина, прежде чем выбирать другой вариант, кроме По умолчанию"
+  ],
+  "||Please go to Customize>Front-page Options for Homepage.": [
+    "★ Перейдите в Настройки>Настройки главной страницы для домашней страницы."
+  ],
+  "||Please go to Customize>Themes Options for Single Post/Page.": [
+    "★ Перейдите в Настройки>Настройки темы для отдельной записи/страницы."
+  ],
+  "||Plugin": [
+    "★ Плагин"
+  ],
+  "||Plugin activated successfully.": [
+    "★ Плагин успешно активирован."
+  ],
+  "||Plugin activation failed.": [
+    "★ Активация плагина не удалась."
+  ],
+  "||Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin.": [
+    "★ Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+  ],
+  "||Popular": [
+    "★ Популярные"
+  ],
+  "||Popular Tags": [
+    "★ Популярные метки"
+  ],
+  "||Position": [
+    "★ Позиция"
+  ],
+  "||Post Badge Taxonomy (Breaking, Premium)": [
+    "○ Таксономия почтовых значков (Breaking, Premium)"
+  ],
+  "||Post Carousel": [
+    "★ Карусель записи"
+  ],
+  "||Post Categories": [
+    "★ Рубрики записи"
+  ],
+  "||Post Excerpt": [
+    "★ Отрывок записи"
+  ],
+  "||Post Express / Grid / Tabbed Widgets": [
+    "○ Post Express / Сетка / Виджеты с вкладками"
+  ],
+  "||Post Grid": [
+    "★ Сетка записи"
+  ],
+  "||Post Grid - 2": [
+    "○ Почтовая сетка - 2"
+  ],
+  "||Post Grid with Background": [
+    "★ Заголовок записи с фоном"
+  ],
+  "||Post Grid with Dark Background": [
+    "○ Сетка сообщений с темным фоном"
+  ],
+  "||Post List": [
+    "★ Список записей"
+  ],
+  "||Post List - 2": [
+    "★ Список записей 2"
+  ],
+  "||Post List with Background": [
+    "★ Заголовок записи с фоном"
+  ],
+  "||Post List with Dark Background": [
+    "○ Список сообщений с темным фоном"
+  ],
+  "||Post Reaction Feature (Animated, Localized, Color Custom)": [
+    "○ Функция пост-реакции (анимированная, локализованная, с пользовательским цветом)"
+  ],
+  "||Post Slider": [
+    "★ Слайдер записи"
+  ],
+  "||Post Subtitle Field": [
+    "○ Поле субтитров публикации"
+  ],
+  "||Post list Section Title %d": [
+    "★ Заголовок раздела списка записей %d"
+  ],
+  "||Post navigation": [
+    "★ Навигация по записям"
+  ],
+  "||Posts": [
+    "★ Записи"
+  ],
+  "||Posts Carousel Section": [
+    "○ Раздел карусели сообщений"
+  ],
+  "||Posts List": [
+    "★ Список записей"
+  ],
+  "||Posts List Section": [
+    "★ Раздел списка записей"
+  ],
+  "||Posts Section Title": [
+    "★ Название раздела записей"
+  ],
+  "||Power Bundle": [
+    "○ Силовой пакет"
+  ],
+  "||Powerful Gutenberg Blocks & Patterns": [
+    "○ Мощные блоки и шаблоны Гутенберга"
+  ],
+  "||Pre-Packaged": [
+    "★ Предварительно упакованный"
+  ],
+  "||Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)": [
+    "○ Премиум-темы (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, ReviewNews, NewsLight, NewsMore, SideNews)"
+  ],
+  "||Previous": [
+    "★ Назад"
+  ],
+  "||Previous: %s": [
+    "★ Предыдущий %s"
+  ],
+  "||Primary Color Section ": [
+    "★ Раздел основного цвета"
+  ],
+  "||Primary Font": [
+    "★ Основной шрифт"
+  ],
+  "||Primary Menu": [
+    "★ Основное меню"
+  ],
+  "||Primary Menu Section": [
+    "○ Основной раздел меню"
+  ],
+  "||Primary Sidebar - Content": [
+    "★ Основная область виджетов - содержимое"
+  ],
+  "||Primary menu": [
+    "★ Основное меню"
+  ],
+  "||Primary sidebar - Content": [
+    "★ Основная область виджетов - содержимое"
+  ],
+  "||Priority Support (Faster Response)": [
+    "○ Приоритетная поддержка (более быстрое реагирование)"
+  ],
+  "||Pro": [
+    "★ Pro"
+  ],
+  "||Professional Sites with Elementor": [
+    "○ Профессиональные сайты с Elementor"
+  ],
+  "||Profile image": [
+    "★ Изображение профиля"
+  ],
+  "||Promotion": [
+    "★ Акции"
+  ],
+  "||Rank Math": [
+    "★ Rank Math"
+  ],
+  "||Rate This Theme": [
+    "○ Оцените эту тему"
+  ],
+  "||Read More": [
+    "★ Читать далее"
+  ],
+  "||Read more about %s": [
+    "★ Узнайте больше о %s"
+  ],
+  "||Reading Progress Bar": [
+    "○ Чтение индикатора выполнения"
+  ],
+  "||Ready to publish your first post? <a href=\"%1$s\">Get started here</a>.": [
+    "★ Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+  ],
+  "||Recent": [
+    "★ По свежести"
+  ],
+  "||Recommended": [
+    "★ Рекомендован"
+  ],
+  "||Recommended Size %1$s px X %2$s px": [
+    "★ Рекомендуемый размер %1$s px X %2$s px"
+  ],
+  "||Related Posts Settings": [
+    "★ Настройки связанных записей"
+  ],
+  "||Related Stories": [
+    "★ Связанные истории"
+  ],
+  "||Remind me later": [
+    "★ Напомни мне позже"
+  ],
+  "||Remove Element": [
+    "○ Удалить элемент"
+  ],
+  "||Required": [
+    "★ Обязательное"
+  ],
+  "||Required Update not Available": [
+    "★ Требуемое обновление недоступно"
+  ],
+  "||Requires Update": [
+    "★ Требуется обновление"
+  ],
+  "||Responsive Layout": [
+    "○ Адаптивный макет"
+  ],
+  "||Return to Required Plugins Installer": [
+    "★ Вернуться к установке требуемых плагинов"
+  ],
+  "||Return to the Dashboard": [
+    "★ Вернуться в консоль"
+  ],
+  "||ReviewNews": [
+    "★ ReviewNews"
+  ],
+  "||ReviewNews Pro": [
+    "★ ReviewNews Pro"
+  ],
+  "||ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme made for News, Magazine, Blog, Business, and eCommerce websites across the world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no coding required. Packed with 50+ STARTER SITES, 30+ CUSTOM WIDGETS, ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers, corporate or NGO sites, and educational or cultural portals to personal blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST LOADING and excellent performance on all devices. Built with WCAG ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY, with demo content in English, Spanish, German, French, Japanese, Chinese, and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for creators, publishers, and businesses who value STYLE, SCALABILITY, and PERFORMANCE across every market. Explore all features at https://afthemes.com/products/reviewnews": [
+    "○ ReviewNews — это динамичная, сверхбыстрая и универсальная тема WordPress, созданная для веб-сайтов новостей, журналов, блогов, бизнеса и электронной коммерции по всему миру. Благодаря мощному ПОСТРОИТЕЛЮ HEADER & FOOTER BUILDER, который без проблем работает с редактором блоков, GUTENBERG, ELEMENTOR, BRIZY, DIVI и другими популярными конструкторами страниц, вы можете легко создавать ПРОФЕССИОНАЛЬНЫЕ МАКЕТЫ с помощью перетаскивания — кодирование не требуется. Благодаря более чем 50 НАЧАЛЬНЫМ САЙТАМ, 30+ ПОЛЬЗОВАТЕЛЬСКИМ ВИДЖЕТАМ, РАСШИРЕННЫМ ШАБЛОНАМ БЛОКОВ, ГИБКИМ ОПЦИЯМ Макета, ПОДДЕРЖКЕ AMP и ПОЛНОЙ ИНТЕГРАЦИИ WOOCOMMERCE, он идеально подходит для всего: от интернет-газет, корпоративных сайтов или сайтов НПО, образовательных или культурных порталов до личных блогов, портфолио и журналов о стиле жизни. ReviewNews полностью оптимизирован для SEO, ОСНОВНЫХ ВЕБ-ПИТАНСТВ, СКОРОСТИ и АДАПТИВНОГО ДИЗАЙНА, обеспечивая БЫСТРУЮ ЗАГРУЗКУ и отличную производительность на всех устройствах. Созданный с учетом ДОСТУПНОСТИ WCAG, СООТВЕТСТВИЯ GDPR и ЛЕГКОГО, ЧИСТОГО КОДА, он обеспечивает долгосрочную стабильность и высокие оценки GOOGLE PAGESPEED. МНОГОЯЗЫЧНАЯ и ГОТОВАЯ RTL, с демонстрационным контентом на английском, испанском, немецком, французском, японском, китайском и арабском языках, ReviewNews — это действительно ГЛОБАЛЬНАЯ, ПЕРСПЕКТИВНАЯ ТЕМА, предназначенная для авторов, издателей и компаний, которые ценят СТИЛЬ, МАСШТАБИРУЕМОСТЬ и ПРОИЗВОДИТЕЛЬНОСТЬ на всех рынках. Ознакомьтесь со всеми функциями на https://afthemes.com/products/reviewnews."
+  ],
+  "||Right": [
+    "★ Справа"
+  ],
+  "||Rotating Ads with Split Option": [
+    "○ Ротация объявлений с возможностью разделения"
+  ],
+  "||SEO Ready Basic": [
+    "○ SEO-готовность: базовый уровень"
+  ],
+  "||SEO Ready with Open Graph Enhancements": [
+    "○ Готовность к SEO с улучшениями Open Graph"
+  ],
+  "||Scroll to Top Position": [
+    "★ Позиция прокрутки вверх"
+  ],
+  "||Searc Form": [
+    "★ Форма поиска"
+  ],
+  "||Search": [
+    "★ Поиск"
+  ],
+  "||Search Options": [
+    "○ Параметры поиска"
+  ],
+  "||Search Results": [
+    "★ Результаты поиска"
+  ],
+  "||Search Results for: %s": [
+    "★ Результаты поиска: %s"
+  ],
+  "||Search results for: %s": [
+    "★ Результаты поиска для: %s"
+  ],
+  "||Searching...": [
+    "○ Идет поиск..."
+  ],
+  "||Secondary Color": [
+    "★ Вторичный цвет"
+  ],
+  "||Secondary Color Section ": [
+    "★ Раздел дополнительного цвета"
+  ],
+  "||Secondary Font": [
+    "★ Дополнительный шрифт"
+  ],
+  "||Section %d": [
+    "★ Раздел %d"
+  ],
+  "||Section 1": [
+    "★ Раздел 1"
+  ],
+  "||Section 2": [
+    "★ Раздел 2"
+  ],
+  "||Section 3": [
+    "★ Раздел 3"
+  ],
+  "||Section 4": [
+    "★ Раздел 4"
+  ],
+  "||Section Title": [
+    "★ Заголовок раздела"
+  ],
+  "||Section Title ": [
+    "★ Название раздела"
+  ],
+  "||Section Title Designs (Multiple Styles)": [
+    "○ Дизайн заголовков разделов (несколько стилей)"
+  ],
+  "||Select": [
+    "★ Выбрать"
+  ],
+  "||Select ": [
+    "★ Выбрать"
+  ],
+  "||Select Breadcrumbs": [
+    "★ Выбрать навигационной цепочки"
+  ],
+  "||Select Category": [
+    "★ Выбрать рубрику"
+  ],
+  "||Select Category 1": [
+    "★ Выбрать рубрику 1"
+  ],
+  "||Select Category 2": [
+    "★ Выбрать рубрику 2"
+  ],
+  "||Select Image": [
+    "★ Выбрать изображение"
+  ],
+  "||Select Main Banner Layout": [
+    "★ Выбрать макет главного баннера"
+  ],
+  "||Select Main Banner Order": [
+    "★ Выбрать порядок главного баннера"
+  ],
+  "||Select Menu": [
+    "★ Выберите меню"
+  ],
+  "||Select Tag": [
+    "★ Выбрать метку"
+  ],
+  "||Select Widget": [
+    "★ Выбрать виджет"
+  ],
+  "||Select category": [
+    "★ Выбрать рубрику"
+  ],
+  "||Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer.": [
+    "★ Выбрать класс цвета рубрики. Необходимый цвет рубрики можно задать в разделе «Рубрики» модуля настройки темы."
+  ],
+  "||Select category to be shown on featured section ": [
+    "★ Выбрать рубрику, которая будет показана в разделе Избранное"
+  ],
+  "||Select category to be shown on main slider section": [
+    "★ Выбрать рубрику, которая будет отображаться на главной слайдере"
+  ],
+  "||Select category to be shown on trending posts ": [
+    "★ Выбрать рубрику, которая будет отображаться в трендовых записях"
+  ],
+  "||Select content view for archive": [
+    "★ Выбрать вид содержимого для архива"
+  ],
+  "||Select frontpage content alignment": [
+    "★ Выбрать выравнивание содержимого главной страницы"
+  ],
+  "||Select frontpage content display": [
+    "★ Выбрать отображение содержимого главной страницы"
+  ],
+  "||Select image alignment for archive": [
+    "★ Выбрать выравнивание изображения для архива"
+  ],
+  "||Select layout for archive": [
+    "★ Выбрать макет для архива"
+  ],
+  "||Select search results for archive": [
+    "○ Выберите результаты поиска для архива"
+  ],
+  "||Select tag to be shown on main slider section": [
+    "★ Выбрать метку, которая будет отображаться в главном разделе слайдера"
+  ],
+  "||Selecting different categories can be done for different section.": [
+    "○ Выбор разных категорий можно сделать для разных разделов."
+  ],
+  "||Set as Background": [
+    "★ Установить в качестве фона"
+  ],
+  "||Set as global layout": [
+    "★ Установить в качестве глобального макета"
+  ],
+  "||Set for better performance": [
+    "○ Настройка для лучшей производительности"
+  ],
+  "||Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed and more.": [
+    "○ Установите глобальный макет, навигационную цепочку, боковую панель, одну публикацию, возможно, вы пропустили и многое другое."
+  ],
+  "||Set the Homepage as a static page to create own homepage using widgets.": [
+    "○ Установите домашнюю страницу как статическую, чтобы создать собственную домашнюю страницу с помощью виджетов."
+  ],
+  "||Set the footer type, number of columns, spacing and colors.": [
+    "★ Выбор типа подвала, количество колонок, интервалы и цвета."
+  ],
+  "||Set the theme header type, set the colors, spacing, alignment and more.": [
+    "○ Установите тип заголовка темы, установите цвета, интервалы, выравнивание и многое другое."
+  ],
+  "||Set to enhance rendering speed": [
+    "○ Установлено для повышения скорости рендеринга."
+  ],
+  "||Show": [
+    "★ Показать"
+  ],
+  "||Show Above Footer": [
+    "★ Показать выше подвала"
+  ],
+  "||Show All": [
+    "★ Показать всё"
+  ],
+  "||Show Author Bio under Content": [
+    "○ Показать биографию автора под контентом"
+  ],
+  "||Show Date": [
+    "○ Показать дату"
+  ],
+  "||Show Featured Image": [
+    "★ Показать изображение записи"
+  ],
+  "||Show Full Image (Background)": [
+    "★ Показать полное изображение (фон)"
+  ],
+  "||Show Gravatar": [
+    "★ Показывать Gravatar"
+  ],
+  "||Show Icon": [
+    "★ Показать значок"
+  ],
+  "||Show Primary Menu Description": [
+    "★ Включить описание основного меню"
+  ],
+  "||Show Tags under Content": [
+    "★ Показать метки в содержимым"
+  ],
+  "||Show Time": [
+    "○ Время для шоу"
+  ],
+  "||Show Top Header": [
+    "★ Показать верхний заголовок"
+  ],
+  "||Show breadcrumbs": [
+    "★ Показать навигационные цепочки"
+  ],
+  "||Sidebar Options": [
+    "★ Параметры сайдбара"
+  ],
+  "||Sidebar Settings": [
+    "★ Настройки боковой панели"
+  ],
+  "||Sidebar Sticky Position": [
+    "★ Позиция прикреплённой области виджетов"
+  ],
+  "||Single Column": [
+    "★ Отдельный столбец"
+  ],
+  "||Single Column - 2": [
+    "★ Отдельный столбец - 2"
+  ],
+  "||Single Content Mode": [
+    "★ Режим одиночного содержимого"
+  ],
+  "||Single Post": [
+    "★ Отдельная запись"
+  ],
+  "||Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, Links, Top Domains)": [
+    "○ Метабокс аналитики отдельных публикаций (просмотры, реакции, количество слов, время чтения, ссылки, популярные домены)"
+  ],
+  "||Single Post Column with Background": [
+    "○ Один столбец сообщений с фоном"
+  ],
+  "||Single Post Column with Dark Background": [
+    "○ Один столбец сообщений с темным фоном"
+  ],
+  "||Site & Logo": [
+    "★ Сайт и логотип"
+  ],
+  "||Site Color Mode": [
+    "★ Режим цвета сайта"
+  ],
+  "||Site Identity": [
+    "★ Свойства сайта"
+  ],
+  "||Site Mode": [
+    "★ Режим сайта"
+  ],
+  "||Site Mode Switch": [
+    "★ Переключатель режима сайта"
+  ],
+  "||Site Title Size": [
+    "★ Размер названия сайта"
+  ],
+  "||Site Title/Tagline Color": [
+    "★ Цвет названия/краткого описания сайта"
+  ],
+  "||Site title, post titles, widgets titles, etc": [
+    "○ Заголовок сайта, заголовки сообщений, заголовки виджетов и т. д."
+  ],
+  "||Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, Authors, Reactions, Comments, Word Count, Read Time)": [
+    "○ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  ],
+  "||Skip to content": [
+    "★ Перейти к содержимому"
+  ],
+  "||Slider and Double Tiles": [
+    "○ Слайдер и двойные плитки"
+  ],
+  "||Slider and Double Trending": [
+    "○ Слайдер и двойной тренд"
+  ],
+  "||Slider, Tiles and Trending": [
+    "○ Слайдер, плитки и тенденции"
+  ],
+  "||Social Menu": [
+    "★ Меню соцсетей"
+  ],
+  "||Social Share Options": [
+    "★ Параметры социального обмена"
+  ],
+  "||Social menu is not set. You need to create menu and assign it to Social Menu on Menu Settings.": [
+    "★ Меню соцсетей не установлено. Вам нужно создать меню и назначить его в разделе меню соцсетей в настройках меню."
+  ],
+  "||Something went wrong with the plugin API.": [
+    "★ Что-то пошло не так с API плагина."
+  ],
+  "||Sorry, but nothing matched your search terms. Please try again with some different keywords.": [
+    "★ Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать с другим запросом."
+  ],
+  "||Sorry, you are not allowed to activate plugins on this site.": [
+    "★ Извините, вам не разрешено активировать плагины на этом сайте."
+  ],
+  "||Sorry, you are not allowed to install plugins on this site.": [
+    "★ К сожалению, вам не разрешается устанавливать плагины на этом сайте."
+  ],
+  "||Source": [
+    "★ Источник"
+  ],
+  "||Source & Sponsor Custom Field": [
+    "○ Пользовательское поле источника и спонсора"
+  ],
+  "||Spacious": [
+    "★ Просторный"
+  ],
+  "||Standard Support": [
+    "○ Стандартная поддержка"
+  ],
+  "||Start Customizing": [
+    "★ Начать настройку"
+  ],
+  "||Start with Demo Sites": [
+    "○ Начните с демонстрационных сайтов"
+  ],
+  "||Starter Sites": [
+    "★ Starter Sites"
+  ],
+  "||Starter Sites Import": [
+    "○ Импорт стартовых сайтов"
+  ],
+  "||Static Front Page": [
+    "○ Статическая главная страница"
+  ],
+  "||Status": [
+    "★ Статус"
+  ],
+  "||Sticky Header Option Advanced Behavior & Layout Support": [
+    "○ Опция закрепления заголовка. Расширенное поведение и поддержка макета."
+  ],
+  "||Sticky Header Option Basic": [
+    "○ Базовый вариант закрепления заголовка"
+  ],
+  "||Sticky header works only with builder at bottom.": [
+    "○ Прикрепленный заголовок работает только с конструктором внизу."
+  ],
+  "||Subscribe": [
+    "★ Подписаться"
+  ],
+  "||Support": [
+    "★ Поддержка"
+  ],
+  "||Sure thing": [
+    "★ Конечно же"
+  ],
+  "||System Fonts": [
+    "★ Системные шрифты"
+  ],
+  "||TGMPA v%s": [
+    "★ TGMPA v%s"
+  ],
+  "||Tag": [
+    "★ Тег"
+  ],
+  "||TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool": [
+    "○ TemplateSpare — конструктор веб-сайтов без кода — инструмент импорта/экспорта и полной миграции сайта в один клик"
+  ],
+  "||TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full Site Migration Tool. Get ready-to-use Starter Sites instantly and build modern websites in minutes.": [
+    "○ TemplateSpare — конструктор веб-сайтов без кода — инструмент импорта/экспорта и полной миграции сайта в один клик. Мгновенно получайте готовые к использованию стартовые сайты и создавайте современные веб-сайты за считанные минуты."
+  ],
+  "||Templatespare": [
+    "★ Templatespare"
+  ],
+  "||Thank you for installing [theme] — a fast, flexible, and user-friendly theme for blogs, news sites, and magazines. Get started quickly with our 100+ one-click starter sites — no coding needed.": [
+    "○ Благодарим вас за установку [темы] — быстрой, гибкой и удобной темы для блогов, новостных сайтов и журналов. Начните быстро с помощью наших более чем 100 стартовых сайтов в один клик — кодирование не требуется."
+  ],
+  "||The \"Get Started\" action will install/activate the Templatespare and Blockspare plugins for Starter Sites and Templates.": [
+    "○ Действие «Начать» установит/активирует плагины Templatespare и Blockspare для стартовых сайтов и шаблонов."
+  ],
+  "||The Templatespare plugin should be updated to the latest version": [
+    "★ Плагин Templatespare должен быть обновлен до последней версии"
+  ],
+  "||The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s.": [
+    "★ Следующий плагин необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s.",
+    "★ Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s.",
+    "★ Следующие плагины необходимо обновить до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+  ],
+  "||The following plugin was activated successfully:": [
+    "★ Следующий плагин был успешно активирован:",
+    "★ Следующие плагины были успешно активированы:",
+    "★ Следующие плагины были успешно активированы:"
+  ],
+  "||The following recommended plugin is currently inactive: %1$s.": [
+    "★ Следующий рекомендуемый плагин в настоящее время неактивен: %1$s.",
+    "★ Следующие рекомендуемые плагины в настоящее время неактивны: %1$s.",
+    "★ Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+  ],
+  "||The following required plugin is currently inactive: %1$s.": [
+    "★ Следующий обязательный плагин в настоящее время неактивен: %1$s.",
+    "★ Следующие необходимые плагины в настоящее время неактивны: %1$s.",
+    "★ Следующие необходимые плагины в настоящее время неактивны: %1$s."
+  ],
+  "||The installation and activation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+  ],
+  "||The installation of %1$s failed.": [
+    "★ Установка %1$s не удалась."
+  ],
+  "||The installation process is starting. This process may take a while on some hosts, so please be patient.": [
+    "★ Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+  ],
+  "||The remote plugin package consists of more than one file, but the files are not packaged in a folder.": [
+    "★ Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+  ],
+  "||The remote plugin package does not contain a folder with the desired slug and renaming did not work.": [
+    "★ В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+  ],
+  "||Theme": [
+    "★ Тема"
+  ],
+  "||Theme Fonts": [
+    "★ Шрифты темы"
+  ],
+  "||Theme Option": [
+    "○ Вариант темы"
+  ],
+  "||Theme Options": [
+    "★ Параметры темы"
+  ],
+  "||Theme dashboard": [
+    "★ Консоль темы"
+  ],
+  "||There are one or more required or recommended plugins to install, update or activate.": [
+    "★ Имеются один или более требуемых, или рекомендуемых плагинов для установки, обновления или активации."
+  ],
+  "||There is an update available for: %1$s.": [
+    "★ Доступно обновление для: %1$s.",
+    "★ Доступны обновления для следующих плагинов: %1$s.",
+    "★ Доступны обновления для следующих плагинов: %1$s."
+  ],
+  "||This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales.": [
+    "○ Этот бесплатный плагин предлагает бесплатное решение для онлайн-чата, позволяющее посетителям вашего сайта связаться с вами через онлайн-чат или онлайн-звонок — и все это бесплатно! Взаимодействуйте со своими клиентами и увеличивайте продажи."
+  ],
+  "||This plugin needs to be updated to be compatible with your theme.": [
+    "★ Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+  ],
+  "||This theme recommends the following plugin: %1$s.": [
+    "★ Эта тема рекомендует следующий плагин: %1$s.",
+    "★ Эта тема рекомендует следующие плагины: %1$s.",
+    "★ Эта тема рекомендует следующие плагины: %1$s."
+  ],
+  "||This theme requires the following plugin: %1$s.": [
+    "★ Для этой темы требуется следующий плагин: %1$s.",
+    "★ Для этой темы требуются следующие плагины: %1$s.",
+    "★ Для этой темы требуются следующие плагины: %1$s."
+  ],
+  "||This widget area is used in the mobile off-canvas panel. %s": [
+    "○ Эта область виджетов используется на мобильной панели вне холста. %s"
+  ],
+  "||Three Columns": [
+    "★ Три столбца"
+  ],
+  "||Three Columns Posts": [
+    "★ Записи в трех столбцах"
+  ],
+  "||Ticker News": [
+    "★ Бегущая строка новостей"
+  ],
+  "||Time Format": [
+    "○ Формат времени"
+  ],
+  "||Title": [
+    "★ Заголовок"
+  ],
+  "||To Activate <span class=\"count\">(%s)</span>": [
+    "★ Чтобы активировать <span class=\"count\">(%s)</span>",
+    "★ Чтобы активировать <span class=\"count\">(%s)</span>",
+    "★ Чтобы активировать <span class=\"count\">(%s)</span>"
+  ],
+  "||To Install <span class=\"count\">(%s)</span>": [
+    "★ Чтобы установить <span class=\"count\">(%s)</span>",
+    "★ Чтобы установить <span class=\"count\">(%s)</span>",
+    "★ Чтобы установить <span class=\"count\">(%s)</span>"
+  ],
+  "||Top": [
+    "★ Сверху"
+  ],
+  "||Top Header Menu": [
+    "○ Меню верхнего заголовка"
+  ],
+  "||Top Header Section": [
+    "★ Раздел верхнего заголовка"
+  ],
+  "||Top Navigation": [
+    "★ Верхняя навигация"
+  ],
+  "||Top One Category": [
+    "★ Лучшая рубрика"
+  ],
+  "||Transform your blog, news, or magazine website with 35+ advanced Elementor widgets and 350+ customizable templates. Easily create headers, footers, post grids, sliders, and carousels with a fast-loading and SEO-optimized structure. Import demo content with a single click and enjoy codeless customization to craft your perfect site, no matter the language.": [
+    "○ Преобразите свой блог, новостной сайт или веб-сайт журнала с помощью более 35 расширенных виджетов Elementor и более 350 настраиваемых шаблонов. Легко создавайте верхние и нижние колонтитулы, сетки публикаций, слайдеры и карусели с быстрой загрузкой и оптимизированной для SEO структурой. Импортируйте демонстрационный контент одним щелчком мыши и наслаждайтесь настройкой без кода, чтобы создать идеальный сайт, независимо от языка."
+  ],
+  "||Trending Now": [
+    "★ Сейчас в тренде"
+  ],
+  "||Trending Posts Carousel (Tag, Views)": [
+    "○ Карусель трендовых публикаций (теги, просмотры)"
+  ],
+  "||Trending Posts in Single Post": [
+    "○ Популярные публикации в одном сообщении"
+  ],
+  "||Trending Section": [
+    "★ Раздел Анализ тенденций"
+  ],
+  "||Twitter": [
+    "★ Twitter"
+  ],
+  "||Type": [
+    "★ Тип"
+  ],
+  "||URL Link": [
+    "★ URL ссылка"
+  ],
+  "||Unified Chart Styles and Colors": [
+    "○ Унифицированные стили и цвета диаграмм"
+  ],
+  "||Unlock Pro Features": [
+    "★ Разблокируйте профессиональные функции"
+  ],
+  "||Update": [
+    "★ Обновление"
+  ],
+  "||Update %2$s": [
+    "★ Обновить %2$s"
+  ],
+  "||Update Available <span class=\"count\">(%s)</span>": [
+    "★ Доступно обновление <span class=\"count\">(%s)</span>",
+    "★ Доступно обновление <span class=\"count\">(%s)</span>",
+    "★ Доступно обновление <span class=\"count\">(%s)</span>"
+  ],
+  "||Update Blockspare": [
+    "○ Обновить резервный блок"
+  ],
+  "||Update Blockspare Pro": [
+    "○ Обновите Blockspare Pro"
+  ],
+  "||Update Elespare": [
+    "○ Обновить Элеспар"
+  ],
+  "||Update Elespare Pro": [
+    "○ Обновите Elespare Pro"
+  ],
+  "||Update Required": [
+    "★ Требуется обновление"
+  ],
+  "||Update Templatespare": [
+    "○ Обновить шаблон"
+  ],
+  "||Update recommended": [
+    "★ Рекомендуется обновление"
+  ],
+  "||Updating Plugin %1$s (%2$d/%3$d)": [
+    "★ Обновление плагина %1$s (%2$d/%3$d)"
+  ],
+  "||Updating Plugin: %s": [
+    "★ Обновление плагина: %s"
+  ],
+  "||Upgrade Now": [
+    "★ Upgrade Now"
+  ],
+  "||Upgrade message from the plugin author:": [
+    "★ Сообщение об обновлении от автора плагина:"
+  ],
+  "||Upgrade to Pro": [
+    "★ Upgrade to Pro"
+  ],
+  "||Upload": [
+    "★ Загрузить"
+  ],
+  "||Uppercase Site Title and Tagline": [
+    "★ Название сайта и слоган в верхнем регистре"
+  ],
+  "||Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process.": [
+    "○ Используйте AF Companion для быстрого импорта демонстрационного контента, виджетов и настроек. Этот плагин предоставляет базовую структуру для создания вашего веб-сайта и ускоряет процесс разработки."
+  ],
+  "||Useful Plugins": [
+    "★ Полезные плагины"
+  ],
+  "||Version": [
+    "★ Версия"
+  ],
+  "||Video": [
+    "★ Видео"
+  ],
+  "||Video  Tutorials": [
+    "○ Видеоуроки"
+  ],
+  "||Video Tutorials": [
+    "★ Видео уроки"
+  ],
+  "||View": [
+    "○ Вид"
+  ],
+  "||View All Posts": [
+    "★ Просмотреть все записи"
+  ],
+  "||View Demos": [
+    "★ Посмотреть демонстрации"
+  ],
+  "||View More": [
+    "★ Смотреть больше"
+  ],
+  "||View all results for \"%s\"": [
+    "○ Просмотреть все результаты по запросу \"%s\""
+  ],
+  "||View all search results": [
+    "○ Посмотреть все результаты поиска"
+  ],
+  "||View your shopping cart": [
+    "★ Просмотреть корзину"
+  ],
+  "||Visit Website": [
+    "★ Перейти на сайт"
+  ],
+  "||WP Post Author": [
+    "★ Автор записи WP"
+  ],
+  "||Watch out the videos for an easy learning on Customizing the Theme .": [
+    "○ Посмотрите видеоролики, чтобы легко научиться настройке темы."
+  ],
+  "||We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired.": [
+    "○ Мы создаем красивую серию блоков разделов страниц Gutenberg для контента WordPress, чтобы помочь вам быстро создать веб-сайт, о котором вы всегда мечтали."
+  ],
+  "||We mainly focus on quality code and elegant design with incredible support. Our WordPress themes and plugins empower you to create an elegant, professional, and easy-to-maintain website in no time at all. Even on mobile and tablet screens, your website will look great": [
+    "★ В основном мы уделяем внимание качественному коду и элегантному дизайну с невероятной поддержкой. Наши темы и плагины WordPress позволяют вам создать элегантный, профессиональный и простой в обслуживании веб-сайт в кратчайшие сроки. Даже на экранах мобильных устройств и планшетов ваш сайт будет выглядеть великолепно"
+  ],
+  "||Week %s": [
+    "★ %s за неделю"
+  ],
+  "||Welcome to ": [
+    "○ Добро пожаловать в"
+  ],
+  "||Whether you're just starting or customizing your site.": [
+    "○ Независимо от того, начинаете ли вы или настраиваете свой сайт."
+  ],
+  "||Widget 1": [
+    "★ Виджет 1"
+  ],
+  "||Widget 2": [
+    "★ Виджет 2"
+  ],
+  "||Widget 3": [
+    "★ Виджет 3"
+  ],
+  "||Widget Areas Banner, Featured, Inline": [
+    "○ Баннер областей виджетов, избранные, встроенные"
+  ],
+  "||Widget Areas Header, Front-page, Sidebar, Footer": [
+    "○ Области виджетов: заголовок, главная страница, боковая панель, нижний колонтитул"
+  ],
+  "||Widgets Area": [
+    "○ Область виджетов"
+  ],
+  "||Widgets can be added on all the section provide by the Theme.": [
+    "○ Виджеты можно добавлять во все разделы темы."
+  ],
+  "||WooCommerce Support": [
+    "○ Поддержка WooCommerce"
+  ],
+  "||WordPress Default Date Format": [
+    "★ Формат даты WordPress по умолчанию"
+  ],
+  "||WordPress Repository": [
+    "★ Репозиторий WordPress"
+  ],
+  "||Yoast SEO": [
+    "★ Yoast SEO"
+  ],
+  "||You May Have Missed": [
+    "★ Возможно, вы пропустили"
+  ],
+  "||You can change Menu from menu panel. %s": [
+    "○ Вы можете изменить меню с панели меню. %s"
+  ],
+  "||You can change Site Identity from %s.": [
+    "○ Вы можете изменить идентификатор сайта с %s."
+  ],
+  "||You can change date from general settings (Settings > General > Date Format). %s": [
+    "○ Вы можете изменить дату в общих настройках («Настройки» > «Основные» > «Формат даты»). %s"
+  ],
+  "||You can easily place your promotional banners within your header section.": [
+    "○ Вы можете легко разместить рекламные баннеры в разделе заголовка."
+  ],
+  "||You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks.": [
+    "○ Вы можете создать сложные макеты для своего сайта всего за несколько минут с помощью наших адаптируемых и изобретательных блоков."
+  ],
+  "||YouTube": [
+    "★ YouTube"
+  ],
+  "||YouTube Video Slider Widget": [
+    "○ Виджет слайдера видео YouTube"
+  ],
+  "||Your email": [
+    "★ Ваш email"
+  ],
+  "||Your name": [
+    "★ Ваше имя"
+  ],
+  "||Your website": [
+    "★ Ваш сайт"
+  ],
+  "||close Off-Canvas Navigation": [
+    "○ закрыть Навигация за пределами холста"
+  ],
+  "||grid": [
+    "★ сетка"
+  ],
+  "||https://afthemes.com/products/reviewnews/": [
+    "★ https://afthemes.com/products/reviewnews/"
+  ],
+  "||https://www.afthemes.com/": [
+    "★ https://www.afthemes.com/"
+  ],
+  "||live": [
+    "★ в реальном времени"
+  ],
+  "||pro": [
+    "★ pro"
+  ],
+  "||⭐ Rate This Theme": [
+    "★ Оценить эту тему"
+  ],
+  "||👋 Welcome, and Thank You!": [
+    "○ 👋 Добро пожаловать и спасибо!"
+  ],
+  "||🚀 Start With One Click": [
+    "○ 🚀 Начните в один клик"
+  ],
+  "||🤝 We're Here for You": [
+    "★ Мы всегда готовы помочь"
+  ],
+  "👋 Welcome, and Thank You!": "👋 Добро пожаловать и спасибо!",
+  "🚀 Start With One Click": "🚀 Начните в один клик"
+}

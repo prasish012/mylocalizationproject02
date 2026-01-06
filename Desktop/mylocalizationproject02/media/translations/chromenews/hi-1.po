@@ -1,0 +1,2746 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-29 07:43:55+0000\n"
+"PO-Revision-Date: 2025-10-29 07:43:55+0000\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+#: inc/hooks/hook-patterns.php:13
+msgid "ChromeNews"
+msgstr "क्रोमन्यूज़"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/chromenews/"
+msgstr "https://afthemes.com/products/chromenews/"
+
+#. Description of the theme
+msgid ""
+"ChromeNews is a powerful WordPress theme that's perfect for news, blogs, and"
+" magazines. The theme comes with a number of free starter sites that may be "
+"easily integrated to construct a fantastic news hub. The theme is fully "
+"widgetized, with 9+ custom widgets and widget sections, allowing users to "
+"customize site content. It also offers a light and dark color mode for "
+"viewing articles and blog posts in a fashionable manner. It also includes a "
+"variety of useful customizer choices for creating an aesthetically pleasing "
+"news site. You may set it up as you want and see how it looks before making "
+"any changes with the live customizer. It supports Gutenberg blocks and "
+"Elementor, as well as the WooCommerce plugin, allowing you to combine an "
+"online store with our newspaper theme. The RTL languages supported theme is "
+"appropriate for a news, journal, magazine, publishing, or review website, as"
+" well as blogging. It's well-designed to help the website rank higher in "
+"search engines, and users will receive excellent support from the staff if "
+"they run into any issues while using it. Find demos: "
+"https://afthemes.com/products/chromenews/#aft-view-starter-sites Videos: "
+"https://www.youtube.com/@wpafthemes/ Docs: "
+"https://docs.afthemes.com/chromenews/"
+msgstr ""
+"ChromeNews एक शक्तिशाली वर्डप्रेस थीम है जो समाचार, ब्लॉग और पत्रिकाओं के "
+"लिए बिल्कुल उपयुक्त है। थीम कई निःशुल्क स्टार्टर साइटों के साथ आती है "
+"जिन्हें एक शानदार समाचार केंद्र बनाने के लिए आसानी से एकीकृत किया जा सकता "
+"है। थीम पूरी तरह से विजेटीकृत है, जिसमें 9+ कस्टम विजेट और विजेट अनुभाग हैं,"
+" जो उपयोगकर्ताओं को साइट सामग्री को अनुकूलित करने की अनुमति देता है। यह "
+"लेखों और ब्लॉग पोस्टों को फैशनेबल तरीके से देखने के लिए हल्के और गहरे रंग का"
+" मोड भी प्रदान करता है। इसमें सौंदर्य की दृष्टि से मनभावन समाचार साइट बनाने "
+"के लिए विभिन्न प्रकार के उपयोगी कस्टमाइज़र विकल्प भी शामिल हैं। आप इसे अपनी "
+"इच्छानुसार सेट कर सकते हैं और लाइव कस्टमाइज़र के साथ कोई भी बदलाव करने से "
+"पहले देख सकते हैं कि यह कैसा दिखता है। यह गुटेनबर्ग ब्लॉक और एलीमेंटर के "
+"साथ-साथ WooCommerce प्लगइन का समर्थन करता है, जिससे आप हमारे अखबार थीम के "
+"साथ एक ऑनलाइन स्टोर को जोड़ सकते हैं। आरटीएल भाषा समर्थित थीम किसी समाचार, "
+"पत्रिका, पत्रिका, प्रकाशन या समीक्षा वेबसाइट के साथ-साथ ब्लॉगिंग के लिए "
+"उपयुक्त है। इसे खोज इंजनों में वेबसाइट को उच्च रैंक देने में मदद करने के लिए"
+" अच्छी तरह से डिज़ाइन किया गया है, और यदि उपयोगकर्ताओं को इसका उपयोग करते "
+"समय कोई समस्या आती है तो उन्हें कर्मचारियों से उत्कृष्ट समर्थन प्राप्त होगा।"
+" डेमो खोजें: https://afthemes.com/products/chromenews/#aft-view-starter-"
+"sites वीडियो: https://www.youtube.com/@wpafthemes/ डॉक्स: "
+"https://docs.afthemes.com/chromenews/"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "वायुसेना विषय"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं मिल सका."
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"ऐसा लगता है जैसे इस स्थान पर कुछ भी नहीं मिला। शायद नीचे दिए गए लिंक में से "
+"किसी एक को आज़माएँ या खोजें?"
+
+#: admin-dashboard/admin_dashboard.php:46
+#: admin-dashboard/admin_dashboard.php:47
+msgid "%s"
+msgstr "%s"
+
+#: admin-dashboard/admin_dashboard.php:109
+#: admin-dashboard/admin_dashboard.php:110
+msgid "Starter Sites"
+msgstr "स्टार्टर साइटें"
+
+#: admin-dashboard/admin_dashboard.php:119
+#: admin-dashboard/admin_dashboard.php:120
+msgid "Block Patterns"
+msgstr "ब्लॉक पैटर्न"
+
+#: admin-dashboard/admin_dashboard.php:129
+#: admin-dashboard/admin_dashboard.php:130
+msgid "Elementor Kits"
+msgstr "एलिमेंटर किट"
+
+#: admin-dashboard/admin_dashboard.php:140
+#: admin-dashboard/admin_dashboard.php:141
+msgid "Customize"
+msgstr "अनुकूलित करें"
+
+#: admin-dashboard/admin_dashboard.php:151
+#: admin-dashboard/admin_dashboard.php:152
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: admin-dashboard/admin_dashboard.php:162
+#: admin-dashboard/admin_dashboard.php:163
+msgid "Upgrade"
+msgstr "उन्नत करना"
+
+#: admin-dashboard/admin_dashboard.php:212
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "टेम्प्लेटस्पेयर प्लगइन को नवीनतम संस्करण में अद्यतन किया जाना चाहिए"
+
+#: admin-dashboard/admin_dashboard.php:215
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr ""
+"एक स्टार्टर साइट आयात करें, वैयक्तिकृत करें और इसे 3 आसान चरणों में लाइव "
+"करें!"
+
+#: admin-dashboard/admin_dashboard.php:284
+msgid "Blockspare plugin version should be more than %s."
+msgstr "ब्लॉकस्पेयर प्लगइन संस्करण %s से अधिक होना चाहिए।"
+
+#: admin-dashboard/admin_dashboard.php:289
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr ""
+"एक-क्लिक डेमो आयात, ब्लॉक संपादक तैयार, किसी कोड की आवश्यकता नहीं! "
+"ब्लॉकस्पेयर के साथ निर्मित।"
+
+#: admin-dashboard/admin_dashboard.php:360
+msgid "Elespare plugin version should be more than %s."
+msgstr "Elespare प्लगइन संस्करण %s से अधिक होना चाहिए."
+
+#: admin-dashboard/admin_dashboard.php:361
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr ""
+"एक-क्लिक आयात, हेडर/फुटर बिल्डर, बहुभाषी समर्थन! एलेस्पेरे द्वारा संचालित."
+
+#: admin-dashboard/admin_dashboard.php:436
+msgid "Are you sure you want to install this plugin?"
+msgstr "क्या आप वाकई इस प्लगइन को इंस्टॉल करना चाहते हैं?"
+
+#: admin-dashboard/admin_dashboard.php:437
+#: admin-dashboard/rest-api/api-request.php:29
+msgid "Install Now"
+msgstr "अब स्थापित करें"
+
+#: admin-dashboard/admin_dashboard.php:438
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#: admin-dashboard/admin_dashboard.php:439
+#: admin-dashboard/rest-api/api-request.php:70
+msgid "Activated"
+msgstr "सक्रिय"
+
+#: admin-dashboard/admin_dashboard.php:535
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgid "Get Starter Sites"
+msgstr "स्टार्टर साइटें प्राप्त करें"
+
+#: admin-dashboard/admin_dashboard.php:540
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+#: admin-dashboard/src/components/blockspare.demo.js:13
+#: admin-dashboard/src/components/elespare-demo.js:13
+#: admin-dashboard/src/components/templatespare-demo.js:13
+msgid "Get Started"
+msgstr "शुरू हो जाओ"
+
+#: admin-dashboard/admin_dashboard.php:541
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"\"आरंभ करें\" क्रिया स्टार्टर साइट्स और टेम्प्लेट्स के लिए टेम्प्लेटस्पेयर "
+"और ब्लॉकस्पेयर प्लगइन्स को इंस्टॉल/सक्रिय करेगी।"
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "द्वारा"
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgid "Howdy!"
+msgstr "नमस्ते!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgid ""
+"%s is now installed and ready to use. We've assembled some links to get you "
+"started."
+msgstr ""
+"%s अब इंस्टॉल हो गया है और उपयोग के लिए तैयार है। आपको आरंभ करने के लिए हमने"
+" कुछ लिंक एकत्रित किए हैं।"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgid "Explore Our Pre-Built Starter Websites!"
+msgstr "हमारी पूर्व-निर्मित स्टार्टर वेबसाइटें देखें!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:199
+msgid ""
+"Let your imagination soar! Designed with User-Friendly features, "
+"incorporating the Latest Trends and SEO-Friendly Markups. We genuinely "
+"appreciate you choosing our theme!"
+msgstr ""
+"अपनी कल्पना को उड़ान भरने दो! नवीनतम रुझानों और एसईओ-अनुकूल मार्कअप को शामिल"
+" करते हुए उपयोगकर्ता-अनुकूल सुविधाओं के साथ डिज़ाइन किया गया। हम वास्तव में "
+"हमारी थीम चुनने के लिए आपकी सराहना करते हैं!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgid "Demos/product"
+msgstr "डेमो/उत्पाद"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgid "Theme dashboard"
+msgstr "थीम डैशबोर्ड"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "प्रलेखन"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr ""
+"थीम को सेटअप और कस्टमाइज़ करने के तरीके के बारे में विस्तृत जानकारी के लिए "
+"कृपया हमारा पूरा दस्तावेज़ देखें।"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgid "Videos"
+msgstr "वीडियो"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+msgid "Blog"
+msgstr "ब्लॉग"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+#: admin-dashboard/src/components/json/dashboard-content.js:21
+msgid "Rate This Theme"
+msgstr "इस थीम को रेट करें"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "क्षमा करें, आपको इस साइट पर प्लगइन्स इंस्टॉल करने की अनुमति नहीं है।"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgid "Error - unable to verify nonce, please try again."
+msgstr "त्रुटि - एक बार सत्यापित करने में असमर्थ, कृपया पुनः प्रयास करें।"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "क्षमा करें, आपको इस साइट पर प्लगइन सक्रिय करने की अनुमति नहीं है।"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&ldquo;%1$s&rdquo; पर एक विचार"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ने &ldquo;%2$s&rdquo; पर विचार किया"
+msgstr[1] "%1$s &ldquo;%2$s&rdquo; पर विचार"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:143
+msgid "%1$s by %2$s."
+msgstr "%1$s द्वारा %2$s."
+
+#: functions.php:81 inc/hooks/hook-header-section.php:45
+msgid "Primary Menu"
+msgstr "मुख्य मेनू"
+
+#: functions.php:82
+msgid "Social Menu"
+msgstr "सामाजिक मेनू"
+
+#: functions.php:83
+msgid "Footer Menu"
+msgstr "फ़ुटर मेनू"
+
+#: functions.php:209
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr "पर"
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: inc/customizer/customizer-control.php:186
+msgid "-- Select --"
+msgstr "-- चुनना --"
+
+#: inc/customizer/customizer-default.php:48
+msgid "Subscribe"
+msgstr "सदस्यता लें"
+
+#: inc/customizer/customizer-default.php:64
+msgid "Trending"
+msgstr "रुझान"
+
+#: inc/customizer/customizer-default.php:72
+msgid "Breaking News"
+msgstr "आज की ताजा खबर"
+
+#: inc/customizer/customizer-default.php:91
+msgid "Main News"
+msgstr "मुख्य समाचार"
+
+#: inc/customizer/customizer-default.php:96
+msgid "Trending Now"
+msgstr "अब फैशन में है"
+
+#: inc/customizer/customizer-default.php:105
+#: inc/widgets/widgets-common-functions.php:98
+msgid "Popular"
+msgstr "लोकप्रिय"
+
+#: inc/customizer/customizer-default.php:111
+#: inc/customizer/frontpage-options.php:713
+msgid "Latest"
+msgstr "नवीनतम"
+
+#: inc/customizer/customizer-default.php:133
+#: inc/customizer/customizer-default.php:145
+msgid "Editor's Picks"
+msgstr "संपादक की पसंद"
+
+#: inc/customizer/customizer-default.php:148
+msgid "Trending Story"
+msgstr "ट्रेंडिंग स्टोरी"
+
+#: inc/customizer/customizer-default.php:153
+#: inc/customizer/frontpage-options.php:821
+msgid "Featured Posts"
+msgstr "चुनिंदा पोस्ट्स"
+
+#: inc/customizer/customizer-default.php:178
+msgid "Read More"
+msgstr "और पढ़ें"
+
+#: inc/customizer/customizer-default.php:207
+msgid "Related News"
+msgstr "संबंधित समाचार"
+
+#: inc/customizer/customizer-default.php:218
+msgid "You may have missed"
+msgstr "हो सकता है आप चूक गए हों"
+
+#: inc/customizer/customizer-default.php:222
+msgid "Copyright &copy; All rights reserved."
+msgstr "कॉपीराइट &कॉपी; सर्वाधिकार सुरक्षित।"
+
+#: inc/customizer/customizer.php:65 inc/customizer/font-color-options.php:225
+msgid "Background Color"
+msgstr "पृष्ठभूमि का रंग"
+
+#: inc/customizer/customizer.php:91
+msgid "Site Title Size"
+msgstr "साइट शीर्षक आकार"
+
+#: inc/customizer/customizer.php:109
+msgid "Uppercase Site Title and Tagline"
+msgstr "अपरकेस साइट शीर्षक और टैगलाइन"
+
+#: inc/customizer/customizer.php:120
+msgid "Site Title/Tagline Color"
+msgstr "साइट शीर्षक/टैगलाइन रंग"
+
+#: inc/customizer/customizer.php:135
+msgid "Header Image Mode"
+msgstr "हेडर छवि मोड"
+
+#: inc/customizer/customizer.php:136
+msgid "Image visibility may vary as per the mode"
+msgstr "मोड के अनुसार छवि दृश्यता भिन्न हो सकती है"
+
+#: inc/customizer/customizer.php:141
+msgid "Set as Background"
+msgstr "पृष्ठभूमि के रूप में सेट करें"
+
+#: inc/customizer/customizer.php:142
+msgid "Show Full Image"
+msgstr "पूर्ण छवि दिखाएँ"
+
+#: inc/customizer/customizer.php:159
+msgid "Enable Image Tint/Overlay"
+msgstr "छवि टिंट/ओवरले सक्षम करें"
+
+#: inc/customizer/customizer.php:180
+msgid "ChromeNews Pro"
+msgstr "क्रोमन्यूज़ प्रो"
+
+#: inc/customizer/customizer.php:181
+msgid "Upgrade Now"
+msgstr "अभी अपग्रेड करें"
+
+#: inc/customizer/font-color-options.php:23
+msgid "Site Title/Tagline Color (Dark Mode)"
+msgstr "साइट शीर्षक/टैगलाइन रंग (डार्क मोड)"
+
+#: inc/customizer/font-color-options.php:40
+msgid "Site Color Mode"
+msgstr "साइट रंग मोड"
+
+#: inc/customizer/font-color-options.php:44
+msgid "Light"
+msgstr "रोशनी"
+
+#: inc/customizer/font-color-options.php:45
+msgid "Dark"
+msgstr "अँधेरा"
+
+#: inc/customizer/font-color-options.php:64
+msgid "Primary Color Section "
+msgstr "प्राथमिक रंग अनुभाग"
+
+#: inc/customizer/font-color-options.php:86
+msgid "Background Color (Dark Mode)"
+msgstr "पृष्ठभूमि का रंग (डार्क मोड)"
+
+#: inc/customizer/font-color-options.php:109
+msgid "Background Color (Dark Mode) will be applied for this mode."
+msgstr "इस मोड के लिए बैकग्राउंड कलर (डार्क मोड) लागू किया जाएगा।"
+
+#: inc/customizer/font-color-options.php:133
+msgid "Secondary Color Section "
+msgstr "द्वितीयक रंग अनुभाग"
+
+#: inc/customizer/font-color-options.php:157
+msgid "Secondary Color"
+msgstr "द्वितीयक रंग"
+
+#: inc/customizer/font-color-options.php:181
+msgid "Texts over Secondary Color"
+msgstr "द्वितीयक रंग पर पाठ"
+
+#: inc/customizer/font-color-options.php:202
+msgid "Primary Navigation Section "
+msgstr "प्राथमिक नेविगेशन अनुभाग"
+
+#: inc/customizer/font-color-options.php:239
+msgid "Fonts & Typography"
+msgstr "फ़ॉन्ट्स और टाइपोग्राफी"
+
+#: inc/customizer/font-color-options.php:261
+msgid "Font Family Section"
+msgstr "फ़ॉन्ट परिवार अनुभाग"
+
+#: inc/customizer/font-color-options.php:281
+msgid "Site Title Font"
+msgstr "साइट शीर्षक फ़ॉन्ट"
+
+#: inc/customizer/font-color-options.php:300
+#: inc/customizer/font-color-options.php:344
+msgid "Primary Font"
+msgstr "प्राथमिक फ़ॉन्ट"
+
+#: inc/customizer/font-color-options.php:319
+#: inc/customizer/font-color-options.php:345
+msgid "Secondary Font"
+msgstr "द्वितीयक फ़ॉन्ट"
+
+#: inc/customizer/font-color-options.php:339
+msgid "Post Title Font"
+msgstr "पोस्ट शीर्षक फ़ॉन्ट"
+
+#: inc/customizer/font-color-options.php:340
+msgid "Widgets, Archives, Search, etc."
+msgstr "विजेट, पुरालेख, खोज, आदि।"
+
+#: inc/customizer/font-color-options.php:364
+msgid "Texts Formatting Section"
+msgstr "पाठ स्वरूपण अनुभाग"
+
+#: inc/customizer/font-color-options.php:384
+msgid "Title Font Weight"
+msgstr "शीर्षक फ़ॉन्ट वजन"
+
+#: inc/customizer/font-color-options.php:385
+#: inc/customizer/font-color-options.php:432
+msgid "Default Value: %d"
+msgstr "डिफ़ॉल्ट मान: %d"
+
+#: inc/customizer/font-color-options.php:390
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/font-color-options.php:391
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/font-color-options.php:411
+msgid "Font Size Section"
+msgstr "फ़ॉन्ट आकार अनुभाग"
+
+#: inc/customizer/font-color-options.php:431
+msgid "Global Section Title Size"
+msgstr "वैश्विक अनुभाग शीर्षक आकार"
+
+#: inc/customizer/frontpage-options.php:22
+#: admin-dashboard/src/components/json/home-content.js:27
+msgid "Main Banner Options"
+msgstr "मुख्य बैनर विकल्प"
+
+#: inc/customizer/frontpage-options.php:36
+msgid "Main Banner"
+msgstr "मुख्य बैनर"
+
+#: inc/customizer/frontpage-options.php:55
+msgid "Enable Main Banner Section"
+msgstr "मुख्य बैनर अनुभाग सक्षम करें"
+
+#: inc/customizer/frontpage-options.php:78
+msgid "Main Banner Background Image"
+msgstr "मुख्य बैनर पृष्ठभूमि छवि"
+
+#: inc/customizer/frontpage-options.php:79
+#: inc/customizer/theme-options.php:252 inc/customizer/theme-options.php:1274
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "अनुशंसित आकार %1$s px X %2$s px"
+
+#: inc/customizer/frontpage-options.php:104
+msgid "Select Main Banner Layout"
+msgstr "मुख्य बैनर लेआउट चुनें"
+
+#: inc/customizer/frontpage-options.php:109
+#: inc/customizer/theme-options.php:347 inc/customizer/theme-options.php:900
+msgid "Default"
+msgstr "गलती करना"
+
+#: inc/customizer/frontpage-options.php:110
+msgid "Tiled"
+msgstr "टाइलों"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Vertical"
+msgstr "खड़ा"
+
+#: inc/customizer/frontpage-options.php:130
+msgid "Select Main Banner Order"
+msgstr "मुख्य बैनर ऑर्डर चुनें"
+
+#: inc/customizer/frontpage-options.php:134
+msgid "Order 1"
+msgstr "आदेश 1"
+
+#: inc/customizer/frontpage-options.php:135
+msgid "Order 2"
+msgstr "आदेश 2"
+
+#: inc/customizer/frontpage-options.php:165
+msgid "Main News Section "
+msgstr "मुख्य समाचार अनुभाग"
+
+#: inc/customizer/frontpage-options.php:185
+#: inc/customizer/frontpage-options.php:366
+#: inc/customizer/frontpage-options.php:533
+msgid "Filter Posts By"
+msgstr "पोस्ट फ़िल्टर करें द्वारा"
+
+#: inc/customizer/frontpage-options.php:189
+#: inc/customizer/frontpage-options.php:370
+#: inc/customizer/frontpage-options.php:537
+msgid "Category"
+msgstr "वर्ग"
+
+#: inc/customizer/frontpage-options.php:190
+#: inc/customizer/frontpage-options.php:371
+#: inc/customizer/frontpage-options.php:538
+msgid "Tag"
+msgstr "टैग"
+
+#: inc/customizer/frontpage-options.php:210
+#: inc/customizer/frontpage-options.php:396
+#: inc/customizer/frontpage-options.php:565
+#: inc/widgets/widget-express-posts-list.php:137
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:140
+msgid "Select Category"
+msgstr "श्रेणी चुनना"
+
+#: inc/customizer/frontpage-options.php:211
+msgid "Select category to be shown on main slider section"
+msgstr "मुख्य स्लाइडर अनुभाग पर दिखाई जाने वाली श्रेणी का चयन करें"
+
+#: inc/customizer/frontpage-options.php:239
+#: inc/customizer/frontpage-options.php:425
+#: inc/customizer/frontpage-options.php:594
+msgid "Select Tag"
+msgstr "टैग चुनें"
+
+#: inc/customizer/frontpage-options.php:240
+msgid "Select tag to be shown on main slider section"
+msgstr "मुख्य स्लाइडर अनुभाग पर दिखाए जाने वाले टैग का चयन करें"
+
+#: inc/customizer/frontpage-options.php:265
+msgid "Number of Posts"
+msgstr "पदों की संख्या"
+
+#: inc/customizer/frontpage-options.php:266
+msgid "Accepts any postive number."
+msgstr "किसी भी पोस्टिव नंबर को स्वीकार करता है।"
+
+#: inc/customizer/frontpage-options.php:286
+#: inc/customizer/frontpage-options.php:452
+#: inc/customizer/frontpage-options.php:624
+msgid "Enable Autoplay"
+msgstr "ऑटोप्ले सक्षम करें"
+
+#: inc/customizer/frontpage-options.php:315
+msgid "Editor's Picks Section"
+msgstr "संपादक की पसंद अनुभाग"
+
+#: inc/customizer/frontpage-options.php:338
+#: inc/customizer/frontpage-options.php:504
+#: inc/customizer/frontpage-options.php:685
+#: inc/customizer/frontpage-options.php:766
+#: inc/customizer/frontpage-options.php:860
+msgid "Section Title "
+msgstr "अनुभाग शीर्षक"
+
+#: inc/customizer/frontpage-options.php:480
+msgid "Trending Section"
+msgstr "ट्रेंडिंग सेक्शन"
+
+#: inc/customizer/frontpage-options.php:642
+msgid "Popular Tags"
+msgstr "लोकप्रिय टैग"
+
+#: inc/customizer/frontpage-options.php:668
+msgid "Enable Trending Tags"
+msgstr "ट्रेंडिंग टैग सक्षम करें"
+
+#: inc/customizer/frontpage-options.php:708
+msgid "Order Tags By"
+msgstr "ऑर्डर टैग द्वारा"
+
+#: inc/customizer/frontpage-options.php:712
+msgid "Popularity"
+msgstr "लोकप्रियता"
+
+#: inc/customizer/frontpage-options.php:723
+msgid "Exclusive News"
+msgstr "विशेष समाचार"
+
+#: inc/customizer/frontpage-options.php:749
+msgid "Enable Exclusive News"
+msgstr "विशेष समाचार सक्षम करें"
+
+#: inc/customizer/frontpage-options.php:788
+msgid "Flash Posts Category"
+msgstr "फ़्लैश पोस्ट श्रेणी"
+
+#: inc/customizer/frontpage-options.php:789
+msgid "Select category to be shown on trending posts "
+msgstr "ट्रेंडिंग पोस्ट पर दिखाई जाने वाली श्रेणी का चयन करें"
+
+#: inc/customizer/frontpage-options.php:807
+msgid "Frontpage Options"
+msgstr "मुखपृष्ठ विकल्प"
+
+#: inc/customizer/frontpage-options.php:842
+msgid "Enable Featured Post Section"
+msgstr "फ़ीचर्ड पोस्ट अनुभाग सक्षम करें"
+
+#: inc/customizer/frontpage-options.php:883
+msgid "Select "
+msgstr "चुनना"
+
+#: inc/customizer/frontpage-options.php:884
+msgid "Select category to be shown on featured section "
+msgstr "फ़ीचर्ड अनुभाग पर दिखाई जाने वाली श्रेणी का चयन करें"
+
+#: inc/customizer/frontpage-options.php:900
+msgid "Frontpage Layout Settings"
+msgstr "फ्रंटपेज लेआउट सेटिंग्स"
+
+#: inc/customizer/frontpage-options.php:919
+msgid "Frontpage Content Alignment"
+msgstr "मुखपृष्ठ सामग्री संरेखण"
+
+#: inc/customizer/frontpage-options.php:920
+msgid "Select frontpage content alignment"
+msgstr "मुखपृष्ठ सामग्री संरेखण का चयन करें"
+
+#: inc/customizer/frontpage-options.php:924
+msgid "Home Content - Home Sidebar"
+msgstr "होम सामग्री - होम साइडबार"
+
+#: inc/customizer/frontpage-options.php:925
+msgid "Home Sidebar - Home Content"
+msgstr "होम साइडबार - होम सामग्री"
+
+#: inc/customizer/frontpage-options.php:926
+msgid "Only Home Content"
+msgstr "केवल घरेलू सामग्री"
+
+#: inc/customizer/theme-options.php:31
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid "Header Options"
+msgstr "शीर्ष लेख विकल्प"
+
+#: inc/customizer/theme-options.php:47
+msgid "Header Settings"
+msgstr "हेडर सेटिंग्स"
+
+#: inc/customizer/theme-options.php:67
+msgid "Site Light/Dark Mode"
+msgstr "साइट लाइट/डार्क मोड"
+
+#: inc/customizer/theme-options.php:72
+msgid "Enable"
+msgstr "सक्षम"
+
+#: inc/customizer/theme-options.php:73 inc/customizer/theme-options.php:443
+msgid "Disable"
+msgstr "अक्षम करना"
+
+#: inc/customizer/theme-options.php:94
+msgid "Top Header Section"
+msgstr "शीर्ष शीर्षलेख अनुभाग"
+
+#: inc/customizer/theme-options.php:116
+msgid "Show Top Header"
+msgstr "शीर्ष शीर्षलेख दिखाएँ"
+
+#: inc/customizer/theme-options.php:137
+msgid "Show Social Menu"
+msgstr "सामाजिक मेनू दिखाएँ"
+
+#: inc/customizer/theme-options.php:158 inc/customizer/theme-options.php:547
+#: inc/customizer/theme-options.php:571
+msgid "Show Date"
+msgstr "दिनांक दिखाएँ"
+
+#: inc/customizer/theme-options.php:178
+msgid "Show Time"
+msgstr "शो टाइम"
+
+#: inc/customizer/theme-options.php:199
+msgid "Time Format"
+msgstr "समय स्वरूप"
+
+#: inc/customizer/theme-options.php:204
+msgid "12 hours"
+msgstr "12 घंटे"
+
+#: inc/customizer/theme-options.php:205
+msgid "24 hours"
+msgstr "24 घंटे"
+
+#: inc/customizer/theme-options.php:206
+msgid "From WordPress Settings"
+msgstr "वर्डप्रेस सेटिंग्स से"
+
+#: inc/customizer/theme-options.php:227
+msgid "Header Advertisement"
+msgstr "हेडर विज्ञापन"
+
+#: inc/customizer/theme-options.php:251
+msgid "Header Section Advertisement"
+msgstr "हेडर अनुभाग विज्ञापन"
+
+#: inc/customizer/theme-options.php:275
+msgid "URL Link"
+msgstr "यूआरएल लिंक"
+
+#: inc/customizer/theme-options.php:286
+msgid "Theme Options"
+msgstr "थीम विकल्प"
+
+#: inc/customizer/theme-options.php:300
+msgid "Breadcrumb Options"
+msgstr "ब्रेडक्रम्ब विकल्प"
+
+#: inc/customizer/theme-options.php:321
+msgid "Show breadcrumbs"
+msgstr "ब्रेडक्रम्ब्स दिखाओ"
+
+#: inc/customizer/theme-options.php:341
+msgid "Select Breadcrumbs"
+msgstr "ब्रेडक्रम्ब्स चुनें"
+
+#: inc/customizer/theme-options.php:342
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr ""
+"कृपया सुनिश्चित करें कि आपने डिफ़ॉल्ट के अलावा अन्य विकल्प चुनने से पहले "
+"प्लगइन के ब्रेडक्रंब को सक्षम कर लिया है"
+
+#: inc/customizer/theme-options.php:348
+msgid "Yoast SEO"
+msgstr "योस्ट एसईओ"
+
+#: inc/customizer/theme-options.php:349
+msgid "Rank Math"
+msgstr "रैंक गणित"
+
+#: inc/customizer/theme-options.php:350
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/theme-options.php:369
+msgid "Global Settings"
+msgstr "वैश्विक सेटिंग्स"
+
+#: inc/customizer/theme-options.php:390
+msgid "Enable Preloader"
+msgstr "प्रीलोडर सक्षम करें"
+
+#: inc/customizer/theme-options.php:411
+msgid "Global Content Alignment"
+msgstr "वैश्विक सामग्री संरेखण"
+
+#: inc/customizer/theme-options.php:415
+msgid "Content - Primary sidebar"
+msgstr "सामग्री - प्राथमिक साइडबार"
+
+#: inc/customizer/theme-options.php:416
+msgid "Primary sidebar - Content"
+msgstr "प्राथमिक साइडबार - सामग्री"
+
+#: inc/customizer/theme-options.php:417
+msgid "Full width content"
+msgstr "पूरी चौड़ाई वाली सामग्री"
+
+#: inc/customizer/theme-options.php:437
+msgid "Also Show Content Image in Archive"
+msgstr "पुरालेख में सामग्री छवि भी दिखाएं"
+
+#: inc/customizer/theme-options.php:438
+msgid "If there is no Post Featured image set"
+msgstr "यदि कोई पोस्ट फ़ीचर्ड छवि सेट नहीं है"
+
+#: inc/customizer/theme-options.php:442
+msgid "Enable "
+msgstr "सक्षम"
+
+#: inc/customizer/theme-options.php:456
+msgid "Categories Settings"
+msgstr "श्रेणियाँ सेटिंग्स"
+
+#: inc/customizer/theme-options.php:476
+msgid "Post Categories"
+msgstr "पोस्ट श्रेणियाँ"
+
+#: inc/customizer/theme-options.php:480 inc/customizer/theme-options.php:690
+msgid "Show"
+msgstr "दिखाओ"
+
+#: inc/customizer/theme-options.php:481 inc/customizer/theme-options.php:691
+msgid "Hide"
+msgstr "छिपाना"
+
+#: inc/customizer/theme-options.php:495
+msgid "Author and Date Settings"
+msgstr "लेखक और दिनांक सेटिंग"
+
+#: inc/customizer/theme-options.php:516
+msgid "For Spotlight Posts"
+msgstr "स्पॉटलाइट पोस्ट के लिए"
+
+#: inc/customizer/theme-options.php:520 inc/customizer/theme-options.php:546
+msgid "Show Date and Author"
+msgstr "दिनांक और लेखक दिखाएँ"
+
+#: inc/customizer/theme-options.php:521
+msgid "Show Date Only"
+msgstr "केवल दिनांक दिखाएँ"
+
+#: inc/customizer/theme-options.php:522 inc/customizer/theme-options.php:548
+#: inc/customizer/theme-options.php:572
+msgid "Hide All"
+msgstr "सभी को छिपाएं"
+
+#: inc/customizer/theme-options.php:542
+msgid "For Small Grid"
+msgstr "छोटे ग्रिड के लिए"
+
+#: inc/customizer/theme-options.php:567
+msgid "For List"
+msgstr "सूची के लिए"
+
+#: inc/customizer/theme-options.php:591
+msgid "Author Icon/Gravatar"
+msgstr "लेखक चिह्न/ग्रेवतार"
+
+#: inc/customizer/theme-options.php:595
+msgid "Show Gravatar"
+msgstr "ग्रेवतार दिखाओ"
+
+#: inc/customizer/theme-options.php:596
+msgid "Show Icon"
+msgstr "आइकन दिखाएं"
+
+#: inc/customizer/theme-options.php:597
+msgid "None"
+msgstr "कोई नहीं"
+
+#: inc/customizer/theme-options.php:617
+msgid "Post Date Type"
+msgstr "पोस्ट दिनांक प्रकार"
+
+#: inc/customizer/theme-options.php:621
+msgid "Published Date"
+msgstr "प्रकाशित तिथि"
+
+#: inc/customizer/theme-options.php:622
+msgid "Modified Date"
+msgstr "संशोधित तिथि"
+
+#: inc/customizer/theme-options.php:644
+msgid "Date Format"
+msgstr "तारिख का प्रारूप"
+
+#: inc/customizer/theme-options.php:648
+msgid "WordPress Default Date Format"
+msgstr "वर्डप्रेस डिफ़ॉल्ट दिनांक प्रारूप"
+
+#: inc/customizer/theme-options.php:649
+msgid "Ago Date Format"
+msgstr "एगो दिनांक प्रारूप"
+
+#: inc/customizer/theme-options.php:665 inc/customizer/theme-options.php:686
+msgid "Minutes Read Count"
+msgstr "मिनट पढ़ें गिनती"
+
+#: inc/customizer/theme-options.php:705
+msgid "Excerpt Settings"
+msgstr "अंश सेटिंग्स"
+
+#: inc/customizer/theme-options.php:726
+msgid "Global Excerpt Read More"
+msgstr "वैश्विक अंश और पढ़ें"
+
+#: inc/customizer/theme-options.php:749
+msgid "Custom Menu Section"
+msgstr "कस्टम मेनू अनुभाग"
+
+#: inc/customizer/theme-options.php:769
+msgid "Enable Custom Menu Section"
+msgstr "कस्टम मेनू अनुभाग सक्षम करें"
+
+#: inc/customizer/theme-options.php:789
+msgid "Icon"
+msgstr "आइकन"
+
+#: inc/customizer/theme-options.php:793
+msgid "Bell"
+msgstr "घंटी"
+
+#: inc/customizer/theme-options.php:794
+msgid "Play"
+msgstr "खेल"
+
+#: inc/customizer/theme-options.php:795
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: inc/customizer/theme-options.php:817 inc/customizer/theme-options.php:1045
+#: inc/widgets/widget-author-info.php:140
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:114
+#: inc/widgets/widget-trending-posts.php:139
+msgid "Title"
+msgstr "शीर्षक"
+
+#: inc/customizer/theme-options.php:838
+msgid "Link"
+msgstr "जोड़ना"
+
+#: inc/customizer/theme-options.php:855
+msgid "Single Post"
+msgstr "एकल पोस्ट"
+
+#: inc/customizer/theme-options.php:875
+msgid "Show Featured Image"
+msgstr "फ़ीचर्ड छवि दिखाएँ"
+
+#: inc/customizer/theme-options.php:896
+msgid "Featured Image Position"
+msgstr "विशेष रुप से प्रदर्शित छवि स्थिति"
+
+#: inc/customizer/theme-options.php:901
+msgid "Title below image"
+msgstr "छवि के नीचे शीर्षक"
+
+#: inc/customizer/theme-options.php:924
+msgid "Single Content"
+msgstr "एकल सामग्री"
+
+#: inc/customizer/theme-options.php:929 inc/hooks/hook-meta.php:80
+msgid "Spacious"
+msgstr "विशाल"
+
+#: inc/customizer/theme-options.php:930 inc/hooks/hook-meta.php:83
+msgid "Compact"
+msgstr "सघन"
+
+#: inc/customizer/theme-options.php:950
+msgid "Show Tags under Content"
+msgstr "सामग्री के अंतर्गत टैग दिखाएँ"
+
+#: inc/customizer/theme-options.php:974
+msgid "Social Share Option"
+msgstr "सामाजिक शेयर विकल्प"
+
+#: inc/customizer/theme-options.php:975
+msgid "Social Share from Jetpack plugin"
+msgstr "जेटपैक प्लगइन से सोशल शेयर"
+
+#: inc/customizer/theme-options.php:979
+msgid "After Title"
+msgstr "शीर्षक के बाद"
+
+#: inc/customizer/theme-options.php:980
+msgid "Before Title"
+msgstr "शीर्षक से पहले"
+
+#: inc/customizer/theme-options.php:981
+msgid "After Content"
+msgstr "सामग्री के बाद"
+
+#: inc/customizer/theme-options.php:1004
+msgid "Related Posts Settings"
+msgstr "संबंधित पोस्ट सेटिंग्स"
+
+#: inc/customizer/theme-options.php:1025
+msgid "Enable Related Posts"
+msgstr "संबंधित पोस्ट सक्षम करें"
+
+#: inc/customizer/theme-options.php:1068
+msgid "Archive Settings"
+msgstr "पुरालेख सेटिंग्स"
+
+#: inc/customizer/theme-options.php:1089
+msgid "Disable Main Banner on Blog"
+msgstr "ब्लॉग पर मुख्य बैनर अक्षम करें"
+
+#: inc/customizer/theme-options.php:1110
+msgid "Archive layout"
+msgstr "पुरालेख लेआउट"
+
+#: inc/customizer/theme-options.php:1111
+msgid "Select layout for archive"
+msgstr "संग्रह के लिए लेआउट का चयन करें"
+
+#: inc/customizer/theme-options.php:1116
+msgid "Grid"
+msgstr "ग्रिड"
+
+#: inc/customizer/theme-options.php:1117
+msgid "List"
+msgstr "सूची"
+
+#: inc/customizer/theme-options.php:1132
+msgid "Sidebar Settings"
+msgstr "साइडबार सेटिंग्स"
+
+#: inc/customizer/theme-options.php:1153
+msgid "Make Sidebar Sticky"
+msgstr "साइडबार को चिपचिपा बनाएं"
+
+#: inc/customizer/theme-options.php:1174
+msgid "Sidebar Sticky Position"
+msgstr "साइडबार चिपचिपी स्थिति"
+
+#: inc/customizer/theme-options.php:1179
+msgid "Top"
+msgstr "शीर्ष"
+
+#: inc/customizer/theme-options.php:1180
+msgid "Bottom"
+msgstr "तल"
+
+#: inc/customizer/theme-options.php:1193
+msgid "You May Have Missed"
+msgstr "आप चूक गए होंगे"
+
+#: inc/customizer/theme-options.php:1212
+msgid "Show Above Footer"
+msgstr "उपरोक्त पाद लेख दिखाएँ"
+
+#: inc/customizer/theme-options.php:1232
+msgid "Posts Section Title"
+msgstr "पोस्ट अनुभाग शीर्षक"
+
+#: inc/customizer/theme-options.php:1249
+msgid "Footer"
+msgstr "फ़ुटबाल"
+
+#: inc/customizer/theme-options.php:1273
+msgid "Footer Background Image"
+msgstr "फ़ुटर पृष्ठभूमि छवि"
+
+#: inc/customizer/theme-options.php:1299
+msgid "Copyright Text"
+msgstr "कॉपीराइट पाठ"
+
+#: inc/customizer/theme-options.php:1321
+msgid "Hide footer Menu Section"
+msgstr "फ़ुटर मेनू अनुभाग छिपाएँ"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: inc/hooks/blocks/block-archive-list.php:20
+#: template-parts/content-page.php:27 template-parts/content.php:97
+msgid "Pages:"
+msgstr "पन्ने:"
+
+#: inc/hooks/hook-header-section.php:142
+msgid "Light/Dark Button"
+msgstr "लाइट/डार्क बटन"
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "लेआउट विकल्प"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "सामग्री विकल्प"
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:99
+msgid "Set as global layout"
+msgstr "वैश्विक लेआउट के रूप में सेट करें"
+
+#: inc/hooks/hook-meta.php:89
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "कृपया कस्टमाइज> सिंगल पोस्ट/पेज के लिए थीम विकल्प पर जाएं।"
+
+#: inc/hooks/hook-meta.php:94
+msgid "Sidebar Options"
+msgstr "साइडबार विकल्प"
+
+#: inc/hooks/hook-meta.php:102
+msgid "Content - Primary Sidebar"
+msgstr "सामग्री - प्राथमिक साइडबार"
+
+#: inc/hooks/hook-meta.php:105
+msgid "Primary Sidebar - Content"
+msgstr "प्राथमिक साइडबार - सामग्री"
+
+#: inc/hooks/hook-meta.php:108
+msgid "No Sidebar"
+msgstr "कोई साइडबार नहीं"
+
+#: inc/hooks/hook-meta.php:112
+msgid "Please go to Customize>Frontpage Options for Homepage."
+msgstr "कृपया होमपेज के लिए कस्टमाइज़>फ्रंटपेज विकल्प पर जाएं।"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:225
+msgid "Category Color 1"
+msgstr "श्रेणी रंग 1"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:226
+msgid "Category Color 2"
+msgstr "श्रेणी रंग 2"
+
+#: inc/hooks/hook-meta.php:187 inc/hooks/hook-meta.php:227
+msgid "Category Color 3"
+msgstr "श्रेणी रंग 3"
+
+#: inc/hooks/hook-meta.php:193 inc/hooks/hook-meta.php:221
+msgid "Color Class"
+msgstr "रंग वर्ग"
+
+#: inc/hooks/hook-meta.php:199 inc/hooks/hook-meta.php:237
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+"श्रेणी रंग वर्ग का चयन करें. आप थीम कस्टमाइज़र के \"श्रेणियाँ\" अनुभाग पर "
+"उपयुक्त श्रेणियों का रंग सेट कर सकते हैं।"
+
+#: inc/hooks/hook-tgm.php:19
+msgid "AF Companion"
+msgstr "एएफ साथी"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "Templatespare"
+msgstr "टेम्प्लेटस्पेयर"
+
+#: inc/hooks/hook-tgm.php:30
+msgid "Elespare"
+msgstr "एलेस्पेरे"
+
+#: inc/hooks/hook-tgm.php:35
+msgid "Blockspare"
+msgstr "ब्लॉकस्पेयर"
+
+#: inc/hooks/hook-tgm.php:40
+msgid "Latest Posts Block"
+msgstr "नवीनतम पोस्ट ब्लॉक"
+
+#: inc/hooks/hook-tgm.php:45
+msgid "Free Live Chat using 3CX"
+msgstr "3CX का उपयोग करके निःशुल्क लाइव चैट"
+
+#: inc/hooks/hook-tgm.php:50
+msgid "Magic Content Box"
+msgstr "जादू सामग्री बॉक्स"
+
+#: inc/hooks/hook-tgm.php:55
+msgid "WP Post Author"
+msgstr "WP पोस्ट लेखक"
+
+#: inc/hooks/hook-tgm.php:60
+msgid "Frontend Post Submission"
+msgstr "फ्रंटएंड पोस्ट सबमिशन"
+
+#: inc/hooks/patterns/hybridnews-section-1.php:9
+msgid "HybridNews Main Banner"
+msgstr "हाइब्रिडन्यूज़ मुख्य बैनर"
+
+#: inc/hooks/patterns/hybridnews-section-2.php:9
+msgid "HybridNews Express Posts"
+msgstr "हाइब्रिडन्यूज़ एक्सप्रेस पोस्ट"
+
+#: inc/hooks/patterns/hybridnews-section-2.php:19
+#: inc/hooks/patterns/hybridnews.php:31
+msgid "Express Grid"
+msgstr "एक्सप्रेस ग्रिड"
+
+#: inc/hooks/patterns/hybridnews-section-2.php:29
+#: inc/hooks/patterns/hybridnews.php:41 inc/widgets/widget-author-info.php:140
+msgid "About Author"
+msgstr "लेखक के बारे में"
+
+#: inc/hooks/patterns/hybridnews-section-2.php:35
+#: inc/hooks/patterns/hybridnews.php:47
+msgid ""
+"We mainly focus on quality code and elegant design with incredible support. "
+"Our WordPress themes and plugins empower you to create an elegant, "
+"professional, and easy-to-maintain website in no time at all. Even on mobile"
+" and tablet screens, your website will look great"
+msgstr ""
+"हम मुख्य रूप से अविश्वसनीय समर्थन के साथ गुणवत्ता कोड और सुरुचिपूर्ण डिजाइन "
+"पर ध्यान केंद्रित करते हैं। हमारे वर्डप्रेस थीम और प्लगइन्स आपको कुछ ही समय "
+"में एक सुंदर, पेशेवर और आसानी से बनाए रखने वाली वेबसाइट बनाने में सक्षम "
+"बनाते हैं। मोबाइल और टैबलेट स्क्रीन पर भी, आपकी वेबसाइट बहुत अच्छी दिखेगी"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:9
+msgid "HybridNews Primary Section"
+msgstr "हाइब्रिडन्यूज़ प्राथमिक अनुभाग"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:19
+#: inc/hooks/patterns/hybridnews.php:66
+msgid "Post Slider"
+msgstr "पोस्ट स्लाइडर"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:27
+#: inc/hooks/patterns/hybridnews-section-4.php:46
+#: inc/hooks/patterns/hybridnews.php:74 inc/hooks/patterns/hybridnews.php:180
+msgid "Post Grid"
+msgstr "पोस्ट ग्रिड"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:37
+#: inc/hooks/patterns/hybridnews.php:84
+msgid "Post List"
+msgstr "पोस्ट सूची"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:45
+#: inc/hooks/patterns/hybridnews.php:92
+msgid "Connect to Us"
+msgstr "हमसे जुड़ें"
+
+#: inc/hooks/patterns/hybridnews-section-3.php:83
+#: inc/hooks/patterns/hybridnews-section-4.php:36
+#: inc/hooks/patterns/hybridnews.php:130 inc/hooks/patterns/hybridnews.php:170
+msgid "Advertisement"
+msgstr "विज्ञापन"
+
+#: inc/hooks/patterns/hybridnews-section-4.php:9
+msgid "HybridNews Secondary Section"
+msgstr "हाइब्रिडन्यूज माध्यमिक अनुभाग"
+
+#: inc/hooks/patterns/hybridnews-section-4.php:18
+#: inc/hooks/patterns/hybridnews.php:152
+msgid "Express Tile"
+msgstr "एक्सप्रेस टाइल"
+
+#: inc/hooks/patterns/hybridnews-section-4.php:26
+#: inc/hooks/patterns/hybridnews.php:160
+msgid "Single Column"
+msgstr "एक स्तंभ"
+
+#: inc/hooks/patterns/hybridnews-section-4.php:54
+#: inc/hooks/patterns/hybridnews.php:188
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: inc/hooks/patterns/hybridnews-section-5.php:9
+msgid "HybridNews Ticker News"
+msgstr "हाइब्रिडन्यूज़ टिकर न्यूज़"
+
+#: inc/hooks/patterns/hybridnews-section-6.php:9
+msgid "HybridNews Featured News"
+msgstr "हाइब्रिडन्यूज़ विशेष समाचार"
+
+#: inc/hooks/patterns/hybridnews-section-6.php:16
+#: inc/hooks/patterns/hybridnews.php:20
+msgid "Featured News"
+msgstr "विशेष समाचार"
+
+#: inc/hooks/patterns/hybridnews-section-7.php:9
+msgid "HybridNews Three Columns Posts"
+msgstr "हाइब्रिडन्यूज तीन कॉलम पोस्ट"
+
+#: inc/hooks/patterns/hybridnews-section-7.php:16
+#: inc/hooks/patterns/hybridnews.php:56
+msgid "Three Columns"
+msgstr "तीन कॉलम"
+
+#: inc/hooks/patterns/hybridnews-section-8.php:9
+msgid "HybridNews Post Carousel"
+msgstr "हाइब्रिडन्यूज़ पोस्ट हिंडोला"
+
+#: inc/hooks/patterns/hybridnews-section-8.php:16
+#: inc/hooks/patterns/hybridnews.php:142
+msgid "Post Carousel"
+msgstr "हिंडोला पोस्ट करें"
+
+#: inc/hooks/patterns/hybridnews.php:9
+msgid "HybridNews"
+msgstr "हाइब्रिडन्यूज"
+
+#. Translators: %1$s current user display name.
+#: inc/review.php:82
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we"
+" hope you are loving it! We would appreciate it if you can %3$sgive us a 5 "
+"star rating on WordPress.org%4$s! We'll continue to develop exciting new "
+"features for free in the future by sharing the love!"
+msgstr ""
+"नमस्ते, %1$s! हमने देखा है कि आप पिछले कुछ समय से %2$s का उपयोग कर रहे हैं, "
+"हमें आशा है कि आप इसे पसंद कर रहे हैं! यदि आप %3$sहमें WordPress.org पर 5 "
+"सितारा रेटिंग दे सकते हैं%4$s तो हम इसकी सराहना करेंगे! हम प्यार बांटकर "
+"भविष्य में निःशुल्क रोमांचक नई सुविधाएँ विकसित करना जारी रखेंगे!"
+
+#: inc/review.php:97
+msgid "Sure thing"
+msgstr "अवश्य"
+
+#: inc/review.php:102
+msgid "Remind me later"
+msgstr "मुझे बाद में याद दिलाना"
+
+#: inc/review.php:107
+msgid "I've already done."
+msgstr "मैंने पहले ही कर लिया है।"
+
+#: inc/review.php:112
+msgid "Got any support queries?"
+msgstr "क्या आपके पास कोई समर्थन प्रश्न है?"
+
+#: inc/template-functions.php:573 template-parts/content.php:85
+msgid "Previous"
+msgstr "पहले का"
+
+#: inc/template-functions.php:574 template-parts/content.php:82
+msgid "Next"
+msgstr "अगला"
+
+#: inc/template-functions.php:603
+msgid "%s min read"
+msgstr "%s मिनट पढ़ा गया"
+
+#: inc/template-tags.php:149 inc/template-tags.php:155
+msgid "ago"
+msgstr "पहले"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:185 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/upgrade.php:69 inc/upgrade.php:89
+msgid "Action failed. Please refresh the page and retry."
+msgstr "क्रिया: विफल रही है। कृपया पृष्ठ ताज़ा करें और पुनः प्रयास करें।"
+
+#: inc/upgrade.php:73 inc/upgrade.php:93
+msgid "Cheatin&#8217; huh?"
+msgstr "धोखा&#8217; हुह?"
+
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+#: inc/upgrade.php:177
+msgid ""
+"%1$s 🎁 Hope you're loving our free %2$s theme! Dive into the festive spirit "
+"with an exclusive gift: %4$s premium features! Use code %3$s at checkout. "
+"Wishing you a season filled with joyous holidays and even happier savings! "
+"🎄✨"
+msgstr ""
+"%1$s 🎁 आशा है कि आपको हमारी निःशुल्क %2$s थीम पसंद आ रही होगी! एक विशेष "
+"उपहार के साथ उत्सव की भावना में डूबें: %4$s प्रीमियम सुविधाएँ! चेकआउट के समय"
+" कोड %3$s का उपयोग करें। आपको आनंदमय छुट्टियों और उससे भी अधिक सुखद बचत से "
+"भरे मौसम की शुभकामनाएँ! 🎄✨"
+
+#: inc/upgrade.php:192
+msgid "Claim Your Discount"
+msgstr "अपनी छूट का दावा करें"
+
+#: inc/upgrade.php:197
+msgid "Power Bundle"
+msgstr "पावर बंडल"
+
+#: inc/upgrade.php:202
+msgid "All Themes Plan"
+msgstr "सभी विषय-वस्तु योजना"
+
+#: inc/upgrade.php:207
+msgid "Maybe Later"
+msgstr "शायद बाद में"
+
+#: inc/upgrade.php:212
+msgid "Have Queries?"
+msgstr "प्रश्न हैं?"
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "लेखक की जानकारी प्रदर्शित करता है."
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFTA Author Info"
+msgstr "एएफटीए लेखक जानकारी"
+
+#: inc/widgets/widget-author-info.php:142
+msgid "Profile image"
+msgstr "प्रोफ़ाइल छवि"
+
+#: inc/widgets/widget-author-info.php:143
+msgid "Name"
+msgstr "नाम"
+
+#: inc/widgets/widget-author-info.php:144
+msgid "Descriptions"
+msgstr "विवरण"
+
+#: inc/widgets/widget-author-info.php:145
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: inc/widgets/widget-author-info.php:146
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-author-info.php:147
+msgid "Twitter"
+msgstr "ट्विटर"
+
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "चयनित श्रेणियों से एक्सप्रेस पोस्ट प्रदर्शित करता है।"
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFTA Express Posts List"
+msgstr "एएफटीए एक्सप्रेस पदों की सूची"
+
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "चयनित श्रेणियों से ग्रिड प्रदर्शित करता है।"
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFTA Post Double Columns"
+msgstr "एएफटीए पोस्ट डबल कॉलम"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "श्रेणी 1 चुनें"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "श्रेणी 2 का चयन करें"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFTA Post Grid"
+msgstr "एएफटीए पोस्ट ग्रिड"
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFTA Post List"
+msgstr "एएफटीए पोस्ट सूची"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr "चयनित श्रेणियों से एकल कॉलम पोस्ट प्रदर्शित करता है।"
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFTA Post Single Column"
+msgstr "एएफटीए पोस्ट सिंगल कॉलम"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "चयनित श्रेणी से पोस्ट स्लाइडर प्रदर्शित करता है।"
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFTA Posts Slider"
+msgstr "AFTA पोस्ट स्लाइडर"
+
+#: inc/widgets/widget-posts-slider.php:116
+msgid "Select category"
+msgstr "श्रेणी चुनना"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "चयनित सेटिंग्स से सामाजिक संपर्क सूचियाँ प्रदर्शित करता है।"
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFTA Social Contacts"
+msgstr "एएफटीए सामाजिक संपर्क"
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "हमारे साथ जुड़ें"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr ""
+"सामाजिक मेनू सेट नहीं है. आपको मेनू बनाना होगा और इसे मेनू सेटिंग्स पर सोशल "
+"मेनू पर असाइन करना होगा।"
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFTA Trending News"
+msgstr "AFTA ट्रेंडिंग न्यूज़"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "अपलोड करें"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "छवि का चयन करें"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "छवि चुनें"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "एक्स"
+
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "चुनना"
+
+#: inc/widgets/widgets-common-functions.php:85
+msgid "Recent"
+msgstr "हाल ही का"
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Main Sidebar"
+msgstr "मुख्य साइडबार"
+
+#: inc/widgets/widgets-register-sidebars.php:15
+msgid "Add widgets for main sidebar."
+msgstr "मुख्य साइडबार के लिए विजेट जोड़ें."
+
+#: inc/widgets/widgets-register-sidebars.php:22
+msgid "Front-page Content Section"
+msgstr "मुखपृष्ठ सामग्री अनुभाग"
+
+#: inc/widgets/widgets-register-sidebars.php:24
+msgid "Add widgets to front-page contents section."
+msgstr "मुखपृष्ठ सामग्री अनुभाग में विजेट जोड़ें।"
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Front-page Sidebar Section"
+msgstr "फ्रंट पेज साइडबार अनुभाग"
+
+#: inc/widgets/widgets-register-sidebars.php:34
+msgid "Add widgets to front-page sidebar section."
+msgstr "फ्रंट-पेज साइडबार अनुभाग में विजेट जोड़ें।"
+
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Off Canvas"
+msgstr "कैनवास से बाहर"
+
+#: inc/widgets/widgets-register-sidebars.php:44
+msgid "Add widgets for off-canvas section."
+msgstr "ऑफ-कैनवस अनुभाग के लिए विजेट जोड़ें।"
+
+#: inc/widgets/widgets-register-sidebars.php:52
+msgid "Footer First Section"
+msgstr "पादलेख प्रथम खंड"
+
+#: inc/widgets/widgets-register-sidebars.php:54
+msgid "Displays items on footer first column."
+msgstr "पाद लेख के पहले कॉलम पर आइटम प्रदर्शित करता है।"
+
+#: inc/widgets/widgets-register-sidebars.php:63
+msgid "Footer Second Section"
+msgstr "फ़ुटर दूसरा खंड"
+
+#: inc/widgets/widgets-register-sidebars.php:65
+msgid "Displays items on footer second column."
+msgstr "पाद लेख के दूसरे कॉलम पर आइटम प्रदर्शित करता है।"
+
+#: inc/widgets/widgets-register-sidebars.php:73
+msgid "Footer Third Section"
+msgstr "पाद लेख तीसरा खंड"
+
+#: inc/widgets/widgets-register-sidebars.php:75
+msgid "Displays items on footer third column."
+msgstr "पाद लेख के तीसरे कॉलम पर आइटम प्रदर्शित करता है।"
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "अपना शॉपिंग कार्ट देखें"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d आइटम"
+msgstr[1] "%d आइटम"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "ब्राउज़ करें:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "ब्रेडक्रम्ब्स"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "घर"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 नहीं मिला"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "अभिलेखागार"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "इसके लिए खोज परिणाम: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "पेज %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "टिप्पणी पृष्ठ %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "मिनट %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "सप्ताह %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "जी: मैं ए"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "मैं"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "जी ए"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "वाई"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "एफ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "जे"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "डब्ल्यू"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "आवश्यक प्लगइन्स इंस्टॉल करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "प्लगइन्स इंस्टॉल करें"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "प्लगइन इंस्टॉल करना: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "अपडेट हो रहा प्लगइन: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "प्लगइन एपीआई में कुछ गड़बड़ हो गई।"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "इस थीम के लिए निम्नलिखित प्लगइन की आवश्यकता है: %1$s."
+msgstr[1] "इस थीम के लिए निम्नलिखित प्लगइन्स की आवश्यकता है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "यह थीम निम्नलिखित प्लगइन की अनुशंसा करती है: %1$s."
+msgstr[1] "यह थीम निम्नलिखित प्लगइन्स की अनुशंसा करती है: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"इस थीम के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन को "
+"इसके नवीनतम संस्करण में अद्यतन करने की आवश्यकता है: %1$s।"
+msgstr[1] ""
+"इस थीम के साथ अधिकतम अनुकूलता सुनिश्चित करने के लिए निम्नलिखित प्लगइन्स को "
+"उनके नवीनतम संस्करण में अद्यतन करने की आवश्यकता है: %1$s।"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "इसके लिए एक अपडेट उपलब्ध है: %1$s."
+msgstr[1] "निम्नलिखित प्लगइन्स के लिए अपडेट उपलब्ध हैं: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित आवश्यक प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्नलिखित आवश्यक प्लगइन्स वर्तमान में निष्क्रिय हैं: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "निम्नलिखित अनुशंसित प्लगइन वर्तमान में निष्क्रिय है: %1$s."
+msgstr[1] "निम्नलिखित अनुशंसित प्लगइन्स वर्तमान में निष्क्रिय हैं: %1$s."
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "प्लगइन इंस्टॉल करना शुरू करें"
+msgstr[1] "प्लगइन्स इंस्टॉल करना शुरू करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "प्लगइन अपडेट करना प्रारंभ करें"
+msgstr[1] "प्लगइन्स अपडेट करना शुरू करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "प्लगइन सक्रिय करना प्रारंभ करें"
+msgstr[1] "प्लगइन्स सक्रिय करना प्रारंभ करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "आवश्यक प्लगइन्स इंस्टालर पर लौटें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "डाइश्बोर्ड पर वापस आएं"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "प्लगइन सफलतापूर्वक सक्रिय हो गया."
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "निम्नलिखित प्लगइन सफलतापूर्वक सक्रिय किया गया था:"
+msgstr[1] "निम्नलिखित प्लगइन्स सफलतापूर्वक सक्रिय किए गए:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "कोई कार्रवाई नहीं की। प्लगइन %1$s पहले से ही सक्रिय था."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"प्लगइन सक्रिय नहीं है. इस थीम के लिए %s के उच्चतर संस्करण की आवश्यकता है. "
+"कृपया प्लगइन अपडेट करें."
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "सभी प्लगइन्स सफलतापूर्वक स्थापित और सक्रिय हो गए। %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "इस नोटिस को खारिज करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"इंस्टॉल, अपडेट या सक्रिय करने के लिए एक या अधिक आवश्यक या अनुशंसित प्लगइन्स "
+"हैं।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "कृपया सहायता के लिए इस साइट के व्यवस्थापक से संपर्क करें।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"इस प्लगइन को आपकी थीम के अनुकूल होने के लिए अद्यतन करने की आवश्यकता है।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "अद्यतन आवश्यक है"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"रिमोट प्लगइन पैकेज में वांछित स्लग वाला कोई फ़ोल्डर नहीं है और नाम बदलने से "
+"काम नहीं हुआ।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"कृपया प्लगइन प्रदाता से संपर्क करें और उन्हें वर्डप्रेस दिशानिर्देशों के "
+"अनुसार अपने प्लगइन को पैकेज करने के लिए कहें।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"रिमोट प्लगइन पैकेज में एक से अधिक फ़ाइलें होती हैं, लेकिन फ़ाइलें किसी "
+"फ़ोल्डर में पैक नहीं की जाती हैं।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "और"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "टीजीएमपीए v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "आवश्यक"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "अनुशंसित"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "वर्डप्रेस रिपॉजिटरी"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "बाहरी स्रोत"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "पहले से पैक किया"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "स्थापित नहीं हे"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "स्थापित लेकिन सक्रिय नहीं"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "सक्रिय"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "आवश्यक अद्यतन उपलब्ध नहीं है"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "अद्यतन की आवश्यकता है"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "अपडेट की सलाह दी गई"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "सभी <span class=\"count\">(%s)</span>"
+msgstr[1] "सभी <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> इंस्टॉल करने के लिए"
+msgstr[1] "<span class=\"count\">(%s)</span> इंस्टॉल करने के लिए"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "अद्यतन उपलब्ध <span class=\"count\">(%s)</span>"
+msgstr[1] "अद्यतन उपलब्ध <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> सक्रिय करने के लिए"
+msgstr[1] "<span class=\"count\">(%s)</span> सक्रिय करने के लिए"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "अज्ञात"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "स्थापित संस्करण:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "न्यूनतम आवश्यक संस्करण:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "उपलब्ध संस्करण:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "इंस्टॉल, अपडेट या सक्रिय करने के लिए कोई प्लगइन नहीं।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "लगाना"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "स्रोत"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "प्रकार"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "संस्करण"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "स्थिति"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s इंस्टॉल करें"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s अपडेट करें"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s सक्रिय करें"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "प्लगइन लेखक से अपग्रेड संदेश:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "स्थापित करना"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "अद्यतन"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"इंस्टॉल करने के लिए कोई प्लगइन नहीं चुना गया था. कोई कार्रवाई नहीं की।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "अद्यतन करने के लिए कोई प्लगइन नहीं चुना गया था। कोई कार्रवाई नहीं की।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "इस समय इंस्टॉल करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "इस समय अपडेट करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "सक्रिय करने के लिए कोई प्लगइन नहीं चुना गया था। कोई कार्रवाई नहीं की।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "इस समय सक्रिय करने के लिए कोई प्लगइन उपलब्ध नहीं है।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "प्लगइन सक्रियण विफल रहा."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन अद्यतन कर रहा है %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s इंस्टॉल करते समय एक त्रुटि उत्पन्न हुई: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s की स्थापना विफल रही."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr ""
+"स्थापना और सक्रियण प्रक्रिया प्रारंभ हो रही है. कुछ होस्टों पर इस प्रक्रिया "
+"में कुछ समय लग सकता है, इसलिए कृपया धैर्य रखें।"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "%1$s हो गया."
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "सभी इंस्टॉलेशन और सक्रियण पूरे हो चुके हैं।"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन इंस्टॉल और सक्रिय करना %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"स्थापना प्रक्रिया प्रारंभ हो रही है. कुछ होस्टों पर इस प्रक्रिया में कुछ समय"
+" लग सकता है, इसलिए कृपया धैर्य रखें।"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "सभी इंस्टॉलेशन पूरे हो चुके हैं."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "प्लगइन इंस्टॉल करना %1$s (%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "खाली कैनवास"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "पेज बिल्डर पूर्ण चौड़ाई"
+
+#. translators: %s: search query.
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "इसके लिए खोज परिणाम: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "कुछ भी नहीं मिला"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"क्या आप अपनी पहली पोस्ट प्रकाशित करने के लिए तैयार हैं? <a "
+"href=\"%1$s\">यहां प्रारंभ करें</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"क्षमा करें, लेकिन आपके खोज शब्दों से कुछ भी मेल नहीं खाता। कृपया कुछ अलग "
+"कीवर्ड के साथ फ़िर से कोशिश करें।"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"ऐसा लगता है कि आप जो खोज रहे हैं वह हमें नहीं मिल सका। शायद खोज से मदद मिल "
+"सकती है."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:31
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "पढ़ना जारी रखें<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content.php:83
+msgid "Next post:"
+msgstr "अगली पोस्ट:"
+
+#: template-parts/content.php:86
+msgid "Previous post:"
+msgstr "पिछला पोस्ट:"
+
+#: template-parts/content.php:89
+msgid "Continue Reading"
+msgstr "जारी रखें पढ़ रहे हैं"
+
+#. Template Name of the theme
+msgid "Frontpage Widgets Template"
+msgstr "फ्रंटपेज विजेट टेम्पलेट"
+
+#: admin-dashboard/src/components/blockspare.demo.js:18
+msgid "Update Blockspare Pro"
+msgstr "ब्लॉकस्पेयर प्रो को अपडेट करें"
+
+#: admin-dashboard/src/components/blockspare.demo.js:20
+msgid "Update Blockspare"
+msgstr "ब्लॉकस्पेयर को अपडेट करें"
+
+#: admin-dashboard/src/components/blockspare.demo.js:33
+msgid "Powerful Gutenberg Blocks & Patterns"
+msgstr "शक्तिशाली गुटेनबर्ग ब्लॉक और पैटर्न"
+
+#: admin-dashboard/src/components/blockspare.demo.js:36
+msgid ""
+"Easily build and customize your pages with a vast library of Gutenberg "
+"blocks and patterns, perfect for blogs, magazines, and business sites. Add "
+"post grids, sliders, and carousels without touching a single line of code. "
+"Import demo data and effortlessly create multilingual, visually appealing "
+"pages with complete flexibility."
+msgstr ""
+"गुटेनबर्ग ब्लॉक और पैटर्न की विशाल लाइब्रेरी के साथ आसानी से अपने पेज बनाएं "
+"और अनुकूलित करें, जो ब्लॉग, पत्रिकाओं और व्यावसायिक साइटों के लिए बिल्कुल "
+"उपयुक्त हैं। कोड की एक भी पंक्ति को छुए बिना पोस्ट ग्रिड, स्लाइडर और हिंडोला"
+" जोड़ें। डेमो डेटा आयात करें और पूर्ण लचीलेपन के साथ सहजता से बहुभाषी, देखने"
+" में आकर्षक पेज बनाएं।"
+
+#: admin-dashboard/src/components/dashboard-content.js:25
+msgid "Hello "
+msgstr "नमस्ते"
+
+#: admin-dashboard/src/components/dashboard-content.js:28
+msgid "Welcome to "
+msgstr "आपका स्वागत है"
+
+#: admin-dashboard/src/components/elespare-demo.js:18
+msgid "Update Elespare Pro"
+msgstr "एलेस्पेर प्रो को अपडेट करें"
+
+#: admin-dashboard/src/components/elespare-demo.js:20
+msgid "Update Elespare"
+msgstr "एलेस्पेयर को अपडेट करें"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Professional Sites with Elementor"
+msgstr "एलीमेंटर के साथ व्यावसायिक साइटें"
+
+#: admin-dashboard/src/components/elespare-demo.js:37
+msgid ""
+"Transform your blog, news, or magazine website with 35+ advanced Elementor "
+"widgets and 350+ customizable templates. Easily create headers, footers, "
+"post grids, sliders, and carousels with a fast-loading and SEO-optimized "
+"structure. Import demo content with a single click and enjoy codeless "
+"customization to craft your perfect site, no matter the language."
+msgstr ""
+"35+ उन्नत एलीमेंटर विजेट और 350+ अनुकूलन योग्य टेम्पलेट्स के साथ अपने ब्लॉग,"
+" समाचार या पत्रिका वेबसाइट को रूपांतरित करें। तेजी से लोड होने वाली और एसईओ-"
+"अनुकूलित संरचना के साथ आसानी से हेडर, फुटर, पोस्ट ग्रिड, स्लाइडर और हिंडोला "
+"बनाएं। एक क्लिक से डेमो सामग्री आयात करें और अपनी संपूर्ण साइट तैयार करने के"
+" लिए कोडलेस अनुकूलन का आनंद लें, चाहे भाषा कोई भी हो।"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"We would like to thank you for installing and activating [theme] theme for "
+"your precious site. All of the features provided by the theme are now ready "
+"to use; Here, we have gathered all of the essential details and helpful "
+"links for you and your better experience with [theme]. Once again, Thanks "
+"for using our theme!"
+msgstr ""
+"हम आपकी बहुमूल्य साइट के लिए [थीम] थीम स्थापित करने और सक्रिय करने के लिए "
+"आपको धन्यवाद देना चाहते हैं। थीम द्वारा प्रदान की गई सभी सुविधाएँ अब उपयोग "
+"के लिए तैयार हैं; यहां, हमने आपके और [थीम] के साथ आपके बेहतर अनुभव के लिए "
+"सभी आवश्यक विवरण और उपयोगी लिंक एकत्र किए हैं। एक बार फिर, हमारी थीम का "
+"उपयोग करने के लिए धन्यवाद!"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:9
+msgid "Theme Details"
+msgstr "थीम विवरण"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:13
+msgid "View Demo"
+msgstr "डेमो देखें"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:17
+msgid "View Documentation"
+msgstr "दस्तावेज़ीकरण देखें"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:26
+#: admin-dashboard/src/components/json/freepro-content.js:209
+msgid "Upgrade to Pro"
+msgstr "प्रो में अपग्रेड"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:28
+msgid "Need Support?"
+msgstr "समर्थन चाहिए?"
+
+#: admin-dashboard/src/components/json/freepro-content.js:4
+msgid "Live editing in Customizer"
+msgstr "कस्टमाइज़र में लाइव संपादन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:9
+msgid "One Click Demo Import Support"
+msgstr "एक क्लिक डेमो आयात समर्थन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:14
+msgid "Typography Style and Color"
+msgstr "टाइपोग्राफी शैली और रंग"
+
+#: admin-dashboard/src/components/json/freepro-content.js:19
+msgid "Light/Dark Mode"
+msgstr "लाइट/डार्क मोड"
+
+#: admin-dashboard/src/components/json/freepro-content.js:24
+msgid "Preloader Option"
+msgstr "प्रीलोडर विकल्प"
+
+#: admin-dashboard/src/components/json/freepro-content.js:29
+msgid "Multiple Header Options"
+msgstr "एकाधिक शीर्षलेख विकल्प"
+
+#: admin-dashboard/src/components/json/freepro-content.js:34
+msgid "Logo and title customization"
+msgstr "लोगो और शीर्षक अनुकूलन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:39
+msgid "Header Image"
+msgstr "शीर्ष लेख छवि"
+
+#: admin-dashboard/src/components/json/freepro-content.js:44
+msgid "Multiple Frontpage Banner Options"
+msgstr "एकाधिक फ्रंटपेज बैनर विकल्प"
+
+#: admin-dashboard/src/components/json/freepro-content.js:49
+msgid "Frontpage Banner Section Order"
+msgstr "फ्रंटपेज बैनर अनुभाग आदेश"
+
+#: admin-dashboard/src/components/json/freepro-content.js:54
+msgid "Featured Posts Section"
+msgstr "फ़ीचर्ड पोस्ट अनुभाग"
+
+#: admin-dashboard/src/components/json/freepro-content.js:59
+msgid "Category Color Options"
+msgstr "श्रेणी रंग विकल्प"
+
+#: admin-dashboard/src/components/json/freepro-content.js:64
+msgid "Posts Section Advertisements"
+msgstr "पोस्ट अनुभाग विज्ञापन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:69
+msgid "Custom Widgets"
+msgstr "कस्टम विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:74
+msgid "Author Biography"
+msgstr "लेखक की जीवनी"
+
+#: admin-dashboard/src/components/json/freepro-content.js:79
+msgid "Post Image Slider Widget"
+msgstr "छवि स्लाइडर विजेट पोस्ट करें"
+
+#: admin-dashboard/src/components/json/freepro-content.js:84
+msgid "Post Carousel Widget"
+msgstr "हिंडोला विजेट पोस्ट करें"
+
+#: admin-dashboard/src/components/json/freepro-content.js:89
+msgid "Post Grid Widget"
+msgstr "पोस्ट ग्रिड विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:94
+msgid "Post Double Column Double Categories Widget"
+msgstr "डबल कॉलम डबल श्रेणियाँ विजेट पोस्ट करें"
+
+#: admin-dashboard/src/components/json/freepro-content.js:99
+msgid "Post Tabbed Widget"
+msgstr "पोस्ट टैब्ड विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:104
+msgid "Social Contact Widget"
+msgstr "सामाजिक संपर्क विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:109
+msgid "Post Single Column Widget"
+msgstr "सिंगल कॉलम विजेट पोस्ट करें"
+
+#: admin-dashboard/src/components/json/freepro-content.js:114
+msgid "Trending Posts Vertical Carousel Widget"
+msgstr "ट्रेंडिंग पोस्ट वर्टिकल कैरोसेल विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:119
+msgid "Video Slider Widget"
+msgstr "वीडियो स्लाइडर विजेट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:124
+msgid "Basic Custom Widgets Controls"
+msgstr "बुनियादी कस्टम विजेट नियंत्रण"
+
+#: admin-dashboard/src/components/json/freepro-content.js:129
+msgid "Advanced Custom Widgets Controls"
+msgstr "उन्नत कस्टम विजेट नियंत्रण"
+
+#: admin-dashboard/src/components/json/freepro-content.js:134
+msgid "Archive Grid Layout"
+msgstr "पुरालेख ग्रिड लेआउट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:139
+msgid "Archive Full Layout"
+msgstr "पुरालेख पूर्ण लेआउट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:144
+msgid "Archive List Layout"
+msgstr "पुरालेख सूची लेआउट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:149
+msgid "Mailchimp Subscription Supports"
+msgstr "मेलचिम्प सदस्यता समर्थन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:154
+msgid "Display Related Posts"
+msgstr "संबंधित पोस्ट प्रदर्शित करें"
+
+#: admin-dashboard/src/components/json/freepro-content.js:159
+msgid "Footer Widgets Section"
+msgstr "फ़ुटर विजेट अनुभाग"
+
+#: admin-dashboard/src/components/json/freepro-content.js:164
+msgid "Gutenberg Compatibility"
+msgstr "गुटेनबर्ग संगतता"
+
+#: admin-dashboard/src/components/json/freepro-content.js:169
+msgid "RTL Compatibility"
+msgstr "आरटीएल संगतता"
+
+#: admin-dashboard/src/components/json/freepro-content.js:174
+msgid "WooCommerce Compatibility"
+msgstr "WooCommerce संगतता"
+
+#: admin-dashboard/src/components/json/freepro-content.js:179
+msgid "Hide Theme Credit Link"
+msgstr "थीम क्रेडिट लिंक छिपाएँ"
+
+#: admin-dashboard/src/components/json/freepro-content.js:184
+msgid "Responsive Layout"
+msgstr "उत्तरदायी लेआउट"
+
+#: admin-dashboard/src/components/json/freepro-content.js:189
+msgid "Translations Ready"
+msgstr "अनुवाद तैयार"
+
+#: admin-dashboard/src/components/json/freepro-content.js:194
+msgid "SEO Optimized"
+msgstr "एसईओ अनुकूलित"
+
+#: admin-dashboard/src/components/json/freepro-content.js:199
+msgid "Normal Support"
+msgstr "सामान्य समर्थन"
+
+#: admin-dashboard/src/components/json/freepro-content.js:204
+msgid "Advance Support"
+msgstr "अग्रिम सहायता"
+
+#: admin-dashboard/src/components/json/home-content.js:7
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "थीम हेडर प्रकार सेट करें, रंग, रिक्ति, संरेखण और बहुत कुछ सेट करें।"
+
+#: admin-dashboard/src/components/json/home-content.js:13
+msgid "Banner Advertisement"
+msgstr "बैनर विज्ञापन"
+
+#: admin-dashboard/src/components/json/home-content.js:14
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr "आप अपने प्रचार बैनर को अपने हेडर सेक्शन में आसानी से लगा सकते हैं।"
+
+#: admin-dashboard/src/components/json/home-content.js:20
+msgid "Color Options"
+msgstr "रंग विकल्प"
+
+#: admin-dashboard/src/components/json/home-content.js:21
+msgid "Change the color setting provide with the Theme."
+msgstr "थीम के साथ प्रदान की गई रंग सेटिंग बदलें।"
+
+#: admin-dashboard/src/components/json/home-content.js:28
+msgid "Selecting different categories can be done for different section."
+msgstr "अलग-अलग अनुभाग के लिए अलग-अलग श्रेणियों का चयन किया जा सकता है।"
+
+#: admin-dashboard/src/components/json/home-content.js:34
+msgid "Frontpage Option"
+msgstr "फ्रंटपेज विकल्प"
+
+#: admin-dashboard/src/components/json/home-content.js:35
+msgid ""
+"Frontpage layout with Popular Tag, Breaking News, Main Banner, Feature News "
+"can be set."
+msgstr ""
+"लोकप्रिय टैग, ब्रेकिंग न्यूज, मुख्य बैनर, फीचर समाचार के साथ फ्रंटपेज लेआउट "
+"सेट किया जा सकता है।"
+
+#: admin-dashboard/src/components/json/home-content.js:41
+msgid "Static Front Page"
+msgstr "स्टेटिक फ्रंट पेज"
+
+#: admin-dashboard/src/components/json/home-content.js:42
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr ""
+"विजेट्स का उपयोग करके स्वयं का होमपेज बनाने के लिए होमपेज को एक स्थिर पेज के"
+" रूप में सेट करें।"
+
+#: admin-dashboard/src/components/json/home-content.js:48
+msgid "Widgets Area"
+msgstr "विजेट क्षेत्र"
+
+#: admin-dashboard/src/components/json/home-content.js:49
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "थीम द्वारा प्रदान किए गए सभी अनुभागों पर विजेट जोड़े जा सकते हैं।"
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Archive Options"
+msgstr "पुरालेख विकल्प"
+
+#: admin-dashboard/src/components/json/home-content.js:56
+msgid "Customize the blog layout desgin."
+msgstr "ब्लॉग लेआउट डिज़ाइन को अनुकूलित करें।"
+
+#: admin-dashboard/src/components/json/home-content.js:62
+msgid "Theme Option"
+msgstr "थीम विकल्प"
+
+#: admin-dashboard/src/components/json/home-content.js:63
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr ""
+"ग्लोबल लेआउट, ब्रेडक्रंब, साइडबार, सिंगल पोस्ट सेट करें, हो सकता है आप चूक "
+"गए हों और भी बहुत कुछ।"
+
+#: admin-dashboard/src/components/json/home-content.js:69
+msgid "Footer Options"
+msgstr "पाद लेख विकल्प"
+
+#: admin-dashboard/src/components/json/home-content.js:70
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "पादलेख प्रकार, स्तंभों की संख्या, रिक्ति और रंग सेट करें।"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "देखना"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "सहायता"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"थीम समर्थन प्रश्न मिला या बग मिला या कुछ प्रतिक्रियाएँ मिलीं? आपके प्रश्न "
+"पूछने के लिए सबसे अच्छी जगह विषय के लिए समर्पित सहायता मंच है।"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "वीडियो ट्यूटोरियल"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "वीडियो"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "थीम को अनुकूलित करने पर आसान सीखने के लिए वीडियो देखें।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:5
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"लाइव डेमो सामग्री, विजेट और सेटिंग्स को तेजी से आयात करने के लिए एएफ "
+"कंपेनियन का उपयोग करें। यह प्लगइन आपकी वेबसाइट बनाने और विकास प्रक्रिया को "
+"तेज करने के लिए मौलिक लेआउट देता है।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:12
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr ""
+"आप हमारे अनुकूलनीय और आविष्कारशील ब्लॉकों के साथ कुछ ही मिनटों में अपनी "
+"वेबसाइट के लिए जटिल लेआउट डिज़ाइन कर सकते हैं।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:19
+#: admin-dashboard/src/components/json/useful-plugins-content.js:78
+#: admin-dashboard/src/components/json/useful-plugins-content.js:82
+msgid ""
+"Get ready-to-use Starter Sites instantly and build modern websites in "
+"minutes."
+msgstr ""
+"तुरंत उपयोग के लिए तैयार स्टार्टर साइटें प्राप्त करें और मिनटों में आधुनिक "
+"वेबसाइटें बनाएं।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:26
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"परफेक्ट ब्लॉग, समाचार, या पत्रिका वेबसाइटों को डिज़ाइन करें Elespare एक सरल "
+"लेकिन प्रभावी वर्डप्रेस प्लगइन है जो आपको मुफ्त में उच्च अनुकूलन विकल्पों के"
+" साथ वेबसाइटों के शानदार हेडर, फुटर और सामग्री बनाने के लिए एलिमेंटर का "
+"उपयोग करने की सुविधा देता है।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:34
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"वर्डप्रेस के लिए नवीनतम पोस्ट गुटेनबर्ग ब्लॉक का एक सुंदर संग्रह, जो आपको "
+"पोस्ट ग्रिड, पोस्ट सूची, पूर्ण पोस्ट लेआउट, उन्नत एक्सप्रेस पोस्ट डिज़ाइन और"
+" आपके पोस्ट के टाइल लेआउट डिजाइन करने में मदद करता है।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:41
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"हम वर्डप्रेस सामग्री के लिए पेज अनुभाग गुटेनबर्ग ब्लॉक की एक सुंदर श्रृंखला "
+"बनाते हैं ताकि आपको वह वेबसाइट तुरंत बनाने में मदद मिल सके जो आप हमेशा से "
+"चाहते हैं।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:48
+msgid ""
+"It has 3 different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"इसमें पोस्ट के लेखक, आईडी के आधार पर चयनात्मक लेखक और कस्टम लेखक के लिए 3 "
+"अलग-अलग विजेट हैं। यह लेखक प्रोफ़ाइल के लिए शॉर्टकोड भी प्रदान करता है।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:55
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"यह मुफ़्त प्लगइन आपकी वेबसाइट के आगंतुकों को लाइव चैट या लाइव कॉल के माध्यम "
+"से आपसे संपर्क करने के लिए एक मुफ़्त लाइव चैट समाधान प्रदान करता है - सब कुछ"
+" मुफ़्त! अपने ग्राहकों से जुड़ें और बिक्री बढ़ाएँ।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:62
+msgid ""
+"A free WordPress Plugin which facilitates with the functionality to submit "
+"Posts from frontend with or without logging in with various configurable "
+"options."
+msgstr ""
+"एक निःशुल्क वर्डप्रेस प्लगइन जो विभिन्न कॉन्फ़िगर करने योग्य विकल्पों के साथ"
+" लॉग इन के साथ या उसके बिना फ्रंटएंड से पोस्ट सबमिट करने की सुविधा प्रदान "
+"करता है।"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:69
+msgid ""
+"This plugin helps you grow your Mailchimp lists and write better newsletters"
+" through various methods. You can create good looking opt-in forms or "
+"integrate with any existing form on your site, like your comment, contact or"
+" checkout form."
+msgstr ""
+"यह प्लगइन आपकी मेलचिम्प सूचियों को बढ़ाने और विभिन्न तरीकों से बेहतर "
+"न्यूज़लेटर लिखने में आपकी मदद करता है। आप अच्छे दिखने वाले ऑप्ट-इन फॉर्म बना"
+" सकते हैं या अपनी साइट पर किसी भी मौजूदा फॉर्म के साथ एकीकृत कर सकते हैं, "
+"जैसे कि आपकी टिप्पणी, संपर्क या चेकआउट फॉर्म।"
+
+#: admin-dashboard/src/components/main.js:56
+msgid "Get started"
+msgstr "शुरू हो जाओ"
+
+#: admin-dashboard/src/components/main.js:64
+msgid "Useful Plugins"
+msgstr "उपयोगी प्लगइन्स"
+
+#: admin-dashboard/src/components/main.js:71
+msgid "Free vs Pro"
+msgstr "मुफ़्त बनाम प्रो"
+
+#: admin-dashboard/src/components/main.js:78
+msgid "Change Log"
+msgstr "लॉग बदलें"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:9
+msgid "Features"
+msgstr "विशेषताएँ"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:10
+msgid "Free"
+msgstr "मुक्त"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:11
+msgid "Pro"
+msgstr "प्रो"
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr "विकल्प पर जाएं"
+
+#: admin-dashboard/src/components/templatespare-demo.js:17
+msgid "Update Templatespare"
+msgstr "टेम्प्लेटस्पेयर अपडेट करें"
+
+#: admin-dashboard/src/components/templatespare-demo.js:29
+msgid "Easy Website Building with Zero Code"
+msgstr "शून्य कोड के साथ आसान वेबसाइट निर्माण"

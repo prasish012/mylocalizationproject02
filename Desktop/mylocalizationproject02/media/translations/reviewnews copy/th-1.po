@@ -1,0 +1,3259 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Colab Free\n"
+"POT-Creation-Date: 2025-10-30 07:36:17+0000\n"
+"PO-Revision-Date: 2025-10-30 07:36:17+0000\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Colab Tool\n"
+
+#. Theme Name of the theme
+#: inc/hooks/hook-patterns.php:15
+msgid "ReviewNews"
+msgstr "รีวิวข่าว"
+
+#. Theme URI of the theme
+msgid "https://afthemes.com/products/reviewnews/"
+msgstr "https://afthemes.com/products/reviewnews/"
+
+#. Description of the theme
+msgid ""
+"ReviewNews is a dynamic, ultra-fast, and highly versatile WordPress theme "
+"made for News, Magazine, Blog, Business, and eCommerce websites across the "
+"world. With its powerful HEADER & FOOTER BUILDER that works seamlessly with "
+"the Block Editor, GUTENBERG, ELEMENTOR, BRIZY, DIVI, and other popular page "
+"builders, you can design PROFESSIONAL LAYOUTS easily using drag and drop—no "
+"coding required. Packed with 100+ STARTER SITES, 30+ CUSTOM WIDGETS, "
+"ADVANCED BLOCK PATTERNS, FLEXIBLE LAYOUT OPTIONS, AMP SUPPORT, and FULL "
+"WOOCOMMERCE INTEGRATION, it’s perfect for everything from online newspapers,"
+" corporate or NGO sites, and educational or cultural portals to personal "
+"blogs, portfolios, and lifestyle magazines. ReviewNews is fully optimized "
+"for SEO, CORE WEB VITALS, SPEED, and RESPONSIVE DESIGN, ensuring FAST "
+"LOADING and excellent performance on all devices. Built with WCAG "
+"ACCESSIBILITY, GDPR COMPLIANCE, and LIGHTWEIGHT, CLEAN CODE, it offers long-"
+"term stability and high GOOGLE PAGESPEED SCORES. MULTILINGUAL and RTL READY,"
+" with demo content in English, Spanish, German, French, Japanese, Chinese, "
+"and Arabic, ReviewNews is a truly GLOBAL, FUTURE-PROOF THEME designed for "
+"creators, publishers, and businesses who value STYLE, SCALABILITY, and "
+"PERFORMANCE across every market. Explore all features at "
+"https://afthemes.com/products/reviewnews"
+msgstr ""
+"ReviewNews เป็นธีม WordPress แบบไดนามิก รวดเร็วเป็นพิเศษ "
+"และมีความหลากหลายสูง ซึ่งสร้างขึ้นสำหรับเว็บไซต์ข่าว นิตยสาร บล็อก ธุรกิจ "
+"และอีคอมเมิร์ซทั่วโลก ด้วยตัวสร้าง HEADER & FOOTER BUILDER "
+"อันทรงพลังที่ทำงานได้อย่างราบรื่นกับ Block Editor, GUTENBERG, ELEMENTOR, "
+"BRIZY, DIVI และเครื่องมือสร้างเพจยอดนิยมอื่นๆ "
+"คุณสามารถออกแบบเค้าโครงระดับมืออาชีพได้อย่างง่ายดายโดยใช้การลากและวาง "
+"โดยไม่ต้องเขียนโค้ด เต็มไปด้วยไซต์เริ่มต้นกว่า 100 แห่ง "
+"วิดเจ็ตแบบกำหนดเองมากกว่า 30 รายการ รูปแบบบล็อกขั้นสูง "
+"ตัวเลือกเค้าโครงที่ยืดหยุ่น การสนับสนุน AMP และการรวม WOOCOMMERCE เต็มรูปแบบ"
+" เหมาะอย่างยิ่งสำหรับทุกสิ่งตั้งแต่หนังสือพิมพ์ออนไลน์ ไซต์องค์กรหรือ NGO "
+"และพอร์ทัลด้านการศึกษาหรือวัฒนธรรม ไปจนถึงบล็อกส่วนตัว แฟ้มผลงาน "
+"และนิตยสารไลฟ์สไตล์ ReviewNews ได้รับการปรับให้เหมาะสมอย่างเต็มที่สำหรับ "
+"SEO, CORE WEB VITALS, ความเร็ว และการออกแบบที่ตอบสนอง "
+"ทำให้มั่นใจได้ถึงการโหลดที่รวดเร็วและประสิทธิภาพที่ยอดเยี่ยมบนอุปกรณ์ทั้งหมด"
+" สร้างขึ้นด้วยการเข้าถึง WCAG, การปฏิบัติตาม GDPR และโค้ดที่สะอาดน้ำหนักเบา "
+"ทำให้มีความเสถียรในระยะยาวและมีคะแนน GOOGLE PAGESPEED สูง พร้อมหลายภาษาและ "
+"RTL พร้อมด้วยเนื้อหาสาธิตในภาษาอังกฤษ สเปน เยอรมัน ฝรั่งเศส ญี่ปุ่น จีน "
+"และอารบิก ReviewNews เป็นธีมระดับสากลและพิสูจน์อนาคตอย่างแท้จริง "
+"ซึ่งออกแบบมาสำหรับผู้สร้าง ผู้เผยแพร่ และธุรกิจที่ให้ความสำคัญกับสไตล์ "
+"ความสามารถในการปรับขนาด และประสิทธิภาพในทุกตลาด สำรวจคุณสมบัติทั้งหมดที่ "
+"https://afthemes.com/products/reviewnews"
+
+#. Author of the theme
+msgid "AF themes"
+msgstr "ธีม AF"
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "อ๊ะ! ไม่พบหน้านั้น"
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr ""
+"ดูเหมือนว่าไม่พบสิ่งใดในตำแหน่งนี้ "
+"อาจลองใช้ลิงก์ใดลิงก์หนึ่งด้านล่างหรือค้นหา"
+
+#: admin-dashboard/admin_dashboard.php:118
+#: admin-dashboard/admin_dashboard.php:119
+msgid "Dashboard"
+msgstr "แดชบอร์ด"
+
+#: admin-dashboard/admin_dashboard.php:131
+#: admin-dashboard/admin_dashboard.php:132
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+#: admin-dashboard/admin_dashboard.php:141
+#: admin-dashboard/admin_dashboard.php:142
+#: inc/customizer/builder/class-header-footer-builder.php:36
+#: admin-dashboard/src/components/json/home-content.js:5
+msgid "Header Builder"
+msgstr "ตัวสร้างส่วนหัว"
+
+#: admin-dashboard/admin_dashboard.php:151
+#: admin-dashboard/admin_dashboard.php:152
+#: inc/customizer/builder/class-header-footer-builder.php:46
+#: admin-dashboard/src/components/json/home-content.js:68
+msgid "Footer Builder"
+msgstr "ตัวสร้างส่วนท้าย"
+
+#: admin-dashboard/admin_dashboard.php:162
+#: admin-dashboard/admin_dashboard.php:163
+msgid "Starter Sites"
+msgstr "ไซต์เริ่มต้น"
+
+#: admin-dashboard/admin_dashboard.php:172
+#: admin-dashboard/admin_dashboard.php:173
+msgid "Elementor Kits"
+msgstr "ชุด Elementor"
+
+#: admin-dashboard/admin_dashboard.php:182
+#: admin-dashboard/admin_dashboard.php:183
+msgid "Block Patterns"
+msgstr "รูปแบบบล็อก"
+
+#: admin-dashboard/admin_dashboard.php:195
+#: admin-dashboard/src/components/json/dashboard-content.js:26
+#: admin-dashboard/src/components/json/freepro-content.js:110
+msgid "Upgrade to Pro"
+msgstr "อัพเกรดเป็นโปร"
+
+#: admin-dashboard/admin_dashboard.php:196 inc/customizer/customizer.php:198
+msgid "Upgrade Now"
+msgstr "อัพเกรดทันที"
+
+#: admin-dashboard/admin_dashboard.php:245
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "ปลั๊กอิน Templatespare ควรได้รับการอัปเดตเป็นเวอร์ชันล่าสุด"
+
+#: admin-dashboard/admin_dashboard.php:248
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr "นำเข้าไซต์เริ่มต้น ปรับแต่ง และใช้งานใน 3 ขั้นตอนง่ายๆ!"
+
+#: admin-dashboard/admin_dashboard.php:314
+msgid "Blockspare plugin version should be more than %s."
+msgstr "เวอร์ชันปลั๊กอิน Blockspare ควรมากกว่า %s"
+
+#: admin-dashboard/admin_dashboard.php:319
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr ""
+"นำเข้าการสาธิตด้วยคลิกเดียว พร้อมตัวแก้ไขบล็อก ไม่ต้องใช้โค้ด! สร้างด้วย "
+"Blockspare"
+
+#: admin-dashboard/admin_dashboard.php:388
+msgid "Elespare plugin version should be more than %s."
+msgstr "เวอร์ชันปลั๊กอินของ Elespare ควรมากกว่า %s"
+
+#: admin-dashboard/admin_dashboard.php:389
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr ""
+"คลิกเดียวนำเข้า, ตัวสร้างส่วนหัว/ส่วนท้าย, รองรับหลายภาษา! ขับเคลื่อนโดย "
+"Elespare"
+
+#: admin-dashboard/admin_dashboard.php:464
+msgid "Are you sure you want to install this plugin?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการติดตั้งปลั๊กอินนี้"
+
+#: admin-dashboard/admin_dashboard.php:465
+#: admin-dashboard/rest-api/api-request.php:29
+msgid "Install Now"
+msgstr "ติดตั้งทันที"
+
+#: admin-dashboard/admin_dashboard.php:466
+#: admin-dashboard/rest-api/api-request.php:74
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: admin-dashboard/admin_dashboard.php:467
+#: admin-dashboard/rest-api/api-request.php:70
+msgid "Activated"
+msgstr "เปิดใช้งานแล้ว"
+
+#: admin-dashboard/admin_dashboard.php:563
+#: admin-dashboard/rest-api/api-request.php:104
+#: admin-dashboard/rest-api/class-admin-notice.php:144
+msgid "Get Starter Sites"
+msgstr "รับไซต์เริ่มต้น"
+
+#: admin-dashboard/admin_dashboard.php:568
+#: admin-dashboard/rest-api/class-admin-notice.php:148
+#: admin-dashboard/src/components/blockspare.demo.js:13
+#: admin-dashboard/src/components/elespare-demo.js:13
+#: admin-dashboard/src/components/templatespare-demo.js:13
+msgid "Get Started"
+msgstr "เริ่มต้นเลย"
+
+#: admin-dashboard/admin_dashboard.php:569
+#: admin-dashboard/rest-api/class-admin-notice.php:149
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"การดำเนินการ \"เริ่มต้น\" จะติดตั้ง/เปิดใช้งานปลั๊กอิน Templatespare และ "
+"Blockspare สำหรับไซต์เริ่มต้นและเทมเพลต"
+
+#: admin-dashboard/rest-api/api-request.php:99
+msgid "By"
+msgstr "โดย"
+
+#: admin-dashboard/rest-api/api-request.php:126
+msgid "More Details"
+msgstr "รายละเอียดเพิ่มเติม"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:163
+msgid "👋 Welcome, and Thank You!"
+msgstr "😏 ยินดีต้อนรับและขอขอบคุณ!"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:165
+msgid ""
+"%s is now active. We're here to help you turn your ideas into a beautiful, "
+"professional website — quickly and confidently."
+msgstr ""
+"%s เปิดใช้งานแล้ว "
+"เราพร้อมช่วยคุณเปลี่ยนไอเดียของคุณให้เป็นเว็บไซต์ที่สวยงามและเป็นมืออาชีพได้อย่างรวดเร็วและมั่นใจ"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:197
+msgid "🚀 Start With One Click"
+msgstr "🚀 เริ่มต้นด้วยคลิกเดียว"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:198
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+"เลือกจากไซต์เริ่มต้นกว่า 100 ไซต์ที่ออกแบบมาสำหรับบล็อก นิตยสาร ธุรกิจ และอื่นๆ\n"
+"      ติดตั้งง่าย — ไม่ต้องเขียนโค้ด"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:203
+msgid "View Demos"
+msgstr "ดูการสาธิต"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:205
+msgid "Theme dashboard"
+msgstr "แดชบอร์ดธีม"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:229
+msgid "🤝 We're Here for You"
+msgstr "🤝 เราอยู่ที่นี่เพื่อคุณ"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:230
+msgid "Whether you're just starting or customizing your site."
+msgstr "ไม่ว่าคุณจะเพิ่งเริ่มต้นหรือปรับแต่งไซต์ของคุณ"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:231
+#: admin-dashboard/src/components/json/sidebar-content.js:4
+msgid "Documentation"
+msgstr "เอกสารประกอบ"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:232
+msgid "Video Tutorials"
+msgstr "วิดีโอสอน"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:233
+#: admin-dashboard/src/components/json/sidebar-content.js:10
+#: admin-dashboard/src/components/json/sidebar-content.js:11
+msgid "Support"
+msgstr "สนับสนุน"
+
+#: admin-dashboard/rest-api/class-admin-notice.php:234
+msgid "⭐ Rate This Theme"
+msgstr "⭐ ให้คะแนนธีมนี้"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:10
+#: admin-dashboard/rest-api/class-ajaxcall.php:146
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "ขออภัย คุณไม่ได้รับอนุญาตให้ติดตั้งปลั๊กอินบนเว็บไซต์นี้"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:18
+#: admin-dashboard/rest-api/class-ajaxcall.php:79
+#: admin-dashboard/rest-api/class-ajaxcall.php:153
+msgid "Error - unable to verify nonce, please try again."
+msgstr "ข้อผิดพลาด - ไม่สามารถยืนยันได้ โปรดลองอีกครั้ง"
+
+#: admin-dashboard/rest-api/class-ajaxcall.php:72
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "ขออภัย คุณไม่ได้รับอนุญาตให้เปิดใช้งานปลั๊กอินบนไซต์นี้"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "หนึ่งความคิดเกี่ยวกับ &ldquo;%1$s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ความคิดเกี่ยวกับ &ldquo;%2$s&rdquo;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "ความคิดเห็นถูกปิด"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:164 inc/customizer/builder/builder-structure.php:381
+msgid "%1$s by %2$s."
+msgstr "%1$s โดย %2$s"
+
+#: functions.php:84 inc/class-amp-compatible.php:152
+#: inc/customizer/builder/builder-structure.php:199
+#: inc/hooks/hook-header-section.php:68
+msgid "Primary Menu"
+msgstr "เมนูหลัก"
+
+#: functions.php:85 inc/customizer/builder/options.php:266
+#: inc/customizer/builder/options.php:271
+#: inc/customizer/builder/options.php:392
+#: inc/customizer/builder/options.php:397
+msgid "Social Menu"
+msgstr "เมนูโซเชียล"
+
+#: functions.php:86
+msgid "Footer Menu"
+msgstr "เมนูส่วนท้าย"
+
+#: header.php:52
+msgid "Skip to content"
+msgstr "ข้ามไปที่เนื้อหา"
+
+#: inc/class-amp-compatible.php:190 inc/class-amp-compatible.php:194
+#: inc/hooks/hook-header-section.php:100 inc/hooks/hook-header-section.php:101
+msgid "Open search form"
+msgstr "เปิดแบบฟอร์มการค้นหา"
+
+#: inc/customizer/builder/class-block-toggle.php:12
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"คลิกการตั้งค่า <span class=\"dashicons dashicons-admin-generic\"></span> "
+"ในแต่ละองค์ประกอบเพื่อปรับแต่งการตั้งค่า"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:31
+msgid "Hide builder panel"
+msgstr "ซ่อนแผงตัวสร้าง"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:33
+msgid "Hide Builder"
+msgstr "ซ่อนตัวสร้าง"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:37
+msgid "Device view controls"
+msgstr "การควบคุมมุมมองอุปกรณ์"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:57
+msgid "Choose an Element"
+msgstr "เลือกองค์ประกอบ"
+
+#: inc/customizer/builder/class-header-footer-builder-control.php:59
+msgid "Close choose element modal"
+msgstr "ปิดโมดอลเลือกองค์ประกอบ"
+
+#: inc/customizer/builder/class-header-footer-builder.php:84
+msgid "Footer Layout"
+msgstr "เค้าโครงส่วนท้าย"
+
+#: inc/customizer/builder/class-header-footer-builder.php:97
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr "สร้างส่วนหัวแบบไดนามิกได้อย่างง่ายดายด้วยเครื่องมือสร้างแบบลากและวาง"
+
+#: inc/customizer/builder/class-header-footer-builder.php:98
+msgid "Header"
+msgstr "ส่วนหัว"
+
+#: inc/customizer/builder/class-header-footer-builder.php:100
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr "สร้างส่วนท้ายแบบไดนามิกได้อย่างง่ายดายด้วยเครื่องมือสร้างแบบลากและวาง"
+
+#: inc/customizer/builder/class-header-footer-builder.php:101
+#: inc/customizer/theme-options.php:1407
+msgid "Footer"
+msgstr "ส่วนท้าย"
+
+#: inc/customizer/builder/class-header-footer-builder.php:117
+msgid "Enable %s Builder"
+msgstr "เปิดใช้งาน %s Builder"
+
+#: inc/customizer/builder/class-header-footer-builder.php:280
+msgid "Add Element"
+msgstr "เพิ่มองค์ประกอบ"
+
+#: inc/customizer/builder/class-header-footer-builder.php:281
+msgid "Remove Element"
+msgstr "ลบองค์ประกอบ"
+
+#: inc/customizer/builder/class-header-footer-builder.php:282
+msgid "Configure Element"
+msgstr "กำหนดค่าองค์ประกอบ"
+
+#: inc/customizer/builder/class-header-footer-builder.php:283
+msgid "Desktop"
+msgstr "เดสก์ท็อป"
+
+#: inc/customizer/builder/class-header-footer-builder.php:284
+msgid "Element Settings"
+msgstr "การตั้งค่าองค์ประกอบ"
+
+#: inc/customizer/builder/header-builder-structure.php:188
+msgid "close Off-Canvas Navigation"
+msgstr "ปิดการนำทางนอกพื้นที่"
+
+#: inc/customizer/builder/options.php:89
+#: inc/customizer/builder/options.php:473
+msgid "Site & Logo"
+msgstr "เว็บไซต์และโลโก้"
+
+#: inc/customizer/builder/options.php:95
+#: inc/customizer/builder/options.php:101
+#: inc/customizer/builder/options.php:479
+#: inc/customizer/builder/options.php:485
+msgid "Site Identity"
+msgstr "เอกลักษณ์ของไซต์"
+
+#. translators: %s is a link to Site Identity panel
+#: inc/customizer/builder/options.php:100
+#: inc/customizer/builder/options.php:484
+msgid "You can change Site Identity from %s."
+msgstr "คุณสามารถเปลี่ยนข้อมูลประจำตัวของไซต์ได้จาก %s"
+
+#: inc/customizer/builder/options.php:109
+#: inc/customizer/builder/options.php:114
+#: inc/customizer/builder/options.php:493
+#: inc/customizer/builder/options.php:498
+msgid "Promotion"
+msgstr "การส่งเสริม"
+
+#: inc/customizer/builder/options.php:129
+#: inc/customizer/builder/options.php:511
+msgid "Off Canvas"
+msgstr "ปิดผ้าใบ"
+
+#: inc/customizer/builder/options.php:134
+#: inc/customizer/builder/options.php:516
+msgid "Off Canvas Widget Area"
+msgstr "ปิดพื้นที่วิดเจ็ต Canvas"
+
+#: inc/customizer/builder/options.php:139
+#: inc/customizer/builder/options.php:521
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr "พื้นที่วิดเจ็ตนี้ใช้ในแผงนอกพื้นที่เคลื่อนที่ %s"
+
+#: inc/customizer/builder/options.php:140
+#: inc/customizer/builder/options.php:426
+#: inc/customizer/builder/options.php:444
+#: inc/customizer/builder/options.php:465
+#: inc/customizer/builder/options.php:522
+msgid "Manage widgets"
+msgstr "จัดการวิดเจ็ต"
+
+#: inc/customizer/builder/options.php:148
+#: inc/customizer/builder/options.php:530
+msgid "Primary menu"
+msgstr "เมนูหลัก"
+
+#: inc/customizer/builder/options.php:153
+#: inc/customizer/builder/options.php:191
+#: inc/customizer/builder/options.php:346
+#: inc/customizer/builder/options.php:535
+#: inc/customizer/builder/options.php:556
+#: inc/customizer/builder/options.php:582
+msgid "Select Menu"
+msgstr "เลือกเมนู"
+
+#. translators: %s is a link to manage menus
+#. translators: %s is a link to manage menu
+#. translators: %s is a link to the menu panel
+#: inc/customizer/builder/options.php:160
+#: inc/customizer/builder/options.php:198
+#: inc/customizer/builder/options.php:278
+#: inc/customizer/builder/options.php:353
+#: inc/customizer/builder/options.php:404
+#: inc/customizer/builder/options.php:542
+#: inc/customizer/builder/options.php:563
+msgid "You can change Menu from menu panel. %s"
+msgstr "คุณสามารถเปลี่ยนเมนูได้จากแผงเมนู %s"
+
+#: inc/customizer/builder/options.php:161
+#: inc/customizer/builder/options.php:199
+#: inc/customizer/builder/options.php:279
+#: inc/customizer/builder/options.php:354
+#: inc/customizer/builder/options.php:405
+#: inc/customizer/builder/options.php:543
+#: inc/customizer/builder/options.php:564
+msgid "Manage menu"
+msgstr "จัดการเมนู"
+
+#: inc/customizer/builder/options.php:167
+msgid "Date"
+msgstr "วันที่"
+
+#: inc/customizer/builder/options.php:172
+msgid "Choose date format"
+msgstr "เลือกรูปแบบวันที่"
+
+#. translators: %s is a link to manage menus
+#: inc/customizer/builder/options.php:179
+msgid ""
+"You can change date from general settings (Settings > General > Date "
+"Format). %s"
+msgstr ""
+"คุณสามารถเปลี่ยนวันที่ได้จากการตั้งค่าทั่วไป (การตั้งค่า > ทั่วไป > "
+"รูปแบบวันที่) %s"
+
+#: inc/customizer/builder/options.php:180
+msgid "Manage Date"
+msgstr "จัดการวันที่"
+
+#: inc/customizer/builder/options.php:186
+#: inc/customizer/builder/options.php:551
+msgid "Top Navigation"
+msgstr "การนำทางยอดนิยม"
+
+#: inc/customizer/builder/options.php:202
+#: inc/customizer/builder/options.php:232
+#: inc/customizer/builder/options.php:296
+#: inc/customizer/builder/options.php:312
+#: inc/customizer/builder/options.php:328
+msgid "pro"
+msgstr "โปร"
+
+#: inc/customizer/builder/options.php:208
+#: inc/customizer/builder/options.php:213
+msgid "Site Mode"
+msgstr "โหมดไซต์"
+
+#: inc/customizer/builder/options.php:222
+#: inc/customizer/builder/options.php:362
+msgid "Custom HTML"
+msgstr "HTML ที่กำหนดเอง"
+
+#: inc/customizer/builder/options.php:227
+#: inc/customizer/builder/options.php:367
+msgid "HTML Content"
+msgstr "เนื้อหา HTML"
+
+#: inc/customizer/builder/options.php:238
+msgid "Search"
+msgstr "ค้นหา"
+
+#: inc/customizer/builder/options.php:243
+msgid "Searc Form"
+msgstr "แบบฟอร์มการค้นหา"
+
+#: inc/customizer/builder/options.php:252
+msgid "Custom Link"
+msgstr "ลิงก์ที่กำหนดเอง"
+
+#: inc/customizer/builder/options.php:257
+msgid "Custom link"
+msgstr "ลิงก์ที่กำหนดเอง"
+
+#: inc/customizer/builder/options.php:260
+msgid "live"
+msgstr "สด"
+
+#: inc/customizer/builder/options.php:285
+#: inc/customizer/builder/options.php:414
+msgid "Widget 1"
+msgstr "วิดเจ็ต 1"
+
+#: inc/customizer/builder/options.php:290
+#: inc/customizer/builder/options.php:306
+#: inc/customizer/builder/options.php:322
+#: inc/customizer/builder/options.php:419
+#: inc/customizer/builder/options.php:437
+#: inc/customizer/builder/options.php:458
+msgid "Select Widget"
+msgstr "เลือกวิดเจ็ต"
+
+#: inc/customizer/builder/options.php:301
+#: inc/customizer/builder/options.php:432
+msgid "Widget 2"
+msgstr "วิดเจ็ต 2"
+
+#: inc/customizer/builder/options.php:317
+#: inc/customizer/builder/options.php:453
+msgid "Widget 3"
+msgstr "วิดเจ็ต 3"
+
+#: inc/customizer/builder/options.php:341
+msgid "Navigation"
+msgstr "การนำทาง"
+
+#: inc/customizer/builder/options.php:372
+#: admin-dashboard/src/components/nav-content/free-pro.js:11
+msgid "Pro"
+msgstr "โปร"
+
+#: inc/customizer/builder/options.php:379
+msgid "Copyright"
+msgstr "ลิขสิทธิ์"
+
+#: inc/customizer/builder/options.php:425
+#: inc/customizer/builder/options.php:443
+#: inc/customizer/builder/options.php:464
+msgid "Add widget to display . %s"
+msgstr "เพิ่มวิดเจ็ตที่จะแสดง %s"
+
+#: inc/customizer/builder/options.php:488
+#: inc/customizer/builder/options.php:503
+#: inc/customizer/builder/options.php:525
+#: inc/customizer/builder/options.php:546
+#: inc/customizer/builder/options.php:567
+msgid "Beta"
+msgstr "เบต้า"
+
+#: inc/customizer/builder/options.php:587
+msgid "No menu assigned"
+msgstr "ไม่มีการกำหนดเมนู"
+
+#: inc/customizer/customizer-control.php:186
+msgid "-- Select --"
+msgstr "-- เลือก --"
+
+#: inc/customizer/customizer-default.php:51
+msgid "Subscribe"
+msgstr "สมัครสมาชิก"
+
+#: inc/customizer/customizer-default.php:63
+msgid "Popular Tags"
+msgstr "แท็กยอดนิยม"
+
+#: inc/customizer/customizer-default.php:69
+#: inc/customizer/frontpage-options.php:37
+msgid "Breaking News"
+msgstr "ข่าวด่วน"
+
+#: inc/customizer/customizer-default.php:76
+msgid "Posts List Section"
+msgstr "ส่วนรายการโพสต์"
+
+#: inc/customizer/customizer-default.php:78
+msgid "General"
+msgstr "ทั่วไป"
+
+#: inc/customizer/customizer-default.php:80
+#: inc/widgets/widgets-common-functions.php:111
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "อัปเดต"
+
+#: inc/customizer/customizer-default.php:82
+msgid "More"
+msgstr "มากกว่า"
+
+#: inc/customizer/customizer-default.php:99
+msgid "Main News"
+msgstr "ข่าวหลัก"
+
+#: inc/customizer/customizer-default.php:101
+#: inc/customizer/customizer-default.php:120
+msgid "Trending Now"
+msgstr "กำลังมาแรงตอนนี้"
+
+#: inc/customizer/customizer-default.php:115
+msgid "Editor's Picks"
+msgstr "คัดสรรโดยบรรณาธิการ"
+
+#: inc/customizer/customizer-default.php:134
+#: inc/customizer/frontpage-options.php:717
+msgid "Featured Posts"
+msgstr "กระทู้เด่น"
+
+#: inc/customizer/customizer-default.php:141
+msgid "Featured Categories"
+msgstr "หมวดหมู่เด่น"
+
+#: inc/customizer/customizer-default.php:142
+msgid "Featured Pages"
+msgstr "หน้าเด่น"
+
+#: inc/customizer/customizer-default.php:143
+msgid "Custom Options"
+msgstr "ตัวเลือกที่กำหนดเอง"
+
+#: inc/customizer/customizer-default.php:146
+msgid "Post list Section Title %d"
+msgstr "รายการโพสต์ ชื่อหัวข้อ %d"
+
+#: inc/customizer/customizer-default.php:152
+msgid "View More"
+msgstr "ดูเพิ่มเติม"
+
+#: inc/customizer/customizer-default.php:175
+msgid "Read More"
+msgstr "อ่านเพิ่มเติม"
+
+#: inc/customizer/customizer-default.php:218
+msgid "Related Stories"
+msgstr "เรื่องราวที่เกี่ยวข้อง"
+
+#: inc/customizer/customizer-default.php:229
+#: inc/customizer/theme-options.php:1337
+msgid "You May Have Missed"
+msgstr "คุณอาจจะพลาด"
+
+#: inc/customizer/customizer-default.php:233
+msgid "Copyright &copy; {year} All rights reserved."
+msgstr "ลิขสิทธิ์ &copy; {year} สงวนลิขสิทธิ์"
+
+#: inc/customizer/customizer.php:68
+msgid "Body Background Color"
+msgstr "สีพื้นหลังของร่างกาย"
+
+#: inc/customizer/customizer.php:96
+msgid "Site Title Size"
+msgstr "ขนาดชื่อไซต์"
+
+#: inc/customizer/customizer.php:116
+msgid "Uppercase Site Title and Tagline"
+msgstr "ชื่อไซต์ตัวพิมพ์ใหญ่และสโลแกน"
+
+#: inc/customizer/customizer.php:127
+msgid "Site Title/Tagline Color"
+msgstr "ชื่อไซต์/สีสโลแกน"
+
+#: inc/customizer/customizer.php:149
+msgid "Header Image Mode"
+msgstr "โหมดภาพส่วนหัว"
+
+#: inc/customizer/customizer.php:150
+msgid "Image visibility may vary as per the mode"
+msgstr "การมองเห็นภาพอาจแตกต่างกันไปตามโหมด"
+
+#: inc/customizer/customizer.php:154
+msgid "Above Site Title"
+msgstr "เหนือชื่อไซต์"
+
+#: inc/customizer/customizer.php:155
+msgid "Set as Background"
+msgstr "ตั้งเป็นพื้นหลัง"
+
+#: inc/customizer/customizer.php:156
+msgid "Show Full Image (Background)"
+msgstr "แสดงภาพเต็ม (พื้นหลัง)"
+
+#: inc/customizer/customizer.php:176
+msgid "Disable Image Tint/Overlay"
+msgstr "ปิดการใช้งานสีภาพ/การซ้อนทับ"
+
+#: inc/customizer/customizer.php:197
+msgid "ReviewNews Pro"
+msgstr "รีวิวนิวส์โปร"
+
+#: inc/customizer/font-color-options.php:23
+msgid "Site Color Mode"
+msgstr "โหมดสีของไซต์"
+
+#: inc/customizer/font-color-options.php:27
+msgid "Light"
+msgstr "แสงสว่าง"
+
+#: inc/customizer/font-color-options.php:28
+msgid "Dark"
+msgstr "มืด"
+
+#: inc/customizer/font-color-options.php:45
+msgid "Primary Color Section "
+msgstr "ส่วนสีหลัก"
+
+#: inc/customizer/font-color-options.php:66
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr "สีพื้นหลังของร่างกาย (โหมดมืด) จะถูกนำไปใช้กับโหมดนี้"
+
+#: inc/customizer/font-color-options.php:89
+msgid "Body Background Color (Dark Mode)"
+msgstr "สีพื้นหลังของร่างกาย (โหมดมืด)"
+
+#: inc/customizer/font-color-options.php:112
+msgid "Secondary Color Section "
+msgstr "ส่วนสีรอง"
+
+#: inc/customizer/font-color-options.php:136
+msgid "Secondary Color"
+msgstr "สีรอง"
+
+#: inc/customizer/font-color-options.php:151
+msgid "Fonts & Typography"
+msgstr "แบบอักษรและการพิมพ์"
+
+#: inc/customizer/font-color-options.php:174
+msgid "Font Family Section"
+msgstr "ส่วนตระกูลแบบอักษร"
+
+#: inc/customizer/font-color-options.php:197
+msgid "Fonts Source"
+msgstr "แหล่งที่มาของแบบอักษร"
+
+#: inc/customizer/font-color-options.php:201
+msgid "Theme Fonts"
+msgstr "แบบอักษรของธีม"
+
+#: inc/customizer/font-color-options.php:202
+msgid "System Fonts"
+msgstr "แบบอักษรของระบบ"
+
+#: inc/customizer/font-color-options.php:218
+msgid "Font Family"
+msgstr "ครอบครัวแบบอักษร"
+
+#: inc/customizer/frontpage-options.php:24
+#: admin-dashboard/src/components/json/home-content.js:26
+msgid "Main Banner Options"
+msgstr "ตัวเลือกแบนเนอร์หลัก"
+
+#: inc/customizer/frontpage-options.php:67
+msgid "Enable Flash News"
+msgstr "เปิดใช้งานข่าวแฟลช"
+
+#: inc/customizer/frontpage-options.php:86
+#: inc/customizer/frontpage-options.php:264
+#: inc/customizer/frontpage-options.php:409
+#: inc/customizer/frontpage-options.php:569
+#: inc/customizer/frontpage-options.php:761
+msgid "Section Title "
+msgstr "ชื่อมาตรา"
+
+#: inc/customizer/frontpage-options.php:110
+msgid "Flash Posts Category"
+msgstr "หมวดหมู่โพสต์แฟลช"
+
+#: inc/customizer/frontpage-options.php:111
+msgid "Select category to be shown on trending posts "
+msgstr "เลือกหมวดหมู่ที่จะแสดงบนโพสต์ที่กำลังมาแรง"
+
+#: inc/customizer/frontpage-options.php:131 inc/hooks/patterns/block-2.php:9
+msgid "Main Banner"
+msgstr "แบนเนอร์หลัก"
+
+#: inc/customizer/frontpage-options.php:153
+msgid "Enable Main Banner Section"
+msgstr "เปิดใช้งานส่วนแบนเนอร์หลัก"
+
+#: inc/customizer/frontpage-options.php:178
+msgid "Main Banner Background Image"
+msgstr "ภาพพื้นหลังแบนเนอร์หลัก"
+
+#: inc/customizer/frontpage-options.php:179
+#: inc/customizer/theme-options.php:205 inc/customizer/theme-options.php:1433
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "ขนาดที่แนะนำ %1$s px X %2$s px"
+
+#: inc/customizer/frontpage-options.php:207
+msgid "Select Main Banner Order"
+msgstr "เลือกลำดับแบนเนอร์หลัก"
+
+#: inc/customizer/frontpage-options.php:211
+msgid "Order 1"
+msgstr "สั่งซื้อ1"
+
+#: inc/customizer/frontpage-options.php:212
+msgid "Order 2"
+msgstr "สั่งซื้อ2"
+
+#: inc/customizer/frontpage-options.php:213
+msgid "Order 3"
+msgstr "สั่งซื้อ3"
+
+#: inc/customizer/frontpage-options.php:245
+msgid "Main News Section "
+msgstr "ส่วนข่าวหลัก"
+
+#: inc/customizer/frontpage-options.php:289
+#: inc/customizer/frontpage-options.php:439
+#: inc/customizer/frontpage-options.php:598
+msgid "Filter Posts By"
+msgstr "กรองโพสต์โดย"
+
+#: inc/customizer/frontpage-options.php:293
+#: inc/customizer/frontpage-options.php:443
+#: inc/customizer/frontpage-options.php:602
+#: inc/customizer/frontpage-options.php:900
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: inc/customizer/frontpage-options.php:294
+#: inc/customizer/frontpage-options.php:444
+#: inc/customizer/frontpage-options.php:603
+msgid "Tag"
+msgstr "แท็ก"
+
+#: inc/customizer/frontpage-options.php:317
+#: inc/widgets/widget-express-posts-list.php:136
+#: inc/widgets/widget-posts-grid.php:115 inc/widgets/widget-posts-list.php:118
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-trending-posts.php:139
+msgid "Select Category"
+msgstr "เลือกหมวดหมู่"
+
+#: inc/customizer/frontpage-options.php:318
+msgid "Select category to be shown on main slider section"
+msgstr "เลือกหมวดหมู่ที่จะแสดงในส่วนแถบเลื่อนหลัก"
+
+#: inc/customizer/frontpage-options.php:350
+#: inc/customizer/frontpage-options.php:506
+#: inc/customizer/frontpage-options.php:666
+msgid "Select Tag"
+msgstr "เลือกแท็ก"
+
+#: inc/customizer/frontpage-options.php:351
+msgid "Select tag to be shown on main slider section"
+msgstr "เลือกแท็กที่จะแสดงในส่วนแถบเลื่อนหลัก"
+
+#: inc/customizer/frontpage-options.php:384
+msgid "Editor's Picks Section"
+msgstr "ส่วนคัดสรรโดยบรรณาธิการ"
+
+#: inc/customizer/frontpage-options.php:473
+#: inc/customizer/frontpage-options.php:633
+#: inc/widgets/widgets-common-functions.php:25
+msgid "Select"
+msgstr "เลือก"
+
+#: inc/customizer/frontpage-options.php:544
+msgid "Trending Section"
+msgstr "ส่วนมาแรง"
+
+#: inc/customizer/frontpage-options.php:604
+msgid "Comment Count"
+msgstr "จำนวนความคิดเห็น"
+
+#: inc/customizer/frontpage-options.php:605
+msgid "View Count"
+msgstr "จำนวนการดู"
+
+#: inc/customizer/frontpage-options.php:701
+msgid "Front-page Options"
+msgstr "ตัวเลือกหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:741
+msgid "Enable Featured Post Section"
+msgstr "เปิดใช้งานส่วนโพสต์เด่น"
+
+#: inc/customizer/frontpage-options.php:786
+msgid "Select "
+msgstr "เลือก"
+
+#: inc/customizer/frontpage-options.php:787
+#: inc/customizer/frontpage-options.php:901
+msgid "Select category to be shown on featured section "
+msgstr "เลือกหมวดหมู่ที่จะแสดงในส่วนเด่น"
+
+#: inc/customizer/frontpage-options.php:808
+msgid "Posts List"
+msgstr "รายการโพสต์"
+
+#: inc/customizer/frontpage-options.php:829
+msgid "Enable Post List Section"
+msgstr "เปิดใช้งานส่วนรายการโพสต์"
+
+#: inc/customizer/frontpage-options.php:854
+msgid "Section %d"
+msgstr "ส่วน %d"
+
+#: inc/customizer/frontpage-options.php:875
+msgid "Section Title"
+msgstr "ชื่อมาตรา"
+
+#: inc/customizer/frontpage-options.php:918
+msgid "Front-page Layout Settings"
+msgstr "การตั้งค่าเค้าโครงหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:940
+msgid "Front-page Content Display"
+msgstr "การแสดงเนื้อหาหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:941
+msgid "Select frontpage content display"
+msgstr "เลือกการแสดงเนื้อหาหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:946
+msgid "Front-page Widgets"
+msgstr "วิดเจ็ตหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:947
+msgid "Page Contents & Front-page Widgets"
+msgstr "เนื้อหาของหน้าและวิดเจ็ตหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:966
+msgid "Front-page Content Alignment"
+msgstr "การจัดตำแหน่งเนื้อหาหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:967
+msgid "Select frontpage content alignment"
+msgstr "เลือกการจัดตำแหน่งเนื้อหาหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:971
+msgid "Home Content - Home Sidebar"
+msgstr "เนื้อหาหน้าแรก - แถบด้านข้างหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:972
+msgid "Home Sidebar - Home Content"
+msgstr "แถบด้านข้างหน้าแรก - เนื้อหาหน้าแรก"
+
+#: inc/customizer/frontpage-options.php:973
+msgid "Only Home Content"
+msgstr "เนื้อหาหน้าแรกเท่านั้น"
+
+#: inc/customizer/theme-options.php:31
+msgid "Header Options"
+msgstr "ตัวเลือกส่วนหัว"
+
+#: inc/customizer/theme-options.php:48
+msgid "Header Settings"
+msgstr "การตั้งค่าส่วนหัว"
+
+#: inc/customizer/theme-options.php:70
+msgid "Site Mode Switch"
+msgstr "สวิตช์โหมดไซต์"
+
+#: inc/customizer/theme-options.php:75
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#: inc/customizer/theme-options.php:76 inc/customizer/theme-options.php:420
+#: inc/customizer/theme-options.php:447 inc/customizer/theme-options.php:474
+msgid "Disable"
+msgstr "ปิดการใช้งาน"
+
+#: inc/customizer/theme-options.php:94
+msgid "Disable Sticky Header"
+msgstr "ปิดการใช้งานส่วนหัว Sticky"
+
+#: inc/customizer/theme-options.php:98
+msgid "Sticky header works only with builder at bottom."
+msgstr "ส่วนหัว Sticky ใช้งานได้กับตัวสร้างที่ด้านล่างเท่านั้น"
+
+#: inc/customizer/theme-options.php:116
+msgid "Top Header Section"
+msgstr "ส่วนหัวด้านบน"
+
+#: inc/customizer/theme-options.php:138
+msgid "Show Top Header"
+msgstr "แสดงส่วนหัวด้านบน"
+
+#: inc/customizer/theme-options.php:154 inc/customizer/theme-options.php:177
+msgid "Header Advertisement"
+msgstr "โฆษณาส่วนหัว"
+
+#: inc/customizer/theme-options.php:204
+msgid "Header Section Advertisement"
+msgstr "โฆษณาส่วนหัว"
+
+#: inc/customizer/theme-options.php:228
+msgid "URL Link"
+msgstr "ลิงค์ URL"
+
+#: inc/customizer/theme-options.php:240
+msgid "Theme Options"
+msgstr "ตัวเลือกธีม"
+
+#: inc/customizer/theme-options.php:255
+msgid "Breadcrumb Options"
+msgstr "ตัวเลือกเกล็ดขนมปัง"
+
+#: inc/customizer/theme-options.php:277
+msgid "Show breadcrumbs"
+msgstr "แสดงเกล็ดขนมปัง"
+
+#: inc/customizer/theme-options.php:297
+msgid "Select Breadcrumbs"
+msgstr "เลือกเกล็ดขนมปัง"
+
+#: inc/customizer/theme-options.php:298
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr ""
+"โปรดตรวจสอบให้แน่ใจว่าคุณได้เปิดใช้งาน breadcrumbs "
+"ของปลั๊กอินก่อนที่จะเลือกอย่างอื่นที่ไม่ใช่ค่าเริ่มต้น"
+
+#: inc/customizer/theme-options.php:303 inc/customizer/theme-options.php:926
+#: inc/hooks/hook-meta.php:80
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: inc/customizer/theme-options.php:304
+msgid "Yoast SEO"
+msgstr "ยีสต์ SEO"
+
+#: inc/customizer/theme-options.php:305
+msgid "Rank Math"
+msgstr "อันดับคณิตศาสตร์"
+
+#: inc/customizer/theme-options.php:306
+msgid "NavXT"
+msgstr "NavXT"
+
+#: inc/customizer/theme-options.php:325
+msgid "Global Settings"
+msgstr "การตั้งค่าส่วนกลาง"
+
+#: inc/customizer/theme-options.php:347
+msgid "Enable Preloader"
+msgstr "เปิดใช้งานตัวโหลดล่วงหน้า"
+
+#: inc/customizer/theme-options.php:368
+msgid "Disable Emoji Script"
+msgstr "ปิดการใช้งานสคริปต์อิโมจิ"
+
+#: inc/customizer/theme-options.php:369
+msgid "GDPR friendly & better performance"
+msgstr "เป็นมิตรกับ GDPR และประสิทธิภาพที่ดีขึ้น"
+
+#: inc/customizer/theme-options.php:389
+msgid "Global Content Alignment"
+msgstr "การจัดตำแหน่งเนื้อหาทั่วโลก"
+
+#: inc/customizer/theme-options.php:393
+msgid "Content - Primary sidebar"
+msgstr "เนื้อหา - แถบด้านข้างหลัก"
+
+#: inc/customizer/theme-options.php:394
+msgid "Primary sidebar - Content"
+msgstr "แถบด้านข้างหลัก - เนื้อหา"
+
+#: inc/customizer/theme-options.php:395
+msgid "Full width content"
+msgstr "เนื้อหาเต็มความกว้าง"
+
+#: inc/customizer/theme-options.php:414
+msgid "Also Show Content Image in Archive"
+msgstr "แสดงภาพเนื้อหาในเอกสารเก่าด้วย"
+
+#: inc/customizer/theme-options.php:415
+msgid "If there is no Post Featured image set"
+msgstr "หากไม่มีชุดรูปภาพเด่น"
+
+#: inc/customizer/theme-options.php:419 inc/customizer/theme-options.php:446
+#: inc/customizer/theme-options.php:473
+msgid "Enable "
+msgstr "เปิดใช้งาน"
+
+#: inc/customizer/theme-options.php:441
+msgid "Image Lazy Loading"
+msgstr "กำลังโหลดรูปภาพแบบขี้เกียจ"
+
+#: inc/customizer/theme-options.php:442
+msgid "Set for better performance"
+msgstr "ตั้งค่าเพื่อประสิทธิภาพที่ดีขึ้น"
+
+#: inc/customizer/theme-options.php:468
+msgid "Image Async Decoding"
+msgstr "การถอดรหัสภาพ Async"
+
+#: inc/customizer/theme-options.php:469
+msgid "Set to enhance rendering speed"
+msgstr "ตั้งค่าเพื่อเพิ่มความเร็วในการเรนเดอร์"
+
+#: inc/customizer/theme-options.php:496
+msgid "Scroll to Top Position"
+msgstr "เลื่อนไปที่ตำแหน่งบนสุด"
+
+#: inc/customizer/theme-options.php:501 inc/customizer/theme-options.php:1203
+msgid "Right"
+msgstr "ขวา"
+
+#: inc/customizer/theme-options.php:502 inc/customizer/theme-options.php:1202
+msgid "Left"
+msgstr "ซ้าย"
+
+#: inc/customizer/theme-options.php:514
+msgid "Categories Settings"
+msgstr "การตั้งค่าหมวดหมู่"
+
+#: inc/customizer/theme-options.php:535
+msgid "Post Categories"
+msgstr "โพสต์หมวดหมู่"
+
+#: inc/customizer/theme-options.php:539 inc/customizer/theme-options.php:693
+msgid "Show"
+msgstr "แสดง"
+
+#: inc/customizer/theme-options.php:540 inc/customizer/theme-options.php:694
+msgid "Hide"
+msgstr "ซ่อน"
+
+#: inc/customizer/theme-options.php:561
+msgid "Categories to be displayed"
+msgstr "หมวดหมู่ที่จะแสดง"
+
+#: inc/customizer/theme-options.php:565
+msgid "Show All"
+msgstr "แสดงทั้งหมด"
+
+#: inc/customizer/theme-options.php:566
+msgid "Top One Category"
+msgstr "หมวดหนึ่งยอดนิยม"
+
+#: inc/customizer/theme-options.php:587
+msgid "Number of Categories"
+msgstr "จำนวนหมวดหมู่"
+
+#: inc/customizer/theme-options.php:599
+msgid "Author and Date Settings"
+msgstr "ผู้แต่งและการตั้งค่าวันที่"
+
+#: inc/customizer/theme-options.php:621
+msgid "Author Icon"
+msgstr "ไอคอนผู้เขียน"
+
+#: inc/customizer/theme-options.php:625
+msgid "Show Gravatar"
+msgstr "แสดงกราวาตาร์"
+
+#: inc/customizer/theme-options.php:626
+msgid "Show Icon"
+msgstr "แสดงไอคอน"
+
+#: inc/customizer/theme-options.php:627 inc/customizer/theme-options.php:1021
+#: inc/customizer/theme-options.php:1233
+msgid "None"
+msgstr "ไม่มี"
+
+#: inc/customizer/theme-options.php:648
+msgid "Date Format"
+msgstr "รูปแบบวันที่"
+
+#: inc/customizer/theme-options.php:652
+msgid "WordPress Default Date Format"
+msgstr "รูปแบบวันที่เริ่มต้นของ WordPress"
+
+#: inc/customizer/theme-options.php:653
+msgid "Ago Date Format"
+msgstr "รูปแบบวันที่ที่ผ่านมา"
+
+#: inc/customizer/theme-options.php:667 inc/customizer/theme-options.php:689
+msgid "Minutes Read Count"
+msgstr "จำนวนนาทีที่อ่าน"
+
+#: inc/customizer/theme-options.php:707
+msgid "Excerpt Settings"
+msgstr "การตั้งค่าข้อความที่ตัดตอนมา"
+
+#: inc/customizer/theme-options.php:730
+msgid "Global Excerpt Read More"
+msgstr "ข้อความที่ตัดตอนมาจากทั่วโลก อ่านเพิ่มเติม"
+
+#: inc/customizer/theme-options.php:753
+msgid "Primary Menu Section"
+msgstr "ส่วนเมนูหลัก"
+
+#: inc/customizer/theme-options.php:773
+msgid "Show Primary Menu Description"
+msgstr "แสดงคำอธิบายเมนูหลัก"
+
+#: inc/customizer/theme-options.php:793
+msgid "Enable Custom Menu Section"
+msgstr "เปิดใช้งานส่วนเมนูแบบกำหนดเอง"
+
+#: inc/customizer/theme-options.php:816 inc/customizer/theme-options.php:1105
+#: inc/widgets/widget-author-info.php:139
+#: inc/widgets/widget-express-posts-list.php:135
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-grid.php:114 inc/widgets/widget-posts-list.php:117
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-trending-posts.php:138
+msgid "Title"
+msgstr "ชื่อ"
+
+#: inc/customizer/theme-options.php:837
+msgid "Link"
+msgstr "ลิงค์"
+
+#: inc/customizer/theme-options.php:853
+msgid "Single Post"
+msgstr "โพสต์เดียว"
+
+#: inc/customizer/theme-options.php:874
+msgid "Show Featured Image"
+msgstr "แสดงภาพเด่น"
+
+#: inc/customizer/theme-options.php:895
+msgid "Featured Image Width"
+msgstr "ความกว้างของภาพเด่น"
+
+#: inc/customizer/theme-options.php:899
+msgid "Full - Default"
+msgstr "เต็ม - ค่าเริ่มต้น"
+
+#: inc/customizer/theme-options.php:900
+msgid "Original"
+msgstr "ต้นฉบับ"
+
+#: inc/customizer/theme-options.php:921
+msgid "Single Content Mode"
+msgstr "โหมดเนื้อหาเดียว"
+
+#: inc/customizer/theme-options.php:927 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr "กว้างขวาง"
+
+#: inc/customizer/theme-options.php:951
+msgid "Show Author Bio under Content"
+msgstr "แสดงประวัติผู้เขียนใต้เนื้อหา"
+
+#: inc/customizer/theme-options.php:972
+msgid "Show Tags under Content"
+msgstr "แสดงแท็กใต้เนื้อหา"
+
+#: inc/customizer/theme-options.php:995
+msgid "Social Share Options"
+msgstr "ตัวเลือกการแบ่งปันทางสังคม"
+
+#: inc/customizer/theme-options.php:1015
+msgid "Defined Links"
+msgstr "ลิงค์ที่กำหนด"
+
+#: inc/customizer/theme-options.php:1019
+msgid "Theme"
+msgstr "ธีม"
+
+#: inc/customizer/theme-options.php:1020
+msgid "JetPack"
+msgstr "เจ็ตแพค"
+
+#: inc/customizer/theme-options.php:1038
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+#: inc/customizer/theme-options.php:1042
+msgid "Before Content"
+msgstr "ก่อนเนื้อหา"
+
+#: inc/customizer/theme-options.php:1043
+msgid "After Content"
+msgstr "หลังจากเนื้อหา"
+
+#: inc/customizer/theme-options.php:1064
+msgid "Related Posts Settings"
+msgstr "การตั้งค่าโพสต์ที่เกี่ยวข้อง"
+
+#: inc/customizer/theme-options.php:1085
+msgid "Enable Related Posts"
+msgstr "เปิดใช้งานโพสต์ที่เกี่ยวข้อง"
+
+#: inc/customizer/theme-options.php:1126
+msgid "Archive Settings"
+msgstr "การตั้งค่าการเก็บถาวร"
+
+#: inc/customizer/theme-options.php:1148
+msgid "Disable Main Banner on Blog"
+msgstr "ปิดการใช้งานแบนเนอร์หลักบนบล็อก"
+
+#: inc/customizer/theme-options.php:1169
+msgid "Archive layout"
+msgstr "เค้าโครงเอกสารเก่า"
+
+#: inc/customizer/theme-options.php:1170
+msgid "Select layout for archive"
+msgstr "เลือกเค้าโครงสำหรับการเก็บถาวร"
+
+#: inc/customizer/theme-options.php:1175
+msgid "grid"
+msgstr "ตาราง"
+
+#: inc/customizer/theme-options.php:1176 inc/hooks/patterns/full.php:9
+msgid "Full"
+msgstr "เต็ม"
+
+#: inc/customizer/theme-options.php:1197
+msgid "Image Alignment"
+msgstr "การจัดตำแหน่งภาพ"
+
+#: inc/customizer/theme-options.php:1198
+msgid "Select image alignment for archive"
+msgstr "เลือกการจัดตำแหน่งรูปภาพเพื่อเก็บถาวร"
+
+#: inc/customizer/theme-options.php:1226
+msgid "Content View"
+msgstr "มุมมองเนื้อหา"
+
+#: inc/customizer/theme-options.php:1227
+msgid "Select content view for archive"
+msgstr "เลือกมุมมองเนื้อหาเพื่อเก็บถาวร"
+
+#: inc/customizer/theme-options.php:1231
+msgid "Post Excerpt"
+msgstr "โพสต์ข้อความที่ตัดตอนมา"
+
+#: inc/customizer/theme-options.php:1232
+msgid "Full Content"
+msgstr "เนื้อหาเต็ม"
+
+#: inc/customizer/theme-options.php:1253
+msgid "Search Results"
+msgstr "ผลการค้นหา"
+
+#: inc/customizer/theme-options.php:1254
+msgid "Select search results for archive"
+msgstr "เลือกผลการค้นหาสำหรับเก็บถาวร"
+
+#: inc/customizer/theme-options.php:1258
+msgid "All (Pages, Posts, etc)"
+msgstr "ทั้งหมด (เพจ โพสต์ ฯลฯ)"
+
+#: inc/customizer/theme-options.php:1259
+msgid "Posts"
+msgstr "กระทู้"
+
+#: inc/customizer/theme-options.php:1273
+msgid "Sidebar Settings"
+msgstr "การตั้งค่าแถบด้านข้าง"
+
+#: inc/customizer/theme-options.php:1295
+msgid "Make Sidebar Sticky"
+msgstr "ทำให้แถบด้านข้างเหนียว"
+
+#: inc/customizer/theme-options.php:1316
+msgid "Sidebar Sticky Position"
+msgstr "ตำแหน่งปักหมุดแถบด้านข้าง"
+
+#: inc/customizer/theme-options.php:1320
+msgid "Top"
+msgstr "สูงสุด"
+
+#: inc/customizer/theme-options.php:1321
+msgid "Bottom"
+msgstr "ด้านล่าง"
+
+#: inc/customizer/theme-options.php:1357
+msgid "Show Above Footer"
+msgstr "แสดงส่วนท้ายด้านบน"
+
+#: inc/customizer/theme-options.php:1377
+msgid "Posts Section Title"
+msgstr "หัวข้อกระทู้"
+
+#: inc/customizer/theme-options.php:1396
+msgid "Footer Options"
+msgstr "ตัวเลือกส่วนท้าย"
+
+#: inc/customizer/theme-options.php:1432
+msgid "Footer Background Image"
+msgstr "ภาพพื้นหลังส่วนท้าย"
+
+#: inc/customizer/theme-options.php:1457
+msgid "Copyright Text"
+msgstr "ข้อความลิขสิทธิ์"
+
+#: inc/customizer/theme-options.php:1479
+msgid "Hide footer Menu Section"
+msgstr "ซ่อนส่วนเมนูส่วนท้าย"
+
+#: inc/hooks/blocks/block-archive-grid.php:43
+#: template-parts/content-page.php:27 template-parts/content.php:57
+msgid "Pages:"
+msgstr "หน้า:"
+
+#: inc/hooks/blocks/block-header-layout-default.php:82
+msgid "Open Off-Canvas Navigation"
+msgstr "เปิดการนำทางนอกพื้นที่"
+
+#: inc/hooks/hook-header-section.php:272
+msgid "Light/Dark Button"
+msgstr "ปุ่มสว่าง/มืด"
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr "ตัวเลือกเค้าโครง"
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr "ตัวเลือกเนื้อหา"
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr "ตั้งเป็นรูปแบบส่วนกลาง"
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "โปรดไปที่ปรับแต่ง>ตัวเลือกธีมสำหรับโพสต์/หน้าเดียว"
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr "ตัวเลือกแถบด้านข้าง"
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr "เนื้อหา - แถบด้านข้างหลัก"
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr "แถบด้านข้างหลัก - เนื้อหา"
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr "ไม่มีแถบด้านข้าง"
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr "โปรดไปที่ปรับแต่ง>ตัวเลือกหน้าแรกสำหรับหน้าแรก"
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:224
+msgid "Category Color 1"
+msgstr "หมวดหมู่สี 1"
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:225
+msgid "Category Color 2"
+msgstr "หมวดหมู่สี 2"
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:226
+msgid "Category Color 3"
+msgstr "หมวดหมู่สี 3"
+
+#: inc/hooks/hook-meta.php:192 inc/hooks/hook-meta.php:220
+msgid "Color Class"
+msgstr "คลาสสี"
+
+#: inc/hooks/hook-meta.php:198 inc/hooks/hook-meta.php:236
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+"เลือกคลาสสีหมวดหมู่ คุณสามารถตั้งค่าสีหมวดหมู่ที่เหมาะสมได้ในส่วน "
+"\"หมวดหมู่\" ของเครื่องมือปรับแต่งธีม"
+
+#: inc/hooks/hook-tgm.php:19
+msgid "Templatespare"
+msgstr "เทมเพลตสแปร์"
+
+#: inc/hooks/hook-tgm.php:24
+msgid "Elespare"
+msgstr "เอเลสปาร์"
+
+#: inc/hooks/hook-tgm.php:29
+msgid "Blockspare"
+msgstr "บล็อกสแปร์"
+
+#: inc/hooks/hook-tgm.php:34
+msgid "WP Post Author"
+msgstr "ผู้เขียนโพสต์ WP"
+
+#: inc/hooks/hook-tgm.php:39
+msgid "Free Live Chat using 3CX"
+msgstr "แชทสดฟรีโดยใช้ 3CX"
+
+#: inc/hooks/patterns/bg-large-post.php:9
+msgid "Large Post with Background"
+msgstr "โพสต์ขนาดใหญ่พร้อมพื้นหลัง"
+
+#: inc/hooks/patterns/bg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Background"
+msgstr "3 คอลัมน์โพสต์กริดพร้อมพื้นหลัง"
+
+#: inc/hooks/patterns/bg-post-grid.php:9
+msgid "Post Grid with Background"
+msgstr "โพสต์กริดพร้อมพื้นหลัง"
+
+#: inc/hooks/patterns/bg-post-list.php:9
+msgid "Post List with Background"
+msgstr "รายการโพสต์ที่มีพื้นหลัง"
+
+#: inc/hooks/patterns/bg-single-post-column.php:9
+msgid "Single Post Column with Background"
+msgstr "คอลัมน์เดี่ยวพร้อมพื้นหลัง"
+
+#: inc/hooks/patterns/block-1.php:9
+msgid "Ticker News"
+msgstr "ทิกเกอร์นิวส์"
+
+#: inc/hooks/patterns/block-3.php:9 inc/hooks/patterns/block-3.php:16
+#: inc/hooks/patterns/full.php:20
+msgid "Featured News"
+msgstr "ข่าวเด่น"
+
+#: inc/hooks/patterns/block-4.php:9
+msgid "Three Columns Posts"
+msgstr "โพสต์สามคอลัมน์"
+
+#: inc/hooks/patterns/block-4.php:16 inc/hooks/patterns/full.php:56
+msgid "Three Columns"
+msgstr "สามคอลัมน์"
+
+#: inc/hooks/patterns/block-5.php:9 inc/hooks/patterns/block-5.php:16
+#: inc/hooks/patterns/full.php:142
+msgid "Post Carousel"
+msgstr "โพสต์ม้าหมุน"
+
+#: inc/hooks/patterns/dbg-large-post.php:9
+msgid "Large Post with Dark Background"
+msgstr "โพสต์ขนาดใหญ่ที่มีพื้นหลังสีเข้ม"
+
+#: inc/hooks/patterns/dbg-post-grid-3-col.php:9
+msgid "3 Columns Post Grid with Dark Background"
+msgstr "3 คอลัมน์โพสต์กริดพร้อมพื้นหลังสีเข้ม"
+
+#: inc/hooks/patterns/dbg-post-grid.php:9
+msgid "Post Grid with Dark Background"
+msgstr "โพสต์กริดกับพื้นหลังสีเข้ม"
+
+#: inc/hooks/patterns/dbg-post-list.php:9
+msgid "Post List with Dark Background"
+msgstr "รายการโพสต์ที่มีพื้นหลังสีเข้ม"
+
+#: inc/hooks/patterns/dbg-single-post-column.php:9
+msgid "Single Post Column with Dark Background"
+msgstr "คอลัมน์เดี่ยวที่มีพื้นหลังสีเข้ม"
+
+#: inc/hooks/patterns/full.php:31 inc/hooks/patterns/section-2.php:19
+msgid "Express Grid"
+msgstr "เอ็กซ์เพรสกริด"
+
+#: inc/hooks/patterns/full.php:41 inc/hooks/patterns/section-2.php:29
+#: inc/widgets/widget-author-info.php:139
+msgid "About Author"
+msgstr "เกี่ยวกับผู้แต่ง"
+
+#: inc/hooks/patterns/full.php:47 inc/hooks/patterns/section-2.php:35
+msgid ""
+"We mainly focus on quality code and elegant design with incredible support. "
+"Our WordPress themes and plugins empower you to create an elegant, "
+"professional, and easy-to-maintain website in no time at all. Even on mobile"
+" and tablet screens, your website will look great"
+msgstr ""
+"เรามุ่งเน้นไปที่โค้ดที่มีคุณภาพและการออกแบบที่หรูหราพร้อมการสนับสนุนที่น่าทึ่งเป็นหลัก"
+" ธีมและปลั๊กอิน WordPress ของเราช่วยให้คุณสร้างเว็บไซต์ที่หรูหรา "
+"เป็นมืออาชีพ และดูแลรักษาง่ายได้ในเวลาอันรวดเร็ว "
+"แม้แต่บนหน้าจอมือถือและแท็บเล็ต เว็บไซต์ของคุณก็จะดูดี"
+
+#: inc/hooks/patterns/full.php:66 inc/hooks/patterns/section-3.php:19
+msgid "Post Slider"
+msgstr "โพสต์สไลเดอร์"
+
+#: inc/hooks/patterns/full.php:74 inc/hooks/patterns/full.php:180
+#: inc/hooks/patterns/section-3.php:27 inc/hooks/patterns/section-4.php:46
+#: inc/hooks/patterns/theme-block-7.php:9
+msgid "Post Grid"
+msgstr "โพสต์กริด"
+
+#: inc/hooks/patterns/full.php:84 inc/hooks/patterns/section-3.php:37
+#: inc/hooks/patterns/theme-block-10.php:9
+msgid "Post List"
+msgstr "โพสต์รายการ"
+
+#: inc/hooks/patterns/full.php:92 inc/hooks/patterns/section-3.php:45
+msgid "Connect to Us"
+msgstr "เชื่อมต่อกับเรา"
+
+#: inc/hooks/patterns/full.php:130 inc/hooks/patterns/full.php:170
+#: inc/hooks/patterns/section-3.php:83 inc/hooks/patterns/section-4.php:36
+msgid "Advertisement"
+msgstr "โฆษณา"
+
+#: inc/hooks/patterns/full.php:152 inc/hooks/patterns/section-4.php:18
+msgid "Express Tile"
+msgstr "เอ็กซ์เพรสไทล์"
+
+#: inc/hooks/patterns/full.php:160 inc/hooks/patterns/section-4.php:26
+#: inc/hooks/patterns/theme-block-9.php:9
+msgid "Single Column"
+msgstr "คอลัมน์เดียว"
+
+#: inc/hooks/patterns/full.php:188 inc/hooks/patterns/section-4.php:54
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: inc/hooks/patterns/section-1.php:9
+msgid "Section 1"
+msgstr "ส่วนที่ 1"
+
+#: inc/hooks/patterns/section-2.php:9
+msgid "Section 2"
+msgstr "ส่วนที่ 2"
+
+#: inc/hooks/patterns/section-3.php:9
+msgid "Section 3"
+msgstr "ส่วนที่ 3"
+
+#: inc/hooks/patterns/section-4.php:9
+msgid "Section 4"
+msgstr "มาตรา 4"
+
+#: inc/hooks/patterns/theme-block-6-2.php:9
+msgid "3 Columns Post Grid - 2"
+msgstr "กริดโพสต์ 3 คอลัมน์ - 2"
+
+#: inc/hooks/patterns/theme-block-6.php:9
+msgid "3 Columns Post Grid"
+msgstr "3 คอลัมน์โพสต์กริด"
+
+#: inc/hooks/patterns/theme-block-7-2.php:9
+msgid "Post Grid - 2"
+msgstr "โพสต์กริด - 2"
+
+#: inc/hooks/patterns/theme-block-8-2.php:9
+msgid "Large Posts - 2"
+msgstr "โพสต์ขนาดใหญ่ - 2"
+
+#: inc/hooks/patterns/theme-block-8.php:9
+msgid "Large Posts"
+msgstr "กระทู้ใหญ่"
+
+#: inc/hooks/patterns/theme-block-9-2.php:9
+msgid "Single Column - 2"
+msgstr "คอลัมน์เดี่ยว - 2"
+
+#: inc/hooks/patterns/theme-block-10-2.php:9
+msgid "Post List - 2"
+msgstr "รายการโพสต์ - 2"
+
+#. Translators: %1$s current user display name.
+#: inc/review.php:74
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we"
+" hope you are loving it! We would appreciate it if you can give us "
+"%3$sreview and rating%4$s on WordPress.org! We'll continue to develop "
+"exciting new features for free in the future by sharing the love!"
+msgstr ""
+"สวัสดี %1$s! เราสังเกตเห็นว่าคุณใช้ %2$s มาระยะหนึ่งแล้ว "
+"เราหวังว่าคุณจะชอบมัน! เราจะยินดีอย่างยิ่งหากคุณสามารถให้ "
+"%3$sการตรวจทานและให้คะแนน%4$s บน WordPress.org แก่เรา! "
+"เราจะพัฒนาฟีเจอร์ใหม่ที่น่าตื่นเต้นต่อไปฟรีในอนาคตด้วยการแบ่งปันความรัก!"
+
+#: inc/review.php:88
+msgid "Sure thing"
+msgstr "แน่นอน"
+
+#: inc/review.php:93
+msgid "Remind me later"
+msgstr "เตือนฉันในภายหลัง"
+
+#: inc/review.php:98
+msgid "I've already done."
+msgstr "ฉันได้ทำไปแล้ว"
+
+#: inc/review.php:103
+msgid "Got any support queries?"
+msgstr "มีคำถามเกี่ยวกับการสนับสนุนหรือไม่?"
+
+#: inc/template-functions.php:579 inc/template-functions.php:581
+msgid "Read more about %s"
+msgstr "อ่านเพิ่มเติมเกี่ยวกับ %s"
+
+#: inc/template-functions.php:623
+msgid "Previous"
+msgstr "ก่อนหน้า"
+
+#: inc/template-functions.php:624
+msgid "Next"
+msgstr "ต่อไป"
+
+#: inc/template-functions.php:652
+msgid "%s min read"
+msgstr "%s นาทีที่อ่าน"
+
+#: inc/template-functions.php:789
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "ความคิดเห็น %s"
+
+#: inc/template-functions.php:845
+msgid "Copy link to clipboard"
+msgstr "คัดลอกลิงก์ไปยังคลิปบอร์ด"
+
+#: inc/template-functions.php:845
+msgid "Link copied to clipboard!"
+msgstr "คัดลอกลิงก์ไปยังคลิปบอร์ดแล้ว!"
+
+#: inc/template-functions.php:1138
+msgid "About the Author"
+msgstr "เกี่ยวกับผู้เขียน"
+
+#: inc/template-functions.php:1166
+msgid "Visit Website"
+msgstr "เยี่ยมชมเว็บไซต์"
+
+#: inc/template-functions.php:1172
+msgid "View All Posts"
+msgstr "ดูโพสต์ทั้งหมด"
+
+#: inc/template-functions.php:1223
+msgid "Your name"
+msgstr "ชื่อของคุณ"
+
+#: inc/template-functions.php:1231
+msgid "Your email"
+msgstr "อีเมลของคุณ"
+
+#: inc/template-functions.php:1239
+msgid "Your website"
+msgstr "เว็บไซต์ของคุณ"
+
+#: inc/template-functions.php:1247
+msgid "Leave a comment"
+msgstr "แสดงความคิดเห็น"
+
+#: inc/template-tags.php:148 inc/template-tags.php:233
+msgid "(Last Updated: %s)"
+msgstr "(อัปเดตล่าสุด: %s)"
+
+#: inc/template-tags.php:259
+msgid "ago"
+msgstr "ที่ผ่านมา"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:287 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "แก้ไข <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/upgrade.php:69 inc/upgrade.php:89
+msgid "Action failed. Please refresh the page and retry."
+msgstr "การดำเนินการล้มเหลว โปรดรีเฟรชหน้าเว็บแล้วลองอีกครั้ง"
+
+#: inc/upgrade.php:73 inc/upgrade.php:93
+msgid "Cheatin&#8217; huh?"
+msgstr "โกง&#8217; ฮะ?"
+
+#: inc/upgrade.php:194
+msgid "Claim Your Discount"
+msgstr "เรียกร้องส่วนลดของคุณ"
+
+#: inc/upgrade.php:199
+msgid "Power Bundle"
+msgstr "ชุดพลัง"
+
+#: inc/upgrade.php:204
+msgid "All Themes Plan"
+msgstr "แผนธีมทั้งหมด"
+
+#: inc/upgrade.php:209
+msgid "Maybe Later"
+msgstr "อาจจะภายหลัง"
+
+#: inc/upgrade.php:214
+msgid "Have Queries?"
+msgstr "มีคำถาม?"
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr "แสดงข้อมูลผู้เขียน"
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFT Author Info"
+msgstr "ข้อมูลผู้แต่ง AFT"
+
+#: inc/widgets/widget-author-info.php:141
+msgid "Profile image"
+msgstr "รูปโปรไฟล์"
+
+#: inc/widgets/widget-author-info.php:142
+msgid "Name"
+msgstr "ชื่อ"
+
+#: inc/widgets/widget-author-info.php:143
+msgid "Descriptions"
+msgstr "คำอธิบาย"
+
+#: inc/widgets/widget-author-info.php:144
+msgid "Facebook"
+msgstr "เฟสบุ๊ค"
+
+#: inc/widgets/widget-author-info.php:145
+msgid "Twitter"
+msgstr "ทวิตเตอร์"
+
+#: inc/widgets/widget-author-info.php:146
+msgid "YouTube"
+msgstr "ยูทูบ"
+
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr "แสดงโพสต์ด่วนจากหมวดหมู่ที่เลือก"
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFT Express Posts List"
+msgstr "รายการโพสต์ AFT Express"
+
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-grid.php:28 inc/widgets/widget-posts-list.php:28
+#: inc/widgets/widget-trending-posts.php:30
+msgid "Displays grid from selected categories."
+msgstr "แสดงตารางจากหมวดหมู่ที่เลือก"
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFT Post Double Columns"
+msgstr "AFT โพสต์คอลัมน์คู่"
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr "เลือกหมวดหมู่ 1"
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr "เลือกหมวดหมู่ 2"
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFT Post Grid"
+msgstr "AFT โพสต์กริด"
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFT Post List"
+msgstr "รายการโพสต์ AFT"
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr "แสดงโพสต์คอลัมน์เดียวจากหมวดหมู่ที่เลือก"
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFT Post Single Column"
+msgstr "AFT โพสต์คอลัมน์เดียว"
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr "แสดงแถบเลื่อนโพสต์จากหมวดหมู่ที่เลือก"
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFT Posts Slider"
+msgstr "ตัวเลื่อนโพสต์ AFT"
+
+#: inc/widgets/widget-posts-slider.php:113
+msgid "Select category"
+msgstr "เลือกหมวดหมู่"
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr "แสดงรายการผู้ติดต่อทางสังคมจากการตั้งค่าที่เลือก"
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFT Social Contacts"
+msgstr "การติดต่อทางสังคม AFT"
+
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr "เชื่อมต่อกับเรา"
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr ""
+"ไม่ได้ตั้งค่าเมนูโซเชียล "
+"คุณต้องสร้างเมนูและกำหนดให้กับเมนูโซเชียลในการตั้งค่าเมนู"
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFT Trending News"
+msgstr "ข่าวที่ได้รับความนิยม AFT"
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr "อัปโหลด"
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr "เลือกรูปภาพ"
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr "เลือกรูปภาพ"
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr "เอ็กซ์"
+
+#: inc/widgets/widgets-common-functions.php:86
+msgid "Recent"
+msgstr "ล่าสุด"
+
+#: inc/widgets/widgets-common-functions.php:99
+msgid "Popular"
+msgstr "เป็นที่นิยม"
+
+#: inc/widgets/widgets-register-sidebars.php:11
+msgid "Header Banner Ad Section"
+msgstr "ส่วนโฆษณาแบนเนอร์ส่วนหัว"
+
+#: inc/widgets/widgets-register-sidebars.php:13
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "เพิ่มวิดเจ็ตสำหรับโฆษณาส่วนแบนเนอร์หน้าแรก"
+
+#: inc/widgets/widgets-register-sidebars.php:23
+msgid "Off Canvas Drawer Menu Section"
+msgstr "ปิดส่วนเมนูลิ้นชัก Canvas"
+
+#: inc/widgets/widgets-register-sidebars.php:25
+msgid "Add widgets for off-canvas section."
+msgstr "เพิ่มวิดเจ็ตสำหรับส่วนนอกแคนวาส"
+
+#: inc/widgets/widgets-register-sidebars.php:33
+msgid "Main Sidebar"
+msgstr "แถบด้านข้างหลัก"
+
+#: inc/widgets/widgets-register-sidebars.php:35
+msgid "Add widgets for main sidebar."
+msgstr "เพิ่มวิดเจ็ตสำหรับแถบด้านข้างหลัก"
+
+#: inc/widgets/widgets-register-sidebars.php:43
+msgid "Front-page Content Section"
+msgstr "ส่วนเนื้อหาหน้าแรก"
+
+#: inc/widgets/widgets-register-sidebars.php:45
+msgid "Add widgets to front-page contents section."
+msgstr "เพิ่มวิดเจ็ตในส่วนเนื้อหาหน้าแรก"
+
+#: inc/widgets/widgets-register-sidebars.php:53
+msgid "Front-page Sidebar Section"
+msgstr "ส่วนแถบด้านข้างหน้าแรก"
+
+#: inc/widgets/widgets-register-sidebars.php:55
+msgid "Add widgets to front-page sidebar section."
+msgstr "เพิ่มวิดเจ็ตในส่วนแถบด้านข้างของหน้าแรก"
+
+#: inc/widgets/widgets-register-sidebars.php:65
+msgid "Footer Widget 1"
+msgstr "วิดเจ็ตส่วนท้าย 1"
+
+#: inc/widgets/widgets-register-sidebars.php:67
+msgid "Displays items on footer first column."
+msgstr "แสดงรายการในส่วนท้ายของคอลัมน์แรก"
+
+#: inc/widgets/widgets-register-sidebars.php:76
+msgid "Footer Widget 2"
+msgstr "วิดเจ็ตส่วนท้าย 2"
+
+#: inc/widgets/widgets-register-sidebars.php:78
+msgid "Displays items on footer second column."
+msgstr "แสดงรายการในส่วนท้ายคอลัมน์ที่สอง"
+
+#: inc/widgets/widgets-register-sidebars.php:86
+msgid "Footer Widget 3"
+msgstr "วิดเจ็ตส่วนท้าย 3"
+
+#: inc/widgets/widgets-register-sidebars.php:88
+msgid "Displays items on footer third column."
+msgstr "แสดงรายการในส่วนท้ายคอลัมน์ที่สาม"
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr "ดูตะกร้าสินค้าของคุณ"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:258
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d รายการ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:304
+msgid "Browse:"
+msgstr "เรียกดู:"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:305
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "เกล็ดขนมปัง"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:306
+msgid "Home"
+msgstr "บ้าน"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:307
+msgid "404 Not Found"
+msgstr "404 ไม่พบ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:308
+msgid "Archives"
+msgstr "หอจดหมายเหตุ"
+
+#. Translators: %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Search results for: %s"
+msgstr "ผลการค้นหาสำหรับ: %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Page %s"
+msgstr "หน้า %s"
+
+#. Translators: %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Comment Page %s"
+msgstr "หน้าความคิดเห็น %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+msgid "Minute %s"
+msgstr "นาที %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+msgid "Week %s"
+msgstr "สัปดาห์ %s"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:791
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "ก:ฉันก"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:809
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "ฉัน"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:827
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "กรัม"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:844
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:874
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:902
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:930
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1285
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "ย"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:845
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:903
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1289
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "เอฟ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:846
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1293
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "เจ"
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:875
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "ว"
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "ติดตั้งปลั๊กอินที่จำเป็น"
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "ติดตั้งปลั๊กอิน"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "กำลังติดตั้งปลั๊กอิน: %s"
+
+#. translators: %s: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "กำลังอัปเดตปลั๊กอิน: %s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "เกิดข้อผิดพลาดกับปลั๊กอิน API"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "ธีมนี้ต้องการปลั๊กอินต่อไปนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ธีมนี้แนะนำปลั๊กอินต่อไปนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"ปลั๊กอินต่อไปนี้จำเป็นต้องได้รับการอัปเดตเป็นเวอร์ชันล่าสุดเพื่อให้แน่ใจว่าเข้ากันได้กับธีมนี้สูงสุด:"
+" %1$s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "มีการอัปเดตสำหรับปลั๊กอินต่อไปนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่จำเป็นต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+
+#. translators: 1: plugin name(s).
+#: lib/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "ปลั๊กอินที่แนะนำต่อไปนี้ไม่ได้ใช้งานอยู่ในขณะนี้: %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "เริ่มการติดตั้งปลั๊กอิน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "เริ่มการอัพเดตปลั๊กอิน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "เริ่มเปิดใช้งานปลั๊กอิน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "กลับไปที่ตัวติดตั้งปลั๊กอินที่จำเป็น"
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "กลับไปที่แดชบอร์ด"
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "เปิดใช้งานปลั๊กอินสำเร็จแล้ว"
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "เปิดใช้งานปลั๊กอินต่อไปนี้สำเร็จแล้ว:"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "ไม่มีการดำเนินการใดๆ ปลั๊กอิน %1$s เปิดใช้งานแล้ว"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"ไม่ได้เปิดใช้งานปลั๊กอิน ต้องใช้ %s เวอร์ชันที่สูงกว่าสำหรับธีมนี้ "
+"กรุณาอัปเดตปลั๊กอิน"
+
+#. translators: 1: dashboard link.
+#: lib/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "ติดตั้งและเปิดใช้งานปลั๊กอินทั้งหมดเรียบร้อยแล้ว %1$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "ยกเลิกประกาศนี้"
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"มีปลั๊กอินที่จำเป็นหรือแนะนำตั้งแต่หนึ่งรายการขึ้นไปสำหรับติดตั้ง อัปเดต "
+"หรือเปิดใช้งาน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "โปรดติดต่อผู้ดูแลระบบของไซต์นี้เพื่อขอความช่วยเหลือ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "ปลั๊กอินนี้จำเป็นต้องได้รับการอัปเดตเพื่อให้เข้ากันได้กับธีมของคุณ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "จำเป็นต้องอัปเดต"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"แพ็คเกจปลั๊กอินระยะไกลไม่มีโฟลเดอร์ที่มีกระสุนที่ต้องการและการเปลี่ยนชื่อไม่ทำงาน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"โปรดติดต่อผู้ให้บริการปลั๊กอินและขอให้พวกเขาจัดทำแพ็คเกจปลั๊กอินตามแนวทางของ"
+" WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"แพ็คเกจปลั๊กอินระยะไกลประกอบด้วยไฟล์มากกว่าหนึ่งไฟล์ "
+"แต่ไฟล์ไม่ได้รวมอยู่ในโฟลเดอร์"
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "และ"
+
+#. translators: %s: version number
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "ที่จำเป็น"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "ที่แนะนำ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "พื้นที่เก็บข้อมูล WordPress"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "แหล่งที่มาภายนอก"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "บรรจุล่วงหน้า"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "ไม่ได้ติดตั้ง"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "ติดตั้งแล้วแต่ไม่ได้เปิดใช้งาน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "การอัปเดตที่จำเป็นไม่พร้อมใช้งาน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "ต้องมีการอัปเดต"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "แนะนำให้อัปเดต"
+
+#. translators: 1: install status, 2: update status
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "ทั้งหมด <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "ในการติดตั้ง <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "อัปเดตพร้อมใช้งาน <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "เพื่อเปิดใช้งาน <span class=\"count\">(%s)</span>"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ไม่ทราบ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "เวอร์ชันที่ติดตั้ง:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "เวอร์ชันขั้นต่ำที่ต้องการ:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "รุ่นที่มีจำหน่าย:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "ไม่มีปลั๊กอินให้ติดตั้ง อัปเดต หรือเปิดใช้งาน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "ปลั๊กอิน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "แหล่งที่มา"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "พิมพ์"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "เวอร์ชัน"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "สถานะ"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "ติดตั้ง %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "อัปเดต %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "เปิดใช้งาน %2$s"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "อัปเกรดข้อความจากผู้เขียนปลั๊กอิน:"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินที่จะติดตั้ง ไม่มีการดำเนินการใดๆ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินที่จะอัปเดต ไม่มีการดำเนินการใดๆ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "ไม่มีปลั๊กอินให้ติดตั้งในขณะนี้"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "ไม่มีปลั๊กอินให้อัปเดตในขณะนี้"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "ไม่มีการเลือกปลั๊กอินที่จะเปิดใช้งาน ไม่มีการดำเนินการใดๆ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "ไม่มีปลั๊กอินให้เปิดใช้งานในขณะนี้"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "การเปิดใช้งานปลั๊กอินล้มเหลว"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "กำลังอัปเดตปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "เกิดข้อผิดพลาดขณะติดตั้ง %1$s: <strong>%2$s</strong>"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "การติดตั้ง %1$s ล้มเหลว"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr ""
+"กระบวนการติดตั้งและเปิดใช้งานกำลังเริ่มต้นขึ้น "
+"กระบวนการนี้อาจใช้เวลาสักครู่สำหรับบางโฮสต์ ดังนั้นโปรดอดใจรอ"
+
+#. translators: 1: plugin name.
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s done."
+msgstr "%1$s เสร็จแล้ว"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "การติดตั้งและการเปิดใช้งานทั้งหมดเสร็จสมบูรณ์แล้ว"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "การติดตั้งและเปิดใช้งานปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"กระบวนการติดตั้งเริ่มต้นขึ้น กระบวนการนี้อาจใช้เวลาสักครู่สำหรับบางโฮสต์ "
+"ดังนั้นโปรดอดใจรอ"
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "การติดตั้งทั้งหมดเสร็จสมบูรณ์แล้ว"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "การติดตั้งปลั๊กอิน %1$s (%2$d/%3$d)"
+
+#. Template Name of the theme
+msgid "Blank Canvas"
+msgstr "ผ้าใบเปล่า"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width"
+msgstr "ตัวสร้างหน้าเต็มความกว้าง"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "ผลการค้นหาสำหรับ: %s"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "ไม่พบอะไรเลย"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"พร้อมที่จะเผยแพร่โพสต์แรกของคุณแล้วหรือยัง? <a "
+"href=\"%1$s\">เริ่มต้นที่นี่</a>"
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "ขออภัย ไม่มีอะไรตรงกับคำค้นหาของคุณ โปรดลองอีกครั้งโดยใช้คำหลักอื่น"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"ดูเหมือนว่าเราไม่สามารถค้นหาสิ่งที่คุณกำลังมองหาได้ บางทีการค้นหาอาจช่วยได้"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:20
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "อ่านต่อ<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Title of the previous post.
+#: template-parts/content.php:43
+msgid "Previous: %s"
+msgstr "ก่อนหน้านี้: %s"
+
+#. translators: %s: Title of the next post.
+#: template-parts/content.php:48
+msgid "Next: %s"
+msgstr "ถัดไป: %s"
+
+#. translators: Hidden heading for the post navigation section.
+#: template-parts/content.php:52
+msgid "Post navigation"
+msgstr "การนำทางโพสต์"
+
+#: admin-dashboard/src/components/blockspare.demo.js:18
+msgid "Update Blockspare Pro"
+msgstr "อัปเดต Blockspare Pro"
+
+#: admin-dashboard/src/components/blockspare.demo.js:20
+msgid "Update Blockspare"
+msgstr "อัพเดต Blockspare"
+
+#: admin-dashboard/src/components/blockspare.demo.js:33
+msgid "Powerful Gutenberg Blocks & Patterns"
+msgstr "บล็อกและรูปแบบของ Gutenberg อันทรงพลัง"
+
+#: admin-dashboard/src/components/blockspare.demo.js:36
+msgid ""
+"Easily build and customize your pages with a vast library of Gutenberg "
+"blocks and patterns, perfect for blogs, magazines, and business sites. Add "
+"post grids, sliders, and carousels without touching a single line of code. "
+"Import demo data and effortlessly create multilingual, visually appealing "
+"pages with complete flexibility."
+msgstr ""
+"สร้างและปรับแต่งเพจของคุณได้อย่างง่ายดายด้วยคลังบล็อกและรูปแบบของ Gutenberg "
+"มากมาย เหมาะสำหรับบล็อก นิตยสาร และเว็บไซต์ธุรกิจ เพิ่มตารางโพสต์ แถบเลื่อน "
+"และภาพหมุนโดยไม่ต้องแตะโค้ดแม้แต่บรรทัดเดียว "
+"นำเข้าข้อมูลสาธิตและสร้างหน้าหลายภาษาและดึงดูดสายตาได้อย่างง่ายดายพร้อมความยืดหยุ่นอย่างสมบูรณ์"
+
+#: admin-dashboard/src/components/dashboard-content.js:33
+msgid "Hello "
+msgstr "สวัสดี"
+
+#: admin-dashboard/src/components/dashboard-content.js:35
+msgid "Welcome to "
+msgstr "ยินดีต้อนรับสู่"
+
+#: admin-dashboard/src/components/dashboard-content.js:37
+#: admin-dashboard/src/components/nav-content/free-pro.js:10
+msgid "Free"
+msgstr "ฟรี"
+
+#: admin-dashboard/src/components/dashboard-content.js:49
+msgid "Start with Demo Sites"
+msgstr "เริ่มต้นด้วยไซต์สาธิต"
+
+#: admin-dashboard/src/components/dashboard-content.js:56
+msgid "Start Customizing"
+msgstr "เริ่มการปรับแต่ง"
+
+#: admin-dashboard/src/components/elespare-demo.js:18
+msgid "Update Elespare Pro"
+msgstr "อัพเดต Elespare Pro"
+
+#: admin-dashboard/src/components/elespare-demo.js:20
+msgid "Update Elespare"
+msgstr "อัพเดตเอเลสปาร์"
+
+#: admin-dashboard/src/components/elespare-demo.js:34
+msgid "Professional Sites with Elementor"
+msgstr "เว็บไซต์ระดับมืออาชีพพร้อม Elementor"
+
+#: admin-dashboard/src/components/elespare-demo.js:37
+msgid ""
+"Transform your blog, news, or magazine website with 35+ advanced Elementor "
+"widgets and 350+ customizable templates. Easily create headers, footers, "
+"post grids, sliders, and carousels with a fast-loading and SEO-optimized "
+"structure. Import demo content with a single click and enjoy codeless "
+"customization to craft your perfect site, no matter the language."
+msgstr ""
+"พลิกโฉมเว็บไซต์บล็อก ข่าวสาร หรือนิตยสารของคุณด้วยวิดเจ็ต Elementor "
+"ขั้นสูงกว่า 35 รายการ และเทมเพลตที่ปรับแต่งได้กว่า 350 รายการ สร้างส่วนหัว "
+"ส่วนท้าย ตารางโพสต์ แถบเลื่อน "
+"และภาพหมุนได้อย่างง่ายดายด้วยโครงสร้างที่โหลดได้เร็วและปรับ SEO ให้เหมาะสม "
+"นำเข้าเนื้อหาสาธิตด้วยการคลิกเพียงครั้งเดียว "
+"และเพลิดเพลินกับการปรับแต่งโดยไม่ต้องใช้โค้ดเพื่อสร้างเว็บไซต์ที่สมบูรณ์แบบของคุณ"
+" ไม่ว่าจะเป็นภาษาใดก็ตาม"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:2
+msgid ""
+"Thank you for installing [theme] — a fast, flexible, and user-friendly theme"
+" for blogs, news sites, and magazines. Get started quickly with our 100+ "
+"one-click starter sites — no coding needed."
+msgstr ""
+"ขอขอบคุณที่ติดตั้ง [ธีม] — ธีมที่รวดเร็ว ยืดหยุ่น และใช้งานง่ายสำหรับบล็อก "
+"เว็บไซต์ข่าว และนิตยสาร "
+"เริ่มต้นอย่างรวดเร็วด้วยไซต์เริ่มต้นเพียงคลิกเดียวกว่า 100 ไซต์ของเรา "
+"ไม่จำเป็นต้องเขียนโค้ด"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:9
+msgid "Unlock Pro Features"
+msgstr "ปลดล็อคคุณสมบัติ Pro"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:14
+msgid "Docs"
+msgstr "เอกสาร"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:18
+#: admin-dashboard/src/components/json/dashboard-content.js:28
+msgid "Need Help?"
+msgstr "ต้องการความช่วยเหลือ?"
+
+#: admin-dashboard/src/components/json/dashboard-content.js:22
+msgid "Rate This Theme"
+msgstr "ให้คะแนนธีมนี้"
+
+#: admin-dashboard/src/components/json/freepro-content.js:5
+msgid "Starter Sites Import"
+msgstr "การนำเข้าไซต์เริ่มต้น"
+
+#: admin-dashboard/src/components/json/freepro-content.js:6
+msgid "Live Editing in Customizer"
+msgstr "การแก้ไขสดในเครื่องมือปรับแต่ง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:7
+msgid "Dark/Light Site Mode"
+msgstr "โหมดไซต์มืด/สว่าง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:8
+msgid "Dark/Light Frontend Switch"
+msgstr "สวิตช์ส่วนหน้ามืด/สว่าง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:9
+msgid "Responsive Layout"
+msgstr "เค้าโครงที่ตอบสนอง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:10
+msgid "Disable WordPress Emojis (GDPR Friendly)"
+msgstr "ปิดการใช้งาน WordPress Emojis (เป็นมิตรกับ GDPR)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:13
+msgid "Basic Typography Style"
+msgstr "สไตล์การพิมพ์ขั้นพื้นฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:14
+msgid "Advanced Typography Style (Google & System Fonts - GDPR Friendly)"
+msgstr "รูปแบบการพิมพ์ขั้นสูง (Google & แบบอักษรของระบบ - เป็นมิตรกับ GDPR)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:15
+msgid "Basic Color Controls"
+msgstr "การควบคุมสีขั้นพื้นฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:16
+msgid "Advanced Color Controls (Global Options)"
+msgstr "การควบคุมสีขั้นสูง (ตัวเลือกสากล)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:17
+msgid "Category Color Options"
+msgstr "ตัวเลือกสีหมวดหมู่"
+
+#: admin-dashboard/src/components/json/freepro-content.js:18
+msgid "Hide Theme Credit Link"
+msgstr "ซ่อนลิงค์เครดิตธีม"
+
+#: admin-dashboard/src/components/json/freepro-content.js:19
+msgid "Custom CSS Output Minified"
+msgstr "เอาต์พุต CSS แบบกำหนดเองลดขนาดลง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:20
+msgid "Custom CSS Output Optimized with Mobile Spacing"
+msgstr ""
+"เอาต์พุต CSS "
+"แบบกำหนดเองที่ปรับให้เหมาะสมด้วยระยะห่างระหว่างอุปกรณ์เคลื่อนที่"
+
+#: admin-dashboard/src/components/json/freepro-content.js:21
+msgid "Improved Font Loading Partial"
+msgstr "ปรับปรุงการโหลดแบบอักษรบางส่วน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:22
+msgid "Improved Font Loading System/Google Switch + Preconnect"
+msgstr "ปรับปรุงระบบการโหลดแบบอักษร/Google Switch + เชื่อมต่อล่วงหน้า"
+
+#: admin-dashboard/src/components/json/freepro-content.js:25
+msgid "Top Header Menu"
+msgstr "เมนูส่วนหัวด้านบน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:26
+msgid "Multiple Header Layouts (10+ including Centered & Compressed)"
+msgstr "เค้าโครงส่วนหัวหลายแบบ (10+ รวมถึงการจัดกึ่งกลางและการบีบอัด)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:27
+msgid "Sticky Header Option Basic"
+msgstr "ตัวเลือกส่วนหัว Sticky พื้นฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:28
+msgid "Sticky Header Option Advanced Behavior & Layout Support"
+msgstr "ตัวเลือก Sticky Header การสนับสนุนพฤติกรรมและเค้าโครงขั้นสูง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:29
+msgid "Header Advertisement Widget Area"
+msgstr "พื้นที่วิดเจ็ตโฆษณาส่วนหัว"
+
+#: admin-dashboard/src/components/json/freepro-content.js:30
+msgid "Header & Footer Builder (Drag-and-Drop)"
+msgstr "เครื่องมือสร้างส่วนหัวและส่วนท้าย (ลากและวาง)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:31
+msgid "Customizer Options for Builder Elements"
+msgstr "ตัวเลือกเครื่องมือปรับแต่งสำหรับองค์ประกอบตัวสร้าง"
+
+#: admin-dashboard/src/components/json/freepro-content.js:32
+msgid ""
+"Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)"
+msgstr ""
+"องค์ประกอบตัวสร้างส่วนท้าย (การนำทาง, วิดเจ็ต, HTML แบบกำหนดเอง, "
+"ข้อความไดนามิก)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:33
+msgid "Additional Menu Locations (incl. Top Menu Element)"
+msgstr "ตำแหน่งเมนูเพิ่มเติม (รวมองค์ประกอบเมนูด้านบน)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:36
+msgid "Front-page Banner Layouts Basic (5+ Layouts)"
+msgstr "เลย์เอาต์แบนเนอร์หน้าแรกแบบพื้นฐาน (5+ เลย์เอาต์)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:37
+msgid "Front-page Banner Layouts Advanced (30+ Layouts)"
+msgstr "เลย์เอาต์แบนเนอร์หน้าแรกขั้นสูง (30+ เลย์เอาต์)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:38
+msgid "Banner Post Filter: Category & Tag"
+msgstr "ตัวกรองโพสต์แบนเนอร์: หมวดหมู่ & แท็ก"
+
+#: admin-dashboard/src/components/json/freepro-content.js:39
+msgid "Banner Post Filter: Views & Comments"
+msgstr "ตัวกรองโพสต์แบนเนอร์: การดูและความคิดเห็น"
+
+#: admin-dashboard/src/components/json/freepro-content.js:40
+msgid "Above/Below Banner Widget Areas"
+msgstr "ด้านบน/ด้านล่างพื้นที่วิดเจ็ตแบนเนอร์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:43
+msgid "Featured Videos Section (Custom Field + Responsive)"
+msgstr "ส่วนวิดีโอเด่น (ฟิลด์ที่กำหนดเอง + ตอบสนอง)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:44
+msgid "Express / 3 Column Posts Section"
+msgstr "ส่วนโพสต์ด่วน / 3 คอลัมน์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:45
+msgid "Posts Carousel Section"
+msgstr "โพสต์ส่วนม้าหมุน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:46
+msgid "Reading Progress Bar"
+msgstr "แถบความคืบหน้าการอ่าน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:49
+msgid "Post Subtitle Field"
+msgstr "โพสต์ฟิลด์คำบรรยาย"
+
+#: admin-dashboard/src/components/json/freepro-content.js:50
+msgid "Source & Sponsor Custom Field"
+msgstr "ฟิลด์ที่กำหนดเองของแหล่งที่มาและผู้สนับสนุน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:51
+msgid "Post Badge Taxonomy (Breaking, Premium)"
+msgstr "อนุกรมวิธานตราโพสต์ (ทำลาย พรีเมียม)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:52
+msgid "Post Reaction Feature (Animated, Localized, Color Custom)"
+msgstr ""
+"คุณสมบัติหลังปฏิกิริยา (ภาพเคลื่อนไหว, แปลเป็นภาษาท้องถิ่น, กำหนดเองสี)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:53
+msgid "Author Box Basic"
+msgstr "กล่องผู้แต่งพื้นฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:54
+msgid "Author Box with Donate Link, Website & Author Posts"
+msgstr "กล่องผู้แต่งพร้อมลิงค์บริจาค เว็บไซต์ และโพสต์ของผู้เขียน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:55
+msgid "Trending Posts in Single Post"
+msgstr "โพสต์ที่ได้รับความนิยมในโพสต์เดียว"
+
+#: admin-dashboard/src/components/json/freepro-content.js:56
+msgid "Jetpack Share Buttons Placement"
+msgstr "การวางตำแหน่งปุ่มแชร์ Jetpack"
+
+#: admin-dashboard/src/components/json/freepro-content.js:57
+msgid "Mailchimp Subscribe Box"
+msgstr "กล่องสมัครสมาชิก Mailchimp"
+
+#: admin-dashboard/src/components/json/freepro-content.js:58
+msgid ""
+"Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, "
+"Links, Top Domains)"
+msgstr ""
+"Metabox การวิเคราะห์โพสต์เดี่ยว (การดู ปฏิกิริยา จำนวนคำ เวลาอ่าน ลิงก์ "
+"โดเมนยอดนิยม)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:59
+msgid "AJAX Refresh + Caching for Post Analytics"
+msgstr "AJAX Refresh + Caching สำหรับการวิเคราะห์โพสต์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:62
+msgid "Centralized Site Analytics Page (Tabbed UI)"
+msgstr "หน้าการวิเคราะห์ไซต์แบบรวมศูนย์ (UI แบบแท็บ)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:63
+msgid ""
+"Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, "
+"Authors, Reactions, Comments, Word Count, Read Time)"
+msgstr ""
+"การวัดผลทั่วทั้งไซต์ (โพสต์ เพจ สื่อ โพสต์ยอดนิยม หมวดหมู่ แท็ก ผู้เขียน "
+"ปฏิกิริยา ความคิดเห็น จำนวนคำ เวลาในการอ่าน)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:64
+msgid ""
+"Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top"
+" Posts"
+msgstr ""
+"แผนภูมิสำหรับโพสต์ ความคิดเห็น ปฏิกิริยา ลิงก์ ผู้เขียน หมวดหมู่ แท็ก "
+"โพสต์ยอดนิยม"
+
+#: admin-dashboard/src/components/json/freepro-content.js:65
+msgid "Unified Chart Styles and Colors"
+msgstr "รูปแบบและสีแผนภูมิแบบรวม"
+
+#: admin-dashboard/src/components/json/freepro-content.js:68
+msgid "Archive Post Layouts List & Full"
+msgstr "รายการเค้าโครงโพสต์ถาวร & เต็ม"
+
+#: admin-dashboard/src/components/json/freepro-content.js:69
+msgid "Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed"
+msgstr "เลย์เอาต์โพสต์เก็บถาวร ตาราง, ไทล์, การก่ออิฐ, รายการ Alt, ขวา, คละ"
+
+#: admin-dashboard/src/components/json/freepro-content.js:70
+msgid "Category-wise Post Layout (Global Only)"
+msgstr "เค้าโครงโพสต์ตามหมวดหมู่ (ทั่วโลกเท่านั้น)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:71
+msgid "Category-wise Post Layout (Category Specific)"
+msgstr "เค้าโครงโพสต์ตามหมวดหมู่ (เฉพาะหมวดหมู่)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:72
+msgid "Pagination Numeric"
+msgstr "เลขหน้า"
+
+#: admin-dashboard/src/components/json/freepro-content.js:73
+msgid "Pagination Ajax Load More & Infinite Scroll"
+msgstr "การแบ่งหน้า Ajax โหลดเพิ่มเติม & เลื่อนไม่สิ้นสุด"
+
+#: admin-dashboard/src/components/json/freepro-content.js:76
+msgid "Basic Custom Widgets (5+ Layouts)"
+msgstr "วิดเจ็ตแบบกำหนดเองขั้นพื้นฐาน (5+ เลย์เอาต์)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:77
+msgid "Advanced Custom Widgets Count (15+ Layouts)"
+msgstr "จำนวนวิดเจ็ตที่กำหนดเองขั้นสูง (15+ เลย์เอาต์)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:78
+msgid "Section Title Designs (Multiple Styles)"
+msgstr "การออกแบบชื่อส่วน (หลายสไตล์)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:79
+msgid "Trending Posts Carousel (Tag, Views)"
+msgstr "ม้าหมุนโพสต์ที่ได้รับความนิยม (แท็ก, การดู)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:80
+msgid "YouTube Video Slider Widget"
+msgstr "วิดเจ็ตตัวเลื่อนวิดีโอ YouTube"
+
+#: admin-dashboard/src/components/json/freepro-content.js:81
+msgid "Post Express / Grid / Tabbed Widgets"
+msgstr "โพสต์เอ็กซ์เพรส / กริด / วิดเจ็ตแบบแท็บ"
+
+#: admin-dashboard/src/components/json/freepro-content.js:84
+msgid "Centralized Advertisement Support"
+msgstr "การสนับสนุนการโฆษณาแบบรวมศูนย์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:85
+msgid "Rotating Ads with Split Option"
+msgstr "หมุนเวียนโฆษณาด้วยตัวเลือกแยก"
+
+#: admin-dashboard/src/components/json/freepro-content.js:86
+msgid "Ad Placement Areas (Header, Content, Footer, Archive)"
+msgstr "พื้นที่ตำแหน่งโฆษณา (ส่วนหัว, เนื้อหา, ส่วนท้าย, เอกสาร)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:87
+msgid "Centralized Ads Management Panel"
+msgstr "แผงการจัดการโฆษณาแบบรวมศูนย์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:90
+msgid "Widget Areas Header, Front-page, Sidebar, Footer"
+msgstr "ส่วนหัวของพื้นที่วิดเจ็ต, หน้าแรก, แถบด้านข้าง, ส่วนท้าย"
+
+#: admin-dashboard/src/components/json/freepro-content.js:91
+msgid "Widget Areas Banner, Featured, Inline"
+msgstr "แบนเนอร์พื้นที่วิดเจ็ต นำเสนอ แบบอินไลน์"
+
+#: admin-dashboard/src/components/json/freepro-content.js:92
+msgid "Advanced Widgets (Carousel, Express, Tabs)"
+msgstr "วิดเจ็ตขั้นสูง (Carousel, Express, Tabs)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:95
+msgid "Free Theme Tone (Default)"
+msgstr "ธีมโทนฟรี (ค่าเริ่มต้น)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:96
+msgid ""
+"Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, "
+"ReviewNews, NewsLight, NewsMore, SideNews)"
+msgstr ""
+"ธีมโทนพรีเมียม (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, "
+"ReviewNews, NewsLight, NewsMore, SideNews)"
+
+#: admin-dashboard/src/components/json/freepro-content.js:99
+msgid "Gutenberg & Page Builders Compatibility"
+msgstr "ความเข้ากันได้ของ Gutenberg และตัวสร้างเพจ"
+
+#: admin-dashboard/src/components/json/freepro-content.js:100
+msgid "Multilingual & RTL Support"
+msgstr "การสนับสนุนหลายภาษาและ RTL"
+
+#: admin-dashboard/src/components/json/freepro-content.js:101
+msgid "WooCommerce Support"
+msgstr "การสนับสนุน WooCommerce"
+
+#: admin-dashboard/src/components/json/freepro-content.js:102
+msgid "SEO Ready Basic"
+msgstr "SEO พร้อมขั้นพื้นฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:103
+msgid "SEO Ready with Open Graph Enhancements"
+msgstr "SEO พร้อมการปรับปรุง Open Graph"
+
+#: admin-dashboard/src/components/json/freepro-content.js:106
+msgid "Standard Support"
+msgstr "การสนับสนุนมาตรฐาน"
+
+#: admin-dashboard/src/components/json/freepro-content.js:107
+msgid "Priority Support (Faster Response)"
+msgstr "การสนับสนุนลำดับความสำคัญ (ตอบสนองเร็วขึ้น)"
+
+#: admin-dashboard/src/components/json/home-content.js:6
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "ตั้งค่าประเภทส่วนหัวของธีม กำหนดสี ระยะห่าง การจัดแนว และอื่นๆ"
+
+#: admin-dashboard/src/components/json/home-content.js:12
+msgid "Banner Advertisement"
+msgstr "โฆษณาแบนเนอร์"
+
+#: admin-dashboard/src/components/json/home-content.js:13
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr "คุณสามารถวางแบนเนอร์ส่งเสริมการขายภายในส่วนหัวของคุณได้อย่างง่ายดาย"
+
+#: admin-dashboard/src/components/json/home-content.js:19
+msgid "Color Options"
+msgstr "ตัวเลือกสี"
+
+#: admin-dashboard/src/components/json/home-content.js:20
+msgid "Change the color setting provide with the Theme."
+msgstr "เปลี่ยนการตั้งค่าสีที่มาพร้อมกับธีม"
+
+#: admin-dashboard/src/components/json/home-content.js:27
+msgid "Selecting different categories can be done for different section."
+msgstr "การเลือกหมวดหมู่ที่แตกต่างกันสามารถทำได้สำหรับส่วนต่างๆ"
+
+#: admin-dashboard/src/components/json/home-content.js:33
+msgid "Front-page Option"
+msgstr "ตัวเลือกหน้าแรก"
+
+#: admin-dashboard/src/components/json/home-content.js:34
+msgid ""
+"Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr "สามารถตั้งค่าเลย์เอาต์หน้าแรกพร้อมแท็กยอดนิยม, ข่าวด่วน, ข่าวเด่นได้"
+
+#: admin-dashboard/src/components/json/home-content.js:40
+msgid "Static Front Page"
+msgstr "หน้าแรกแบบคงที่"
+
+#: admin-dashboard/src/components/json/home-content.js:41
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr "ตั้งค่าโฮมเพจเป็นเพจคงที่เพื่อสร้างโฮมเพจของตัวเองโดยใช้วิดเจ็ต"
+
+#: admin-dashboard/src/components/json/home-content.js:47
+msgid "Widgets Area"
+msgstr "พื้นที่วิดเจ็ต"
+
+#: admin-dashboard/src/components/json/home-content.js:48
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "สามารถเพิ่มวิดเจ็ตได้ในทุกส่วนที่จัดทำโดยธีม"
+
+#: admin-dashboard/src/components/json/home-content.js:54
+msgid "Archive Options"
+msgstr "ตัวเลือกการเก็บถาวร"
+
+#: admin-dashboard/src/components/json/home-content.js:55
+msgid "Customize the blog layout desgin."
+msgstr "ปรับแต่งการออกแบบเค้าโครงบล็อก"
+
+#: admin-dashboard/src/components/json/home-content.js:61
+msgid "Theme Option"
+msgstr "ตัวเลือกธีม"
+
+#: admin-dashboard/src/components/json/home-content.js:62
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr ""
+"ตั้งค่าเค้าโครงสากล, Breadcrumb, แถบด้านข้าง, โพสต์เดี่ยว คุณอาจพลาด "
+"และอื่นๆ อีกมากมาย"
+
+#: admin-dashboard/src/components/json/home-content.js:69
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "กำหนดประเภทส่วนท้าย จำนวนคอลัมน์ ระยะห่าง และสี"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:5
+msgid "View"
+msgstr "ดู"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:7
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr ""
+"โปรดตรวจสอบเอกสารฉบับเต็มของเราสำหรับข้อมูลโดยละเอียดเกี่ยวกับวิธีการตั้งค่าและปรับแต่งธีม"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:13
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to"
+" ask your query is the dedicated Support forum for the theme.."
+msgstr ""
+"มีคำถามเกี่ยวกับการสนับสนุนธีมหรือพบข้อผิดพลาดหรือได้รับการตอบรับบ้างไหม? "
+"สถานที่ที่ดีที่สุดในการถามคำถามของคุณคือฟอรัมสนับสนุนเฉพาะสำหรับธีมนี้"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:16
+msgid "Video  Tutorials"
+msgstr "วิดีโอสอน"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:17
+msgid "Video"
+msgstr "วีดีโอ"
+
+#: admin-dashboard/src/components/json/sidebar-content.js:19
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "ชมวิดีโอเพื่อการเรียนรู้อย่างง่ายดายเกี่ยวกับการปรับแต่งธีม"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:6
+msgid ""
+"TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool. Get ready-to-use Starter Sites instantly and build "
+"modern websites in minutes."
+msgstr ""
+"TemplateSpare - เครื่องมือสร้างเว็บไซต์แบบไม่มีโค้ด - 1 "
+"คลิกนำเข้า/ส่งออกและเครื่องมือการย้ายไซต์แบบเต็ม "
+"รับไซต์เริ่มต้นที่พร้อมใช้งานทันทีและสร้างเว็บไซต์ที่ทันสมัยในไม่กี่นาที"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:13
+msgid ""
+"It has different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"มีวิดเจ็ตที่แตกต่างกันสำหรับผู้เขียนโพสต์ ผู้เขียนที่เลือกตามรหัส "
+"และผู้เขียนที่กำหนดเอง นอกจากนี้ยังมีรหัสย่อสำหรับโปรไฟล์ผู้เขียนด้วย"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:20
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"ใช้ AF Companion เพื่อนำเข้าเนื้อหาสาธิตสด วิดเจ็ต และการตั้งค่าอย่างรวดเร็ว"
+" ปลั๊กอินนี้ให้เค้าโครงพื้นฐานในการสร้างเว็บไซต์ของคุณและเร่งกระบวนการพัฒนา"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:27
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"ออกแบบบล็อก ข่าว หรือเว็บไซต์นิตยสารที่สมบูรณ์แบบ Elespare เป็นปลั๊กอิน "
+"WordPress ที่เรียบง่ายแต่ทรงประสิทธิภาพ ซึ่งช่วยให้คุณใช้ Elementor "
+"เพื่อสร้างส่วนหัว ส่วนท้าย "
+"และเนื้อหาที่ยอดเยี่ยมของเว็บไซต์พร้อมตัวเลือกการปรับแต่งขั้นสูงได้ฟรี"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:34
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr ""
+"คุณสามารถออกแบบเลย์เอาต์ที่ซับซ้อนสำหรับเว็บไซต์ของคุณได้ในเวลาเพียงไม่กี่นาทีด้วยบล็อกที่ปรับเปลี่ยนได้และสร้างสรรค์ของเรา"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:42
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"คอลเลกชันที่สวยงามของบล็อกโพสต์ล่าสุด Gutenberg สำหรับ WordPress "
+"ซึ่งช่วยให้คุณออกแบบตารางโพสต์ รายการโพสต์ เค้าโครงโพสต์แบบเต็ม "
+"การออกแบบโพสต์ด่วนขั้นสูง และเค้าโครงไทล์ของโพสต์ของคุณ"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:49
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"เราสร้างชุดบล็อก Gutenberg ในส่วนของหน้าที่สวยงามสำหรับเนื้อหา WordPress "
+"เพื่อช่วยให้คุณสร้างเว็บไซต์ที่คุณต้องการได้อย่างรวดเร็ว"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:57
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"ปลั๊กอินฟรีนี้นำเสนอโซลูชันแชทสดฟรีเพื่อให้ผู้เยี่ยมชมเว็บไซต์ของคุณติดต่อคุณผ่านการแชทสดหรือการโทรสด"
+" - ทั้งหมดนี้ฟรี! มีส่วนร่วมกับลูกค้าของคุณและเพิ่มยอดขาย"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:68
+msgid ""
+"TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool"
+msgstr ""
+"TemplateSpare - เครื่องมือสร้างเว็บไซต์แบบไม่มีโค้ด - 1 "
+"คลิกนำเข้า/ส่งออกและเครื่องมือการย้ายไซต์แบบเต็ม"
+
+#: admin-dashboard/src/components/json/useful-plugins-content.js:72
+msgid ""
+"Get over 1000 ready-to-import Starter Sites instantly and build modern "
+"websites in minutes, not in weeks."
+msgstr ""
+"รับไซต์เริ่มต้นที่พร้อมนำเข้ามากกว่า 1,000 ไซต์ทันที "
+"และสร้างเว็บไซต์สมัยใหม่ในไม่กี่นาที ไม่ใช่ในสัปดาห์"
+
+#: admin-dashboard/src/components/main.js:54
+msgid "Get started"
+msgstr "เริ่มต้นเลย"
+
+#: admin-dashboard/src/components/main.js:63
+msgid "Useful Plugins"
+msgstr "ปลั๊กอินที่มีประโยชน์"
+
+#: admin-dashboard/src/components/main.js:71
+msgid "Free vs Pro"
+msgstr "ฟรีเทียบกับโปร"
+
+#: admin-dashboard/src/components/main.js:79
+msgid "Change Log"
+msgstr "เปลี่ยนบันทึก"
+
+#: admin-dashboard/src/components/nav-content/free-pro.js:9
+msgid "Features"
+msgstr "คุณสมบัติ"
+
+#: admin-dashboard/src/components/nav-content/home.js:26
+msgid "Go to option"
+msgstr "ไปที่ตัวเลือก"
+
+#: admin-dashboard/src/components/templatespare-demo.js:17
+msgid "Update Templatespare"
+msgstr "อัปเดต Templatespare"
+
+#: admin-dashboard/src/components/templatespare-demo.js:29
+msgid "Easy Website Building with Zero Code"
+msgstr "สร้างเว็บไซต์อย่างง่ายดายด้วย Zero Code"
